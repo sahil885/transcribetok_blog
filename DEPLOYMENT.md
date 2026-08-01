@@ -56,11 +56,14 @@ Leave this tab open — you'll need the value in the next step.
 | Points to | *(the value Vercel gave you in step 3)* |
 | TTL | 1 hour (or lowest available while testing) |
 
-**Notes specific to IONOS:**
+**Notes specific to IONOS — read this before you start:**
 
+- **Do not create the subdomain via the Subdomains tab.** This is the big one. Creating `blog` as an IONOS *subdomain* auto-provisions a "Default Site" (A + AAAA to IONOS parking) and a "Mail" service (MX, SPF, DKIM, autodiscover) on that hostname. You only want a single CNAME. Add the record directly in the **DNS** tab instead.
+- **A CNAME cannot coexist with any other record on the same hostname** (RFC 1034). So if `blog` already has A/AAAA/MX/TXT records, the CNAME will be rejected until they're gone.
+- **Template-managed records can't be deleted individually.** If the subdomain was already created, selecting the rows and hitting "Delete records" fails with *"This DNS record is managed by a service."* You have to click the **⊘ Disable service** icon on the row instead, which removes that service's whole record set for that host. Two services are involved: **Default Site** (removes A, AAAA, `_dep_ws_mutex.blog`) and **Mail** (removes MX ×2, `s1`/`s2-ionos._domainkey.blog`, `autodiscover.blog`).
+- Disabling those services on `host=blog` does **not** affect the apex domain. `@` mail, `www`, and the main site's records are separate and stay intact. You only lose the ability to receive mail at `@blog.transcribetok.com`, which you almost certainly never wanted.
 - Enter only `blog` in the host field, not the full `blog.transcribetok.com`. IONOS appends the domain automatically.
-- If IONOS rejects a trailing period in the "Points to" field, drop it — IONOS treats these as absolute already.
-- If a `blog` record already exists (A, CNAME or otherwise), delete it first. You cannot have a CNAME alongside other records on the same host.
+- If IONOS rejects a trailing period in the "Points to" field, drop it.
 - Do **not** enable IONOS's own domain forwarding or redirect for `blog` — it conflicts with the CNAME.
 
 DNS usually resolves in 10–30 minutes; IONOS can occasionally take a few hours. Vercel's Domains page will flip to a green "Valid Configuration" and issue the SSL certificate automatically once it sees the record.
