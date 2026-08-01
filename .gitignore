@@ -30,6 +30,10 @@ yarn-error.log*
 .env
 .env*.local
 
+# credentials for the automated publishing task — NEVER commit
+.secrets/
+*.token
+
 # vercel
 .vercel
 
