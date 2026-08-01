@@ -142,6 +142,12 @@ export const LANGUAGES: Language[] = [
 
 const SUFFIX = "-tiktok-transcript";
 
+// "a Spanish transcript" but "an Indonesian transcript".
+// Affects Arabic, Indonesian and Italian in the current list.
+export function art(name: string): string {
+  return /^[aeiou]/i.test(name) ? "an" : "a";
+}
+
 export function getAllLanguageSlugs(): string[] {
   return LANGUAGES.map((l) => `${l.slug}${SUFFIX}`);
 }
@@ -188,7 +194,7 @@ export function languageSteps(l: Language): HowToStep[] {
 export function languageFaq(l: Language): FaqItem[] {
   return [
     {
-      question: `Can I get a ${l.name} transcript from any TikTok video?`,
+      question: `Can I get ${art(l.name)} ${l.name} transcript from any TikTok video?`,
       answer: `Yes. TranscribeTok transcribes the spoken audio directly, so it works whether or not the creator enabled ${l.name} captions — as long as the video is public.`,
     },
     {
@@ -201,7 +207,7 @@ export function languageFaq(l: Language): FaqItem[] {
     },
     {
       question: `Does it work on mobile?`,
-      answer: `Yes. TranscribeTok runs in any phone browser, so you can get a ${l.name} transcript on iPhone or Android with nothing to install — just copy the TikTok share link and paste it in.`,
+      answer: `Yes. TranscribeTok runs in any phone browser, so you can get ${art(l.name)} ${l.name} transcript on iPhone or Android with nothing to install — just copy the TikTok share link and paste it in.`,
     },
   ];
 }

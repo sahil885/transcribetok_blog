@@ -5,6 +5,7 @@ import {
   languagePageSlug,
   languageSteps,
   languageFaq,
+  art,
 } from "@/lib/languages";
 
 // Programmatic per-language transcript page. Shared scaffolding, unique
@@ -38,7 +39,7 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
           {lang.name} TikTok Transcript: Free, No Signup
         </h1>
         <p className="text-xl text-gray-500 leading-relaxed">
-          Extract a {lang.name} ({lang.native}) TikTok transcript in seconds —
+          Extract {art(lang.name)} {lang.name} ({lang.native}) TikTok transcript in seconds —
           free, no account needed. Copy or download the full text, then translate
           or summarize it.
         </p>
@@ -68,7 +69,7 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
       <div className="prose">
         <p>{lang.intro}</p>
 
-        <h2>Why get a {lang.name} TikTok transcript?</h2>
+        <h2>Why get {art(lang.name)} {lang.name} TikTok transcript?</h2>
         <p>
           Watching is slow; reading is fast. A{" "}
           <strong>{lang.name} TikTok transcript</strong> lets you skim a video in
@@ -79,7 +80,7 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
           an AI tool for a summary.
         </p>
 
-        <h2>How to get a {lang.name} transcript (free, in seconds)</h2>
+        <h2>How to get {art(lang.name)} {lang.name} transcript (free, in seconds)</h2>
         <ol>
           {steps.map((s) => (
             <li key={s.name}>
