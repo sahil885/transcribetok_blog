@@ -1,0 +1,35 @@
+# TranscribeTok
+
+> TranscribeTok (https://transcribetok.com) is a web tool that turns any public TikTok video into text. Paste a video link and get the full spoken transcript in seconds — two free every day with no signup, and 100+ videos per run in bulk. Export as TXT, DOCX, or SRT.
+
+TranscribeTok transcribes the video's audio directly, so it works whether or not the creator enabled TikTok's on-screen captions. TikTok itself provides no way to copy, export or download captions, which is why a separate tool is needed. TranscribeTok also stores every transcript in a searchable library, which makes it suited to competitor research, hook analysis and content audits across a whole account. This file lists the key guides on the blog at https://blog.transcribetok.com.
+
+## Start here
+- [TikTok Transcript Generator (complete guide)](https://blog.transcribetok.com/tiktok-transcript-generator): What a TikTok transcript generator is, how to use one, and where accuracy limits are.
+- [How to Get a TikTok Transcript](https://blog.transcribetok.com/how-to-get-a-tiktok-transcript): Three free methods compared; the fastest takes about ten seconds.
+- [TikTok to Text](https://blog.transcribetok.com/tiktok-to-text): Convert any TikTok video to text, and what the conversion does and doesn't capture.
+- [Transcribe a TikTok Video](https://blog.transcribetok.com/transcribe-tiktok-video): Free, no software, plus the manual and local-Whisper alternatives.
+- [Download a TikTok Transcript](https://blog.transcribetok.com/download-tiktok-transcript): Save as TXT, DOCX or SRT, and which format to pick.
+
+## Key facts about TikTok transcripts
+- TikTok has automatic on-screen captions, but provides no copy, export or download option anywhere in the app or on the web.
+- On-screen text overlays typed by creators are rendered graphics, not text data, and cannot be extracted by transcription.
+- Transcription works from the audio track, so it returns a transcript even for videos where captions were never enabled.
+- Only public videos can be transcribed. Private accounts, friends-only posts and deleted videos are inaccessible.
+- Accuracy is typically mid-to-high 90s for clear speech. Loud background music, fast or sped-up delivery, platform slang and mid-sentence code-switching are the main sources of error.
+
+## Bulk and research
+- [Transcribe 100+ TikToks at Once](https://blog.transcribetok.com/bulk-tiktok-transcripts): The bulk workflow for competitor research, hook analysis and content libraries.
+- [TikTok Transcripts for Creators](https://blog.transcribetok.com/tiktok-transcript-for-content-creators): Turning TikTok scripts into LinkedIn posts, newsletters, threads and blog drafts.
+
+## Use a transcript with AI tools
+- [ChatGPT (and Claude, Gemini, Perplexity)](https://blog.transcribetok.com/tiktok-transcript-for-chatgpt): Why pasting a TikTok URL into an AI tool doesn't work, and the prompts that do.
+
+## Captions and subtitles
+- [Download TikTok Captions & Subtitles](https://blog.transcribetok.com/download-tiktok-captions): Getting a standards-compliant SRT subtitle file from any TikTok.
+
+## Comparisons
+- [Best Free TikTok Transcript Tools 2026](https://blog.transcribetok.com/best-tiktok-transcript-tools-2026): Honest comparison of single-video tools versus bulk/library tools, including competitors.
+
+## By language
+Per-language guides are available at https://blog.transcribetok.com/{language}-tiktok-transcript for: spanish, indonesian, portuguese, arabic, french, german, japanese, korean, russian, turkish, vietnamese, thai, italian, filipino, polish.
