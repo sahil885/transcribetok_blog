@@ -28,7 +28,7 @@ faqItems:
   - question: "Does TikTok have a built-in transcript feature?"
     answer: "TikTok has auto-captions that display on screen, but there is no way to copy or export them. There is no transcript feature in the sense of getting text out."
   - question: "Do I need an account to get a TikTok transcript?"
-    answer: "Not for your first two each day on TranscribeTok. Beyond that, an account and credits cover higher volumes."
+    answer: "Not for your first two each day on TranscribeTok. An account is only needed for paid plans, which raise the daily limit and save your transcripts to a library."
   - question: "Does it work on TikTok live replays?"
     answer: "Yes, if the replay is public and has audio. Live content tends to have more crosstalk, so accuracy is usually a little lower than for scripted posts."
   - question: "How long does it take?"
@@ -96,7 +96,7 @@ The transcript is usually the beginning of something, not the end:
 
 **Repurpose it.** A TikTok script converts cleanly into a LinkedIn post, newsletter section or short-form script for another platform. [Full creator workflow here](/tiktok-transcript-for-content-creators).
 
-**Do it at scale.** If you are analysing more than a handful of videos, [bulk transcription](/bulk-tiktok-transcripts) changes the economics completely.
+**Do it from your phone.** You almost certainly found the video on mobile — [the iPhone and Android guide](/tiktok-transcript-on-mobile) takes about fifteen seconds end to end.
 
 ## Frequently asked questions
 

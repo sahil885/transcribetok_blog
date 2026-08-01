@@ -30,7 +30,7 @@ faqItems:
   - question: "Will the downloaded captions match TikTok's exactly?"
     answer: "Not word for word. The file is generated from the audio rather than copied from TikTok's caption track, so wording can differ slightly — usually in punctuation and how slang is spelled."
   - question: "Can I download captions from my own TikToks in bulk?"
-    answer: "Yes. Bulk transcription processes 100+ videos in one run, which is the practical way to build a subtitle archive for a whole account."
+    answer: "Not in a single pass — TranscribeTok handles one video at a time. For generating subtitle files across a whole catalogue at once, a dedicated batch tool is the better fit."
   - question: "Do downloaded captions include on-screen text?"
     answer: "No. Only spoken audio is captured. Text overlays typed onto the video are graphics and cannot be extracted."
 ---
@@ -100,11 +100,11 @@ Captions generated from audio will not match TikTok's caption track word for wor
 
 For most uses this is irrelevant. If the captions are going onto a video you are publishing, read them through once. A 60-second clip takes under a minute to check, and the errors that matter — a mangled brand name, a wrong number — are obvious on a skim.
 
-## Doing this for a whole account
+## Doing this for several videos
 
-If you are building a subtitle archive — your own back catalogue, or a research library — one video at a time does not scale.
+TranscribeTok generates caption files one video at a time. For a handful of posts that is fine — it is about fifteen seconds each.
 
-[Bulk transcription](/bulk-tiktok-transcripts) handles 100+ links in a single run and keeps everything in a searchable library, so you can generate caption files for an entire account and export them together.
+For a whole back catalogue in one sitting, you want a tool built for batch processing; [the comparison post](/best-tiktok-transcript-tools-2026) covers which ones actually do it. If you are working through your own videos gradually, paid plans save every transcript to your library so you are not regenerating the same file twice.
 
 ## Related guides
 
@@ -124,7 +124,7 @@ Transcribe the audio with a transcript tool and export as SRT.
 Not word for word — they are separately generated from the same audio. Differences are mostly punctuation and slang spelling.
 
 **Can I do this in bulk?**
-Yes, 100+ videos per run.
+Not here — one video at a time. See the comparison post for batch tools.
 
 **Do captions include on-screen text?**
 No. Spoken audio only.

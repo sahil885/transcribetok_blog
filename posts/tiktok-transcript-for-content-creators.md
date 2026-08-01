@@ -21,7 +21,7 @@ howToSteps:
   - name: "Rewrite for the target format"
     text: "Reshape the argument for LinkedIn, a newsletter, an X thread or a blog section — the thinking is already done."
   - name: "Build a searchable archive"
-    text: "Keep every transcript in one library so your back catalogue becomes a searchable idea bank."
+    text: "Save each transcript somewhere consistent so your back catalogue becomes an idea bank rather than a scroll."
 faqItems:
   - question: "Why repurpose from the transcript instead of rewriting from scratch?"
     answer: "Because the hard part — deciding what to say and in what order — is already finished. The transcript is a structured first draft you produced under the discipline of holding someone's attention."
@@ -32,7 +32,7 @@ faqItems:
   - question: "Can I use competitors' transcripts for ideas?"
     answer: "For research and pattern analysis, yes — that's standard practice. Republishing someone else's script as your own content is copyright infringement and easily spotted."
   - question: "What's the fastest way to transcribe a whole back catalogue?"
-    answer: "Bulk transcription — 100+ videos in one run, all stored in a searchable library rather than pasted one at a time."
+    answer: "Work through it in sittings rather than trying to do it all at once. Transcribe your best-performing posts first — twenty of those are worth more than a hundred transcribed indiscriminately."
 ---
 
 Most creators treat a TikTok as a finished thing. Post it, watch the numbers, move on to the next one.
@@ -75,7 +75,7 @@ The instinct is to start repurposing new videos going forward. Start backwards i
 
 Your existing posts are content you have already paid for, and the ones that performed well are proven — you know the hook worked, because the numbers said so. Almost nobody in your audience saw all of it, and anyone who found you in the last three months saw none of it.
 
-[Bulk transcription](/bulk-tiktok-transcripts) makes this practical: run your last hundred posts in one pass, and you have a searchable archive of everything you have ever said on the platform. Sort by performance, take the top twenty, and you have a quarter of content that is mostly already written.
+Be selective about it. Sort your posts by performance, take the top twenty, and transcribe those over a couple of sittings. Twenty proven scripts are worth far more than a hundred transcribed indiscriminately — and that is roughly a quarter of content that is already mostly written.
 
 ## Where AI fits, and where it doesn't
 
@@ -98,7 +98,7 @@ The line is straightforward: **analyse structure, write your own words**. Notici
 
 Something like this fits in about an hour:
 
-1. **Monday:** transcribe last week's posts (minutes, in bulk)
+1. **Monday:** transcribe last week's two best-performing posts
 2. **Monday:** pick the two that performed best
 3. **Tuesday:** turn one into a LinkedIn post and a newsletter section
 4. **Thursday:** turn the other into an X thread and a script for another platform
@@ -108,7 +108,7 @@ Two videos become six pieces of content, and none of them started from a blank p
 
 ## Related guides
 
-- [Bulk TikTok transcripts](/bulk-tiktok-transcripts) — transcribing a whole catalogue at once
+- [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — iPhone and Android, no app
 - [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt) — the prompts
 - [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT
 
@@ -127,7 +127,7 @@ Old first. It's the cheapest content you'll ever have.
 For research and pattern analysis, yes. Republishing their script, no.
 
 **Fastest way to do a back catalogue?**
-Bulk transcription — 100+ videos in one run.
+In sittings, best-performing posts first. Twenty proven scripts beat a hundred random ones.
 
 ---
 

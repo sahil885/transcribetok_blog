@@ -93,7 +93,7 @@ The highest-value pattern, and the one most people never try:
 
 > Below are transcripts from six TikToks by the same creator, labelled 1–6. Identify the recurring hook formulas, the calls to action, and any topic they raise repeatedly but never explain fully. Quote the transcripts in your answer.
 
-For more than a handful of videos, [bulk transcription](/bulk-tiktok-transcripts) is the practical way to get the input, and that guide covers the analysis side in depth.
+Transcripts come one video at a time, so this works best with a focused set — six to ten videos is usually enough for the patterns to show. Label each one clearly so the model can cite them back to you.
 
 ## Getting better output
 
@@ -112,7 +112,7 @@ Nothing here is ChatGPT-specific. Claude, Gemini, Perplexity, Copilot and every 
 ## Related guides
 
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three methods
-- [Bulk TikTok transcripts](/bulk-tiktok-transcripts) — analysing 100+ videos at once
+- [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — iPhone and Android, no app
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — the repurposing workflow end to end
 
 ## Frequently asked questions

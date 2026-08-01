@@ -114,7 +114,7 @@ This is the single highest-impact step after launch, and it's easy to forget.
 
 A brand-new subdomain with no inbound links gets crawled slowly. `transcribetok.com` already has traffic and crawl budget. Add a **Blog** or **Guides** link to the main site's header or footer pointing at `https://blog.transcribetok.com`.
 
-Ideally also add a couple of contextual links from the app itself — for example, linking the pricing or empty-state copy to `/bulk-tiktok-transcripts`.
+Ideally also add a couple of contextual links from the app itself — for example, linking the pricing or empty-state copy to `/tiktok-transcript-for-content-creators`.
 
 ---
 

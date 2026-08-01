@@ -140,25 +140,25 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Bulk handoff — the product differentiator */}
+      {/* Library handoff — the paid step */}
       <div className="mb-16 bg-cyan-50 border border-cyan-100 rounded-2xl p-8 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-5">
         <div>
           <h2 className="text-xl font-bold text-cyan-900 mb-1">
-            Researching a whole account, not one video?
+            Transcribing more than a couple a day?
           </h2>
           <p className="text-sm text-cyan-800/90 max-w-xl">
-            TranscribeTok transcribes 100+ TikToks in a single pass and keeps
-            every transcript in a searchable library — built for competitor
-            research and content planning at scale.
+            Two free transcripts a day need no account at all. Paid plans keep
+            every transcript saved in your library, so you can come back to a
+            script weeks later instead of transcribing the same video twice.
           </p>
         </div>
         <a
-          href="https://transcribetok.com"
+          href="https://transcribetok.com/pricing"
           target="_blank"
           rel="noopener noreferrer"
           className="shrink-0 bg-cyan-600 hover:bg-cyan-700 text-white font-semibold px-6 py-3 rounded-full transition-colors text-sm"
         >
-          Transcribe in bulk →
+          See plans →
         </a>
       </div>
 

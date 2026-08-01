@@ -199,7 +199,7 @@ export function languageFaq(l: Language): FaqItem[] {
     },
     {
       question: `Is the ${l.name} TikTok transcript free?`,
-      answer: `You get two free transcripts every day with no signup required. If you need more than that — for example transcribing a whole account at once — paid credits cover higher volumes.`,
+      answer: `You get two free transcripts every day with no signup required. Paid plans cover higher daily volumes and keep every transcript saved in your library.`,
     },
     {
       question: `Can I translate the ${l.name} transcript to English?`,

@@ -30,7 +30,7 @@ faqItems:
   - question: "Can I download transcripts on my phone?"
     answer: "Yes. The download works in mobile browsers on both iPhone and Android. Files land in your usual Downloads folder or Files app."
   - question: "Can I download transcripts for a whole account at once?"
-    answer: "Yes. Bulk transcription processes 100+ videos in one run and every transcript stays in your library, so you can export them together instead of one at a time."
+    answer: "Not in a single pass — TranscribeTok handles one video at a time. Paid plans save every transcript to your library so the set builds up as you go. For processing dozens of links together, a dedicated batch tool is the right choice."
   - question: "Does downloading the transcript also download the video?"
     answer: "No. Only the text is saved. The video itself is never downloaded to your device."
 ---
@@ -102,11 +102,11 @@ The whole flow works in a phone browser, which matters because most people find 
 
 On iPhone the file saves to the **Files** app (Downloads by default). On Android it goes to your **Downloads** folder. Nothing to install either way.
 
-## Downloading in bulk
+## Building up an archive
 
-One at a time is fine for a single video. It is not fine for research.
+TranscribeTok downloads one transcript at a time. If you are archiving your own back catalogue, the practical approach is to work through it in sittings — best-performing posts first — rather than trying to do everything at once.
 
-If you are pulling transcripts from a competitor's whole catalogue, or archiving your own back catalogue, [bulk transcription](/bulk-tiktok-transcripts) processes 100+ links in one run. Every transcript stays in a searchable library, so you can export the set together and search across all of them later rather than managing a folder of loose TXT files.
+Paid plans save every transcript to your library, which matters more than it sounds: the alternative is managing a folder of loose TXT files and re-transcribing things you have already done. If you need to process dozens of links together in one pass, see [the comparison post](/best-tiktok-transcript-tools-2026) for tools built specifically for that.
 
 ## Common problems
 
@@ -128,7 +128,7 @@ TXT for AI tools and notes, DOCX for editing, SRT for subtitles.
 Yes, both iPhone and Android, straight from the browser.
 
 **Can I download a whole account's transcripts at once?**
-Yes, via bulk transcription.
+Not in one pass — it's one video at a time. Paid plans save them to your library as you go.
 
 **Does it download the video too?**
 No. Only the text.

@@ -11,13 +11,13 @@ import {
   languageSteps,
 } from "@/lib/languages";
 import {
-  isBulkIntent,
+  isLibraryIntent,
   isPillar,
   MASTER_PILLAR_SLUG,
   MASTER_PILLAR_TITLE,
 } from "@/lib/clusters";
 import LanguageArticle from "@/components/LanguageArticle";
-import BulkCTA from "@/components/BulkCTA";
+import LibraryCTA from "@/components/LibraryCTA";
 import RelatedPosts from "@/components/RelatedPosts";
 
 interface Props {
@@ -162,7 +162,7 @@ export default async function PostPage({ params }: Props) {
   }
 
   const related = getRelatedPosts(slug, 4);
-  const showBulk = isBulkIntent(post);
+  const showLibrary = isLibraryIntent(post);
   const showBreadcrumb = !isPillar(slug);
 
   const articleSchema = {
@@ -326,7 +326,7 @@ export default async function PostPage({ params }: Props) {
           dangerouslySetInnerHTML={{ __html: post.contentHtml }}
         />
 
-        {showBulk && <BulkCTA />}
+        {showLibrary && <LibraryCTA />}
 
         <RelatedPosts posts={related} />
 

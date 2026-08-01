@@ -26,7 +26,7 @@ faqItems:
   - question: "How do I convert a TikTok video to text?"
     answer: "Copy the video's share link, paste it into TranscribeTok, and click Get Transcript. The spoken audio comes back as text you can copy or download in a few seconds."
   - question: "Is converting TikTok to text free?"
-    answer: "Two conversions a day are free with no account. Beyond that, credits cover higher volumes including bulk runs across a whole account."
+    answer: "Two conversions a day are free with no account. Paid plans raise that limit and save every transcript to your library."
   - question: "Does it capture text written on the screen?"
     answer: "No. Conversion works from the audio, so it captures what is spoken. On-screen text overlays are graphics rather than data and are not included."
   - question: "What file formats can I export?"
@@ -81,13 +81,13 @@ Text does things video cannot:
 
 **It is reusable.** A converted script is the first draft of a caption, a blog section, a newsletter blurb or a YouTube Short. [Creators use this constantly](/tiktok-transcript-for-content-creators).
 
-**It scales.** You can read a hundred transcripts in the time it takes to watch fifteen videos. That gap is the entire argument for [bulk conversion](/bulk-tiktok-transcripts).
+**It compares.** You can read a dozen transcripts in the time it takes to watch four videos, and you can hold them side by side. Patterns that are invisible while watching become obvious on the page.
 
 ## Converting a lot of TikToks
 
-Single conversions are fine for spot checks. If you are doing research — auditing an account, mapping a niche, building a swipe file of hooks — one-at-a-time is the bottleneck.
+TranscribeTok converts one video at a time. Two a day are free with no account; paid plans raise the limit and save every transcript to your library, so a script you converted last month is still there.
 
-TranscribeTok handles 100+ links in a single run and keeps every result in a searchable library, so a month later you can search across everything you have ever converted rather than re-doing the work.
+If you genuinely need to paste fifty links and walk away — auditing a competitor's whole catalogue in one go — that is a different category of tool. [Our comparison post](/best-tiktok-transcript-tools-2026) names the ones built for it.
 
 ## Accuracy and the three things that hurt it
 
@@ -105,7 +105,7 @@ None of this makes the output unusable — it is more than good enough to search
 Copy the share link, paste it into TranscribeTok, click Get Transcript. Text comes back in seconds.
 
 **Is it free?**
-Two conversions a day, no account. Credits cover higher volumes and bulk runs.
+Two conversions a day, no account. Paid plans raise the limit and save your transcripts.
 
 **Does it capture text written on the screen?**
 No — it converts the spoken audio. On-screen overlays are graphics, not text.

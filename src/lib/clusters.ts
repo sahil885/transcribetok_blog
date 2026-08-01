@@ -60,16 +60,19 @@ export function chipColorForCategory(category: string): string {
   return clusterForCategory(category).color;
 }
 
-// --- Bulk / research intent --------------------------------------------------
-// TranscribeTok's differentiator is transcribing 100+ videos at once and
-// keeping them in a searchable library. Posts that match this intent get a
-// context-specific CTA pointing at that capability instead of the generic one.
+// --- Repeat-use / library intent ---------------------------------------------
+// Readers of these posts transcribe more than one video over time, so the
+// relevant upgrade is the saved transcript library (a paid feature) rather
+// than the free two-a-day allowance. They get a context-specific CTA.
 
-const BULK_SLUG_RE =
-  /(bulk|batch|multiple|competitor|research|at-once|library|scale|creators|marketers|agency)/i;
+const LIBRARY_SLUG_RE =
+  /(creators|marketers|agency|research|repurpose|workflow)/i;
 
-export function isBulkIntent(post: { slug: string; category: string }): boolean {
-  return post.category === "Use Cases" || BULK_SLUG_RE.test(post.slug);
+export function isLibraryIntent(post: {
+  slug: string;
+  category: string;
+}): boolean {
+  return post.category === "Use Cases" || LIBRARY_SLUG_RE.test(post.slug);
 }
 
 // --- Pillar / hub pages ------------------------------------------------------

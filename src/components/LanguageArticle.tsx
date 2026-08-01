@@ -155,11 +155,11 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
           <Link href="/download-tiktok-transcript">
             how to download a TikTok transcript
           </Link>
-          . Researching a whole account?{" "}
-          <Link href="/bulk-tiktok-transcripts">
-            Transcribe TikToks in bulk
+          . On your phone?{" "}
+          <Link href="/tiktok-transcript-on-mobile">
+            The mobile guide
           </Link>{" "}
-          instead of one at a time.
+          covers iPhone and Android.
         </p>
 
         <h2>Frequently asked questions</h2>
