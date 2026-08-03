@@ -23,6 +23,8 @@ Never write a post that duplicates an existing one's primary keyword. Check `pos
 - [x] tiktok-transcript-for-chatgpt
 - [x] tiktok-transcript-for-content-creators
 - [x] best-tiktok-transcript-tools-2026
+- [x] tiktok-transcript-with-timestamps — 2026-08-03 — competitor gap (every rival leads with timestamps; we had no post)
+- [x] translate-tiktok-transcript — 2026-08-03 — competitor gap (large dedicated TikTok-translation tool ecosystem, zero coverage)
 
 ---
 
@@ -61,8 +63,6 @@ Never write a post that duplicates an existing one's primary keyword. Check `pos
 
 ### How-to long tail
 
-- [ ] `tiktok-transcript-with-timestamps` — How-To
-- [ ] `translate-tiktok-transcript` — How-To
 - [ ] `tiktok-live-replay-transcript` — How-To
 - [ ] `tiktok-video-no-transcript` — How-To — what to do when there's no speech
 - [ ] `copy-text-from-tiktok-video` — How-To
@@ -77,3 +77,7 @@ Never write a post that duplicates an existing one's primary keyword. Check `pos
 - TikTok vs Reels vs Shorts transcript comparison
 - TikTok transcript for dropshipping / product research
 - Best TikTok hooks analysed from transcripts
+- `tiktok-video-summarizer` — competitors all ship a dedicated "TikTok Summarizer" page (WayinVideo, Saveto AI, TokScript's Virality Explainer). Real demand, but check cannibalisation against `tiktok-transcript-for-chatgpt`, whose keyword set already includes "summarize tiktok with chatgpt".
+- `srt-to-vtt-converter` — the comma-vs-period timecode difference is the single most common cause of a broken subtitle file. Cheap post, clean intent, links naturally to the timestamps post.
+- `tiktok-transcript-json-export` — VexaScribe and TokScript both sell JSON/CSV export; we don't offer it. Only worth writing as an honest "which tool if you need structured output" piece.
+- **Next run: prioritise the Workflows cluster** (`tiktok-transcript-to-notion`, `tiktok-transcript-to-blog-post`). It is still empty, which leaves a bare section on the homepage. Both posts this run landed in How-To.

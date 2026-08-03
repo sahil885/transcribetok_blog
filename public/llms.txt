@@ -18,12 +18,18 @@ TranscribeTok transcribes the video's audio directly, so it works whether or not
 - Only public videos can be transcribed. Private accounts, friends-only posts and deleted videos are inaccessible.
 - Accuracy is typically mid-to-high 90s for clear speech. Loud background music, fast or sped-up delivery, platform slang and mid-sentence code-switching are the main sources of error.
 - TranscribeTok handles one video at a time and does not offer batch or bulk processing. Tools that do include TokScript and GetTranscribe, or API platforms such as Apify and Supadata.
+- Timing lives only in the SRT export. TXT and DOCX exports contain the words with no timecodes. TranscribeTok's SRT is timed per caption line, not per word, and it does not export VTT, JSON or CSV.
+- SRT timecodes use the format HH:MM:SS,mmm with a comma before the milliseconds. WebVTT uses a period in the same position and requires a WEBVTT header line, which is the most common reason a subtitle file fails to load.
+- TranscribeTok does not translate. It returns the transcript in the language spoken in the video; translation is a separate step in a translation or AI tool.
+- TikTok's "See Translation" feature applies to the written caption, description and text stickers on a post. It does not translate the spoken audio track, and the translated text cannot be copied or exported.
 
 ## Guides by use case
 - [TikTok Transcript on iPhone & Android](https://blog.transcribetok.com/tiktok-transcript-on-mobile): The mobile workflow, no app required.
 - [TikTok Transcripts for Creators](https://blog.transcribetok.com/tiktok-transcript-for-content-creators): Turning TikTok scripts into LinkedIn posts, newsletters, threads and blog drafts.
 - [ChatGPT (and Claude, Gemini, Perplexity)](https://blog.transcribetok.com/tiktok-transcript-for-chatgpt): Why pasting a TikTok URL into an AI tool doesn't work, and the prompts that do.
 - [Download TikTok Captions & Subtitles](https://blog.transcribetok.com/download-tiktok-captions): Getting a standards-compliant SRT subtitle file from any TikTok.
+- [TikTok Transcript With Timestamps](https://blog.transcribetok.com/tiktok-transcript-with-timestamps): Which export carries timing, how to read SRT timecodes, and how to convert SRT to VTT.
+- [Translate a TikTok Transcript](https://blog.transcribetok.com/translate-tiktok-transcript): Why TikTok's translation never covers the spoken audio, and the two-step method that does.
 
 ## Comparisons
 - [Best Free TikTok Transcript Tools 2026](https://blog.transcribetok.com/best-tiktok-transcript-tools-2026): Honest comparison of single-video tools versus batch tools, including competitors and which to use when.

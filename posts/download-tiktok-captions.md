@@ -110,6 +110,7 @@ For a whole back catalogue in one sitting, you want a tool built for batch proce
 
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three methods compared
 - [Download a TikTok transcript](/download-tiktok-transcript) — TXT vs DOCX vs SRT in detail
+- [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) — reading SRT timecodes, and converting SRT to VTT
 - [Transcribe a TikTok video](/transcribe-tiktok-video) — accuracy, alternatives, and what affects results
 
 ## Frequently asked questions

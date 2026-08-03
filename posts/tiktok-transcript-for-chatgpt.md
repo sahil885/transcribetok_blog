@@ -113,6 +113,7 @@ Nothing here is ChatGPT-specific. Claude, Gemini, Perplexity, Copilot and every 
 
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three methods
 - [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — iPhone and Android, no app
+- [Translate a TikTok transcript](/translate-tiktok-transcript) — the prompts that handle slang and idiom properly
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — the repurposing workflow end to end
 
 ## Frequently asked questions

@@ -84,7 +84,7 @@ A timed subtitle file, with timestamps mapping each line to a moment in the vide
 - Loading into a video editor
 - Accessibility compliance where a real caption track is required
 
-SRT is the wrong choice for pasting into an AI tool — the timestamps are noise that eats into the context and adds nothing.
+SRT is the wrong choice for pasting into an AI tool — the timestamps are noise that eats into the context and adds nothing. If timing is the whole reason you're here, [getting a TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) covers how to read the timecodes and convert SRT to VTT.
 
 | Format | Best for | Opens in |
 |---|---|---|

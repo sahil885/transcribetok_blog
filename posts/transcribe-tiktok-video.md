@@ -96,6 +96,7 @@ Transcribing is rarely the goal — it is step one. The common next moves:
 
 - **Summarize or rewrite it** by pasting into an AI tool. See [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt).
 - **Save it properly** as TXT, DOCX or SRT — [downloading a TikTok transcript](/download-tiktok-transcript) covers which format to pick.
+- **Translate it** if the video wasn't in your language — [translating a TikTok transcript](/translate-tiktok-transcript) explains why TikTok's own translation never touches the audio.
 - **Repurpose it** into other content formats. [Creators do this daily](/tiktok-transcript-for-content-creators).
 - **Do it on your phone.** Most people find the video on mobile in the first place — [the mobile guide](/tiktok-transcript-on-mobile) covers iPhone and Android.
 
