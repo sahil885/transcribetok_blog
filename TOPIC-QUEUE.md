@@ -25,6 +25,8 @@ Never write a post that duplicates an existing one's primary keyword. Check `pos
 - [x] best-tiktok-transcript-tools-2026
 - [x] tiktok-transcript-with-timestamps — 2026-08-03 — competitor gap (every rival leads with timestamps; we had no post)
 - [x] translate-tiktok-transcript — 2026-08-03 — competitor gap (large dedicated TikTok-translation tool ecosystem, zero coverage)
+- [x] tiktok-transcript-to-notion — 2026-08-08 — roadmap (Workflows cluster was empty and left a bare homepage section)
+- [x] transcribetok-vs-tokscript — 2026-08-08 — roadmap + competitor gap (TokScript is the most feature-complete rival; verified their site directly)
 
 ---
 
@@ -40,14 +42,12 @@ Never write a post that duplicates an existing one's primary keyword. Check `pos
 
 ### Comparisons (low volume, very high intent)
 
-- [ ] `transcribetok-vs-tokscript` — Comparisons — be scrupulously fair; they do batch, we don't
 - [ ] `transcribetok-vs-gettranscribe` — Comparisons
 - [ ] `transcribetok-vs-saveto-ai` — Comparisons
 - [ ] `free-vs-paid-tiktok-transcript-tools` — Comparisons
 
 ### Workflows (currently empty cluster — fills a homepage gap)
 
-- [ ] `tiktok-transcript-to-notion` — Productivity
 - [ ] `tiktok-transcript-to-blog-post` — Content Creation
 - [ ] `tiktok-script-to-linkedin-post` — Content Creation
 - [ ] `tiktok-transcript-to-srt-subtitles` — Content Creation
@@ -80,4 +80,13 @@ Never write a post that duplicates an existing one's primary keyword. Check `pos
 - `tiktok-video-summarizer` — competitors all ship a dedicated "TikTok Summarizer" page (WayinVideo, Saveto AI, TokScript's Virality Explainer). Real demand, but check cannibalisation against `tiktok-transcript-for-chatgpt`, whose keyword set already includes "summarize tiktok with chatgpt".
 - `srt-to-vtt-converter` — the comma-vs-period timecode difference is the single most common cause of a broken subtitle file. Cheap post, clean intent, links naturally to the timestamps post.
 - `tiktok-transcript-json-export` — VexaScribe and TokScript both sell JSON/CSV export; we don't offer it. Only worth writing as an honest "which tool if you need structured output" piece.
-- **Next run: prioritise the Workflows cluster** (`tiktok-transcript-to-notion`, `tiktok-transcript-to-blog-post`). It is still empty, which leaves a bare section on the homepage. Both posts this run landed in How-To.
+- `tiktok-transcript-to-google-docs` — the Notion post surfaced the same problem for Docs/Drive users. Docs opens .docx natively, which makes it a shorter, cleaner post than the Notion one.
+- `tiktok-transcript-to-airtable-or-sheets` — the CSV/database angle. Worth writing only once we can say something honest about not offering CSV export.
+- `transcribetok-vs-saveto-ai` and `transcribetok-vs-vexascribe` — the vs-cluster works; VexaScribe's JSON export is the honest differentiator to lead with.
+
+### Search Console notes — 2026-08-08 (first run with real GSC data)
+
+- Property now has data: **157 impressions, 4 clicks, avg position 28.8** over the last 3 months (23 queries, all traffic starting 31 July).
+- **Only one query sits in the actionable 11–30 band: `tiktok transcript arabic` at position 11.7.** It is already served by the programmatic language page `/arabic-tiktok-transcript`, so no post was written against it — that would cannibalise. **Action for next run: check whether it has moved. If it is still stuck at ~11, the fix is internal links into the language pages, not a new post.** Language pages currently receive almost no internal links (only `/spanish-tiktok-transcript`, once, from the translate post).
+- A non-English cluster is forming: `tiktok transcript arabic` (11.7), `translate tik from indonesian` (59.5), `how to translate tiktok videos` (62.0). Worth watching — it may justify promoting language pages more aggressively.
+- Every other query sits at position 59–92, i.e. too deep for a page-one nudge, and nearly all are head terms the pillars already target. There was no second GSC-driven opportunity this run.

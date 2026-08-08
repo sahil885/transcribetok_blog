@@ -60,7 +60,7 @@ Honestly: for one video, these are close to interchangeable. Choose on two thing
 
 Good for: competitor research, content audits, transcribing a back catalogue.
 
-**TokScript** — Bulk import across TikTok, Reels and Shorts. The multi-platform coverage is a genuine advantage if your research spans more than TikTok.
+**TokScript** — Bulk import across TikTok, Reels and Shorts. The multi-platform coverage is a genuine advantage if your research spans more than TikTok. We've written a full [TranscribeTok vs TokScript comparison](/transcribetok-vs-tokscript) covering where each one wins.
 
 **GetTranscribe** — Organises videos by competitor into folders and lets you query across a whole collection. Strong on the research-workflow side.
 
@@ -120,6 +120,7 @@ Differences between mainstream tools on the same clean audio are small. Differen
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three methods
 - [TikTok transcript generator](/tiktok-transcript-generator) — the complete guide
 - [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — iPhone and Android
+- [TranscribeTok vs TokScript](/transcribetok-vs-tokscript) — the head-to-head, written by us
 
 ## Frequently asked questions
 

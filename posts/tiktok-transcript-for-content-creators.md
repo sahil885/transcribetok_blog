@@ -111,6 +111,7 @@ Two videos become six pieces of content, and none of them started from a blank p
 - [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — iPhone and Android, no app
 - [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt) — the prompts
 - [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT
+- [TikTok transcript to Notion](/tiktok-transcript-to-notion) — build a searchable swipe file from saved videos
 
 ## Frequently asked questions
 

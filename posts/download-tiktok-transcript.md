@@ -106,7 +106,7 @@ On iPhone the file saves to the **Files** app (Downloads by default). On Android
 
 TranscribeTok downloads one transcript at a time. If you are archiving your own back catalogue, the practical approach is to work through it in sittings — best-performing posts first — rather than trying to do everything at once.
 
-Paid plans save every transcript to your library, which matters more than it sounds: the alternative is managing a folder of loose TXT files and re-transcribing things you have already done. If you need to process dozens of links together in one pass, see [the comparison post](/best-tiktok-transcript-tools-2026) for tools built specifically for that.
+Paid plans save every transcript to your library, which matters more than it sounds: the alternative is managing a folder of loose TXT files and re-transcribing things you have already done. If you would rather keep the archive in a tool you already use, [importing TikTok transcripts into Notion](/tiktok-transcript-to-notion) gives you full-text search across everything you have saved. And if you need to process dozens of links together in one pass, see [the comparison post](/best-tiktok-transcript-tools-2026) for tools built specifically for that.
 
 ## Common problems
 
