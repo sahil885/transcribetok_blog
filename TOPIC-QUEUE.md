@@ -11,13 +11,9 @@ Never write a post that duplicates an existing one's primary keyword. Check `pos
 
 ---
 
-## Open items — check at the START of each run, before choosing topics
+## Open items
 
-- [ ] **transcribetok.com homepage meta description.** As of 2026-08-08 the live site still serves the old text on all three tags (`description`, `og:description`, `twitter:description`): *"...extract accurate transcripts from 100+ TikTok videos, managing your content library with a simple credit-based system."* This contradicts the playbook's product facts — it is the bulk claim that caused the 20-file rewrite. Sahil replaced the copy on 2026-08-07 with: *"is an online tool designed to extract and convert spoken audio from any TikTok video into a written text transcript"* — correct, but not yet published. A cache-busted `no-store` fetch still returned the old string, so it looks like a failed publish rather than an edge cache; the value is set in three separate places, so check all three. **Load transcribetok.com, read the three meta tags, and report the result in the run summary. Tick this off once the new text is live.**
-
-- [ ] **Playbook section 1 vs. real pricing.** The playbook says paid plans "raise the daily limit." The pricing page (verified 2026-08-08) actually sells one-time credit packs — $5/150, $12/500, $29/1,500, $59/4,000 — with no subscription and credits that never expire. Free tier (2/day, no signup) and the saved library are correct as written. Do not edit the product-facts table unilaterally; flag it for Sahil until he confirms the wording.
-
-- [ ] **`tiktok transcript arabic`, GSC position 11.7.** Served by the programmatic `/arabic-tiktok-transcript` language page. Check whether it has moved. If still stuck near 11, the fix is internal links into the language pages, not a new post — they currently receive almost none.
+Standing checks now live in **STEP 0 of the scheduled task itself**, not here — that way they run before topic selection instead of relying on this file being read closely. Currently tracked there: the transcribetok.com meta description publish, the playbook-vs-pricing wording, and the `tiktok transcript arabic` position. Add new cross-run checks to the task prompt, not to this file.
 
 ---
 
