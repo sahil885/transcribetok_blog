@@ -103,7 +103,7 @@ The predictable failure points:
 - **Numbers and units** — worth checking individually every time. A misheard price or dosage survives translation intact.
 - **Sped-up delivery** — fast or artificially accelerated audio degrades transcription accuracy noticeably, and everything downstream with it.
 
-Accuracy on clear speech sits in the mid-to-high 90s. Loud background music, fast delivery and heavy slang push it down. If you're working in a specific language, the [per-language transcript guides](/spanish-tiktok-transcript) cover the quirks that show up in each one.
+Accuracy on clear speech sits in the mid-to-high 90s. Loud background music, fast delivery and heavy slang push it down. If you're working in a specific language, the per-language transcript guides cover the quirks that show up in each one — [Spanish](/spanish-tiktok-transcript), [Arabic](/arabic-tiktok-transcript), [Indonesian](/indonesian-tiktok-transcript), [Portuguese](/portuguese-tiktok-transcript), [French](/french-tiktok-transcript) and [Japanese](/japanese-tiktok-transcript) among them.
 
 ## When you need a video tool instead
 
@@ -126,6 +126,7 @@ If all you want is to understand and quote what was said, the two-step method is
 - [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt) — prompts for summarizing, rewriting and translating
 - [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) — when you need timing alongside the text
 - [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — iPhone and Android, no app needed
+- [Summarize a TikTok video free](/summarize-tiktok-video-free) — get the gist in another language without translating the whole thing
 
 ## Frequently asked questions
 

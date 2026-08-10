@@ -33,6 +33,8 @@ Standing checks now live in **STEP 0 of the scheduled task itself**, not here �
 - [x] translate-tiktok-transcript — 2026-08-03 — competitor gap (large dedicated TikTok-translation tool ecosystem, zero coverage)
 - [x] tiktok-transcript-to-notion — 2026-08-08 — roadmap (Workflows cluster was empty and left a bare homepage section)
 - [x] transcribetok-vs-tokscript — 2026-08-08 — roadmap + competitor gap (TokScript is the most feature-complete rival; verified their site directly)
+- [x] transcribetok-vs-gettranscribe — 2026-08-10 — roadmap + competitor gap (GetTranscribe shipped API, MCP, n8n/Make/Zapier, Chrome extension and an iOS app; verified pricing and feature pages directly)
+- [x] summarize-tiktok-video-free — 2026-08-10 — competitor gap (WayinVideo, BibiGPT, ScreenApp, SocialKit, TikNeuron and GetTranscribe all ship dedicated TikTok summarizer pages; we had none)
 
 ---
 
@@ -43,12 +45,10 @@ Standing checks now live in **STEP 0 of the scheduled task itself**, not here �
 - [ ] `tiktok-transcript-with-claude` — "TikTok Transcript with Claude: Summarize Any Video" — AI Tools
 - [ ] `tiktok-transcript-with-gemini` — "How to Use a TikTok Transcript with Gemini" — AI Tools
 - [ ] `tiktok-transcript-with-perplexity` — "TikTok Transcripts in Perplexity: Research Workflow" — AI Tools
-- [ ] `summarize-tiktok-video-free` — "How to Summarize a TikTok Video Free (3 Ways)" — AI Tools
 - [ ] `tiktok-transcript-with-notebooklm` — "Turn TikTok Transcripts into NotebookLM Sources" — AI Tools
 
 ### Comparisons (low volume, very high intent)
 
-- [ ] `transcribetok-vs-gettranscribe` — Comparisons
 - [ ] `transcribetok-vs-saveto-ai` — Comparisons
 - [ ] `free-vs-paid-tiktok-transcript-tools` — Comparisons
 
@@ -89,6 +89,17 @@ Standing checks now live in **STEP 0 of the scheduled task itself**, not here �
 - `tiktok-transcript-to-google-docs` — the Notion post surfaced the same problem for Docs/Drive users. Docs opens .docx natively, which makes it a shorter, cleaner post than the Notion one.
 - `tiktok-transcript-to-airtable-or-sheets` — the CSV/database angle. Worth writing only once we can say something honest about not offering CSV export.
 - `transcribetok-vs-saveto-ai` and `transcribetok-vs-vexascribe` — the vs-cluster works; VexaScribe's JSON export is the honest differentiator to lead with.
+- `transcribetok-vs-wayinvideo` — spotted 2026-08-10. WayinVideo is the strongest dedicated summarizer (mind maps, 100+ languages, 200 free credits / 400 minutes on signup, API, Chrome extension, desktop app) and already appears in our GSC data as a branded query. Honest differentiator: their free allowance is a lifetime total, ours resets daily.
+- `tiktok-mind-map-from-video` — spotted 2026-08-10. WayinVideo markets mind-map output as an exclusive. We don't do it, but the transcript-plus-AI route reproduces it, which makes for an honest how-to.
+- **Free-tier shape as a recurring angle** — spotted 2026-08-10. Nearly every competitor's "free" tier is a lifetime total (GetTranscribe 2 analyses, WayinVideo 400 minutes) while ours resets daily. This is our sharpest honest differentiator and is currently only stated inside comparison posts. `free-vs-paid-tiktok-transcript-tools` (already queued) should lead with it.
+
+### Search Console notes — 2026-08-10
+
+- Last 28 days: **256 impressions, 7 clicks, avg position 28.6** across 32 queries. Up from 157/4 on 2026-08-08.
+- **`tiktok transcript arabic` has moved 11.7 → 9.2.** It is now on page one, still served by the programmatic `/arabic-tiktok-transcript` page and still with zero clicks. The language-page link deficit was addressed this run: `translate-tiktok-transcript` now links to six language pages instead of one, and both new posts link to two or three each.
+- **`tokscript` sits at position 28.5** (2 impressions) — inside the actionable band, and already served by `transcribetok-vs-tokscript`. It is the only other query in 11–30, which is why this run's second topic came from the competitor gap rather than GSC. Worth watching: branded-competitor queries surfacing us validates the vs-cluster, and `transcribetok-vs-gettranscribe` was written partly on that signal.
+- One query — a `"wayinvideo" -site:reddit.com …` string at position 5.0 — is a SERP-scraper artifact, not real demand. Ignore it in future runs.
+- Everything else remains at position 59–97, i.e. head terms the pillars already target, too deep for a page-one nudge.
 
 ### Search Console notes — 2026-08-08 (first run with real GSC data)
 

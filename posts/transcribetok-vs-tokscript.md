@@ -104,6 +104,7 @@ Accuracy on clear speech sits in the mid-to-high 90s for both. Loud music, sped-
 - [TikTok transcript generator](/tiktok-transcript-generator) — how transcription works and where it fails
 - [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT, and which to pick
 - [TikTok transcript to Notion](/tiktok-transcript-to-notion) — building a searchable research library
+- [TranscribeTok vs GetTranscribe](/transcribetok-vs-gettranscribe) — the other head-to-head, against a video-intelligence platform
 
 ## Frequently asked questions
 

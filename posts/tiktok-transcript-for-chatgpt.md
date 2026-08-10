@@ -115,6 +115,7 @@ Nothing here is ChatGPT-specific. Claude, Gemini, Perplexity, Copilot and every 
 - [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — iPhone and Android, no app
 - [Translate a TikTok transcript](/translate-tiktok-transcript) — the prompts that handle slang and idiom properly
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — the repurposing workflow end to end
+- [Summarize a TikTok video free](/summarize-tiktok-video-free) — the three routes to a summary, and why a link alone never works
 
 ## Frequently asked questions
 

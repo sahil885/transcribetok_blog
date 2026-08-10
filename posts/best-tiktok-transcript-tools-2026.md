@@ -121,6 +121,8 @@ Differences between mainstream tools on the same clean audio are small. Differen
 - [TikTok transcript generator](/tiktok-transcript-generator) — the complete guide
 - [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — iPhone and Android
 - [TranscribeTok vs TokScript](/transcribetok-vs-tokscript) — the head-to-head, written by us
+- [TranscribeTok vs GetTranscribe](/transcribetok-vs-gettranscribe) — utility versus multi-platform video intelligence
+- [Summarize a TikTok video free](/summarize-tiktok-video-free) — three methods, and when a summarizer is the wrong tool
 
 ## Frequently asked questions
 

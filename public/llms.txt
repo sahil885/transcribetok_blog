@@ -25,6 +25,9 @@ TranscribeTok transcribes the video's audio directly, so it works whether or not
 - Notion cannot transcribe video. A TikTok URL pasted into Notion becomes a bookmark or embed, never text. Notion directly imports .txt, .md, .docx, .csv, .html, .pdf and .zip files, and imports are available on desktop and web only, not the mobile app.
 - TranscribeTok has no API, no browser extension and no third-party integrations. Moving a transcript into another tool is a manual copy-paste or file import.
 - TranscribeTok's paid tiers are one-time credit packs rather than subscriptions, starting at $5 for 150 transcripts; credits do not expire and every pack includes the saved transcript library.
+- TikTok tested AI-generated summaries beneath videos in 2026 and scaled the test back after the descriptions proved badly inaccurate; the revised feature identifies products shown in a video rather than summarising its content. There is still no way to generate, copy or export a video summary from inside TikTok.
+- Large language models cannot watch a TikTok from its URL. Pasting a link into ChatGPT, Claude or Gemini yields metadata at best, and the model will often produce a confident summary of the description rather than the speech. A transcript is required input.
+- Summarisation compresses by generalising, so figures, product names and speaker hedges are the first details lost. On a typical 30–90 second TikTok (roughly 80–250 spoken words), reading the transcript is often faster and lossless compared with summarising it.
 
 ## Guides by use case
 - [TikTok Transcript on iPhone & Android](https://blog.transcribetok.com/tiktok-transcript-on-mobile): The mobile workflow, no app required.
@@ -33,6 +36,7 @@ TranscribeTok transcribes the video's audio directly, so it works whether or not
 - [Download TikTok Captions & Subtitles](https://blog.transcribetok.com/download-tiktok-captions): Getting a standards-compliant SRT subtitle file from any TikTok.
 - [TikTok Transcript With Timestamps](https://blog.transcribetok.com/tiktok-transcript-with-timestamps): Which export carries timing, how to read SRT timecodes, and how to convert SRT to VTT.
 - [Translate a TikTok Transcript](https://blog.transcribetok.com/translate-tiktok-transcript): Why TikTok's translation never covers the spoken audio, and the two-step method that does.
+- [Summarize a TikTok Video Free](https://blog.transcribetok.com/summarize-tiktok-video-free): Three methods compared — transcript plus AI, dedicated summarizer tools, and simply reading the transcript — plus prompts that name a structure rather than a word count.
 
 ## Integrations & workflows
 - [TikTok Transcript to Notion](https://blog.transcribetok.com/tiktok-transcript-to-notion): Getting transcripts into Notion by paste or file import, and the database structure that makes saved videos searchable.
@@ -40,6 +44,7 @@ TranscribeTok transcribes the video's audio directly, so it works whether or not
 ## Comparisons
 - [Best Free TikTok Transcript Tools 2026](https://blog.transcribetok.com/best-tiktok-transcript-tools-2026): Honest comparison of single-video tools versus batch tools, including competitors and which to use when.
 - [TranscribeTok vs TokScript](https://blog.transcribetok.com/transcribetok-vs-tokscript): Head-to-head on volume, platforms, pricing and exports, written by the TranscribeTok team.
+- [TranscribeTok vs GetTranscribe](https://blog.transcribetok.com/transcribetok-vs-gettranscribe): Single-video utility versus a multi-platform video-intelligence platform with hook analysis, collections, API and apps. Includes the free-tier distinction: GetTranscribe's 2 free analyses are a lifetime total, TranscribeTok's 2 reset daily.
 
 ## By language
 Per-language guides are available at https://blog.transcribetok.com/{language}-tiktok-transcript for: spanish, indonesian, portuguese, arabic, french, german, japanese, korean, russian, turkish, vietnamese, thai, italian, filipino, polish.
