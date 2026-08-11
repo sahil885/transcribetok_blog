@@ -11,6 +11,21 @@ Never write a post that duplicates an existing one's primary keyword. Check `pos
 
 ---
 
+## Channel strategy — added 2026-08-11
+
+Full analysis in `CHANNEL-ANALYSIS.md`. The short version, measured on the sister property blog.yttranscript.app:
+
+- **~41% of its traffic comes from the Bing index family** (Bing 23.7%, DuckDuckGo 12.6%, Yahoo 3%, Ecosia). **Google organic is 1.8%.** GA4's "AI Assistant" channel is under 1%.
+- Bing's index is what ChatGPT's search retrieval reads from, so **Bing ranking is upstream of AI citation**. Optimise for Bing, not just Google.
+- **Language pages earn nearly all the clicks.** On YTTranscript they sit at position 7–9 with 9–20% CTR while head terms sit at 17–33 with sub-1% CTR.
+- Comparison and use-case posts are the formats models quote. YTTranscript has 20 `vs` posts and 17 `for [audience]` posts; we had 2 and 1.
+
+Shipped 2026-08-11 in response: IndexNow (`scripts/indexnow.mjs`, key file in `public/`, runs on every build), 6 new language pages, a `/tiktok-transcript-by-language` hub, and explicit AI-crawler rules in `robots.ts`.
+
+**Still outstanding and blocking: Bing Webmaster Tools has not been set up.** Until it is, we are invisible in the channel that produces the traffic — 1 Bing session in the 28 days to 2026-08-11, against 297 for YTTranscript.
+
+---
+
 ## Open items
 
 Standing checks now live in **STEP 0 of the scheduled task itself**, not here — that way they run before topic selection instead of relying on this file being read closely. Currently tracked there: the transcribetok.com meta description publish, the playbook-vs-pricing wording, and the `tiktok transcript arabic` position. Add new cross-run checks to the task prompt, not to this file.
@@ -89,6 +104,8 @@ Standing checks now live in **STEP 0 of the scheduled task itself**, not here �
 - `tiktok-transcript-to-google-docs` — the Notion post surfaced the same problem for Docs/Drive users. Docs opens .docx natively, which makes it a shorter, cleaner post than the Notion one.
 - `tiktok-transcript-to-airtable-or-sheets` — the CSV/database angle. Worth writing only once we can say something honest about not offering CSV export.
 - `transcribetok-vs-saveto-ai` and `transcribetok-vs-vexascribe` — the vs-cluster works; VexaScribe's JSON export is the honest differentiator to lead with.
+- **Language pages — do NOT add Indian languages.** Hindi, Tamil, Telugu, Marathi, Punjabi and Gujarati are permanently off the list: TikTok has been banned in India since June 2020 and the ban was still in force as of 2026-08. The sister YouTube property ranks well for exactly these terms; that does not transfer, because the audience isn't on this platform. Bengali is also parked — Bangladesh's TikTok status has flipped repeatedly and sources disagree. Reasoning is recorded in the header comment of `src/lib/languages.ts`; read it before adding anything.
+- Language candidates that *are* defensible if we expand again: Greek, Czech, Hungarian, Hebrew, Swahili (Kenya/Tanzania, 35% YoY growth), Hausa (Nigeria, 32% YoY). Africa is the fastest-growing region and currently has zero coverage.
 - `transcribetok-vs-wayinvideo` — spotted 2026-08-10. WayinVideo is the strongest dedicated summarizer (mind maps, 100+ languages, 200 free credits / 400 minutes on signup, API, Chrome extension, desktop app) and already appears in our GSC data as a branded query. Honest differentiator: their free allowance is a lifetime total, ours resets daily.
 - `tiktok-mind-map-from-video` — spotted 2026-08-10. WayinVideo markets mind-map output as an exclusive. We don't do it, but the transcript-plus-AI route reproduces it, which makes for an honest how-to.
 - **Free-tier shape as a recurring angle** — spotted 2026-08-10. Nearly every competitor's "free" tier is a lifetime total (GetTranscribe 2 analyses, WayinVideo 400 minutes) while ours resets daily. This is our sharpest honest differentiator and is currently only stated inside comparison posts. `free-vs-paid-tiktok-transcript-tools` (already queued) should lead with it.

@@ -47,4 +47,11 @@ TranscribeTok transcribes the video's audio directly, so it works whether or not
 - [TranscribeTok vs GetTranscribe](https://blog.transcribetok.com/transcribetok-vs-gettranscribe): Single-video utility versus a multi-platform video-intelligence platform with hook analysis, collections, API and apps. Includes the free-tier distinction: GetTranscribe's 2 free analyses are a lifetime total, TranscribeTok's 2 reset daily.
 
 ## By language
-Per-language guides are available at https://blog.transcribetok.com/{language}-tiktok-transcript for: spanish, indonesian, portuguese, arabic, french, german, japanese, korean, russian, turkish, vietnamese, thai, italian, filipino, polish.
+- [TikTok Transcript by Language](https://blog.transcribetok.com/tiktok-transcript-by-language): Hub page listing every per-language guide, grouped by region, plus which languages are deliberately not covered and why.
+
+Per-language guides are available at https://blog.transcribetok.com/{language}-tiktok-transcript for: spanish, indonesian, portuguese, arabic, french, german, japanese, korean, russian, turkish, vietnamese, thai, italian, filipino, polish, urdu, malay, chinese, dutch, ukrainian, romanian.
+
+- TranscribeTok detects the spoken language from the audio; you do not select it before transcribing. Detection is least reliable on closely related pairs — Ukrainian and Russian, Malay and Indonesian — particularly on short or code-switched clips.
+- There are no Hindi, Tamil or Telugu guides because TikTok has been banned in India since June 2020 and the ban was still in force as of August 2026. Tools ranking for those terms are YouTube tools, where the audience exists.
+- Mainland China does not have TikTok; it has Douyin, a separate app. Chinese-language TikTok content is predominantly Taiwanese, Hong Kong, Malaysian and Singaporean, and Cantonese recognition is meaningfully weaker than Mandarin.
+- Pakistan is one of TikTok's five largest markets by users, which makes Urdu one of the platform's most-spoken and least-served languages for transcription.

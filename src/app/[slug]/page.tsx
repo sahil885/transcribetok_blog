@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getAllPostSlugs, getPostData, getRelatedPosts } from "@/lib/posts";
 import {
+  art,
   getAllLanguageSlugs,
   getLanguageByPageSlug,
   languageTitle,
@@ -127,7 +128,7 @@ export default async function PostPage({ params }: Props) {
     const howToSchema = {
       "@context": "https://schema.org",
       "@type": "HowTo",
-      name: `How to get a ${lang.name} TikTok transcript`,
+      name: `How to get ${art(lang.name)} ${lang.name} TikTok transcript`,
       step: languageSteps(lang).map((step) => ({
         "@type": "HowToStep",
         name: step.name,

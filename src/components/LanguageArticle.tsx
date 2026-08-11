@@ -71,7 +71,8 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
 
         <h2>Why get {art(lang.name)} {lang.name} TikTok transcript?</h2>
         <p>
-          Watching is slow; reading is fast. A{" "}
+          Watching is slow; reading is fast.{" "}
+          {art(lang.name) === "an" ? "An" : "A"}{" "}
           <strong>{lang.name} TikTok transcript</strong> lets you skim a video in
           seconds, search for a specific phrase, and copy exact wording without
           scrubbing back and forth on a 20-second clip. It&apos;s also the first
@@ -199,6 +200,16 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
             </Link>
           ))}
         </div>
+        <p className="mt-5 text-sm text-gray-500">
+          See all {LANGUAGES.length} grouped by region on the{" "}
+          <Link
+            href="/tiktok-transcript-by-language"
+            className="text-rose-600 hover:underline"
+          >
+            TikTok transcript by language
+          </Link>{" "}
+          hub.
+        </p>
       </section>
 
       <div className="mt-16 border-t border-gray-100 pt-10 text-center">

@@ -5,8 +5,12 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "node scripts/indexnow.mjs || true",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "indexnow": "node scripts/indexnow.mjs",
+    "indexnow:all": "node scripts/indexnow.mjs --all",
+    "indexnow:dry": "node scripts/indexnow.mjs --all --dry-run"
   },
   "dependencies": {
     "date-fns": "^4.1.0",

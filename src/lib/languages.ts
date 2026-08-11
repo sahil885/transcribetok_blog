@@ -5,9 +5,19 @@ import type { FaqItem, HowToStep } from "@/lib/posts";
 // useful, not thin doorway pages. The template scaffolding is shared.
 //
 // Language selection is deliberately weighted to TikTok's actual largest
-// markets (Indonesia, Brazil, Mexico, Vietnam, the Philippines, Thailand,
-// Japan, Korea, Turkey, the Gulf, Russia and Western Europe). Hindi is
-// intentionally excluded — TikTok has been unavailable in India since 2020.
+// markets (Indonesia, Brazil, Mexico, Vietnam, Pakistan, the Philippines,
+// Thailand, Japan, Korea, Turkey, the Gulf, Russia and Western Europe).
+//
+// DELIBERATELY EXCLUDED — do not add these without re-checking availability:
+//   Hindi, Tamil, Telugu, Marathi, Punjabi, Gujarati — TikTok has been banned
+//     in India since June 2020 and the ban was still in force as of 2026-08.
+//     The sister YouTube property ranks well for these; that does NOT transfer,
+//     because the audience does not exist on this platform.
+//   Bengali — Bangladesh's TikTok status has flipped repeatedly and sources
+//     disagree on the current position. Re-verify before adding.
+//   Persian/Farsi — TikTok is not officially available in Iran.
+//   Simplified Chinese for mainland China — mainland uses Douyin, not TikTok.
+//     The Chinese entry below targets Taiwan, Hong Kong, Malaysia and Singapore.
 
 export interface Language {
   slug: string; // url segment, e.g. "spanish" -> /spanish-tiktok-transcript
@@ -138,13 +148,66 @@ export const LANGUAGES: Language[] = [
       "Polish is TikTok's largest Central European language, with a big comedy, gaming and lifestyle scene. The Polish transcript converts consonant-dense, fast-paced speech into readable text in seconds.",
     note: "Polish has complex consonant clusters and seven grammatical cases, so auto-captions occasionally pick the wrong inflected form. Meaning almost always survives intact, and the text translates reliably.",
   },
+  {
+    slug: "urdu",
+    name: "Urdu",
+    native: "اردو",
+    intro:
+      "Pakistan is one of TikTok's five largest markets by users, which makes Urdu one of the most-spoken languages on the platform and one of the least-served by transcript tools. Extracting the Urdu transcript turns comedy sketches, drama clips, cooking videos and news commentary into right-to-left text you can read, search and translate.",
+    note: "Urdu shares most of its spoken vocabulary with Hindi but is written in the Nastaliq script, so recognition quality depends heavily on clear audio. Heavy Punjabi or Pashto code-switching — common in Pakistani TikTok — is where errors concentrate. The text still exports cleanly in right-to-left order.",
+  },
+  {
+    slug: "malay",
+    name: "Malay",
+    native: "Bahasa Melayu",
+    intro:
+      "Malaysia has one of the highest TikTok penetration rates anywhere, and Malay content dominates its food, comedy and live-commerce scenes. Pulling the Malay transcript gives you the full text in seconds — useful whether you're studying the language or researching a market.",
+    note: "Malay and Indonesian are close enough that speech recognition often handles them with the same model, but spelling and vocabulary differ in ways that matter — Malaysian Malay borrows more from English, Indonesian from Dutch. Expect the occasional Indonesian spelling to appear in a Malay transcript.",
+  },
+  {
+    slug: "chinese",
+    name: "Chinese",
+    native: "中文",
+    intro:
+      "Chinese-language TikTok runs across Taiwan, Hong Kong, Malaysia and Singapore, with a strong food, beauty and street-interview scene. Chinese has no spaces between words and a character set that makes manual transcription slow, so automatic extraction saves a genuine amount of time.",
+    note: "Mainland China does not have TikTok — it has Douyin, a separate app — so Chinese TikTok content skews Taiwanese and Cantonese. Mandarin recognition is strong; Cantonese is meaningfully weaker, and the transcript may come back in written Standard Chinese rather than the colloquial Cantonese actually spoken.",
+  },
+  {
+    slug: "dutch",
+    name: "Dutch",
+    native: "Nederlands",
+    intro:
+      "Dutch TikTok covers the Netherlands and Flemish Belgium, with a distinctive scene in comedy, personal finance and student content. The Dutch transcript turns fast, consonant-heavy delivery into text you can read, quote and translate.",
+    note: "Dutch auto-captions are strong on standard Netherlands Dutch. Flemish accents and the heavy use of English loanwords — extremely common in Dutch youth speech — are where the occasional wrong word appears, usually as a phonetically plausible substitution.",
+  },
+  {
+    slug: "ukrainian",
+    name: "Ukrainian",
+    native: "Українська",
+    intro:
+      "Ukrainian TikTok has grown into a large and distinct community, and it is genuinely separate from Russian-language content despite sharing the Cyrillic script. Extracting the Ukrainian transcript gives you accurate text rather than a Russian approximation of it.",
+    note: "Speech recognition sometimes mislabels Ukrainian as Russian, especially in videos where creators code-switch between the two — which is common. If a transcript comes back looking wrong, the language detection is the usual culprit rather than the audio. Punctuation is sparse, so an AI pass to restore sentence breaks helps.",
+  },
+  {
+    slug: "romanian",
+    name: "Romanian",
+    native: "Română",
+    intro:
+      "Romania is one of Eastern Europe's strongest TikTok markets, with a large comedy, music and lifestyle creator base. The Romanian transcript converts rapid delivery into searchable text without replaying the clip.",
+    note: "Romanian is a Romance language written in Latin script with five extra diacritics (ă, â, î, ș, ț). Auto-captions usually place them correctly, but dropped diacritics are the most common error and can change a word's meaning — worth a read-through before quoting.",
+  },
 ];
 
 const SUFFIX = "-tiktok-transcript";
 
 // "a Spanish transcript" but "an Indonesian transcript".
-// Affects Arabic, Indonesian and Italian in the current list.
+// Applies to Arabic, Indonesian, Italian and Urdu in the current list.
+// Ukrainian is spelled with a vowel but pronounced with a leading /j/ ("you-"),
+// so it takes "a", not "an". Add any future such cases here.
+const CONSONANT_SOUND_VOWELS = new Set(["Ukrainian"]);
+
 export function art(name: string): string {
+  if (CONSONANT_SOUND_VOWELS.has(name)) return "a";
   return /^[aeiou]/i.test(name) ? "an" : "a";
 }
 
