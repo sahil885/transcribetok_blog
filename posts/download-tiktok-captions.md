@@ -7,6 +7,7 @@ category: "How-To"
 readingTime: "6 min read"
 keywords:
   - download tiktok captions
+  - tiktok caption downloader
   - tiktok subtitles download
   - tiktok captions to text
   - export tiktok captions
@@ -111,6 +112,8 @@ For a whole back catalogue in one sitting, you want a tool built for batch proce
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three methods compared
 - [Download a TikTok transcript](/download-tiktok-transcript) — TXT vs DOCX vs SRT in detail
 - [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) — reading SRT timecodes, and converting SRT to VTT
+- [SRT to VTT: convert subtitle files in 10 seconds](/srt-to-vtt-converter) — the header line and comma swap that fixes a file the browser won't load
+- [TikTok script extractor](/tiktok-script-extractor) — pulling the spoken script out when you don't need a subtitle file
 - [Transcribe a TikTok video](/transcribe-tiktok-video) — accuracy, alternatives, and what affects results
 
 ## Frequently asked questions

@@ -149,7 +149,7 @@ No. The captions are timed internally but the timings are never exposed, and the
 Not from TranscribeTok — its SRT is timed per line. VexaScribe offers word-level timing.
 
 **How do I convert SRT to VTT?**
-Add a `WEBVTT` header line, swap the timecode commas for periods, save as `.vtt`.
+Add a `WEBVTT` header line, swap the timecode commas for periods, save as `.vtt`. [The full SRT to VTT guide](/srt-to-vtt-converter) covers both directions and why converted files sometimes still fail to load.
 
 ---
 

@@ -112,6 +112,9 @@ Two videos become six pieces of content, and none of them started from a blank p
 - [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt) — the prompts
 - [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT
 - [TikTok transcript to Notion](/tiktok-transcript-to-notion) — build a searchable swipe file from saved videos
+- [TikTok script extractor](/tiktok-script-extractor) — getting the raw script out, and what extraction never captures
+
+Making content for a non-English audience? The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists every guide, including [Spanish](/spanish-tiktok-transcript) and [Arabic](/arabic-tiktok-transcript).
 
 ## Frequently asked questions
 

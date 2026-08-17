@@ -105,6 +105,8 @@ Accuracy on clear speech sits in the mid-to-high 90s for both. Loud music, sped-
 - [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT, and which to pick
 - [TikTok transcript to Notion](/tiktok-transcript-to-notion) — building a searchable research library
 - [TranscribeTok vs GetTranscribe](/transcribetok-vs-gettranscribe) — the other head-to-head, against a video-intelligence platform
+- [Saveto AI alternative, compared](/transcribetok-vs-saveto-ai) — against a free all-in-one AI suite with no published pricing
+- [TikTok script extractor](/tiktok-script-extractor) — the single-video workflow, and when volume makes it the wrong tool
 
 ## Frequently asked questions
 
