@@ -53,9 +53,9 @@ Shipped 2026-08-11 in response: IndexNow (`scripts/indexnow.mjs`, key file in `p
 
 ---
 
-## Run 2026-08-17 — awaiting push
+## Run 2026-08-17 — PUSHED AND LIVE (confirmed 2026-08-24)
 
-**Build verified and passing. Not yet committed or pushed** — Sahil is running the push manually.
+Confirmed on 2026-08-24: commit `bd8b479` is on `main` and the working folder matches the remote exactly. Nothing outstanding from that run.
 
 Files changed this run:
 
@@ -79,6 +79,73 @@ Files changed this run:
 - Frontmatter complete on all three; categories (`How-To`, `How-To`, `Comparisons`) all valid in `src/lib/clusters.ts`; slugs new and lowercase-hyphenated; dates 2026-08-17; no claim contradicts the playbook product facts.
 
 **Sandbox build note:** the Next 16 native SWC binary segfaults in this sandbox (`Bus error (core dumped)`) and reinstalling `@next/swc-linux-x64-gnu` does **not** fix it — the binary crashes the process on `require`. The working fallback is `npm install @next/swc-wasm-nodejs@16.2.6` plus `experimental: { useWasmBinary: true }` in `next.config.ts`. **That config change was made only in the throwaway `/tmp` build copy and is deliberately NOT in the repo** — Vercel's build machines run the native binary fine. Do not commit `useWasmBinary`.
+
+---
+
+## Run 2026-08-24
+
+**Two posts written, verified and pushed.**
+
+- `posts/tiktok-transcript-api.md` (new — TIER 1, `tiktok transcript api` 100–1k / +900% / bid A$0.62–7.27)
+- `posts/free-vs-paid-tiktok-transcript-tools.md` (new — TIER 1, `free tiktok transcript` 100–1k / +900%, `tiktok transcript free` 100–1k)
+- Backlinks added from `best-tiktok-transcript-tools-2026`, `transcribetok-vs-tokscript`, `transcribetok-vs-gettranscribe`, `tiktok-transcript-for-chatgpt`, `tiktok-transcript-to-notion`
+- `public/llms.txt` — 2 new index entries, 6 new facts, **and one correction**: the summary line said paid plans "raise the daily limit", which contradicts both the live pricing page and another bullet in the same file. Changed to "one-time credit packs, not subscriptions". `CONTENT-PLAYBOOK.md` still carries the stale wording and was deliberately not edited (see open items).
+
+**Why these two.** Search Console again surfaced nothing usable in the 11–30 band, so both came from TIER 1 of this queue rather than from GSC. The comparison slot was filled by the free-vs-paid post (category `Comparisons`) rather than a `<competitor> alternative` post, because it had measured volume and the brand-term posts do not.
+
+### Keyword Planner — measured 2026-08-24 (All locations, All languages, Google, Aug 2025 – Jul 2026)
+
+| Keyword | Avg monthly | YoY | Bid low–high |
+|---|---|---|---|
+| `tiktok subtitles download` | **1k – 10k** | — | Low comp |
+| `tiktok transcript api` | 100 – 1k | +900% | A$0.62 – A$7.27 |
+| `free tiktok transcript` | 100 – 1k | +900% | A$0.24 – A$1.58 |
+| `tiktok transcript free` | 100 – 1k | — | A$0.29 – A$1.32 |
+| `tiktok to srt` | 10 – 100 | — | |
+| `extract subtitles from tiktok video` | 10 – 100 | — | |
+| `tiktok api transcript` | no data | | |
+| `tiktok transcript exporter` | no data | | |
+| `free vs paid transcription` | no data | | |
+
+**`tiktok subtitles download` at 1k–10k is the biggest volume find on the property to date.** It is already in the keywords of `download-tiktok-captions`, and GSC shows us at position 69.0 for it with 2 impressions. No new post was written against it — that would cannibalise. **Next run: this is an on-page/title problem for `download-tiktok-captions`, not a new-post problem.**
+
+### Competitor research — corrections to previously held beliefs
+
+Verified directly on each vendor's pricing page, 2026-08-24:
+
+- **The "our free tier resets daily, theirs are lifetime totals" line is now only half true.** `TokScript`'s free tier is **5 transcripts/day** — a daily reset, and more generous than our 2/day. It also includes Chrome extension and MCP access on the free plan. Both new posts say so plainly. **Our real differentiator is narrower and should be stated as: no account required at all.**
+- WayinVideo free is **200 credits one-time at signup** (pricing page wording: "Signup Benefits: 200 Credits(One-Time)"). A search snippet claiming "30 credits added daily" is **not** supported by the pricing page — the original lifetime-total reading stands.
+- WayinVideo paid: Standard $13.99/mo, Pro $26.99/mo, Pro+ $139.99/mo; credits reset monthly, no rollover; payments non-refundable. Transcript costs 0.5 credit/min, so 200 credits ≈ 400 minutes.
+- TokScript paid: $10/mo, $39/yr, $199 lifetime.
+- GetTranscribe free is **2 analyses + 10 AI questions, a lifetime total**. Pro $9.99/mo (3,000 processing minutes fair-use), API access included, pay-as-you-go from $0.06/min, credits don't expire while subscribed, refund within 3 days if under 3 jobs.
+- VexaScribe free is **30 minutes one-time**, nothing feature-gated. Paid from $2/mo for 200 minutes.
+- **TikTok's official API has no transcript/caption/subtitle endpoint.** Confirmed independently by Supadata and Apify docs.
+- **TikTok auto-caption coverage averages 60–75%** and is worse for non-English, pre-late-2023 uploads, the first 24–48h after posting, and music/dance/slideshow content. This is the number that drives real API cost.
+- Supadata: free 100 credits/mo; $5/300, $17/3,000, $47/30,000, $297/300,000, $897/1M; no rollover; 1 transcript = 1 credit, AI-generated = 2 credits/min; Python + JS SDKs, MCP, Zapier/Make/n8n. **Batch transcript endpoints are YouTube-only.**
+- Apify (clockworks/tiktok-transcript-extractor): pay-per-event from ~$1.70/1,000 videos, $5 free usage per month; returns .vtt + .txt **plus engagement metadata** (views, likes, shares, author) in one record — the only one of the three that does.
+
+### Search Console notes — 2026-08-24
+
+- Last 28 days: **1,180 impressions, 16 clicks, CTR 1.4%, avg position 56.5** across **126 queries**. Up from 616/14/69 on 2026-08-17 — impressions 1.9x, query count 1.8x. Clicks nearly flat.
+- **Every one of the 126 listed queries shows 0 clicks.** All 16 clicks are below the anonymisation threshold, so no query-level click data exists yet.
+- **Language cluster:** `tiktok transcript arabic` **7.8 → 8.0** (10 impressions, 0 clicks) — essentially flat after three runs of improvement. `spanish tok` **9.0** (4 imp), `frenchtok` **32.0** (1 imp). New: `tiktok transcript deutsch` **52.0**, `trancrever tiktok` **62.0**, `tiktok transcrever` **63.0**, `transcribir videos de tiktok` **82.0** — the non-English cluster keeps widening.
+- **Arabic is now a CTR problem, not a position problem.** Position 8.0 with 0/10 CTR across three consecutive runs. The 2026-08-17 recommendation to rewrite `languageTitle()` / `languageDescription()` in `src/lib/languages.ts` still stands and was **not** actioned this run — it is a `src/` change and this is an unattended publish. **Do it manually, or authorise src/ edits in the task prompt.**
+- **Nothing actionable in the 11–30 band again.** Only `tokscript` (2 imp, 28.5), already served by `transcribetok-vs-tokscript`. Third consecutive run with nothing there.
+- **New subtitle/SRT cluster forming:** `tiktok to srt` 78.3, `tiktok srt file` 71.0, `extract subtitles from tiktok video` 70.5, `tiktok subtitles download` 69.0, `download subtitle video tiktok` 75.0. Worth watching now that `srt-to-vtt-converter` and `download-tiktok-captions` both exist.
+- **Extractor cluster surfacing:** `tiktok transcript exporter` (6 imp, 79.2), `free tiktok transcript extractor` 67.0, `script extractor tiktok` 79.0, `tiktok transcript extractor online free` 91.0. `tiktok script extractor` sits at 94.0 — shipped 2026-08-17, too new to judge.
+- **Two new competitor brands appeared in GSC:** `scrapecreators tiktok transcript extractor` (57.0) and `claptools tiktok transcript generator` (78.0). Added as comparison candidates below.
+- The three known SERP-scraper artifacts (`"wayinvideo" -site:...` at 5.0, `can chat gpt` at 3.0, `chatgpt.comtiktok` at 7.0) are all still present. Still noise, still ignore.
+
+### Verification — 2026-08-24
+
+- **Content pipeline: PASS.** All 21 posts parse and render through the real `src/lib/posts.ts`; every internal link across every post resolves against the 43 real routes (21 posts + 21 language pages + the hub); zero broken. Categories valid, dates today, slugs new, 5 faqItems and 5 howToSteps each, description lengths 157 and 150 chars, word counts 1,840 and 1,731.
+- **`npx tsc --noEmit`: PASS, zero errors.**
+- **`npx next build`: PASS — compiled clean, 48 static pages (up from 46), both new routes in the sitemap (44 URLs, up from 42), full Article + BreadcrumbList + FAQPage + HowTo JSON-LD emitted on both new pages, canonical and OG/Twitter tags correct.**
+- **Sandbox build note (updated, supersedes the 2026-08-17 note).** The 2026-08-17 workaround — `@next/swc-wasm-nodejs` + `experimental: { useWasmBinary: true }` — **no longer works**: Next 16.2.6 rejects `useWasmBinary` on linux/x64 ("not an option for supported platform"), and next.config.ts itself needs SWC to load, so it is circular. What actually happened this run:
+  1. Two `npm install` runs were killed by the 178s tool timeout, leaving a corrupt `next-swc` binary → `Bus error`. **Run installs with `nohup ... &` and poll.** A clean `npm install @next/swc-linux-x64-gnu@16.2.6 --force` fixed the SIGBUS entirely.
+  2. The remaining failure was Turbopack being unable to spawn the PostCSS/Tailwind child process ("creating new process → unexpected end of file"), which is environmental.
+  3. **Confirmed environmental by control build:** a pristine clone of `main` (commit `bd8b479`, currently live and building fine on Vercel) fails identically in this sandbox.
+  4. **Working fix:** stub `postcss.config.mjs` to `{ plugins: [] }` in the throwaway `/tmp` copy only. The build then completes fully. **Do not commit this** — it disables Tailwind, and Vercel's builders run the real config without issue.
 
 ---
 
@@ -110,6 +177,8 @@ Standing checks now live in **STEP 0 of the scheduled task itself**, not here �
 - [x] tiktok-script-extractor — 2026-08-17 — **Keyword Planner: `tiktok script extractor` 1k–10k, Low competition, bid A$0.41–2.39.** No existing post targeted it and GSC had us at position 97 for the term. Replaced the shelved marketers post.
 - [x] srt-to-vtt-converter — 2026-08-17 — **Keyword Planner: `srt to vtt` 1k–10k, plus `convert srt to vtt` 1k–10k, `srt to webvtt` 1k–10k, `vtt to srt` 1k–10k, `convert vtt to srt` 1k–10k, `vtt converter` 100–1k.** Strongest measured cluster on the property. Previously only a section inside the timestamps post.
 - [ ] ~~tiktok-transcripts-for-marketers~~ — 2026-08-17 — **WRITTEN THEN SHELVED to `drafts/`, unpublished.** Keyword Planner returned no data for the primary keyword or any sibling in the `for [audience]` cluster. Draft is complete and reusable if demand is ever evidenced.
+- [x] tiktok-transcript-api — 2026-08-24 — **TIER 1 volume gate: `tiktok transcript api` 100–1k, +900% YoY, top-of-page bid A$0.62–7.27, the highest commercial value measured on the property.** Written as an honest "we have no API" guide. Verified TikTok has no official transcript endpoint, and priced Supadata, Apify and GetTranscribe from their own pricing pages.
+- [x] free-vs-paid-tiktok-transcript-tools — 2026-08-24 — **TIER 1 volume gate: `free tiktok transcript` 100–1k / +900%, `tiktok transcript free` 100–1k.** Filled the comparison slot. Notable: research disproved our own standing "theirs are lifetime totals" line for TokScript.
 
 ---
 
@@ -119,9 +188,9 @@ Volumes below are Google, All locations, English, Aug 2025 – Jul 2026, measure
 
 ### TIER 1 — measured volume, write these first
 
-- [ ] `tiktok-transcript-api` — **100–1k, +900% YoY, top-of-page bid A$0.62–7.35** (highest commercial value measured on the property). We have no API; write it as an honest "we don't, here's who does" — GetTranscribe, Apify, Supadata. — Guide
+- [x] ~~`tiktok-transcript-api`~~ — **WRITTEN 2026-08-24.** Re-measured at 100–1k / +900% / A$0.62–7.27. Written as the honest "we have no API, here is who does" piece, with Supadata, Apify and GetTranscribe priced side by side. Category `Developer Guides`.
 - [ ] `vtt-to-srt-converter` — **`vtt to srt` 1k–10k, `convert vtt to srt` 1k–10k.** The reverse direction of the SRT→VTT post, currently only a section inside it. Split only if the SRT→VTT post starts ranking; otherwise leave as a section to avoid cannibalising. — How-To
-- [ ] `free-vs-paid-tiktok-transcript-tools` — `free tiktok transcript` **100–1k, +900% YoY**. Lead with free-tier *shape* (ours resets daily, most competitors' are lifetime totals). — Comparisons
+- [x] ~~`free-vs-paid-tiktok-transcript-tools`~~ — **WRITTEN 2026-08-24.** Led with free-tier shape as planned, but the premise needed correcting mid-run: TokScript's free tier also resets daily and is larger than ours (5/day vs 2/day). Post says so plainly and repositions our edge as "no account required".
 
 ### TIER 2 — comparison cluster (exempt from the volume gate, but retarget to the brand term)
 
@@ -181,6 +250,15 @@ All of the following returned **no data** in Keyword Planner on 2026-08-17. Fold
 - `transcribetok-vs-vexascribe`, `transcribetok-vs-wayinvideo`, `transcribetok-vs-toktranscript`, `transcribetok-vs-tokscribe`, `transcribetok-vs-descript` — still untouched as of 2026-08-17. Descript is the odd one out and probably the most useful: it is a desktop editor, not a link-in/text-out tool, so the comparison is about workflow shape rather than features.
 - Saveto AI's suite surfaced two adjacent formats we have no coverage of: **flashcards/quiz generation from a transcript** (study angle, pairs with the queued `tiktok-transcripts-for-students`) and **mind maps from a transcript** (already noted for WayinVideo on 2026-08-10 — two competitors now ship it, which raises it from curiosity to real demand).
 - **Free-tier shape as a recurring angle** — spotted 2026-08-10. Nearly every competitor's "free" tier is a lifetime total (GetTranscribe 2 analyses, WayinVideo 400 minutes) while ours resets daily. This is our sharpest honest differentiator and is currently only stated inside comparison posts. `free-vs-paid-tiktok-transcript-tools` (already queued) should lead with it.
+
+### Candidates spotted 2026-08-24
+
+- **`download-tiktok-captions` title/meta rewrite** — not a new post. `tiktok subtitles download` measures **1k–10k**, is already in that post's keywords, and we sit at position 69.0. Highest-volume term on the property; the post exists and is not ranking. Audit the title, H1 and description before writing anything new against subtitles.
+- **`scrapecreators-alternative`** — appeared in GSC as `scrapecreators tiktok transcript extractor` (57.0). Developer-facing scraping API, pay-as-you-go credits that never expire. Pairs naturally with the new API post.
+- **`claptools-alternative`** — appeared in GSC as `claptools tiktok transcript generator` (78.0). Unresearched.
+- **`supadata-alternative` / `apify-tiktok-transcript-alternative`** — the API post now carries verified detail on both. A dedicated brand-term post is cheap to write from that research.
+- **Free-tier shape needs restating across the site.** Several existing posts still imply competitors' free tiers are uniformly lifetime totals. TokScript's is 5/day. Worth a sweep.
+- **`tiktok-mind-map-from-video`** and **flashcards/quiz from a transcript** — still uncovered, still shipped by two competitors each. Volume unchecked.
 
 ### Search Console notes — 2026-08-17
 

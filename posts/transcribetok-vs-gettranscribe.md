@@ -108,6 +108,8 @@ One genuine advantage on our side of that last point: we transcribe the audio tr
 - [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT, and which to pick
 - [Saveto AI alternative, compared](/transcribetok-vs-saveto-ai) — against a free all-in-one AI suite that covers files and documents too
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — three ways to get the gist without watching
+- [TikTok transcript API options, priced](/tiktok-transcript-api) — GetTranscribe's API compared against Supadata and Apify
+- [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — why GetTranscribe's 2 free analyses are a lifetime total
 
 Working in another language? The [Spanish](/spanish-tiktok-transcript), [Arabic](/arabic-tiktok-transcript) and [Indonesian](/indonesian-tiktok-transcript) guides cover the same workflow for non-English audio.
 

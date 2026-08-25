@@ -107,6 +107,7 @@ Accuracy on clear speech sits in the mid-to-high 90s for both. Loud music, sped-
 - [TranscribeTok vs GetTranscribe](/transcribetok-vs-gettranscribe) — the other head-to-head, against a video-intelligence platform
 - [Saveto AI alternative, compared](/transcribetok-vs-saveto-ai) — against a free all-in-one AI suite with no published pricing
 - [TikTok script extractor](/tiktok-script-extractor) — the single-video workflow, and when volume makes it the wrong tool
+- [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — where TokScript's 5-a-day free tier sits against the rest of the field
 
 ## Frequently asked questions
 

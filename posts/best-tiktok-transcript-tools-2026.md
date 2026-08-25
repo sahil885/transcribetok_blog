@@ -125,6 +125,8 @@ Differences between mainstream tools on the same clean audio are small. Differen
 - [Saveto AI alternative, compared](/transcribetok-vs-saveto-ai) — utility versus a free all-in-one AI suite
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — three methods, and when a summarizer is the wrong tool
 - [TikTok script extractor](/tiktok-script-extractor) — what a script extractor returns, and the three things it cannot capture
+- [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — every free tier's real limit, and whether it resets
+- [TikTok transcript API options, priced](/tiktok-transcript-api) — the developer route, and why we do not offer one
 - [SRT to VTT conversion](/srt-to-vtt-converter) — which tools export VTT directly, and the ten-second manual fix
 
 ## Frequently asked questions

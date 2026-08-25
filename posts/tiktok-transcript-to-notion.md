@@ -131,6 +131,7 @@ If the goal is turning saved videos into your own content rather than research, 
 - [TikTok transcript generator](/tiktok-transcript-generator) — the complete guide to how transcription works
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — turning saved videos into your own posts
 - [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt) — summarising and mining transcripts with prompts
+- [TikTok transcript API options, priced](/tiktok-transcript-api) — automating the import step instead of pasting each transcript
 
 ## Frequently asked questions
 
