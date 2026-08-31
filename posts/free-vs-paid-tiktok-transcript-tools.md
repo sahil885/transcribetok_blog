@@ -127,6 +127,7 @@ One more thing worth testing before you settle: accuracy varies enormously by la
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — three free methods, step by step
 - [TranscribeTok vs TokScript](/transcribetok-vs-tokscript) — the closest competitor, in detail
 - [Saveto AI alternative: an honest side-by-side](/transcribetok-vs-saveto-ai) — the one rival advertising unlimited free
+- [WayinVideo alternative: an honest comparison](/wayinvideo-alternative) — a one-time free grant versus a daily reset, in detail
 - [How to transcribe a TikTok video free](/transcribe-tiktok-video) — the pillar guide
 
 ## Frequently asked questions

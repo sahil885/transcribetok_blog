@@ -1,6 +1,6 @@
 ---
-title: "How to Download TikTok Captions & Subtitles (Free, 2026)"
-description: "TikTok won't let you export captions — there's no copy or download button. Here's the free workaround to get any video's captions as a TXT or SRT subtitle file."
+title: "Download TikTok Subtitles & Captions Free (SRT or TXT)"
+description: "TikTok has no subtitles download button. Here is the free workaround to download TikTok subtitles and captions from any public video as an SRT or TXT file."
 date: "2026-07-18"
 author: "TranscribeTok Team"
 category: "How-To"
@@ -114,6 +114,7 @@ For a whole back catalogue in one sitting, you want a tool built for batch proce
 - [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) — reading SRT timecodes, and converting SRT to VTT
 - [SRT to VTT: convert subtitle files in 10 seconds](/srt-to-vtt-converter) — the header line and comma swap that fixes a file the browser won't load
 - [TikTok script extractor](/tiktok-script-extractor) — pulling the spoken script out when you don't need a subtitle file
+- [TikTok subtitle generator](/tiktok-subtitle-generator) — adding subtitles to your own video, and why TikTok accepts no SRT upload
 - [Transcribe a TikTok video](/transcribe-tiktok-video) — accuracy, alternatives, and what affects results
 
 ## Frequently asked questions

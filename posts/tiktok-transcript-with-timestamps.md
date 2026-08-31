@@ -132,6 +132,7 @@ Pick by the job, not by loyalty:
 - [Download TikTok captions and subtitles](/download-tiktok-captions) — the subtitle-file workflow in full
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three free methods compared
 - [Translate a TikTok transcript](/translate-tiktok-transcript) — what to do once the text is in the wrong language
+- [TikTok subtitle generator](/tiktok-subtitle-generator) — TikTok's auto-generated and creator captions, and their limits
 - [Transcribe a TikTok video](/transcribe-tiktok-video) — accuracy, alternatives and limits
 
 ## Frequently asked questions

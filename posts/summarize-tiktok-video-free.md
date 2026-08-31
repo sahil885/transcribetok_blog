@@ -127,6 +127,7 @@ Accuracy of the underlying transcription sits in the mid-to-high 90s for clear s
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — three free methods compared
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — turning one video into five pieces of content
 - [TikTok transcript to Notion](/tiktok-transcript-to-notion) — where to put the summaries once you have them
+- [WayinVideo alternative, compared](/wayinvideo-alternative) — the strongest dedicated summarizer and mind-map tool, priced and verified
 
 Summarizing a video in another language? Transcribe it first with the [Spanish](/spanish-tiktok-transcript), [Arabic](/arabic-tiktok-transcript) or [French](/french-tiktok-transcript) guide, then ask for the summary in whichever language you prefer.
 

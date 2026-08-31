@@ -149,6 +149,87 @@ Verified directly on each vendor's pricing page, 2026-08-24:
 
 ---
 
+## Run 2026-08-31
+
+**Two posts written, verified and pushed.**
+
+- `posts/wayinvideo-alternative.md` (new — TIER 2 comparison, retargeted to the brand term. **`wayinvideo` measured 10k – 100k, +900% YoY, Low competition, bid A$0.21–2.35 — the highest search volume ever measured on this property.**)
+- `posts/tiktok-subtitle-generator.md` (new — `tiktok subtitle generator` 100–1k, with `tiktok caption generator` 1k–10k, `tiktok auto captions` 100–1k and `tiktok closed captions` 100–1k as a coherent secondary cluster)
+- Backlinks added from `best-tiktok-transcript-tools-2026` (both), `summarize-tiktok-video-free`, `free-vs-paid-tiktok-transcript-tools`, `download-tiktok-captions`, `tiktok-transcript-with-timestamps`
+- `public/llms.txt` — 2 new index entries, 6 new facts
+- **`download-tiktok-captions` title and description rewritten** — the on-page fix flagged on 2026-08-24. `tiktok subtitles download` measures 1k–10k and GSC had the post at 68.2 with the exact phrase buried. Title is now `Download TikTok Subtitles & Captions Free (SRT or TXT)` and the description leads with "TikTok has no subtitles download button". Slug and date unchanged, so no link breakage. **Watch this position next run — if it does not move, the problem is authority, not on-page.**
+
+**Why these two.** Fourth consecutive run with nothing usable in the GSC 11–30 band, so neither came from Search Console. The comparison slot went to WayinVideo on measured brand volume; the second slot went to the subtitle cluster because it was the largest measured non-brand cluster that no existing post targets.
+
+**Deliberately not written despite volume:** `scrapecreators` (1k–10k, +900%) and `claptools` (1k–10k) are both strong comparison candidates and both already appear in GSC, but only one comparison per run. They are the front of the TIER 2 queue now.
+
+### Keyword Planner — measured 2026-08-31 (All locations, All languages, Google, Aug 2025 – Jul 2026)
+
+| Keyword | Avg monthly | YoY | Comp | Bid low–high |
+|---|---|---|---|---|
+| `wayinvideo` | **10k – 100k** | +900% | Low | A$0.21 – A$2.35 |
+| `tiktok caption generator` | **1k – 10k** | 0% | Low | A$0.97 – A$4.59 |
+| `scrapecreators` | **1k – 10k** | +900% | Low | A$1.55 – A$10.40 |
+| `claptools` | **1k – 10k** | 0% | Low | A$0.29 – A$3.27 |
+| `descript alternative` | 100 – 1k | 0% | Medium | A$1.46 – A$10.28 |
+| `tiktok subtitle generator` | 100 – 1k | 0% | Low | A$0.83 – A$3.80 |
+| `tiktok auto captions` | 100 – 1k | 0% | Low | A$0.77 – A$5.24 |
+| `tiktok closed captions` | 100 – 1k | 0% | Low | — |
+| `tiktok speech to text` | 100 – 1k | 0% | Low | A$0.30 – A$1.43 |
+| `tiktok video to text converter` | 100 – 1k | 0% | Low | A$0.03 – A$0.78 |
+| `tiktok video summarizer` | 100 – 1k | 0% | Low | A$0.19 – A$1.48 |
+| `tiktok summarizer` | 100 – 1k | 0% | Low | A$0.79 – A$5.95 |
+| `add subtitles to tiktok` | 10 – 100 | 0% | Low | |
+| `vexascribe` | 10 – 100 | +∞ | Medium | A$0.53 – A$5.76 |
+| `transcribe tiktok to text` | 10 – 100 | 0% | Low | |
+| `tiktok mind map` | no data | | | |
+| `tiktok transcript google docs` | no data | | | |
+| `tiktok accessibility captions` | no data | | | |
+| `tiktok transcript chrome extension` | no data | | | |
+| `tiktok transcript summary` | no data | | | |
+
+**`wayinvideo` at 10k–100k is now the largest measured term on the property, replacing `tiktok subtitles download` (1k–10k).** It also confirms the 2026-08-17 rule: brand terms in this category carry real volume while the `vs` phrasings carry none. Keep retargeting comparisons to `<competitor> alternative`.
+
+**`tiktok mind map` returned no data**, which retires it as a standalone. It has been flagged as a candidate since 2026-08-10 on the strength of two competitors shipping the feature; competitor feature parity is evidently not a demand signal. Fold into `summarize-tiktok-video-free` if it is ever wanted.
+
+### Competitor research — WayinVideo verified 2026-08-31
+
+Verified directly against wayin.ai's own pages. Several previously held facts changed:
+
+- **WayinVideo's paid prices have gone up.** Now $13.99 / $26.99 / $139.99 per month list (was recorded on 2026-08-24 as Standard $13.99, Pro $26.99, Pro+ $139.99 — same numbers, but the tiers are now named Starter / Pro / Scale and a 65%-off annual promotion is running at $4.99 / $9.58 / $69.99 per month billed yearly).
+- Credits per year: 18,000 / 42,000 / 240,000. Free is 200 one-time. Credits reset monthly, **no rollover**. Payments **nonrefundable**. Subscriptions auto-renew.
+- Free tier detail from the pricing table: ≈400 min transcript/subtitle, ≈200 min summary, ≈100 min AI clipping, 720p export, clips exportable 3 days, 512 MB storage kept 3 days, 1 connected social account, no bulk editing, no social auto-post.
+- **Subtitle export formats per the pricing table: TXT and SRT on every tier — including paid.** Their TikTok landing page claims TXT, DOC, PDF, SRT and VTT. The two pages disagree.
+- **The bigger contradiction: the free tier.** Pricing page says `SIGNUP BENEFITS: 200 CREDITS (One-Time)` with no recurring allowance. The TikTok transcript landing page says `200 Sign-Up Credits + 60 Daily Bonus` and `Free to Start, No Login`. A search snippet elsewhere says 30 daily. **The 2026-08-24 note rejected a "30 credits added daily" claim as unsupported by the pricing page; that rejection still stands, but the claim is now on WayinVideo's own landing page, not just a third-party snippet.** The post treats the pricing page as authoritative and names the discrepancy openly. Re-verify next run.
+- Sources: YouTube, Vimeo, TikTok, Instagram, Facebook, Twitch, Dailymotion, Rumble, Kick, Zoom, Google Drive, plus device upload. 100+ languages. Chrome extension. API.
+- Features we do not have: speaker labels, in-app transcript search with click-to-jump, AI clipping, auto-reframe, filler/silence removal, animated burned-in subtitles, mind maps, chat-with-video, virality score, scheduled publishing, brand kits.
+
+### TikTok product research — verified 2026-08-31 against TikTok's own help centre
+
+- TikTok has **two distinct subtitle systems**, documented separately. **Auto-generated captions**: produced from the language chosen under More options → Select video language; editable *after posting* (tap the caption → Edit captions → Save); viewers can switch them off from the share panel; not styleable. **Creator captions**: opted into on the preview screen via the Captions button; transcribed from speech; previewed and edited line by line before saving; support font style and colour; part of the video content.
+- **TikTok accepts no subtitle-file upload** anywhere in the consumer posting flow — no SRT, VTT or SBV import. Existing subtitle files can only be burned into the video before upload or retyped.
+- **TikTok Ads Manager's Video Editor** does generate captions and translate them into other languages, with font, colour and alignment controls (TikTok help article, last updated April 2025). Separate surface, advertising creative only.
+- Alt text on photo posts is capped at 300 characters. Text-to-speech is a separate feature from captions.
+
+### Search Console notes — 2026-08-31
+
+- Last 28 days: **1,540 impressions, 16 clicks, CTR 1.0%, avg position 61.7** across **155 queries**. Against 2026-08-24 (1,180 / 16 / 1.4% / 56.5 / 126 queries): impressions +31%, query count +23%, **clicks flat at 16 for the second consecutive run**, average position worse by 5.2.
+- The falling CTR and worsening average position are both dilution effects — the tail is growing much faster than the head. Not alarming on its own, but **clicks have not moved in two runs** and that is the number to watch.
+- **Nothing actionable in the 11–30 band. Fourth consecutive run.** The only entry is `tokscript` (2 imp, 28.5), already served by `transcribetok-vs-tokscript`.
+- **`tiktok transcript arabic` is stuck.** Position 8.0 with 10 impressions and 0 clicks — identical to 2026-08-24 (8.0 / 10 imp / 0 clicks), after 7.8 on 2026-08-17 and 9.2 on 2026-08-10. Three runs at position 7–8 with zero clicks. **This is definitively a snippet problem, not a ranking problem.** The `languageTitle()` / `languageDescription()` rewrite in `src/lib/languages.ts` has now been recommended on three consecutive runs and not actioned, because it is a `src/` change and these are unattended publishes. **Either do it manually or authorise `src/` edits in the task prompt — adding more internal links to the language pages will not fix a CTR problem.**
+- Language cluster otherwise: `spanish tok` 9.0 (4 imp), `frenchtok` 32.0, `tiktok transcript deutsch` 52.0, `translate tik from indonesian` 59.5, `tiktok transcrever` 63.0, `tiktok language translator` 72.5, `transcribir videos de tiktok` 82.0. Widening, all zero clicks.
+- Subtitle/SRT cluster: `download subtitles tiktok` 58.0, `tiktok video transcript download` 65.0, `tiktok subtitles download` 68.2 (4 imp, up from 69.0), `extract subtitles from tiktok video` 70.5, `tiktok srt file` 71.0, `tiktok to srt` 78.3. The whole cluster sits at 58–98. `srt-to-vtt-converter` is not ranking, which is why `vtt-to-srt-converter` was **not** split out this run — the TIER 1 condition for splitting it has not been met.
+- Competitor brands in GSC: `tokscript` 28.5, `scrapecreators tiktok transcript extractor` 57.0, `claptools tiktok transcript generator` 78.0.
+- The three known SERP-scraper artifacts (`"wayinvideo" -site:...` 5.0, `can chat gpt` 3.0, `chatgpt.comtiktok` 7.0) are all still present. Still noise.
+
+### Verification — 2026-08-31
+
+- **Content pipeline: PASS.** Every internal link across all 23 posts resolves against the 45 real routes (23 posts + 21 language pages + the hub); zero broken. Both new posts: 5 faqItems, 5 howToSteps, categories `Comparisons` and `How-To` (both valid in `src/lib/clusters.ts`), descriptions 154 and 159 chars, word counts 1,801 and 1,537, dates 2026-08-31, slugs new and lowercase-hyphenated, no claim contradicting the playbook product facts.
+- **`npx next build`: PASS — compiled clean in 13.8s, TypeScript clean, 50 static pages (up from 48), sitemap 46 URLs (up from 44) with both new routes present, and full Article + BreadcrumbList + FAQPage + HowTo JSON-LD plus correct canonical and OG tags emitted on both new pages.**
+- **Sandbox build note (updated, supersedes 2026-08-24).** `nohup ... &` and `setsid nohup ... &` **both fail** — the sandbox kills background processes when the bash call returns, and the host caps each call at ~178s regardless of the requested timeout. A partial install leaves `node_modules` in a state where the next `npm install` dies with `ENOTEMPTY` on `node_modules/next`. **What works: `rm -rf node_modules` then a single `timeout 170 npm install --prefer-offline --no-audit --no-fund`, which completes in about 2 minutes from a warm npm cache.** Copying `package-lock.json` into the build copy is what makes it fit inside the cap. The postcss stub (`export default { plugins: [] };`) was still applied in the `/tmp` copy only and is still required. No SWC segfault this run.
+
+---
+
 ## Open items
 
 Standing checks now live in **STEP 0 of the scheduled task itself**, not here — that way they run before topic selection instead of relying on this file being read closely. Currently tracked there: the transcribetok.com meta description publish, the playbook-vs-pricing wording, and the `tiktok transcript arabic` position. Add new cross-run checks to the task prompt, not to this file.
@@ -189,7 +270,10 @@ Volumes below are Google, All locations, English, Aug 2025 – Jul 2026, measure
 ### TIER 1 — measured volume, write these first
 
 - [x] ~~`tiktok-transcript-api`~~ — **WRITTEN 2026-08-24.** Re-measured at 100–1k / +900% / A$0.62–7.27. Written as the honest "we have no API, here is who does" piece, with Supadata, Apify and GetTranscribe priced side by side. Category `Developer Guides`.
-- [ ] `vtt-to-srt-converter` — **`vtt to srt` 1k–10k, `convert vtt to srt` 1k–10k.** The reverse direction of the SRT→VTT post, currently only a section inside it. Split only if the SRT→VTT post starts ranking; otherwise leave as a section to avoid cannibalising. — How-To
+- [ ] `vtt-to-srt-converter` — **`vtt to srt` 1k–10k, `convert vtt to srt` 1k–10k.** The reverse direction of the SRT→VTT post, currently only a section inside it. Split only if the SRT→VTT post starts ranking; otherwise leave as a section to avoid cannibalising. — How-To **Checked 2026-08-31: `srt-to-vtt-converter` is still not ranking (whole SRT cluster sits at 58–98), so still NOT split.**
+- [x] ~~`tiktok-subtitle-generator`~~ — **WRITTEN 2026-08-31.** `tiktok subtitle generator` 100–1k, `tiktok caption generator` 1k–10k, `tiktok auto captions` 100–1k, `tiktok closed captions` 100–1k. Creator-side subtitling was a genuine content gap — every existing post covers extraction, none covered making subtitles. Category `How-To`.
+- [ ] `scrapecreators-alternative` — **`scrapecreators` 1k–10k, +900% YoY, bid A$1.55–10.40.** Already in GSC at 57.0. Developer-facing scraping API; pairs with the API post. **Front of the comparison queue.** — Comparisons
+- [ ] `claptools-alternative` — **`claptools` 1k–10k.** Already in GSC at 78.0. Unresearched. — Comparisons
 - [x] ~~`free-vs-paid-tiktok-transcript-tools`~~ — **WRITTEN 2026-08-24.** Led with free-tier shape as planned, but the premise needed correcting mid-run: TokScript's free tier also resets daily and is larger than ours (5/day vs 2/day). Post says so plainly and repositions our edge as "no account required".
 
 ### TIER 2 — comparison cluster (exempt from the volume gate, but retarget to the brand term)
@@ -197,7 +281,7 @@ Volumes below are Google, All locations, English, Aug 2025 – Jul 2026, measure
 Each of these should be titled and keyworded at `<competitor> alternative` / `<competitor> review`, never `transcribetok vs <competitor>`. Check the brand term's volume first — `saveto ai` measured 100–1k / +900%.
 
 - [ ] `vexascribe-alternative` — lead on their JSON/CSV export, which we don't offer — Comparisons
-- [ ] `wayinvideo-alternative` — strongest dedicated summarizer; their free allowance is a lifetime total, ours resets daily — Comparisons
+- [x] ~~`wayinvideo-alternative`~~ — **WRITTEN 2026-08-31.** `wayinvideo` measured 10k–100k / +900% / Low competition — the largest term ever measured on this property. Verified their pricing page directly; the free allowance is still a one-time 200 credits there, but their TikTok landing page now advertises a 60-credit daily bonus and no login. Post names the contradiction.
 - [ ] `descript-alternative` — the odd one out and probably the most useful: desktop editor vs link-in/text-out, so the comparison is about workflow shape rather than features — Comparisons
 
 ### TIER 3 — measured ZERO volume, do NOT write as standalone posts
@@ -224,7 +308,7 @@ All of the following returned **no data** in Keyword Planner on 2026-08-17. Fold
 - [ ] `tiktok-transcript-to-newsletter` — Content Creation
 - [ ] `tiktok-transcript-json-export` — Developer Guides
 - [ ] `tiktok-transcript-to-airtable-or-sheets` — Productivity
-- [ ] `tiktok-mind-map-from-video` — two competitors now ship it — AI Tools
+- ~~`tiktok-mind-map-from-video`~~ — **RETIRED 2026-08-31. `tiktok mind map` returned no data in Keyword Planner.** Two competitors shipping a feature is not a demand signal. Fold into `summarize-tiktok-video-free` as a section if ever wanted.
 
 ---
 
