@@ -123,6 +123,7 @@ Differences between mainstream tools on the same clean audio are small. Differen
 - [TranscribeTok vs TokScript](/transcribetok-vs-tokscript) — the head-to-head, written by us
 - [TranscribeTok vs GetTranscribe](/transcribetok-vs-gettranscribe) — utility versus multi-platform video intelligence
 - [Saveto AI alternative, compared](/transcribetok-vs-saveto-ai) — utility versus a free all-in-one AI suite
+- [Descript alternative: honest comparison](/descript-alternative) — link-in/text-out utility versus a full desktop video editor
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — three methods, and when a summarizer is the wrong tool
 - [TikTok script extractor](/tiktok-script-extractor) — what a script extractor returns, and the three things it cannot capture
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — every free tier's real limit, and whether it resets

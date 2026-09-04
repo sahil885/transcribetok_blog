@@ -196,6 +196,14 @@ export const LANGUAGES: Language[] = [
       "Romania is one of Eastern Europe's strongest TikTok markets, with a large comedy, music and lifestyle creator base. The Romanian transcript converts rapid delivery into searchable text without replaying the clip.",
     note: "Romanian is a Romance language written in Latin script with five extra diacritics (ă, â, î, ș, ț). Auto-captions usually place them correctly, but dropped diacritics are the most common error and can change a word's meaning — worth a read-through before quoting.",
   },
+  {
+    slug: "swahili",
+    name: "Swahili",
+    native: "Kiswahili",
+    intro:
+      "Swahili TikTok is fastest-growing in East Africa, particularly Kenya, Tanzania and Uganda, with a strong creator base in comedy, education, music and business content. Extracting the Swahili transcript turns fast-paced, accented speech into text you can read at your own pace, quote accurately or translate into other languages.",
+    note: "Swahili speech recognition has improved significantly but still struggles with regional variation — Kenyan, Tanzanian and Ugandan Swahili differ in pronunciation and vocabulary. Audio with music or street noise is where errors concentrate most; clear speech transcribes reliably.",
+  },
 ];
 
 const SUFFIX = "-tiktok-transcript";
