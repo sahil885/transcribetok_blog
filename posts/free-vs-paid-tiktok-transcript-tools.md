@@ -128,6 +128,8 @@ One more thing worth testing before you settle: accuracy varies enormously by la
 - [TranscribeTok vs TokScript](/transcribetok-vs-tokscript) — the closest competitor, in detail
 - [Saveto AI alternative: an honest side-by-side](/transcribetok-vs-saveto-ai) — the one rival advertising unlimited free
 - [WayinVideo alternative: an honest comparison](/wayinvideo-alternative) — a one-time free grant versus a daily reset, in detail
+- [TokScribe alternative: an honest comparison](/tokscribe-alternative) — a free tier with no published price, and a public transcript archive
+- [TokTranscript alternative: free tiers compared](/toktranscript-alternative) — a monthly cap of 10 against a daily reset of 2, and privacy as a paid feature
 - [How to transcribe a TikTok video free](/transcribe-tiktok-video) — the pillar guide
 
 ## Frequently asked questions
