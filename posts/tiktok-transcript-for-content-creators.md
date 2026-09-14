@@ -113,6 +113,7 @@ Two videos become six pieces of content, and none of them started from a blank p
 - [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT
 - [TikTok transcript to Notion](/tiktok-transcript-to-notion) — build a searchable swipe file from saved videos
 - [TikTok script extractor](/tiktok-script-extractor) — getting the raw script out, and what extraction never captures
+- [Instagram Reels transcript](/instagram-reels-transcript) — the cross-posting half of the workflow, and why we point you elsewhere for it
 
 Making content for a non-English audience? The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists every guide, including [Spanish](/spanish-tiktok-transcript) and [Arabic](/arabic-tiktok-transcript).
 

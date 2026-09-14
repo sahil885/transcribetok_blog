@@ -121,6 +121,7 @@ Both extract accurate transcripts from public TikTok videos. Both preserve accur
 - [Best TikTok Transcript Tools 2026](/best-tiktok-transcript-tools-2026) — side-by-side comparison of six alternatives
 - [TikTok Transcript API: Which Services Actually Work](/tiktok-transcript-api) — pricing and features for Supadata, Apify, and other APIs
 - [Free vs Paid TikTok Transcript Tools](/free-vs-paid-tiktok-transcript-tools) — understand free-tier strategy and when to upgrade
+- [Supadata Alternative](/supadata-alternative) — the other developer-first option, with verified credit costs and where it beats a scraper
 
 ## FAQ
 

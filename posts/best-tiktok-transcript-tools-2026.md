@@ -126,6 +126,8 @@ Differences between mainstream tools on the same clean audio are small. Differen
 - [Descript alternative: honest comparison](/descript-alternative) — link-in/text-out utility versus a full desktop video editor
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — three methods, and when a summarizer is the wrong tool
 - [TikTok script extractor](/tiktok-script-extractor) — what a script extractor returns, and the three things it cannot capture
+- [Supadata alternative](/supadata-alternative) — the developer API in this list, priced, and when it is overkill
+- [Instagram Reels transcript](/instagram-reels-transcript) — which of these tools cross over to Reels, and which do not
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — every free tier's real limit, and whether it resets
 - [WayinVideo alternative, compared](/wayinvideo-alternative) — utility versus a full AI video platform, and where their own pages disagree
 - [TokScribe alternative, compared](/tokscribe-alternative) — everything free, including bulk and JSON, but transcripts are published to a public archive

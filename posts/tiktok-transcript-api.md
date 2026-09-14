@@ -151,6 +151,7 @@ Test whatever you pick on your actual language mix first, because English accura
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — every free tier's real limit, stated plainly
 - [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT, and which to pick
 - [TranscribeTok vs GetTranscribe](/transcribetok-vs-gettranscribe) — the product-side comparison of the one API vendor that is also a tool
+- [Supadata alternative, with the credit maths](/supadata-alternative) — when Supadata is the right call and when an API is the wrong shape entirely
 - [Using a TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt) — the no-code version of an AI pipeline
 
 ## Frequently asked questions
