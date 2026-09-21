@@ -118,6 +118,7 @@ Read that honestly and TokScribe wins most rows. The two rows it loses are the t
 - [Claptools alternative](/claptools-alternative) — the other genuinely free, no-paywall tool in this category
 - [TikTok transcript API guide](/tiktok-transcript-api) — Supadata, Apify and GetTranscribe priced side by side, for scripted bulk work
 - [Instagram Reels transcript](/instagram-reels-transcript) — TokScribe is one of the tools that crosses over; here is the rest of that field
+- [YouTube Shorts transcript](/youtube-shorts-transcript) — the third platform TokScribe covers, plus the free methods that need no tool at all
 - [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — the pillar, including where accuracy actually breaks down
 
 Working in another language? TokScribe advertises 50+; TranscribeTok detects the language from the audio. The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists every per-language guide, and the hardest cases show up first in [Arabic](/arabic-tiktok-transcript) and [Japanese](/japanese-tiktok-transcript).

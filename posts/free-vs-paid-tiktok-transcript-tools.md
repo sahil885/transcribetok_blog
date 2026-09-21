@@ -130,6 +130,7 @@ One more thing worth testing before you settle: accuracy varies enormously by la
 - [WayinVideo alternative: an honest comparison](/wayinvideo-alternative) — a one-time free grant versus a daily reset, in detail
 - [TokScribe alternative: an honest comparison](/tokscribe-alternative) — a free tier with no published price, and a public transcript archive
 - [TokTranscript alternative: free tiers compared](/toktranscript-alternative) — a monthly cap of 10 against a daily reset of 2, and privacy as a paid feature
+- [VexaScribe alternative](/vexascribe-alternative) — a 30-minute one-time trial against a daily reset, and why minutes that expire monthly change the maths
 - [How to transcribe a TikTok video free](/transcribe-tiktok-video) — the pillar guide
 
 ## Frequently asked questions

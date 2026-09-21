@@ -117,6 +117,7 @@ If you are subtitling rather than repurposing, [our TikTok subtitle generator gu
 - [TokTranscript alternative](/toktranscript-alternative) — the tool with a dedicated Reels extractor, reviewed honestly
 - [TokScribe alternative](/tokscribe-alternative) — free across all three short-video platforms, with one significant catch
 - [Supadata alternative](/supadata-alternative) — the API route, with verified credit costs
+- [YouTube Shorts transcript](/youtube-shorts-transcript) — the third platform with the same problem, and the free URL trick that solves it
 - [Transcribe a TikTok video](/transcribe-tiktok-video) — the pillar guide on audio-based transcription
 
 Reels are not an English-only format. Portuguese, Spanish and Indonesian are among the largest languages on short-video platforms generally — the [TikTok transcript by language hub](/tiktok-transcript-by-language) covers what changes per language, with [Portuguese](/portuguese-tiktok-transcript) and [Indonesian](/indonesian-tiktok-transcript) as the two clearest examples of where auto-captions and audio transcription diverge.

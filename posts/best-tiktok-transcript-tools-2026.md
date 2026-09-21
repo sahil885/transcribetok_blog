@@ -130,6 +130,8 @@ Differences between mainstream tools on the same clean audio are small. Differen
 - [Instagram Reels transcript](/instagram-reels-transcript) — which of these tools cross over to Reels, and which do not
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — every free tier's real limit, and whether it resets
 - [WayinVideo alternative, compared](/wayinvideo-alternative) — utility versus a full AI video platform, and where their own pages disagree
+- [VexaScribe alternative](/vexascribe-alternative) — the general transcription subscription in this field, with speaker labels and 50-file bulk upload
+- [YouTube Shorts transcript](/youtube-shorts-transcript) — which of these tools cross over to Shorts, and the free URL trick that beats all of them
 - [TokScribe alternative, compared](/tokscribe-alternative) — everything free, including bulk and JSON, but transcripts are published to a public archive
 - [TokTranscript alternative, compared](/toktranscript-alternative) — 10 free transcripts a month against 2 a day, and why free-plan content is public there
 - [TikTok subtitle generator](/tiktok-subtitle-generator) — TikTok's two built-in caption systems, and why neither exports a file

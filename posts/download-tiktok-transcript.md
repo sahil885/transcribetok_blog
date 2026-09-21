@@ -116,6 +116,16 @@ Paid plans save every transcript to your library, which matters more than it sou
 
 **"The link won't work."** Make sure the video is public. Private accounts, deleted videos and region-blocked content cannot be accessed. Both the long URL and the short `vm.tiktok.com` share link are fine.
 
+## Related guides
+
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three methods, before you get to the export step
+- [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — the iPhone and Android download flow in detail
+- [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) — when you need timecodes and which export carries them
+- [SRT to VTT converter](/srt-to-vtt-converter) — what to do when a player rejects the SRT file
+- [YouTube Shorts transcript](/youtube-shorts-transcript) — the same export problem on Shorts, and the free methods that work
+
+Downloading a transcript in another language works identically, but the text you get back will not. The [TikTok transcript by language hub](/tiktok-transcript-by-language) covers what changes per language — [Russian](/russian-tiktok-transcript) and [German](/german-tiktok-transcript) are two worked examples where auto-captions and audio transcription give different answers.
+
 ## Frequently asked questions
 
 **Can I download a TikTok transcript as a file?**

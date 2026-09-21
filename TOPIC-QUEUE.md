@@ -53,6 +53,113 @@ Shipped 2026-08-11 in response: IndexNow (`scripts/indexnow.mjs`, key file in `p
 
 ---
 
+## Run 2026-09-21
+
+**Two posts written, verified and pushed.**
+
+- `posts/vexascribe-alternative.md` (new — TIER 2 comparison, brand term. **`vexascribe` re-measured 100–1k, +900% three-month, +∞ YoY, Medium competition, bid A$0.29–4.01.** The last untouched TIER 2 name; the queue said "write it next run".)
+- `posts/youtube-shorts-transcript.md` (new — **`youtube shorts transcript` measured 1k–10k, Low competition, bid A$0.09–1.11.** Highest-volume unclaimed term measured this run. Zero existing coverage, zero cannibalisation. Written in the honest-gap shape established by the API and Reels posts.)
+- Backlinks added from `best-tiktok-transcript-tools-2026` (both), `free-vs-paid-tiktok-transcript-tools` (VexaScribe), `instagram-reels-transcript` (Shorts), `tokscribe-alternative` (Shorts), `tiktok-transcript-on-mobile` (Shorts), `download-tiktok-transcript` (Shorts); the two new posts cross-link bidirectionally.
+- `public/llms.txt` — 2 new index entries, 9 new facts (the Shorts player UI omission, the `/shorts/` → `/watch?v=` swap and its failure modes, the yt-dlp command, Shorts word counts and accuracy, on-screen text across all three platforms, the full verified VexaScribe spec and pricing, and the minute-rounding penalty on short-form video).
+- **Structural fix, data-driven:** `tiktok-transcript-on-mobile` (303 impressions, 0 clicks) had **no language links at all**, and `download-tiktok-transcript` (260 impressions, 0 clicks) had **no Related guides section at all**. Both are now linked into the by-language hub, `/russian-tiktok-transcript` and `/german-tiktok-transcript`. These are the two highest-impression pages on the property and neither pointed at the only pages that convert.
+
+### ⚠️ THE FINDING OF THE RUN — read this before selecting topics next week
+
+**All 3 clicks on the property came from two language pages, at ~25% CTR each.**
+
+| Page | Clicks | Impressions | CTR | Position |
+|---|---|---|---|---|
+| `/russian-tiktok-transcript` | **2** | 8 | **25%** | 6.8 |
+| `/german-tiktok-transcript` | **1** | 4 | **25%** | 26.0 |
+| `/tiktok-transcript-on-mobile` | 0 | 303 | 0% | 80.1 |
+| `/download-tiktok-transcript` | 0 | 260 | 0% | 80.1 |
+| `/tiktok-script-extractor` | 0 | 110 | 0% | 81.9 |
+
+Three consequences, all of which should change next run's behaviour:
+
+1. **The five-run-old conclusion that "position is not the constraint, the snippet is" is WRONG and should be retired.** The `languageTitle()` / `languageDescription()` rewrite has been flagged as the top unactioned item since 2026-08-17 on the basis that language pages ranked 6–9 with zero clicks. They now convert at 25% where they rank. The snippets are fine. **Do not do that rewrite.** The earlier reading was an artefact of impressions being too low to register a click at all.
+2. **Language pages must be exempt from the Keyword Planner volume gate**, on the same footing as comparison posts. `tiktok transcript russian` and `tiktok transcript german` **both measure no data** in Keyword Planner — and they are the only two pages on the property producing clicks. The gate is rejecting exactly what converts. This is the second confirmed false negative after `tiktok transcript exporter` (20 impressions, position 78.3, no data) last run. Recorded here rather than edited into the gate itself, because the gate is Sahil's rule to change.
+3. **Adding language pages is now evidenced on first-party data, not just on the sister property.** CHANNEL-ANALYSIS predicted this; it has now happened here. Czech and Hungarian both measure no data, but per (2) that is no longer a reason to skip them.
+
+### Keyword Planner — measured 2026-09-21 (All locations, All languages, Google, Sept 2025 – Aug 2026)
+
+| Keyword | Avg monthly | 3mo | YoY | Comp | Bid low–high |
+|---|---|---|---|---|---|
+| `youtube shorts transcript` | **1k – 10k** | 0% | 0% | Low | A$0.09 – A$1.11 |
+| `apify tiktok` | 100 – 1k | 0% | 0% | Low | A$1.23 – **A$14.36** |
+| `tiktok video translator` | 100 – 1k | 0% | 0% | Low | A$0.51 – A$3.19 |
+| `vexascribe` | **100 – 1k** | **+900%** | **+∞** | Medium | A$0.29 – A$4.01 |
+| `facebook reels transcript` | 100 – 1k | 0% | **+900%** | Low | A$0.34 – A$2.33 |
+| `tiktok translate video` | 10 – 100 | −90% | 0% | Low | A$1.44 – A$3.35 |
+| `tiktok transcript czech` | no data | | | | |
+| `tiktok transcript hungarian` | no data | | | | |
+| `tiktok transcript russian` | **no data** | | | | |
+| `tiktok transcript german` | **no data** | | | | |
+| `tiktok transcript english` | no data | | | | |
+| `transcribe tiktok audio` | no data | | | | |
+
+`vexascribe` held its 100–1k bucket and its +900% three-month growth for a second consecutive week, confirming last run's call rather than catching a one-week spike.
+
+### Competitor research — verified 2026-09-21
+
+**VexaScribe (vexascribe.com + /pricing):** general AI transcription on hosted Whisper Large-v3, **formerly NovaScribe** — same team, rebranded, so older reviews appear under the old name. Three input routes: file upload (MP3, WAV, M4A, FLAC, OGG, MP4, MOV, AVI, MKV, WebM, 20+ formats), pasted YouTube/TikTok/Instagram/direct media links, and a bot that joins Zoom, Google Meet and Teams calls live. Returns automatic speaker labels and timestamps, editable in-browser. 99 languages, translation to 133 via Google Translate, AI summaries in six types. **Bulk upload of 50 files processed in parallel with ZIP download.** Pricing is a subscription: Starter $2/200 min, Basic $5/1,000, Pro $10/2,500, Studio $20/6,000, no feature gating between tiers. **Minutes reset each renewal and do not roll over; minutes are rounded up to the next whole minute; the meeting bot consumes 3× minutes.** Free trial is 30 minutes once, no card. Stated accuracy 91–95% from published own-testing with a methodology page — unusually honest for the category. **Internal inconsistency: homepage claims 5 export formats including DOCX, pricing page's feature list names 4 and omits DOCX.**
+
+**YouTube Shorts (verified against YouTube behaviour and multiple 2026 sources):** YouTube auto-generates captions for nearly every Short with speech, but the vertical Shorts player carries no "Show transcript" control — the transcript panel was built for the watch-page layout and never ported. The `/shorts/VIDEO_ID` → `/watch?v=VIDEO_ID` swap loads the same video in the standard player with the panel intact; it fails when a Short redirects back to the vertical player, and never works in the mobile app. `yt-dlp --write-auto-sub --sub-lang en --skip-download` retrieves the track directly and is the only free method that scales to a list.
+
+**New category insight worth reusing: minute-based subscriptions penalise short-form video through rounding.** Where minutes round up to the next whole minute, a hundred 30-second clips cost 100 minutes rather than 50. That doubling never appears in the headline per-minute price and applies to every minute-metered competitor, not just VexaScribe.
+
+**Note on the Shorts post:** it recommends `yttranscript.app`, the sister property, and **says in the body that it is from the same team** rather than presenting it as a neutral third-party pick. `yttranscript.app/pricing` 404s, so no pricing claim was made about it.
+
+### Search Console notes — 2026-09-21
+
+- Last 28 days (22 Aug – 18 Sep): **1,180 impressions, 3 clicks, CTR 0.3%, avg position 64.6** across **153 queries**. Against 2026-09-14 (1,420 / 5 / 0.4% / 71.6 / 161): impressions −17%, clicks 5 → 3, query count −5%, **position improved 7.0 points**.
+- **Third consecutive decline in clicks, second in impressions and query count.** Last run set a trigger: "if 2026-09-21 repeats it, stop writing new posts for a run and audit the existing ones instead." It did repeat on volume — **but average position improved by 7 points, the largest single-week gain recorded on the property, and that counter-signal was not present last week.** Judgement call this run: wrote the two posts as instructed and spent the spare effort on the structural audit fix above rather than skipping the run. **If 2026-09-28 shows a fourth consecutive click decline with no position gain, escalate to a full audit run.**
+- **`tokscribe` impressions went 12 → 52 in one week at position 6.9** — now the top query on the property by impressions, three weeks after the post went live. Zero clicks, which is expected behaviour for a competitor brand query answered by an "alternative" page.
+- **`tiktok transcript arabic` reached 5.0**, the best position ever recorded on this property (was 7.5, before that 6.5, 9.2, 11.7). 1 impression.
+- The week-old Supadata post is already ranking: `supadata pricing` **10.0**, `supadata` 47.7, `supadata api` 48.0.
+- **Nothing actionable in the 11–30 band. Eighth consecutive run.** The band holds exactly six queries, all already served: a Spanish captions long-tail at 11.0, `tokscribe.com` 19.8, `saveto ai` 22.5, `how to transcribe tiktok video` 27.0, `claptools` 28.3, `claptool` 30.0.
+- Competitor brands in GSC: `tokscribe` 6.9, `tokscribe.com` 19.8, `saveto ai` 22.5, `claptools` 28.3, `tokscribe com` 31.7, `claptools ai` 31.0, `tok script` 45.0, `supadata` 47.7, `tokscript` 48.0.
+- Head terms remain deep: `tiktok transcript` 78.0 (37 impressions), `tiktok transcript exporter` 74.3 (18), `tik tok transcript` 76.7, `tiktok transcripts` 73.0.
+
+### Verification — 2026-09-21
+
+- **`npx next build`: PASS.** Compiled clean in 9.0s, TypeScript clean in 4.5s, **60 static pages** (up from 58), **sitemap 56 URLs** (up from 54), both new routes present. Full Article + BreadcrumbList + FAQPage + HowTo + Organization JSON-LD emitted on both; canonical, title and description correct on both.
+- Hit the known Next 16 SWC bus error on first build; resolved by reinstalling `@next/swc-linux-x64-gnu` per the runbook, as on previous runs. The `EAI_AGAIN registry.npmjs.org` lockfile-patch warning during build is the sandbox having no outbound network and is harmless.
+- **Link check: PASS.** Every internal link across all 32 posts resolves to a real post, a real language page or the by-language hub. Zero broken links.
+- Frontmatter complete on both; categories `Comparisons` and `Guide` both valid; slugs new and lowercase-hyphenated; dates today; descriptions **155 and 150** characters; 5 keywords, 5 howToSteps and 5 faqItems each.
+- Word counts **1,773 and 1,707** — both inside the 1,200–1,800 band.
+- Product-fact scan: PASS. Every "bulk" mention in the VexaScribe post refers to VexaScribe and is marked "No — one video at a time" for TranscribeTok, with an explicit "we do not do it and will not pretend otherwise" paragraph. No bulk claim anywhere in the Shorts post.
+
+### Interlinking added this run
+
+- `best-tiktok-transcript-tools-2026` → both new posts
+- `free-vs-paid-tiktok-transcript-tools` → `vexascribe-alternative`
+- `instagram-reels-transcript` → `youtube-shorts-transcript`
+- `tokscribe-alternative` → `youtube-shorts-transcript`
+- `tiktok-transcript-on-mobile` → `youtube-shorts-transcript` + hub + Russian + German (**previously had zero language links**)
+- `download-tiktok-transcript` → new Related guides section with 5 links + hub + Russian + German (**previously had no Related guides section at all**)
+- `vexascribe-alternative` ↔ `youtube-shorts-transcript` — bidirectional
+- Both new posts link up to a pillar, to the `/tiktok-transcript-by-language` hub, and to Russian + German — the two pages proven to convert
+
+### Candidates spotted 2026-09-21
+
+- **`apify-alternative` is now the strongest remaining comparison target.** `apify tiktok` re-measured 100–1k with a top-of-page bid of **A$14.36**, still the highest commercial value ever measured here, and verified Apify detail already sits in `tiktok-transcript-api`. It is the last TIER 2 name after VexaScribe. Write it next run.
+- **`facebook reels transcript` — 100–1k with +900% YoY.** The multi-platform seam is real and productive: `instagram reels transcript` (1k–10k) and `youtube shorts transcript` (1k–10k) both came from guessing at it, and Facebook is the third. TokTranscript's Reels extractor already covers Facebook, so research cost is low.
+- **`tiktok video translator` — 100–1k, bid A$0.51–3.19, no existing post targets it.** `translate-tiktok-transcript` targets translating a transcript, which is a different intent from translating the video. Check cannibalisation carefully before writing.
+- **Language-page expansion is now the evidenced play.** Czech and Hungarian measure no data, as do Russian and German, which is precisely the point (see the finding above). Hausa remains unmeasured. Adding two languages is a `src/lib/languages.ts` edit and costs a fraction of a post.
+- **Retire the `languageTitle()` / `languageDescription()` rewrite from the queue.** It has been the "highest-value unactioned item" for five runs on a premise this run's data disproves.
+- **The export-format discrepancy is still open** (see 0c below) and is now five runs old in various forms. The pricing page names TXT only; the playbook says TXT, DOCX, SRT; `llms.txt` and several posts state all three. One of the two sources is wrong.
+
+**Standing checks (STEP 0):**
+- **0a. transcribetok.com homepage meta description — RESOLVED, confirmed again, now closed.** All three tags (`description`, `og:description`, `twitter:description`) return the corrected copy: *"TranscribeTok is a free online tool that extracts the spoken audio from any TikTok video and converts it into a written text transcript."* Second consecutive clean check. **Removed from the carry list.**
+- **0b. Bing indexing and IndexNow.** Key file `https://blog.transcribetok.com/b86aab1f741ddb317cccfa448f5c2210.txt` **verified live, returns 200, contents `b86aab1f741ddb317cccfa448f5c2210` match the filename exactly**. `npm run indexnow:all` full seed: **still unconfirmed.** Bing Webmaster Tools: **still unconfirmed.** No `site:` check attempted. **Status: implementation healthy, both manual actions outstanding for a sixth run and still blocking the 41% channel.**
+- **0c. Playbook section 1 vs. real pricing.** Re-verified the live pricing page: Free $0 (2/day, no signup), Starter $5/150, Pro $12/500, Power $29/1,500, Max $59/4,000, all one-time, credits never expire, 30-day money-back under 20 transcripts, no credit charged when a video has no spoken audio. The playbook still says paid plans "raise the daily limit". **Status: unchanged, still stale, still not edited by the task.** The export-format discrepancy is also unchanged — the pricing page's feature list still names only TXT ("export to TXT — with or without timestamps") against the playbook's TXT/DOCX/SRT. The "Pay once, only when you need bulk" headline and the 30% off countdown banner are both still live.
+- **0d. Language-page positions — see the finding above; this check has served its purpose and should be rewritten.** `tiktok transcript arabic` 5.0 (best ever, 1 impression). More importantly, `/russian-tiktok-transcript` and `/german-tiktok-transcript` produced **all 3 clicks on the property at ~25% CTR**. The check as written tracks Arabic's position; what matters now is clicks per language page. Suggest replacing 0d with "report clicks, impressions and CTR for every language page with ≥1 impression."
+
+**Noticed while in the tools:** the Google Ads account carries a persistent red banner — *"Complete payments account activity — You need to complete any refunds and pay any outstanding charges."* Keyword Planner still works, but this may eventually lock the account and with it the volume gate. Worth Sahil clearing.
+
+---
+
 ## Run 2026-09-14
 
 **Two posts written, verified and pushed.**
@@ -550,6 +657,8 @@ Standing checks now live in **STEP 0 of the scheduled task itself**, not here �
 - [x] tokscribe-alternative — 2026-09-07 — **TIER 2 comparison, brand term. `tokscribe` 100–1k / +900% / Low, and `tokscribe com` already in GSC at 49.3 with 3 impressions.** Verified tokscribe.com directly. Key finding: it publishes transcripts to a public, full-text-searchable archive and has no pricing page at all.
 - [x] toktranscript-alternative — 2026-09-07 — **TIER 2 comparison, brand term. `toktranscript` 100–1k / Low.** Verified toktranscript.com directly. Free tier is 10/month (monthly cap, not daily reset) and its own pricing table marks free-plan content "Public to Plaza"; privacy starts on the paid tier.
 - [x] supadata-alternative — 2026-09-14 — **TIER 2 comparison, brand term. `supadata` 1k–10k, Low, bid A$1.61–6.92** — highest-volume brand term ever measured here. Verified supadata.ai and docs.supadata.ai directly. Key findings: no web interface at all, Basic plan is annual-only, credits do not roll over, and a 206 "Transcript Unavailable" response still costs a credit.
+- [x] vexascribe-alternative — 2026-09-21 — **TIER 2 comparison, brand term. `vexascribe` 100–1k, +900% three-month, +∞ YoY, Medium, bid A$0.29–4.01** — held the bucket and the growth rate for a second consecutive week. Verified vexascribe.com and /pricing directly. Key findings: formerly NovaScribe; minutes reset monthly and round up to the whole minute; the meeting bot burns 3× minutes; free trial is 30 minutes once; and the homepage and pricing page disagree on whether DOCX export exists. Last untouched TIER 2 name.
+- [x] youtube-shorts-transcript — 2026-09-21 — **`youtube shorts transcript` 1k–10k, Low, bid A$0.09–1.11.** Highest-volume unclaimed term measured this run, zero cannibalisation. Second non-TikTok-platform post, in the honest-gap shape. Key finding: the Shorts player omits the transcript panel YouTube already populates, and the `/shorts/` → `/watch?v=` URL swap recovers it for free.
 - [x] instagram-reels-transcript — 2026-09-14 — **`instagram reels transcript` 1k–10k, +900% YoY, Low, bid A$0.36–2.03.** Zero existing coverage and zero cannibalisation. Written in the honest-gap shape established by the API post: TranscribeTok does not do Reels, so the post names the tools that do. First non-TikTok-platform post on the property.
 
 ---
@@ -571,8 +680,8 @@ Volumes below are Google, All locations, English, Aug 2025 – Jul 2026, measure
 
 Each of these should be titled and keyworded at `<competitor> alternative` / `<competitor> review`, never `transcribetok vs <competitor>`. Check the brand term's volume first — `saveto ai` measured 100–1k / +900%.
 
-- [ ] `vexascribe-alternative` — lead on their JSON/CSV export, which we don't offer — Comparisons. **Re-measured 2026-09-14 at 100–1k with +900% three-month growth, up a full bucket from 10–100 the week before. It is now the strongest untouched name, not the weakest — write it next run.**
-- [ ] `apify-alternative` — **`apify tiktok` measured 2026-09-14 at 100–1k with a top-of-page bid of A$14.27, the highest commercial value ever measured on this property.** Verified Apify detail already sits in `tiktok-transcript-api`, so research cost is near zero. Retarget to the brand term per the rule above — Comparisons.
+- [x] ~~`vexascribe-alternative`~~ — **WRITTEN 2026-09-21.** Held at 100–1k / +900% for a second week. The JSON-export angle turned out to be the weakest differentiator available: VexaScribe beats us on almost every feature, so the post leads with that admission and narrows our case to free-tier shape and non-expiring credits.
+- [ ] `apify-alternative` — **`apify tiktok` re-measured 2026-09-21 at 100–1k with a top-of-page bid of A$14.36, still the highest commercial value ever measured on this property.** Verified Apify detail already sits in `tiktok-transcript-api`, so research cost is near zero. **Now the last untouched TIER 2 name — write it next run.** Retarget to the brand term per the rule above — Comparisons.
 - [x] ~~`tokscribe-alternative`~~ — **WRITTEN 2026-09-07.** `tokscribe` 100–1k / +900%. Public transcript archive and no published pricing are the honest differentiators.
 - [x] ~~`toktranscript-alternative`~~ — **WRITTEN 2026-09-07.** `toktranscript` 100–1k. Monthly free cap versus our daily reset, and privacy as a paid feature.
 - [x] ~~`wayinvideo-alternative`~~ — **WRITTEN 2026-08-31.** `wayinvideo` measured 10k–100k / +900% / Low competition — the largest term ever measured on this property. Verified their pricing page directly; the free allowance is still a one-time 200 credits there, but their TikTok landing page now advertises a 60-credit daily bonus and no login. Post names the contradiction.

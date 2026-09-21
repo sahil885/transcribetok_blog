@@ -101,6 +101,9 @@ If you're pulling transcripts more often — repurposing your own videos, or kee
 - [Download a TikTok transcript](/download-tiktok-transcript) — TXT vs DOCX vs SRT
 - [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt) — what to do with the text
 - [TikTok to text](/tiktok-to-text) — what the conversion does and doesn't capture
+- [YouTube Shorts transcript](/youtube-shorts-transcript) — the same job on Shorts, where the mobile app blocks it entirely
+
+Watching in another language? The mobile flow is identical, but caption quality is not — the [TikTok transcript by language hub](/tiktok-transcript-by-language) covers what changes per language, with [Russian](/russian-tiktok-transcript) and [German](/german-tiktok-transcript) as two worked examples.
 
 ## Frequently asked questions
 
