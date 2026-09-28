@@ -13,8 +13,11 @@ import type { FaqItem, HowToStep } from "@/lib/posts";
 //     in India since June 2020 and the ban was still in force as of 2026-08.
 //     The sister YouTube property ranks well for these; that does NOT transfer,
 //     because the audience does not exist on this platform.
-//   Bengali — Bangladesh's TikTok status has flipped repeatedly and sources
-//     disagree on the current position. Re-verify before adding.
+//   (Bengali was parked here until 2026-09-28. Re-verified then: TikTok was
+//     blocked in Bangladesh only briefly during the August 2024 internet
+//     blackouts and has operated there since — it reported removing 12.1M
+//     Bangladeshi videos in Q2 2024 and published 2025 plans for the market.
+//     Added as a page targeting Bangladesh, not India's West Bengal.)
 //   Persian/Farsi — TikTok is not officially available in Iran.
 //   Simplified Chinese for mainland China — mainland uses Douyin, not TikTok.
 //     The Chinese entry below targets Taiwan, Hong Kong, Malaysia and Singapore.
@@ -203,6 +206,14 @@ export const LANGUAGES: Language[] = [
     intro:
       "Swahili TikTok is fastest-growing in East Africa, particularly Kenya, Tanzania and Uganda, with a strong creator base in comedy, education, music and business content. Extracting the Swahili transcript turns fast-paced, accented speech into text you can read at your own pace, quote accurately or translate into other languages.",
     note: "Swahili speech recognition has improved significantly but still struggles with regional variation — Kenyan, Tanzanian and Ugandan Swahili differ in pronunciation and vocabulary. Audio with music or street noise is where errors concentrate most; clear speech transcribes reliably.",
+  },
+  {
+    slug: "bengali",
+    name: "Bengali",
+    native: "বাংলা",
+    intro:
+      "Bengali TikTok is driven by Bangladesh, where comedy skits, cooking, study tips, religious talks and product reviews are all delivered in fast, conversational Bangla. Extracting the Bengali transcript turns that audio into text you can read at your own pace, quote accurately, or paste into a translator.",
+    note: "Bengali is written in its own script, with conjunct consonants that combine two or three letters into one shape, so a transcript is only useful if the tool outputs proper Bengali Unicode rather than romanised text. Bangladeshi creators also mix English words into Bangla speech freely; expect those words to appear in either script depending on how clearly they were pronounced.",
   },
   {
     slug: "czech",

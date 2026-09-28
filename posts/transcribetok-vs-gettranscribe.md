@@ -43,7 +43,7 @@ Those are different products that happen to share a first step. Most of the disa
 | Platforms | TikTok only | TikTok, Instagram, YouTube, Facebook, Pinterest, X, Drive |
 | Videos per run | One at a time | Bulk imports on Pro |
 | Free tier | **2 per day, forever, no account** | 2 analyses total + 10 AI questions, no card |
-| Paid | One-time packs from $5 / 150 transcripts | Pro $9.99/mo (~33% off annual) |
+| Paid | One-time packs from $9 / 100 transcripts | Pro $9.99/mo (~33% off annual) |
 | Subscription | None — credits never expire | Yes, monthly or annual |
 | Usage pricing | No | Pay-as-you-go from $0.06/min |
 | Exports | TXT, DOCX, SRT | TXT, SRT, PDF |
@@ -74,7 +74,7 @@ Read that table honestly and GetTranscribe wins most rows. That is what a platfo
 
 **No account on the free tier.** No email, no password, no card, no confirmation link. Paste, read, close the tab. GetTranscribe lets you try without signing up, but the collections, exports and analysis that make it worth using sit behind an account.
 
-**No subscription.** Our paid tiers are one-time credit packs — $5 for 150 transcripts up to $59 for 4,000 — and credits never expire. GetTranscribe's Pro is $9.99 a month, which is $120 a year if you forget it, and genuinely good value if you are in it weekly. If your usage is bursty, paying once and drawing down over a year is the cheaper shape. We also do not charge a credit when a video turns out to have no spoken audio.
+**No subscription.** Our paid tiers are one-time credit packs — $9 for 100 transcripts up to $59 for 4,000 — and credits never expire. GetTranscribe's Pro is $9.99 a month, which is $120 a year if you forget it, and genuinely good value if you are in it weekly. If your usage is bursty, paying once and drawing down over a year is the cheaper shape. We also do not charge a credit when a video turns out to have no spoken audio.
 
 **Speed on the one thing.** They quote about a minute for a full analysis, which is fair for what it produces. We return spoken text in a few seconds because that is all we are doing. When you just want to quote a line, the analysis is overhead.
 

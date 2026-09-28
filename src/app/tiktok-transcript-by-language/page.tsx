@@ -6,9 +6,9 @@ const SITE_URL = "https://blog.transcribetok.com";
 const DEFAULT_OG = { url: "/og-default.png", width: 1200, height: 630 };
 const SLUG = "tiktok-transcript-by-language";
 
-const TITLE = "TikTok Transcript by Language — 24 Languages, Free";
+const TITLE = "TikTok Transcript by Language — 25 Languages, Free";
 const DESCRIPTION =
-  "Get a TikTok transcript in any of 24 languages — Spanish, Indonesian, Arabic, Urdu, Portuguese and more. Free, no signup, straight from the video's audio.";
+  "Get a TikTok transcript in any of 25 languages — Spanish, Indonesian, Arabic, Urdu, Portuguese and more. Free, no signup, straight from the video's audio.";
 
 // Grouping is for readers, not for SEO. Regions reflect where each language's
 // TikTok audience actually sits, which is why Chinese appears under Asia
@@ -33,8 +33,8 @@ const REGIONS: { name: string; blurb: string; slugs: string[] }[] = [
   {
     name: "South Asia & the Middle East",
     blurb:
-      "Pakistan is one of TikTok's five largest markets; Arabic spans the Gulf, Egypt and the Levant.",
-    slugs: ["urdu", "arabic", "turkish"],
+      "Pakistan is one of TikTok's five largest markets, Bangladesh has a large Bengali creator scene, and Arabic spans the Gulf, Egypt and the Levant.",
+    slugs: ["urdu", "bengali", "arabic", "turkish"],
   },
   {
     name: "Europe",
@@ -97,7 +97,7 @@ const FAQ = [
   {
     question: "What languages can TranscribeTok transcribe from TikTok?",
     answer:
-      "TranscribeTok transcribes the spoken audio, so it handles any language the speech recognition supports rather than a fixed list. This page has dedicated guides for 24 of the languages most spoken on TikTok, each covering the quirks that show up in that language specifically.",
+      "TranscribeTok transcribes the spoken audio, so it handles any language the speech recognition supports rather than a fixed list. This page has dedicated guides for 25 of the languages most spoken on TikTok, each covering the quirks that show up in that language specifically.",
   },
   {
     question: "Do I need to tell it which language the video is in?",

@@ -48,7 +48,7 @@ Claptools is particularly useful if you need script material **plus** production
 
 ## What TranscribeTok Does Differently
 
-TranscribeTok is laser-focused on one job: extracting TikTok transcripts accurately. The free tier gives you two transcripts per day with no account needed. Paid tiers ($5–$59, one-time) unlock more transcripts and add a personal library—every transcript you generate is saved, searchable, and kept forever.
+TranscribeTok is laser-focused on one job: extracting TikTok transcripts accurately. The free tier gives you two transcripts per day with no account needed. Paid tiers ($9–$59, one-time) unlock more transcripts and add a personal library—every transcript you generate is saved, searchable, and kept forever.
 
 When you upgrade to a paid tier, you get structured export options: plain text, Word (.docx), or SRT subtitle format. The SRT export matters if you're editing video and need frame-accurate timestamps for subtitles. Claptools doesn't offer SRT export, which is a significant limitation if video editing is in your pipeline.
 
@@ -58,7 +58,7 @@ TranscribeTok also charges intelligently: if a video has no spoken audio (pure m
 
 | Feature | Claptools | TranscribeTok |
 |---|---|---|
-| **Cost** | 100% free forever | Free 2/day; paid $5–$59 one-time |
+| **Cost** | 100% free forever | Free 2/day; paid $9–$59 one-time |
 | **Account required** | No | No (free), optional (paid) |
 | **TikTok transcript** | Yes, one tool among 100+ | Yes, focused tool |
 | **Transcript library** | No history kept | Yes, paid users only |
@@ -103,9 +103,9 @@ TranscribeTok is narrower but deeper. It does one thing exceptionally well: tran
 
 Both are practically free for light use:
 - **Claptools:** $0 forever, all tools included
-- **TranscribeTok:** $0 (2/day free tier) or $5–$59 one-time for more volume
+- **TranscribeTok:** $0 (2/day free tier) or $9–$59 one-time for more volume
 
-If you transcribe more than 60 TikToks per month, TranscribeTok's $5 pack covers it forever. Claptools stays free at any volume.
+If you transcribe more than 60 TikToks per month, TranscribeTok's $9 pack adds 100 more that never expire. Claptools stays free at any volume.
 
 The cost question only matters if you value the features paid TranscribeTok adds—specifically, the searchable library and SRT export. If you just need raw transcripts and don't care about history, Claptools is the financial winner.
 

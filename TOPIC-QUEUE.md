@@ -53,6 +53,20 @@ Shipped 2026-08-11 in response: IndexNow (`scripts/indexnow.mjs`, key file in `p
 
 ---
 
+## ⭐ PRIORITIES FROM THE YTTRANSCRIPT ANALYSIS — added 2026-09-28 (read `CHANNEL-ANALYSIS.md`, final section)
+
+Sahil asked for YTTranscript's winning patterns to be applied here. In priority order for the next runs:
+
+1. **AI-assistant cluster (use as the non-comparison slot until exhausted).** YTTranscript's `with-gemini` (668 imp @ 7.5), `with-grok` (565 @ 6.3), `with-copilot` (465 @ 8.5), `for-notebooklm` (126 @ 10.0), `with-deepseek` (120 @ 8.2), `with-claude` (75 @ 7.0) all rank page one. **Exempt from the Keyword Planner gate** — the TIER 3 "no data" verdicts on these are proven false negatives by the sister site. Order: `tiktok-transcript-with-gemini`, `tiktok-transcript-with-grok`, `tiktok-transcript-with-copilot`, `tiktok-transcript-for-notebooklm`, `tiktok-transcript-with-claude`, `tiktok-transcript-with-deepseek`. Verify what each assistant can and cannot do with a TikTok link before writing — do not assume parity with YouTube.
+2. **Language pages** — 81% of YTTranscript blog clicks and 75% of ours. Bengali added 2026-09-28. Tamil and Nepali are awaiting Sahil's decision. Greek, Hebrew, Hausa remain defensible.
+3. **Comparison posts** — keep one per run, but they earn AI citations rather than Google clicks.
+
+**Prices changed 2026-09-28 (confirmed by Sahil):** $9 / 100, $16 / 500, $34 / 1,500, $59 / 4,000, one-time. All posts, `llms.txt` and the playbook were updated. Check the pricing page each run; if prices move again, update every post that quotes them.
+
+**Publishing:** the cloud sandbox git proxy returns 403 for this repo. Push from the desktop VM (`device_bash`: clone to `$HOME`, copy changed files from the mounted repo, commit, push with the token from `.secrets/gh-token`).
+
+---
+
 ## Run 2026-09-28
 
 **Two posts written, verified and pushed (commit `92bd10e`), plus two language pages.**
@@ -817,7 +831,7 @@ All of the following returned **no data** in Keyword Planner on 2026-08-17. Fold
 - `tiktok-transcript-to-google-docs` — the Notion post surfaced the same problem for Docs/Drive users. Docs opens .docx natively, which makes it a shorter, cleaner post than the Notion one.
 - `tiktok-transcript-to-airtable-or-sheets` — the CSV/database angle. Worth writing only once we can say something honest about not offering CSV export.
 - `transcribetok-vs-saveto-ai` and `transcribetok-vs-vexascribe` — the vs-cluster works; VexaScribe's JSON export is the honest differentiator to lead with.
-- **Language pages — do NOT add Indian languages.** Hindi, Tamil, Telugu, Marathi, Punjabi and Gujarati are permanently off the list: TikTok has been banned in India since June 2020 and the ban was still in force as of 2026-08. The sister YouTube property ranks well for exactly these terms; that does not transfer, because the audience isn't on this platform. Bengali is also parked — Bangladesh's TikTok status has flipped repeatedly and sources disagree. Reasoning is recorded in the header comment of `src/lib/languages.ts`; read it before adding anything.
+- **Language pages — do NOT add Indian languages.** (Bengali re-verified and added 2026-09-28 for Bangladesh.) Hindi, Tamil, Telugu, Marathi, Punjabi and Gujarati are permanently off the list: TikTok has been banned in India since June 2020 and the ban was still in force as of 2026-08. The sister YouTube property ranks well for exactly these terms; that does not transfer, because the audience isn't on this platform. Bengali is also parked — Bangladesh's TikTok status has flipped repeatedly and sources disagree. Reasoning is recorded in the header comment of `src/lib/languages.ts`; read it before adding anything.
 - Language candidates that *are* defensible if we expand again: Greek, Czech, Hungarian, Hebrew, Swahili (Kenya/Tanzania, 35% YoY growth), Hausa (Nigeria, 32% YoY). Africa is the fastest-growing region and currently has zero coverage.
 - `transcribetok-vs-wayinvideo` — spotted 2026-08-10. WayinVideo is the strongest dedicated summarizer (mind maps, 100+ languages, 200 free credits / 400 minutes on signup, API, Chrome extension, desktop app) and already appears in our GSC data as a branded query. Honest differentiator: their free allowance is a lifetime total, ours resets daily.
 - `tiktok-mind-map-from-video` — spotted 2026-08-10. WayinVideo markets mind-map output as an exclusive. We don't do it, but the transcript-plus-AI route reproduces it, which makes for an honest how-to.

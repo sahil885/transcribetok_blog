@@ -59,7 +59,7 @@ Verified against wayin.ai's own pages on 31 August 2026.
 | Free tier | 2 per day, resets daily, forever | 200 credits once at signup (≈400 transcript minutes) |
 | Account for free tier | Not required | Signup benefit per pricing page; TikTok page says no login |
 | Paid model | One-time credit packs | Auto-renewing monthly or yearly subscription |
-| Paid prices | $5 / 150, $12 / 500, $29 / 1,500, $59 / 4,000 | $13.99, $26.99, $139.99 per month list |
+| Paid prices | $9 / 100, $16 / 500, $34 / 1,500, $59 / 4,000 | $13.99, $26.99, $139.99 per month list |
 | Credit expiry | Never expire | Reset monthly, no rollover |
 | Refunds | 30-day money-back under 20 transcripts used | "Payments are nonrefundable" |
 | Transcript exports | TXT, DOCX, SRT | TXT, SRT per pricing table |
@@ -117,7 +117,7 @@ Marketing pages and billing pages drift apart on fast-moving products, ours incl
 
 **Choose WayinVideo if** you are producing video. Clipping, reframing, burned-in animated subtitles, scheduling, multi-platform sources, speaker labels, an API — it does all of it and we do none of it. Accept the subscription, the monthly credit reset and the no-refund policy as the price of that.
 
-**Choose TranscribeTok if** the thing you want is the words. Two a day forever, no account, no subscription, TXT, DOCX or SRT, done in about ten seconds. If you need more than two on a given day, $5 buys 150 transcripts that never expire.
+**Choose TranscribeTok if** the thing you want is the words. Two a day forever, no account, no subscription, TXT, DOCX or SRT, done in about ten seconds. If you need more than two on a given day, $9 buys 100 transcripts that never expire.
 
 **Choose neither if** you need volume through code. Neither of us is the cheapest route for a few thousand videos — that is an API question, and we covered the real options and prices in the [TikTok transcript API guide](/tiktok-transcript-api), including the part where we admit we do not have one.
 

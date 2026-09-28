@@ -31,7 +31,7 @@ faqItems:
   - question: "Does TokScribe do bulk TikTok transcription?"
     answer: "Yes. Signed-in TokScribe users can paste up to 50 URLs at once on its bulk import page and export the results as a ZIP. TranscribeTok has no bulk mode and processes one video at a time."
   - question: "What is the best TokScribe alternative?"
-    answer: "For private, one-at-a-time transcripts with published pricing, TranscribeTok is the closest alternative: two free transcripts a day with no account, then one-time credit packs from $5 for 150 transcripts. For bulk and JSON output, TokScribe itself is currently the stronger free tool."
+    answer: "For private, one-at-a-time transcripts with published pricing, TranscribeTok is the closest alternative: two free transcripts a day with no account, then one-time credit packs from $9 for 100 transcripts. For bulk and JSON output, TokScribe itself is currently the stronger free tool."
   - question: "Which is more accurate, TokScribe or TranscribeTok?"
     answer: "Both transcribe the audio track rather than TikTok's caption data, and both land in the mid-to-high 90s on clear speech. Accuracy differences between speech-to-text tools are far smaller than the differences in what happens to your transcript afterwards."
 ---
@@ -76,7 +76,7 @@ TranscribeTok does not publish transcripts. Paid accounts keep them in a persona
 
 **Transcripts stay yours.** Covered above. This is the whole argument, and for a meaningful share of readers it decides the question by itself.
 
-**The price is published and fixed.** TranscribeTok sells one-time credit packs: $5 for 150 transcripts, $12 for 500, $29 for 1,500, $59 for 4,000. Credits never expire, there is no subscription, there is a 30-day money-back guarantee while you have used fewer than 20 transcripts, and no credit is charged when a video turns out to have no spoken audio. TokScribe publishes no prices at all and describes its current terms as a limited-time offer — which is honest of them, but means you cannot plan around it.
+**The price is published and fixed.** TranscribeTok sells one-time credit packs: $9 for 100 transcripts, $16 for 500, $34 for 1,500, $59 for 4,000. Credits never expire, there is no subscription, there is a 30-day money-back guarantee while you have used fewer than 20 transcripts, and no credit is charged when a video turns out to have no spoken audio. TokScribe publishes no prices at all and describes its current terms as a limited-time offer — which is honest of them, but means you cannot plan around it.
 
 **DOCX export.** TokScribe's four formats do not include Word. If the transcript's destination is a document rather than an editor or a script, DOCX saves a conversion step.
 
@@ -86,7 +86,7 @@ TranscribeTok does not publish transcripts. Paid accounts keep them in a persona
 
 | | TokScribe | TranscribeTok |
 |---|---|---|
-| **Price** | Free, all features, "limited time offer" | Free 2/day; packs $5–$59 one-time |
+| **Price** | Free, all features, "limited time offer" | Free 2/day; packs $9–$59 one-time |
 | **Pricing page** | None published | Published, fixed |
 | **Account needed** | No for basic; yes for AI, bulk, HD | No, ever |
 | **Free allowance shape** | Unlimited while the offer lasts | 2 per day, resets daily |
@@ -135,7 +135,7 @@ TokScribe operates a public archive. Its homepage lists recent transcriptions wi
 Yes. Signed-in TokScribe users can paste up to 50 URLs at once on its bulk import page and export the results as a ZIP. TranscribeTok has no bulk mode and processes one video at a time.
 
 **What is the best TokScribe alternative?**
-For private, one-at-a-time transcripts with published pricing, TranscribeTok is the closest alternative: two free transcripts a day with no account, then one-time credit packs from $5 for 150 transcripts. For bulk and JSON output, TokScribe itself is currently the stronger free tool.
+For private, one-at-a-time transcripts with published pricing, TranscribeTok is the closest alternative: two free transcripts a day with no account, then one-time credit packs from $9 for 100 transcripts. For bulk and JSON output, TokScribe itself is currently the stronger free tool.
 
 **Which is more accurate, TokScribe or TranscribeTok?**
 Both transcribe the audio track rather than TikTok's caption data, and both land in the mid-to-high 90s on clear speech. Accuracy differences between speech-to-text tools are far smaller than the differences in what happens to your transcript afterwards.

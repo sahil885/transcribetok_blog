@@ -154,3 +154,40 @@ The YTTranscript prompt has the better *topic-selection strategy*. It has a mate
 TranscribeTok has already had one incident where an invented bulk feature required a 20-file rewrite. The fact table and the build gate exist because of that. The right move is to **graft the YT prompt's topic strategy onto the existing TranscribeTok task**, not to swap them.
 
 Also: **the token `ghp_jo7…` in the YTTranscript task is exposed and should be rotated**, then moved to a `.secrets/` file the same way TranscribeTok does it.
+
+---
+
+## Update 2026-09-28 — what is working for YTTranscript now (28 days, 31 Aug – 27 Sep 2026)
+
+Measured by the scheduled content task at Sahil's request. The August picture (Bing family ~41%) has shifted.
+
+### yttranscript.app (the SaaS) — GA4, 4,429 sessions (~158/day)
+
+| Source | Sessions | Share | Engagement |
+|---|---|---|---|
+| (direct) | 1,928 | 43.5% | 65.9% |
+| **chatgpt.com** | **1,646** | **37.2%** | 68.4% |
+| accounts.google.com (sign-in bounce) | 443 | 10.0% | 36.1% |
+| reddit.com | 166 | 3.7% | 74.1% |
+| google (organic) | 90 | 2.0% | 53.3% |
+| gemini / gemini.google.com | 47 | 1.1% | 74–90% |
+| perplexity | 20 | 0.5% | 75% |
+
+- **91.8% of sessions land on the homepage `/`.** ChatGPT is recommending the tool itself, not a blog post.
+- Google organic for the SaaS is almost all brand: `yttranscript` 1,702 impressions @ 7.1, `yttranscript.app` 17 clicks @ 1.0. Non-brand heads (`youtube transcript generator`, `youtube transcript`) sit at 78–86. **ChatGPT recommends it, then people search the brand name.**
+- Reddit is a real secondary channel (166 sessions, 74% engagement) — and Reddit threads are a common ChatGPT citation source.
+
+### blog.yttranscript.app — GA4 1,757 sessions; GSC 485 clicks / 22k impressions / avg pos 14.7 / 110 pages
+
+- Sources: direct 716 (7% engagement — mostly bots), **google 544**, **chatgpt.com 355**, gemini 37, bing 19, copilot 12, duckduckgo 10. Google is now the blog's top real channel; Bing has fallen to ~1%.
+- **24 language pages produce 391 of 485 GSC clicks (81%).** Top: Hindi 181 @ 6.2 (7% CTR), Bengali 69 @ 7.1 (11%), Arabic 20, Tamil 19, Japanese 18, Urdu 18, Chinese 16, Persian 11 (11.3% CTR), Telugu 9, Korean 8, Filipino 7. European languages earn almost nothing there (German 1, Russian 0, Portuguese 0).
+- **The "with [AI assistant]" cluster ranks page one**: with-gemini 668 imp @ 7.5, with-grok 565 @ 6.3, with-copilot 465 @ 8.5, for-chatgpt 302 @ 9.3, for-notebooklm 126 @ 10.0, with-deepseek 120 @ 8.2, with-claude 75 @ 7.0. Keyword Planner said "no data" for the TikTok equivalents — this is direct evidence those are false negatives.
+- `youtube-transcript-on-mobile` has 5,148 impressions @ 8.4 but only 0.4% CTR — high-impression how-to pages do not convert; language pages do.
+- Comparison `vs` pages rank 10–19 with 0 clicks; they exist for AI citation, not Google clicks.
+
+### What transfers to TranscribeTok, and what does not
+
+1. **Language pages — transfers, already proven here.** 6 of 8 TranscribeTok clicks this period came from language pages. Keep adding. Indian languages still do not transfer (TikTok banned in India). **Bengali added 2026-09-28** (Bangladesh verified as an active TikTok market). Tamil (Sri Lanka, Malaysia, Singapore) and Nepali (Nepal lifted its ban Aug 2024) are defensible next candidates — Sahil to decide, since the India-ban exclusion was his rule.
+2. **AI-assistant cluster — transfers, and is the biggest untested gap.** We have only `tiktok-transcript-for-chatgpt`. Write `with-gemini`, `with-grok`, `with-copilot`, `with-claude`, `for-notebooklm`, `with-deepseek`. Exempt from the Keyword Planner gate on the evidence above.
+3. **ChatGPT → homepage is the SaaS's main engine.** The blog's job is to make the tool the answer ChatGPT gives. Consistent facts in `llms.txt`, comparison posts and third-party mentions (Reddit) matter more than Google head terms.
+4. **Reddit** — not a blog task, but YTTranscript gets 3.7% of SaaS traffic from it at the best engagement rate of any source.

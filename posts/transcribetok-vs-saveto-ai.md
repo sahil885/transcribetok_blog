@@ -18,7 +18,7 @@ howToSteps:
   - name: "Decide whether you need a file export"
     text: "TranscribeTok exports TXT, DOCX and SRT. Saveto AI does not publish its export formats on its TikTok page, so check it against your subtitle or document workflow before committing."
   - name: "Decide whether you need guaranteed capacity"
-    text: "Saveto AI advertises unlimited free use with no published paid plan. TranscribeTok gives two free transcripts a day and sells one-time credit packs from $5 for 150 transcripts if you need more."
+    text: "Saveto AI advertises unlimited free use with no published paid plan. TranscribeTok gives two free transcripts a day and sells one-time credit packs from $9 for 100 transcripts if you need more."
   - name: "Try the free path on both"
     text: "Neither tool requires an account to produce a first transcript, so run the same video through both and compare the output before you build a workflow around either."
 faqItems:
@@ -54,7 +54,7 @@ These are not competing versions of the same product. One is a suite; one is a u
 | File uploads | No | Video and audio files |
 | Videos per run | One at a time | One at a time |
 | Free tier | 2 per day, forever, no account | **Advertised as unlimited, no account** |
-| Published paid plan | One-time packs, $5 / 150 up to $59 / 4,000 | None as of August 2026 |
+| Published paid plan | One-time packs, $9 / 100 up to $59 / 4,000 | None as of August 2026 |
 | Subscription | None — credits never expire | None published |
 | Refund policy | 30-day money-back under 20 transcripts used | Not published |
 | Exports | TXT, DOCX, SRT | Not published on the TikTok page |
@@ -81,7 +81,7 @@ Read that table honestly and Saveto AI wins most rows. That is what a suite look
 
 **Published exports.** TranscribeTok exports TXT, DOCX and SRT, and the SRT carries per-line timecodes in the standard `HH:MM:SS,mmm` format. Saveto AI's TikTok page says it can produce subtitles and timestamped key points but does not name the file formats, which matters if you are dropping a file straight into a video editor. [What each export format is good for](/download-tiktok-transcript) covers the differences, and [TikTok transcripts with timestamps](/tiktok-transcript-with-timestamps) covers the timecode formats specifically.
 
-**Published pricing when you outgrow free.** Our packs are one-time: $5 for 150 transcripts, $12 for 500, $29 for 1,500, $59 for 4,000. Credits never expire, there is no subscription, there is a 30-day money-back guarantee if you have used fewer than 20 transcripts, and we do not charge a credit when a video turns out to have no spoken audio. Saveto AI publishes no price at all. Free is excellent while it lasts; the honest caveat is that an unpriced tool has not told you what happens when it stops being free.
+**Published pricing when you outgrow free.** Our packs are one-time: $9 for 100 transcripts, $16 for 500, $34 for 1,500, $59 for 4,000. Credits never expire, there is no subscription, there is a 30-day money-back guarantee if you have used fewer than 20 transcripts, and we do not charge a credit when a video turns out to have no spoken audio. Saveto AI publishes no price at all. Free is excellent while it lasts; the honest caveat is that an unpriced tool has not told you what happens when it stops being free.
 
 **A narrower interface.** Saveto AI's app carries roughly thirty tools in its sidebar. If your job is "get the words out of this TikTok", a page that only does that is fewer decisions. This is a small advantage and we are not going to inflate it.
 

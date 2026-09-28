@@ -31,7 +31,7 @@ faqItems:
   - question: "Does Descript work on TikTok videos?"
     answer: "Descript accepts files on your computer, YouTube links, and recordings you make with their built-in tool. To transcribe a TikTok video in Descript, you'd need to download it first (which violates TikTok's terms of service for most cases). For public TikTok links, TranscribeTok is the native solution."
   - question: "How much does Descript cost?"
-    answer: "Descript's free plan includes limited audio and video transcription each month. Paid plans run roughly $12–$24 monthly depending on features and collaboration seats. It's a professional tool with pro pricing. TranscribeTok's free tier is two transcripts a day, forever, with paid packs starting at $5."
+    answer: "Descript's free plan includes limited audio and video transcription each month. Paid plans run roughly $12–$24 monthly depending on features and collaboration seats. It's a professional tool with pro pricing. TranscribeTok's free tier is two transcripts a day, forever, with paid packs starting at $9."
   - question: "Can I export a Descript transcript as SRT or DOCX?"
     answer: "Yes. Descript exports subtitles as SRT and can save a formatted transcript as a document. So can TranscribeTok — we export TXT, DOCX and SRT directly. The difference is Descript also handles the video editing; we only return the words."
 ---
@@ -67,7 +67,7 @@ TranscribeTok is a web link: paste a public TikTok URL and get the spoken text i
 | Collaboration | No | Yes, multi-user editing with comments |
 | Free tier | 2 per day | Limited minutes (exact varies by plan) |
 | Account for free tier | Not required | Required |
-| Paid pricing | $5–$59 one-time packs | ~$12–$24 per month |
+| Paid pricing | $9–$59 one-time packs | ~$12–$24 per month |
 | Free-tier shape | Recurring (resets daily) | Time-limited monthly allowance |
 | Exports | TXT, DOCX, SRT | MP4 video, TXT transcript, SRT, shareable web link |
 | Speed (TikTok transcript) | 5–10 seconds | Several minutes (download + import + transcribe) |
@@ -96,7 +96,7 @@ Look at that table honestly: Descript is a production suite and we are a single-
 
 **No account required.** TranscribeTok's free tier needs no email, no password, nothing. Descript requires login even for the free plan.
 
-**One-time credits instead of subscriptions.** Descript charges per month. We sell packs of credits that never expire. If you use a transcript tool once a month, a $5 pack you might use again next year is better economics than a $12 monthly subscription.
+**One-time credits instead of subscriptions.** Descript charges per month. We sell packs of credits that never expire. If you use a transcript tool once a month, a $9 pack you might use again next year is better economics than a $12 monthly subscription.
 
 **TikTok is your source.** Descript is designed for videos you own or can download. The YouTube download workaround exists but is clunky, and downloading from TikTok without permission is technically terms-of-service gray. TranscribeTok is purpose-built for public TikTok links.
 
@@ -106,7 +106,7 @@ Look at that table honestly: Descript is a production suite and we are a single-
 
 **Choose Descript if** you are editing video or audio. The transcript-as-editing-interface, speaker labels, filler removal, collaboration and burnin captions all matter for production. The monthly cost is worth it for creators cutting content regularly.
 
-**Choose TranscribeTok if** you just need the words. A public TikTok link, seconds of waiting, text you can copy or download. Two a day free forever, or a $5 pack if you need more. No app, no subscription, no learning curve.
+**Choose TranscribeTok if** you just need the words. A public TikTok link, seconds of waiting, text you can copy or download. Two a day free forever, or a $9 pack if you need more. No app, no subscription, no learning curve.
 
 **Choose neither if** you need to edit a TikTok video itself — TikTok's native editing suite is right inside the app.
 
@@ -131,7 +131,7 @@ Technically yes — you can download a TikTok video and upload it into Descript,
 Descript accepts files on your computer, YouTube links, and recordings you make with their built-in tool. To transcribe a TikTok video in Descript, you'd need to download it first (which violates TikTok's terms of service for most cases). For public TikTok links, TranscribeTok is the native solution.
 
 **How much does Descript cost?**
-Descript's free plan includes limited audio and video transcription each month. Paid plans run roughly $12–$24 monthly depending on features and collaboration seats. It's a professional tool with pro pricing. TranscribeTok's free tier is two transcripts a day, forever, with paid packs starting at $5.
+Descript's free plan includes limited audio and video transcription each month. Paid plans run roughly $12–$24 monthly depending on features and collaboration seats. It's a professional tool with pro pricing. TranscribeTok's free tier is two transcripts a day, forever, with paid packs starting at $9.
 
 **Can I export a Descript transcript as SRT or DOCX?**
 Yes. Descript exports subtitles as SRT and can save a formatted transcript as a document. So can TranscribeTok — we export TXT, DOCX and SRT directly. The difference is Descript also handles the video editing; we only return the words.

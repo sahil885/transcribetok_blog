@@ -80,7 +80,7 @@ Two places, and only two. Everywhere else VexaScribe wins.
 
 This is the pattern across the whole category, and it is worth internalising before you compare any two tools on price: most free tiers are lifetime grants, a few reset. We laid the full set out in [free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools).
 
-**Credits do not expire.** TranscribeTok's paid tiers are one-time credit packs, not a subscription — $5 for 150 transcripts, $12 for 500, $29 for 1,500, $59 for 4,000. Credits never expire, there is a 30-day money-back guarantee while you have used fewer than 20 transcripts, and no credit is charged when a video turns out to have no spoken audio. If your TikTok transcription is bursty — a research project, a content audit, then nothing for four months — a pack you bought once beats a subscription you forget to cancel.
+**Credits do not expire.** TranscribeTok's paid tiers are one-time credit packs, not a subscription — $9 for 100 transcripts, $16 for 500, $34 for 1,500, $59 for 4,000. Credits never expire, there is a 30-day money-back guarantee while you have used fewer than 20 transcripts, and no credit is charged when a video turns out to have no spoken audio. If your TikTok transcription is bursty — a research project, a content audit, then nothing for four months — a pack you bought once beats a subscription you forget to cancel.
 
 <div class="cta-box">
 <strong>Just need the text from a TikTok?</strong> Paste the link, get the full spoken transcript in seconds. Two free every day, resets daily, no signup and no card. <a href="https://transcribetok.com">→ Get a free TikTok transcript at TranscribeTok.com</a>
@@ -102,7 +102,7 @@ This is the pattern across the whole category, and it is worth internalising bef
 | **Meeting transcription** | Yes, Zoom / Meet / Teams | No |
 | **Free tier** | 30 minutes, one time | 2 per day, forever, no account |
 | **Signup to start** | Required | Not required |
-| **Paid model** | Subscription, $2–$20/month | One-time packs, $5–$59 |
+| **Paid model** | Subscription, $2–$20/month | One-time packs, $9–$59 |
 | **Unused allowance** | Expires monthly | Credits never expire |
 | **Refund policy** | Cancel anytime | 30 days, under 20 transcripts used |
 | **Charged for silent video** | Counts against minutes | No credit charged |

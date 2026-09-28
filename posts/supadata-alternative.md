@@ -101,7 +101,7 @@ If the answer is yes, the next question is volume. Under roughly fifty transcrip
 
 **The free allowance resets daily.** This is the difference people miss. Supadata's 100 free credits are a monthly pool that does not roll over — burn them on the 3rd and you wait until the 1st. Two a day, every day, is roughly 60 a month and it never runs out in a way that blocks you today. For occasional use that shape is simply better, which is the argument we make at length in [free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools).
 
-**You pay once, or not at all.** TranscribeTok's paid packs are one-time: $5 for 150 transcripts, $12 for 500, $29 for 1,500, $59 for 4,000. Credits never expire. There is a 30-day money-back guarantee while you have used fewer than 20 transcripts, and no credit is charged when a video turns out to have no spoken audio — the opposite of Supadata's policy on empty results.
+**You pay once, or not at all.** TranscribeTok's paid packs are one-time: $9 for 100 transcripts, $16 for 500, $34 for 1,500, $59 for 4,000. Credits never expire. There is a 30-day money-back guarantee while you have used fewer than 20 transcripts, and no credit is charged when a video turns out to have no spoken audio — the opposite of Supadata's policy on empty results.
 
 **DOCX out of the box.** TranscribeTok exports TXT, DOCX and SRT. Supadata returns JSON or plain text; anything else is your code's problem.
 

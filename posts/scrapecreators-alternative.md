@@ -50,7 +50,7 @@ ScrapeCreators has no monthly fees and no rate limits, making it cost-effective 
 
 TranscribeTok is a consumer-facing web tool. You paste a TikTok link, click once, and copy the transcript directly from your browser. No account required, no API keys, no code. The free tier gives you two transcripts per day—which resets daily, making it genuinely unlimited for light use.
 
-Paid plans are one-time credit packs ($5 for 150, $12 for 500, $29 for 1,500, $59 for 4,000 transcripts). Credits don't expire and work across your lifetime, not just for one month. Paid users also get a personal library where transcripts are automatically saved and searchable.
+Paid plans are one-time credit packs ($9 for 100, $16 for 500, $34 for 1,500, $59 for 4,000 transcripts). Credits don't expire and work across your lifetime, not just for one month. Paid users also get a personal library where transcripts are automatically saved and searchable.
 
 TranscribeTok does one thing: extract speech-to-text from TikTok's audio track. It doesn't cover other platforms, doesn't offer an API (at least not yet), and doesn't do bulk operations. It also doesn't charge if a video has no spoken audio—so music videos and slideshows don't consume your credits.
 
@@ -60,7 +60,7 @@ TranscribeTok does one thing: extract speech-to-text from TikTok's audio track. 
 |---|---|---|
 | **Setup** | API key + code required | Paste link in browser |
 | **Free tier** | 100 API calls one-time | 2 transcripts/day, resets daily |
-| **Paid pricing** | $10–$497/tier, credits never expire | $5–$59 one-time, credits never expire |
+| **Paid pricing** | $10–$497/tier, credits never expire | $9–$59 one-time, credits never expire |
 | **Platforms** | TikTok, Instagram, YouTube, Twitter, FB, Reddit | TikTok only |
 | **Output format** | JSON (structured data) | Copy/paste plain text, also TXT/DOCX/SRT |
 | **Bulk operations** | Yes, via API loops | No, one video at a time |
@@ -101,10 +101,10 @@ Here's what bulk transcription actually costs:
 
 **TranscribeTok:**
 - Free tier: 60/month (2/day)
-- Entry paid tier: $5 for 150 transcripts (≈ $0.033 each)
+- Entry paid tier: $9 for 100 transcripts (≈ $0.09 each)
 - Bulk: $59 for 4,000 transcripts (≈ $0.015 each)
 
-If you need 1,000 transcripts per month, ScrapeCreators is roughly 15x cheaper on a per-transcript basis. If you need 50 transcripts per month, TranscribeTok's $5 pack and free allowance probably cover it. The crossover happens around 100–200 transcripts/month, depending on your plan choice.
+If you need 1,000 transcripts per month, ScrapeCreators is roughly 7x cheaper per transcript even against our largest pack. If you need 50 transcripts per month, TranscribeTok's free allowance of about 60 a month covers it at no cost. Above that, the per-transcript maths favours ScrapeCreators, and the case for TranscribeTok is no code and no account rather than price.
 
 ## A Note on Multi-Platform Needs
 

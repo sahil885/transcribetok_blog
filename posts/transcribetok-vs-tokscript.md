@@ -17,7 +17,7 @@ faqItems:
   - question: "Is TokScript free?"
     answer: "TokScript has a free plan with 5 transcripts a day, which is more than TranscribeTok's 2. Its paid plans are $10 a month, $39 a year, or $199 once for lifetime access. Most of what makes TokScript worth using — bulk import, cloud library, AI agents — sits behind the paid tiers."
   - question: "Which one is cheaper?"
-    answer: "It depends on volume, not on the sticker price. TranscribeTok sells one-time credit packs starting at $5 for 150 transcripts, with no subscription and credits that never expire. TokScript's $39 annual plan is better value if you transcribe constantly; the credit packs are better if your usage is bursty."
+    answer: "It depends on volume, not on the sticker price. TranscribeTok sells one-time credit packs starting at $9 for 100 transcripts, with no subscription and credits that never expire. TokScript's $39 annual plan is better value if you transcribe constantly; the credit packs are better if your usage is bursty."
   - question: "Can TranscribeTok transcribe Instagram Reels or YouTube Shorts?"
     answer: "No. TranscribeTok is TikTok only. TokScript supports TikTok, Instagram Reels and YouTube Shorts, so if your research spans platforms it is the more practical choice."
   - question: "Which is more accurate?"
@@ -43,7 +43,7 @@ Those are genuinely different products that happen to share a first step.
 | Platforms | TikTok only | TikTok, Reels, YouTube Shorts |
 | Videos per run | One at a time | Up to 50 links; whole collections and playlists |
 | Free tier | 2/day, **no account** | 5/day, account for most features |
-| Paid | One-time packs from $5 / 150 transcripts | $10/mo, $39/yr, or $199 lifetime |
+| Paid | One-time packs from $9 / 100 transcripts | $10/mo, $39/yr, or $199 lifetime |
 | Subscription | None — credits never expire | Yes (or a lifetime option) |
 | Exports | TXT, DOCX, SRT | TXT, XML, JSON, CSV |
 | Saved library | Included with any paid pack | Cloud library on paid plans |
@@ -72,7 +72,7 @@ Read that table honestly and TokScript wins most rows. That is what a platform l
 
 **We transcribe the audio track.** TokScript's own FAQ states that if a video has no talking *or the creator has disabled auto-transcribe on the platform*, it cannot return a transcript. That reads like it depends on the platform's caption data. TranscribeTok reads the audio itself, so it returns a transcript whether or not the creator ever enabled captions. On most videos this makes no difference. On the ones where captions were switched off, it is the difference between text and nothing.
 
-**No subscription.** Our paid tiers are one-time credit packs — $5 for 150 transcripts, up to $59 for 4,000 — and credits never expire. If your usage is bursty, which for most people it is, paying once and drawing down over a year beats a monthly fee you forget to cancel. TokScript's $39 annual plan is better value if you transcribe constantly; ours is better if you don't.
+**No subscription.** Our paid tiers are one-time credit packs — $9 for 100 transcripts, up to $59 for 4,000 — and credits never expire. If your usage is bursty, which for most people it is, paying once and drawing down over a year beats a monthly fee you forget to cancel. TokScript's $39 annual plan is better value if you transcribe constantly; ours is better if you don't.
 
 **Simplicity.** There is one input and one output. Nothing to configure, nothing to learn, no dashboard. That is not a feature you can market, but it is why people come back.
 
@@ -118,7 +118,7 @@ TokScript is a bulk, multi-platform research suite. TranscribeTok is a single-vi
 It has a 5/day free plan — larger than our 2/day. Paid is $10/month, $39/year or $199 lifetime, and most of the good features are paid.
 
 **Which is cheaper?**
-Depends on volume. Our packs start at $5 for 150 transcripts with no expiry; their $39/year wins if you transcribe constantly.
+Depends on volume. Our packs start at $9 for 100 transcripts with no expiry; their $39/year wins if you transcribe constantly.
 
 **Does TranscribeTok do Reels or Shorts?**
 No, TikTok only. TokScript covers all three platforms.

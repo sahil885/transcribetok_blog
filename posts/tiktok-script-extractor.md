@@ -42,7 +42,7 @@ A TikTok script extractor takes a public video link and returns the spoken words
 
 Copy the video link — tap **Share**, then **Copy link**, or grab the URL from the address bar on desktop. Paste it into [TranscribeTok](https://transcribetok.com) and the tool transcribes the audio and returns the script in a few seconds.
 
-Two scripts a day are free, with no account, no email and no card. Beyond that, one-time credit packs start at $5 for 150 scripts; credits never expire, there is no subscription, and no credit is charged when a video turns out to have no spoken audio.
+Two scripts a day are free, with no account, no email and no card. Beyond that, one-time credit packs start at $9 for 100 scripts; credits never expire, there is no subscription, and no credit is charged when a video turns out to have no spoken audio.
 
 Export options are TXT, DOCX and SRT. Pick TXT if you are pasting the script somewhere, DOCX if it needs to look like a document, SRT if you want timecodes attached to each line. [Which export format to choose](/download-tiktok-transcript) covers the trade-offs, and [scripts with timestamps](/tiktok-transcript-with-timestamps) covers what the timing actually looks like.
 

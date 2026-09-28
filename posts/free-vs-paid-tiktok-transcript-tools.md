@@ -95,13 +95,13 @@ Across the tools on this page, paid plans add some combination of four things:
 
 | Tool | Paid model | Entry price | Expiry |
 |---|---|---|---|
-| **TranscribeTok** | One-time credit packs | $5 / 150 transcripts | Credits never expire |
+| **TranscribeTok** | One-time credit packs | $9 / 100 transcripts | Credits never expire |
 | **TokScript** | Subscription or lifetime | $10/mo, $39/yr, $199 once | Ends with subscription |
 | **GetTranscribe** | Subscription + usage credits | $9.99/mo | Credits last while subscribed |
 | **WayinVideo** | Subscription | $13.99/mo (less annually) | Credits reset monthly, no rollover |
 | **VexaScribe** | Subscription | $2/mo for 200 minutes | Monthly pool |
 
-TranscribeTok is the odd one out here, and deliberately so: **there is no subscription.** Packs are $5 for 150 transcripts, $12 for 500, $29 for 1,500 and $59 for 4,000, bought once. Credits never expire, buying any pack unlocks the saved library, there is a 30-day money-back guarantee if you have used fewer than 20 transcripts, and a video with no spoken audio does not consume a credit.
+TranscribeTok is the odd one out here, and deliberately so: **there is no subscription.** Packs are $9 for 100 transcripts, $16 for 500, $34 for 1,500 and $59 for 4,000, bought once. Credits never expire, buying any pack unlocks the saved library, there is a 30-day money-back guarantee if you have used fewer than 20 transcripts, and a video with no spoken audio does not consume a credit.
 
 That is better than a subscription if your usage is lumpy — a burst of research, then nothing for two months. It is worse than a subscription if you want the ongoing feature set that TokScript or GetTranscribe keep shipping to.
 
@@ -152,4 +152,4 @@ When you transcribe more than a handful of videos a week, or when you need to fi
 
 ---
 
-**Start with free and see if you ever hit the ceiling.** [TranscribeTok](https://transcribetok.com) gives you two transcripts every day with no account, no card and no trial countdown — and if you need more, packs start at $5 for 150 with credits that never expire.
+**Start with free and see if you ever hit the ceiling.** [TranscribeTok](https://transcribetok.com) gives you two transcripts every day with no account, no card and no trial countdown — and if you need more, packs start at $9 for 100 with credits that never expire.
