@@ -6,9 +6,9 @@ const SITE_URL = "https://blog.transcribetok.com";
 const DEFAULT_OG = { url: "/og-default.png", width: 1200, height: 630 };
 const SLUG = "tiktok-transcript-by-language";
 
-const TITLE = "TikTok Transcript by Language — 25 Languages, Free";
+const TITLE = "TikTok Transcript by Language — 27 Languages, Free";
 const DESCRIPTION =
-  "Get a TikTok transcript in any of 25 languages — Spanish, Indonesian, Arabic, Urdu, Portuguese and more. Free, no signup, straight from the video's audio.";
+  "Get a TikTok transcript in any of 27 languages — Spanish, Indonesian, Arabic, Urdu, Portuguese and more. Free, no signup, straight from the video's audio.";
 
 // Grouping is for readers, not for SEO. Regions reflect where each language's
 // TikTok audience actually sits, which is why Chinese appears under Asia
@@ -33,8 +33,8 @@ const REGIONS: { name: string; blurb: string; slugs: string[] }[] = [
   {
     name: "South Asia & the Middle East",
     blurb:
-      "Pakistan is one of TikTok's five largest markets, Bangladesh has a large Bengali creator scene, and Arabic spans the Gulf, Egypt and the Levant.",
-    slugs: ["urdu", "bengali", "arabic", "turkish"],
+      "Pakistan is one of TikTok's five largest markets, Bangladesh and Nepal have large creator scenes, Tamil TikTok comes from Sri Lanka, Malaysia and Singapore, and Arabic spans the Gulf, Egypt and the Levant.",
+    slugs: ["urdu", "bengali", "tamil", "nepali", "arabic", "turkish"],
   },
   {
     name: "Europe",
@@ -97,7 +97,7 @@ const FAQ = [
   {
     question: "What languages can TranscribeTok transcribe from TikTok?",
     answer:
-      "TranscribeTok transcribes the spoken audio, so it handles any language the speech recognition supports rather than a fixed list. This page has dedicated guides for 25 of the languages most spoken on TikTok, each covering the quirks that show up in that language specifically.",
+      "TranscribeTok transcribes the spoken audio, so it handles any language the speech recognition supports rather than a fixed list. This page has dedicated guides for 27 of the languages most spoken on TikTok, each covering the quirks that show up in that language specifically.",
   },
   {
     question: "Do I need to tell it which language the video is in?",
@@ -105,9 +105,9 @@ const FAQ = [
       "No. The language is detected from the audio. The one case worth watching is closely related pairs — Ukrainian and Russian, or Malay and Indonesian — where detection occasionally picks the wrong one on short or code-switched clips.",
   },
   {
-    question: "Can I get a TikTok transcript in Hindi or Tamil?",
+    question: "Can I get a TikTok transcript in Hindi?",
     answer:
-      "Transcription itself is not the obstacle, but TikTok has been banned in India since June 2020, so there is very little Hindi, Tamil or Telugu TikTok content to transcribe. That is why this site has no dedicated pages for Indian languages while our YouTube-focused sister site does.",
+      "Yes — transcription itself is not the obstacle, and TranscribeTok will transcribe Hindi audio. But TikTok has been banned in India since June 2020, so there is very little Hindi or Telugu TikTok content, and this site has no dedicated guides for them. Tamil and Nepali do have guides, because Tamil TikTok is made in Sri Lanka, Malaysia and Singapore, and Nepal lifted its TikTok ban in August 2024.",
   },
   {
     question: "Does the transcript come back translated into English?",
@@ -280,12 +280,14 @@ export default function ByLanguagePage() {
           <h2>Why some big languages are missing</h2>
           <p>
             <strong>
-              There are no Hindi, Tamil or Telugu guides here, and that is
+              There are no Hindi or Telugu guides here, and that is
               deliberate.
             </strong>{" "}
             TikTok has been banned in India since June 2020 and the ban was
             still in force as of August 2026, so there is very little
-            Indian-language TikTok content to transcribe. Tools that rank well
+            Indian-language TikTok content to transcribe. (Tamil has a guide
+            because its TikTok creators are in Sri Lanka, Malaysia and
+            Singapore.) Tools that rank well
             for those terms are almost always YouTube tools, where the audience
             genuinely exists.
           </p>

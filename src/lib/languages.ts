@@ -9,10 +9,13 @@ import type { FaqItem, HowToStep } from "@/lib/posts";
 // Thailand, Japan, Korea, Turkey, the Gulf, Russia and Western Europe).
 //
 // DELIBERATELY EXCLUDED — do not add these without re-checking availability:
-//   Hindi, Tamil, Telugu, Marathi, Punjabi, Gujarati — TikTok has been banned
+//   Hindi, Telugu, Marathi, Punjabi, Gujarati — TikTok has been banned
 //     in India since June 2020 and the ban was still in force as of 2026-08.
 //     The sister YouTube property ranks well for these; that does NOT transfer,
 //     because the audience does not exist on this platform.
+//   (Tamil added 2026-09-28 at Sahil's request, targeting Sri Lanka, Malaysia,
+//     Singapore and the diaspora — where TikTok is available — not India.
+//     Nepali added the same day: Nepal lifted its TikTok ban in August 2024.)
 //   (Bengali was parked here until 2026-09-28. Re-verified then: TikTok was
 //     blocked in Bangladesh only briefly during the August 2024 internet
 //     blackouts and has operated there since — it reported removing 12.1M
@@ -214,6 +217,22 @@ export const LANGUAGES: Language[] = [
     intro:
       "Bengali TikTok is driven by Bangladesh, where comedy skits, cooking, study tips, religious talks and product reviews are all delivered in fast, conversational Bangla. Extracting the Bengali transcript turns that audio into text you can read at your own pace, quote accurately, or paste into a translator.",
     note: "Bengali is written in its own script, with conjunct consonants that combine two or three letters into one shape, so a transcript is only useful if the tool outputs proper Bengali Unicode rather than romanised text. Bangladeshi creators also mix English words into Bangla speech freely; expect those words to appear in either script depending on how clearly they were pronounced.",
+  },
+  {
+    slug: "tamil",
+    name: "Tamil",
+    native: "தமிழ்",
+    intro:
+      "Tamil TikTok is made outside India — in Sri Lanka, Malaysia and Singapore, where Tamil is an official or widely spoken language, and across the diaspora in Canada, the UK and the Gulf. Extracting the Tamil transcript turns fast, casual speech into text you can read at your own pace, quote accurately or paste into a translator.",
+    note: "Tamil has a strong split between the spoken language used in videos and the formal written standard, so a faithful transcript of casual speech will not read like textbook Tamil — that is accuracy, not error. Sri Lankan, Malaysian and Indian Tamil also differ audibly in accent and vocabulary, and creators often mix in English words; check names and loanwords before quoting.",
+  },
+  {
+    slug: "nepali",
+    name: "Nepali",
+    native: "नेपाली",
+    intro:
+      "Nepali TikTok is back: Nepal blocked the app in November 2023 and lifted the ban in August 2024, and its comedy, music, vlog and news-commentary creators returned with it. Extracting the Nepali transcript turns that audio into text you can read, search, quote or translate.",
+    note: "Nepali is written in Devanagari, the same script as Hindi, and the two languages share a large vocabulary — so check that names and shared words are spelled the Nepali way rather than the Hindi way. Casual videos also mix in English and Hindi phrases freely, which is where most transcription errors cluster.",
   },
   {
     slug: "czech",
