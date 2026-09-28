@@ -29,7 +29,7 @@ faqItems:
   - question: "Does TranscribeTok have an API?"
     answer: "No. TranscribeTok is a web tool that transcribes one public TikTok video at a time — there is no API, no key to request and no programmatic endpoint. If you need transcripts inside your own code, use Supadata, Apify or GetTranscribe instead."
   - question: "What is the cheapest TikTok transcript API?"
-    answer: "Apify's TikTok Transcript Extractor is the cheapest per video at roughly $1.70 per 1,000 videos when you only download TikTok's existing subtitles. Supadata is cheaper to reason about for steady volume at $17 a month for 3,000 transcripts. AI transcription for videos without captions costs extra on every provider."
+    answer: "Apify's TikTok Transcript Extractor is the cheapest per video when you only download TikTok's existing subtitles: $3.70 per 1,000 videos on Apify's free plan, falling to $1.70 per 1,000 on its $999-a-month Business plan. Supadata is cheaper to reason about for steady volume at $17 a month for 3,000 transcripts. AI transcription for videos without captions costs extra on every provider."
   - question: "Can I get a TikTok transcript API for free?"
     answer: "Yes, within limits. Supadata gives 100 credits a month, Apify gives $5 of usage a month, and both reset monthly with no credit card. GetTranscribe's free tier is 2 video analyses in total rather than per month. Free allowances are fine for building and testing, not for production volume."
   - question: "Why do some TikTok videos return an empty transcript?"
@@ -102,7 +102,7 @@ Apify is a marketplace, and the relevant listing is Clockworks' TikTok Transcrip
 
 That mode is the one to use. It takes TikTok's existing captions where they exist and runs AI speech-to-text only on the videos that lack them, so you pay the transcription surcharge on the minority rather than on everything.
 
-Pricing is pay-per-event from roughly $1.70 per 1,000 videos for the scrape, plus a per-started-minute fee for AI transcription. Apify's own worked example: 100 videos with about 70% caption coverage comes to roughly $1.79 all in. Every account includes $5 of free usage that resets monthly.
+Pricing is pay-per-event and depends on your Apify plan: $3.70 per 1,000 videos on the free plan down to $1.70 on the Business plan, plus a per-started-minute fee for AI transcription ($0.048 down to $0.027). Our [Apify TikTok transcript review](/apify-alternative) has the full plan-by-plan table. Apify's own worked example: 100 videos with about 70% caption coverage comes to roughly $1.79 all in. Every account includes $5 of free usage that resets monthly.
 
 If you are doing trend analysis — which hooks correlate with which view counts — this is the only one of the three that answers the question without a second data source.
 
@@ -151,6 +151,7 @@ Test whatever you pick on your actual language mix first, because English accura
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — every free tier's real limit, stated plainly
 - [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT, and which to pick
 - [TranscribeTok vs GetTranscribe](/transcribetok-vs-gettranscribe) — the product-side comparison of the one API vendor that is also a tool
+- [Apify TikTok transcript alternative](/apify-alternative) — the Clockworks extractor priced on every Apify plan, and the caption-coverage gap in its cheapest mode
 - [Supadata alternative, with the credit maths](/supadata-alternative) — when Supadata is the right call and when an API is the wrong shape entirely
 - [Using a TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt) — the no-code version of an AI pipeline
 
@@ -163,7 +164,7 @@ No. TikTok's official developer API exposes video metadata, but it has no endpoi
 No. TranscribeTok is a web tool that transcribes one public TikTok video at a time — there is no API, no key to request and no programmatic endpoint. If you need transcripts inside your own code, use Supadata, Apify or GetTranscribe instead.
 
 **What is the cheapest TikTok transcript API?**
-Apify's TikTok Transcript Extractor is the cheapest per video at roughly $1.70 per 1,000 videos when you only download TikTok's existing subtitles. Supadata is cheaper to reason about for steady volume at $17 a month for 3,000 transcripts. AI transcription for videos without captions costs extra on every provider.
+Apify's TikTok Transcript Extractor is the cheapest per video when you only download TikTok's existing subtitles: $3.70 per 1,000 videos on Apify's free plan, falling to $1.70 per 1,000 on its $999-a-month Business plan. Supadata is cheaper to reason about for steady volume at $17 a month for 3,000 transcripts. AI transcription for videos without captions costs extra on every provider.
 
 **Can I get a TikTok transcript API for free?**
 Yes, within limits. Supadata gives 100 credits a month, Apify gives $5 of usage a month, and both reset monthly with no credit card. GetTranscribe's free tier is 2 video analyses in total rather than per month. Free allowances are fine for building and testing, not for production volume.

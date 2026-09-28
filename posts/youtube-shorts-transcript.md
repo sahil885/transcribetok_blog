@@ -129,6 +129,7 @@ If you cross-post, the practical answer is one tool per platform rather than one
 ## Related guides
 
 - [Instagram Reels transcript](/instagram-reels-transcript) — the same problem on Instagram, with the tools that solve it
+- [Facebook Reels transcript](/facebook-reels-transcript) — Facebook captions every reel and exports none of it; the tools that do
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the TikTok equivalent, three methods compared
 - [TokScribe alternative](/tokscribe-alternative) — covers Shorts, Reels and TikTok, with one significant catch
 - [SRT to VTT converter](/srt-to-vtt-converter) — what to do with the subtitle file yt-dlp gives you

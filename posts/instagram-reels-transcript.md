@@ -117,6 +117,7 @@ If you are subtitling rather than repurposing, [our TikTok subtitle generator gu
 - [TokTranscript alternative](/toktranscript-alternative) — the tool with a dedicated Reels extractor, reviewed honestly
 - [TokScribe alternative](/tokscribe-alternative) — free across all three short-video platforms, with one significant catch
 - [Supadata alternative](/supadata-alternative) — the API route, with verified credit costs
+- [Facebook Reels transcript](/facebook-reels-transcript) — Facebook's version of the same problem, now that every Facebook video is a Reel
 - [YouTube Shorts transcript](/youtube-shorts-transcript) — the third platform with the same problem, and the free URL trick that solves it
 - [Transcribe a TikTok video](/transcribe-tiktok-video) — the pillar guide on audio-based transcription
 

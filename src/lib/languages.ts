@@ -204,6 +204,22 @@ export const LANGUAGES: Language[] = [
       "Swahili TikTok is fastest-growing in East Africa, particularly Kenya, Tanzania and Uganda, with a strong creator base in comedy, education, music and business content. Extracting the Swahili transcript turns fast-paced, accented speech into text you can read at your own pace, quote accurately or translate into other languages.",
     note: "Swahili speech recognition has improved significantly but still struggles with regional variation — Kenyan, Tanzanian and Ugandan Swahili differ in pronunciation and vocabulary. Audio with music or street noise is where errors concentrate most; clear speech transcribes reliably.",
   },
+  {
+    slug: "czech",
+    name: "Czech",
+    native: "Čeština",
+    intro:
+      "Czech TikTok covers everything from Prague comedy sketches and cooking clips to study tips and product reviews, almost all of it delivered in fast, casual speech. Extracting the Czech transcript turns that audio into text you can read at your own pace, quote accurately or paste into a translator.",
+    note: "Czech is written in Latin script with diacritics — the háček (č, ř, š, ž) and the čárka (á, é, í) — and a dropped mark can change a word's meaning. Casual videos are usually in spoken Czech rather than the written standard, so expect colloquial endings such as \"dobrej\" for \"dobrý\": that is the speech captured faithfully, not a transcription error.",
+  },
+  {
+    slug: "hungarian",
+    name: "Hungarian",
+    native: "Magyar",
+    intro:
+      "Hungarian is spoken by around 13 million people, mostly in Hungary and its neighbouring countries, and it is unrelated to the languages around it — which makes Hungarian TikTok audio very hard to follow for non-speakers. A transcript turns it into text you can read, search or run through a translator.",
+    note: "Hungarian builds grammar by stacking suffixes onto words, so single words run long and one misheard suffix changes the meaning. It also marks long vowels with accents, including the double acute ő and ű; check those in names and quotes before relying on them, because a missing accent can produce a different word.",
+  },
 ];
 
 const SUFFIX = "-tiktok-transcript";

@@ -128,6 +128,8 @@ Differences between mainstream tools on the same clean audio are small. Differen
 - [TikTok script extractor](/tiktok-script-extractor) — what a script extractor returns, and the three things it cannot capture
 - [Supadata alternative](/supadata-alternative) — the developer API in this list, priced, and when it is overkill
 - [Instagram Reels transcript](/instagram-reels-transcript) — which of these tools cross over to Reels, and which do not
+- [Apify TikTok transcript alternative](/apify-alternative) — the scraping-platform option in this list, priced per Apify plan
+- [Facebook Reels transcript](/facebook-reels-transcript) — the tools in this list that also handle Facebook video
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — every free tier's real limit, and whether it resets
 - [WayinVideo alternative, compared](/wayinvideo-alternative) — utility versus a full AI video platform, and where their own pages disagree
 - [VexaScribe alternative](/vexascribe-alternative) — the general transcription subscription in this field, with speaker labels and 50-file bulk upload

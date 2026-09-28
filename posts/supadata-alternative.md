@@ -137,6 +137,8 @@ Comparing developer options specifically? [Our TikTok transcript API guide](/tik
 
 - [TikTok Transcript API: the 2026 options, priced](/tiktok-transcript-api) — Supadata, Apify and GetTranscribe on cost per video, output shape and rate limits
 - [ScrapeCreators alternative](/scrapecreators-alternative) — the other developer-facing option, with pay-as-you-go credits
+- [Apify TikTok transcript alternative](/apify-alternative) — the scraping-platform route, with per-plan pricing and engagement metadata
+- [Facebook Reels transcript](/facebook-reels-transcript) — where Supadata's free Facebook page fits among the Facebook options
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — why a free tier's shape matters more than its size
 - [Best free TikTok transcript tools in 2026](/best-tiktok-transcript-tools-2026) — the wider consumer field
 - [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — the pillar, including where accuracy breaks down

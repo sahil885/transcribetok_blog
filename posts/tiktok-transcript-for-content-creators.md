@@ -114,8 +114,9 @@ Two videos become six pieces of content, and none of them started from a blank p
 - [TikTok transcript to Notion](/tiktok-transcript-to-notion) — build a searchable swipe file from saved videos
 - [TikTok script extractor](/tiktok-script-extractor) — getting the raw script out, and what extraction never captures
 - [Instagram Reels transcript](/instagram-reels-transcript) — the cross-posting half of the workflow, and why we point you elsewhere for it
+- [Facebook Reels transcript](/facebook-reels-transcript) — the same cross-posting problem on Facebook, where every video is now a Reel
 
-Making content for a non-English audience? The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists every guide, including [Spanish](/spanish-tiktok-transcript) and [Arabic](/arabic-tiktok-transcript).
+Making content for a non-English audience? The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists every guide, including [Spanish](/spanish-tiktok-transcript), [Arabic](/arabic-tiktok-transcript), [Portuguese](/portuguese-tiktok-transcript), [German](/german-tiktok-transcript) and [Japanese](/japanese-tiktok-transcript).
 
 ## Frequently asked questions
 
