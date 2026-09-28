@@ -191,3 +191,22 @@ Measured by the scheduled content task at Sahil's request. The August picture (B
 2. **AI-assistant cluster — transfers, and is the biggest untested gap.** We have only `tiktok-transcript-for-chatgpt`. Write `with-gemini`, `with-grok`, `with-copilot`, `with-claude`, `for-notebooklm`, `with-deepseek`. Exempt from the Keyword Planner gate on the evidence above.
 3. **ChatGPT → homepage is the SaaS's main engine.** The blog's job is to make the tool the answer ChatGPT gives. Consistent facts in `llms.txt`, comparison posts and third-party mentions (Reddit) matter more than Google head terms.
 4. **Reddit** — not a blog task, but YTTranscript gets 3.7% of SaaS traffic from it at the best engagement rate of any source.
+
+### ChatGPT-recommendation audit — transcribetok.com vs yttranscript.app (2026-09-28)
+
+Both apps run on base44 behind Cloudflare and serve crawlers a thin server-rendered shell (~100–200 words); the full page only exists after JavaScript runs. OAI-SearchBot and Bingbot mostly read the shell.
+
+| What crawlers see | yttranscript.app | transcribetok.com |
+|---|---|---|
+| `<title>` | "Free YouTube Transcript Generator \| No Signup \| YTTranscript" | **"Transcribe Tok"** |
+| Meta description | "Free YouTube transcript generator. Extract, copy, and download…" | **"…managing your content library with a simple credit-based system."** |
+| og:title / twitter:title | keyword title | **"Transcribe Tok"** |
+| Canonical | echoes query string | echoes query string |
+| robots.txt | allow all | allow all + explicit AI-bot rules |
+| /llms.txt | base44 auto-generated page list | hand-written, better |
+| JSON-LD | none | WebApplication (correct description) |
+
+- The corrected homepage copy seen in the browser is applied client-side only. Crawlers still get the base44 app-level title and description. **Fix in base44's app/SEO settings, not in page code.**
+- The client-rendered pricing page meta still says "from $5 for 150 transcripts" — stale after the price change.
+- Off-site: three current "best TikTok transcript generator" roundups (screenapp.io, updated 2026-09-16; sipsip.ai, 2026-06-26; lifetimedealtech.com) do not mention TranscribeTok. These lists are what ChatGPT search cites for "best TikTok transcript tool".
+- Bing `site:` check was challenged with a CAPTCHA and not attempted further.
