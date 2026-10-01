@@ -123,7 +123,8 @@ Accuracy of the underlying transcription sits in the mid-to-high 90s for clear s
 ## Related guides
 
 - [TikTok transcript generator](/tiktok-transcript-generator) — how transcription works and where it fails
-- [How to use a TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt) — the full prompt library, plus Claude, Gemini and Perplexity
+- [How to use a TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt) — the full prompt library
+- [Summarize a TikTok with Gemini](/tiktok-transcript-with-gemini), [Claude](/tiktok-transcript-with-claude), [Copilot](/tiktok-transcript-with-copilot) or [Grok](/tiktok-transcript-with-grok) — what each assistant can and can't do with a TikTok
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — three free methods compared
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — turning one video into five pieces of content
 - [TikTok transcript to Notion](/tiktok-transcript-to-notion) — where to put the summaries once you have them

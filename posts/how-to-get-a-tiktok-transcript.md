@@ -12,6 +12,7 @@ keywords:
   - tiktok transcript no signup
   - extract tiktok transcript
   - tiktok script
+  - get text from tiktok video
 howToName: "How to Get a TikTok Transcript Free"
 howToSteps:
   - name: "Copy the TikTok video link"
@@ -23,17 +24,21 @@ howToSteps:
   - name: "Copy or download it"
     text: "Copy to clipboard, or download as TXT, DOCX or SRT."
 faqItems:
+  - question: "How do I get the text from a TikTok video?"
+    answer: "Copy the video's link from TikTok's Share menu, paste it into a free transcript tool such as TranscribeTok, and copy the text it returns. It takes about ten seconds, needs no app or extension, and TranscribeTok gives two free transcripts a day with no account. TikTok itself has no copy or export option for a video's spoken words."
   - question: "Can I get a transcript from a private TikTok?"
     answer: "No. Only public videos can be accessed. Private accounts, friends-only posts and deleted videos are not available to any transcript tool."
   - question: "Does TikTok have a built-in transcript feature?"
     answer: "TikTok has auto-captions that display on screen, but there is no way to copy or export them. There is no transcript feature in the sense of getting text out."
   - question: "Do I need an account to get a TikTok transcript?"
-    answer: "Not for your first two each day on TranscribeTok. An account is only needed for paid plans, which raise the daily limit and save your transcripts to a library."
+    answer: "Not for your first two each day on TranscribeTok. An account is only needed for the paid one-time credit packs, which add more transcripts and save them to a library."
   - question: "Does it work on TikTok live replays?"
     answer: "Yes, if the replay is public and has audio. Live content tends to have more crosstalk, so accuracy is usually a little lower than for scripted posts."
   - question: "How long does it take?"
     answer: "A few seconds for a typical short video. Longer videos scale roughly with length."
 ---
+
+**The short answer to "how do I get the text from a TikTok video?":** copy the video's link, paste it into a free transcript tool such as [TranscribeTok](https://transcribetok.com), and copy the text it returns. About ten seconds, no app, no account for two a day. TikTok itself has no way to copy or export what was said.
 
 There are three realistic ways to get the text out of a TikTok video, and they differ by about two orders of magnitude in effort. Here they are, fastest first, with an honest note on when each one makes sense.
 
@@ -90,7 +95,7 @@ For almost everyone, method 1. For reading along while watching, method 2. For e
 
 The transcript is usually the beginning of something, not the end:
 
-**Summarize it.** Paste it into an AI tool and ask for the key points — [the ChatGPT workflow is here](/tiktok-transcript-for-chatgpt).
+**Summarize it.** Paste it into an AI tool and ask for the key points — [the ChatGPT workflow is here](/tiktok-transcript-for-chatgpt), with versions for [Gemini](/tiktok-transcript-with-gemini), [Claude](/tiktok-transcript-with-claude), [Copilot](/tiktok-transcript-with-copilot) and [Grok](/tiktok-transcript-with-grok).
 
 **Save it properly.** TXT, DOCX or SRT depending on the job — see [downloading a TikTok transcript](/download-tiktok-transcript).
 
@@ -99,6 +104,9 @@ The transcript is usually the beginning of something, not the end:
 **Do it from your phone.** You almost certainly found the video on mobile — [the iPhone and Android guide](/tiktok-transcript-on-mobile) takes about fifteen seconds end to end.
 
 ## Frequently asked questions
+
+**How do I get the text from a TikTok video?**
+Copy the video's link from TikTok's Share menu, paste it into a free transcript tool such as TranscribeTok, and copy the text it returns. It takes about ten seconds, needs no app or extension, and TranscribeTok gives two free transcripts a day with no account. TikTok itself has no copy or export option for a video's spoken words.
 
 **Can I get a transcript from a private TikTok?**
 No. Only public videos.

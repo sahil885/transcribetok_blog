@@ -107,7 +107,7 @@ Transcripts come one video at a time, so this works best with a focused set — 
 
 ## The same workflow, other tools
 
-Nothing here is ChatGPT-specific. Claude, Gemini, Perplexity, Copilot and every other text model work identically: get the transcript, paste it, give a specific instruction. The main difference is context window — for very large batches of transcripts, the models with larger windows handle more at once before you need to chunk the input.
+Nothing here is ChatGPT-specific. Claude, Gemini, Perplexity, Copilot and every other text model work identically: get the transcript, paste it, give a specific instruction. We have assistant-specific guides for [Gemini](/tiktok-transcript-with-gemini) (which can also take an uploaded video file), [Claude](/tiktok-transcript-with-claude), [Copilot](/tiktok-transcript-with-copilot) and [Grok](/tiktok-transcript-with-grok) (which adds live search of X). The main difference is context window — for very large batches of transcripts, the models with larger windows handle more at once before you need to chunk the input.
 
 ## Related guides
 
@@ -116,6 +116,8 @@ Nothing here is ChatGPT-specific. Claude, Gemini, Perplexity, Copilot and every 
 - [Translate a TikTok transcript](/translate-tiktok-transcript) — the prompts that handle slang and idiom properly
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — the repurposing workflow end to end
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — the three routes to a summary, and why a link alone never works
+- [TikTok transcript with Gemini](/tiktok-transcript-with-gemini) — the same workflow, plus when to upload the video file instead
+- [TikTok transcript with Claude](/tiktok-transcript-with-claude) — careful analysis and Projects for a TikTok swipe file
 - [TikTok transcript API options, priced](/tiktok-transcript-api) — when the manual paste-into-ChatGPT loop should become a pipeline
 
 ## Frequently asked questions
