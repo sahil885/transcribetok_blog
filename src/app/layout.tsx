@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     template: "%s | TranscribeTok Blog",
   },
   description:
-    "Free guides on how to get TikTok transcripts, transcribe videos in bulk, use them with ChatGPT, and download them as TXT, DOCX or SRT. Powered by TranscribeTok.",
+    "Free guides on how to get TikTok transcripts, use them with ChatGPT and other AI tools, and download them as TXT, DOC or PDF. Powered by TranscribeTok.",
   keywords: [
     "tiktok transcript",
     "tiktok to text",

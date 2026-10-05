@@ -51,8 +51,8 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
             Get any {lang.name} TikTok transcript instantly
           </p>
           <p className="text-xs text-gray-500 mt-0.5">
-            2 free transcripts a day · No signup · Copy or download as TXT, DOCX,
-            SRT
+            2 free transcripts a day · No signup · Copy or download as TXT, DOC or
+            PDF
           </p>
         </div>
         <a
@@ -127,7 +127,7 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
               <td>TranscribeTok</td>
               <td>A few seconds</td>
               <td>2 free daily, no signup</td>
-              <td>Yes (TXT, DOCX, SRT)</td>
+              <td>Yes (TXT, DOC, PDF)</td>
             </tr>
             <tr>
               <td>Typing it out by hand</td>

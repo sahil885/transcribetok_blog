@@ -211,7 +211,7 @@ export default function ByLanguagePage() {
             </p>
             <p className="text-xs text-gray-500 mt-0.5">
               2 free transcripts a day · No signup · Copy or download as TXT,
-              DOCX, SRT
+              DOC or PDF
             </p>
           </div>
           <a
@@ -323,12 +323,12 @@ export default function ByLanguagePage() {
               <Link href="/tiktok-transcript-with-timestamps">
                 Export with timestamps
               </Link>{" "}
-              — SRT is the only export that carries timing, which matters for
-              subtitling foreign-language clips.
+              — turn timestamps on to see when each line is spoken, which helps
+              when checking foreign-language clips.
             </li>
             <li>
               <Link href="/download-tiktok-transcript">
-                Download it as TXT, DOCX or SRT
+                Download it as TXT, DOC or PDF
               </Link>{" "}
               — and which format to pick for non-Latin scripts.
             </li>

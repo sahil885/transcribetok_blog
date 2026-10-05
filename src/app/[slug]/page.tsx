@@ -308,7 +308,7 @@ export default async function PostPage({ params }: Props) {
             </p>
             <p className="text-xs text-gray-500 mt-0.5">
               2 free transcripts a day · No signup · Copy or download as TXT,
-              DOCX, SRT
+              DOC or PDF
             </p>
           </div>
           <a

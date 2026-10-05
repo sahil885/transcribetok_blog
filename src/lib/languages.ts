@@ -303,7 +303,7 @@ export function languageSteps(l: Language): HowToStep[] {
     },
     {
       name: `Copy or download the ${l.name} text`,
-      text: `Copy the text or download it as TXT, DOCX or SRT — then translate or summarize it however you like.`,
+      text: `Copy the text or download it as TXT, DOC or PDF — then translate or summarize it however you like.`,
     },
   ];
 }

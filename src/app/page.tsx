@@ -7,7 +7,7 @@ import { LANGUAGES, languagePageSlug } from "@/lib/languages";
 export const metadata: Metadata = {
   title: "TranscribeTok Blog — TikTok Transcript Guides & Tips",
   description:
-    "Free step-by-step guides on getting TikTok transcripts, transcribing videos in bulk, using them with ChatGPT, and downloading as TXT, DOCX or SRT.",
+    "Free step-by-step guides on getting TikTok transcripts, using them with ChatGPT and other AI tools, and downloading them as TXT, DOC or PDF.",
   alternates: { canonical: "https://blog.transcribetok.com" },
 };
 
