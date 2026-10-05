@@ -26,7 +26,7 @@ faqItems:
   - question: "What is a TikTok transcript generator?"
     answer: "A TikTok transcript generator is a tool that converts the spoken audio in a TikTok video into written text. You paste the video link, and the tool returns the full script — which you can then copy, download, search, or feed into an AI tool."
   - question: "Is there a free TikTok transcript generator?"
-    answer: "Yes. TranscribeTok gives you two free transcripts every day with no account required. Paid plans raise that limit and save every transcript to your library."
+    answer: "Yes. TranscribeTok gives you two free transcripts every day with no account required. One-time paid credit packs add more transcripts, never expire, and save every transcript to your library."
   - question: "Does it work if the video has no captions?"
     answer: "Yes. TranscribeTok transcribes the audio directly rather than scraping TikTok's caption track, so it works whether or not the creator turned captions on."
   - question: "Can I generate transcripts for more than one TikTok at a time?"
@@ -103,11 +103,13 @@ Automatic speech recognition on TikTok content is harder than on, say, a podcast
 
 For clear speech in a well-supported language, expect accuracy in the mid-to-high 90s — good enough to search, summarize, and quote from after a quick read-through. For anything you plan to publish as a direct quote, read the line back against the video first. That is true of every automatic transcription tool, not just this one.
 
+Accuracy also shifts by language: tonal languages, heavy code-switching and closely related language pairs are where errors cluster. The [TikTok transcript by language hub](/tiktok-transcript-by-language) covers 27 languages, with specific guides for [Portuguese](/portuguese-tiktok-transcript), [Japanese](/japanese-tiktok-transcript) and [Arabic](/arabic-tiktok-transcript).
+
 ## What about doing a lot of videos?
 
 Worth being straight about this, because the answer changes depending on what you mean.
 
-TranscribeTok — like most tools in this category — handles **one video at a time**. Two a day are free with no account, and paid plans raise that limit and keep every transcript saved in your library, so a script you pulled last month is still there rather than something you re-do.
+TranscribeTok — like most tools in this category — handles **one video at a time**. Two a day are free with no account, and one-time paid credit packs add more and keep every transcript saved in your library, so a script you pulled last month is still there rather than something you re-do.
 
 That covers most people comfortably: you find a video, you want the words, you get them. Over a few weeks it adds up to a decent archive.
 
@@ -119,7 +121,7 @@ What it isn't built for is pasting a hundred links and walking away. If you need
 A tool that converts the spoken audio in a TikTok video into written text. Paste the video link and you get the full script back, ready to copy, download or search.
 
 **Is there a genuinely free TikTok transcript generator?**
-Yes — TranscribeTok gives you two transcripts a day with no account. Paid plans raise the limit and save your transcripts.
+Yes — TranscribeTok gives you two transcripts a day with no account. One-time credit packs add more and save your transcripts.
 
 **Does it work if the video has no captions?**
 Yes. The transcript comes from the audio, not from TikTok's caption track.

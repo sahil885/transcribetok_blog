@@ -24,7 +24,7 @@ howToSteps:
     text: "Read the transcript, fix any names or slang the model missed, then copy it or download as TXT, DOCX or SRT."
 faqItems:
   - question: "Can you transcribe a TikTok video for free?"
-    answer: "Yes. TranscribeTok transcribes two videos a day free with no account. Paid plans raise that limit and keep every transcript saved in your library."
+    answer: "Yes. TranscribeTok transcribes two videos a day free with no account. One-time paid credit packs add more transcripts and keep every one saved in your library."
   - question: "Do I need to download the TikTok video first?"
     answer: "No. You only need the share link. The video is never downloaded to your device."
   - question: "How long can the video be?"

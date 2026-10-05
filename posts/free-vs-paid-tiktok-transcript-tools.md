@@ -54,6 +54,7 @@ Limits taken from each vendor's own pricing page, verified August 2026.
 |---|---|---|---|---|
 | **TokScript** | 5 transcripts/day | Daily | Yes | The most generous free tier here. Includes Chrome extension and MCP access. |
 | **TranscribeTok** | 2 transcripts/day | Daily | **No** | Smaller daily cap than TokScript. One video at a time, no bulk. |
+| **TransClipper** | 3 transcripts/day | Daily | No | Free videos capped at 60 seconds. Bulk, AI agents and longer videos are paid. |
 | **Saveto AI** | Advertised as unlimited | — | No | No published pricing page at all, so the terms could change without notice. |
 | **GetTranscribe** | 2 video analyses + 10 AI questions | **Never** | Yes | A lifetime total, not monthly. Rich analysis, then it stops. |
 | **WayinVideo** | 200 credits at signup | **Never** | Yes | One-time. At 0.5 credit per minute of transcript, about 400 minutes total. |
@@ -97,6 +98,7 @@ Across the tools on this page, paid plans add some combination of four things:
 |---|---|---|---|
 | **TranscribeTok** | One-time credit packs | $9 / 100 transcripts | Credits never expire |
 | **TokScript** | Subscription or lifetime | $10/mo, $39/yr, $199 once | Ends with subscription |
+| **TransClipper** | Subscription or one-time credits | $9.99/mo, or $9.99 / 200 credits | Paid credits never expire |
 | **GetTranscribe** | Subscription + usage credits | $9.99/mo | Credits last while subscribed |
 | **WayinVideo** | Subscription | $13.99/mo (less annually) | Credits reset monthly, no rollover |
 | **VexaScribe** | Subscription | $2/mo for 200 minutes | Monthly pool |
@@ -130,6 +132,7 @@ One more thing worth testing before you settle: accuracy varies enormously by la
 - [WayinVideo alternative: an honest comparison](/wayinvideo-alternative) — a one-time free grant versus a daily reset, in detail
 - [TokScribe alternative: an honest comparison](/tokscribe-alternative) — a free tier with no published price, and a public transcript archive
 - [TokTranscript alternative: free tiers compared](/toktranscript-alternative) — a monthly cap of 10 against a daily reset of 2, and privacy as a paid feature
+- [TransClipper alternative](/transclipper-alternative) — 3 free a day but only on videos up to 60 seconds
 - [VexaScribe alternative](/vexascribe-alternative) — a 30-minute one-time trial against a daily reset, and why minutes that expire monthly change the maths
 - [How to transcribe a TikTok video free](/transcribe-tiktok-video) — the pillar guide
 

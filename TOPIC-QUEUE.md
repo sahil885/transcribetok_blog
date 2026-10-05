@@ -57,13 +57,71 @@ Shipped 2026-08-11 in response: IndexNow (`scripts/indexnow.mjs`, key file in `p
 
 Sahil asked for YTTranscript's winning patterns to be applied here. In priority order for the next runs:
 
-1. **AI-assistant cluster (use as the non-comparison slot until exhausted).** YTTranscript's `with-gemini` (668 imp @ 7.5), `with-grok` (565 @ 6.3), `with-copilot` (465 @ 8.5), `for-notebooklm` (126 @ 10.0), `with-deepseek` (120 @ 8.2), `with-claude` (75 @ 7.0) all rank page one. **Exempt from the Keyword Planner gate** — the TIER 3 "no data" verdicts on these are proven false negatives by the sister site. **Done 2026-10-01 (Sahil's request): `with-gemini`, `with-claude`, `with-copilot`, `with-grok`.** Remaining: `tiktok-transcript-for-notebooklm`, `tiktok-transcript-with-deepseek`, `tiktok-transcript-with-perplexity`. Verify what each assistant can and cannot do with a TikTok link before writing — do not assume parity with YouTube.
+1. **AI-assistant cluster (use as the non-comparison slot until exhausted).** YTTranscript's `with-gemini` (668 imp @ 7.5), `with-grok` (565 @ 6.3), `with-copilot` (465 @ 8.5), `for-notebooklm` (126 @ 10.0), `with-deepseek` (120 @ 8.2), `with-claude` (75 @ 7.0) all rank page one. **Exempt from the Keyword Planner gate** — the TIER 3 "no data" verdicts on these are proven false negatives by the sister site. **Done 2026-10-01 (Sahil's request): `with-gemini`, `with-claude`, `with-copilot`, `with-grok`.** **`tiktok-transcript-for-notebooklm` done 2026-10-05.** Remaining: `tiktok-transcript-with-deepseek`, `tiktok-transcript-with-perplexity`. Verify what each assistant can and cannot do with a TikTok link before writing — do not assume parity with YouTube.
 2. **Language pages** — 81% of YTTranscript blog clicks and 75% of ours. Bengali added 2026-09-28. Tamil and Nepali are awaiting Sahil's decision. Greek, Hebrew, Hausa remain defensible.
 3. **Comparison posts** — keep one per run, but they earn AI citations rather than Google clicks.
 
 **Prices changed 2026-09-28 (confirmed by Sahil):** $9 / 100, $16 / 500, $34 / 1,500, $59 / 4,000, one-time. All posts, `llms.txt` and the playbook were updated. Check the pricing page each run; if prices move again, update every post that quotes them.
 
 **Publishing:** the cloud sandbox git proxy returns 403 for this repo. Push from the desktop VM (`device_bash`: clone to `$HOME`, copy changed files from the mounted repo, commit, push with the token from `.secrets/gh-token`).
+
+---
+
+## Run 2026-10-05
+
+**Two posts written, verified and pushed.**
+
+- `posts/transclipper-alternative.md` (new — comparison slot. **Source: Search Console** — the query `transclipper vs tokscript which video an…` appeared at position 5.0, and transclipper.ai publishes its own `vs TokScript` page and a TikTok transcript generator. Brand volume NOT measured: Keyword Planner was unreachable this run (Chrome extension denied on ads.google.com). Verified transclipper.ai, /pricing (both tabs) and /tiktok-transcript-generator directly, including their FAQ JSON-LD.)
+- `posts/tiktok-transcript-for-notebooklm.md` (new — AI-assistant cluster, priority 1, gate-exempt. **Key finding: Google renamed NotebookLM to Gemini Notebook on 16 July 2026** (blog.google). Source limits and supported types verified on the Gemini Notebook help centre.)
+- **Stale "paid plans raise the daily limit" wording removed from 4 posts** (`tiktok-to-text` ×3, `tiktok-transcript-generator` ×2, `transcribe-tiktok-video`, `best-tiktok-transcript-tools-2026`) — replaced with one-time credit packs. `best-tiktok-transcript-tools-2026` also dropped "the loosest free tier we're aware of", no longer true (TransClipper 3/day no account, TokScript 5/day with account).
+- `public/llms.txt` — 2 new index entries, 2 new facts (NotebookLM rename + source rules; full TransClipper spec).
+
+### Search Console notes — 2026-10-05
+
+- Last 28 days (5 Sep – 2 Oct): **1.3k impressions, 13 clicks, CTR 1.0%, avg position 24.8**, 136 queries. Against 2026-09-28 (1,080 / 8 / 0.7% / 44.7 / 139): clicks +5, **position improved another 19.9 points**.
+- Clicks by page: `vexascribe-alternative` 5 (330 imp @ 4.8), `german-tiktok-transcript` 4 (7 imp @ 3.4, 57% CTR), `russian-tiktok-transcript` 2 (10 @ 5.9), **`thai-tiktok-transcript` 2 (4 @ 5.3) — first Thai clicks**. Language pages: 8 of 13 clicks.
+- `vexascribe` now **4.7 with 310 impressions and 5 clicks** — the best-performing query on the property.
+- Language striking distance: Portuguese 13.1 (14 imp), Japanese 13.0 (8), Arabic 13.5 (2), Filipino 11.3 (4). French improved to 9.3, Spanish 8.1. Links to Portuguese/Japanese/Arabic added this run from both new posts and the `tiktok-transcript-generator` pillar (63 imp @ 21.0, previously no language links).
+- 11–30 band: `transcribe tiktok video` 26.3, `tiktok transcript generator` 16.3, `tiktok transcript generator free` 12.1, `claptools` 21.6, `saveto ai` 16.0, `japanese transcript` 15.2, `tokscribe.com` 13.9 — **all served. Tenth consecutive run with nothing new in the band.**
+- New competitor signal: `transclipper vs tokscript …` 5.0 (singleton). `facebook reel transcript` 1.3 (10 imp) — the week-old Facebook post already ranks top 3.
+- Head terms still deep: `tiktok transcript` 76.5 (42 imp), `tik tok transcript` 75.6.
+
+### Competitor research — verified 2026-10-05
+
+**TransClipper (transclipper.ai):** TikTok, Reels and Shorts; transcribes the audio track, claims 95%+ on clear audio. Free 3/day no account, **videos ≤60 s only**; free account adds 1 creator tracked + 1 hook breakdown. Pro $9.99/mo (from $7.42/mo yearly, 3-day trial): unlimited (fair use), 5-min videos, 100 agent runs, bulk import 50, API 500 req/mo, 5 creators. Business $24.99/mo: 10-min, 300 runs, API 1,500, 15 creators. PAYG: 200/$9.99, 1,000/$19.99, 3,000/$39; +1 credit per 5-min block; agent run = 5 credits; failed = free; paid credits never expire. Exports TXT/XML/PDF. **Cheaper per transcript than us at every pack size.** Inconsistencies on its own pages: hero strip says 30 agent runs vs 100 on the plan card; TikTok-page FAQ says "unlimited agent runs".
+
+**Gemini Notebook / NotebookLM:** renamed 16 Jul 2026. Video links: public YouTube with captions only. Web URLs: HTML text only, no embedded video. Audio import accepts MP4 and transcribes at import. Free: 50 sources/notebook, 500k words or 200 MB per source.
+
+### Verification — 2026-10-05
+
+- **`npx next build`: PASS** in the cloud sandbox (npm install 54 s, no SWC error). **73 static pages**, sitemap 69 URLs, both new routes present with Article + BreadcrumbList + FAQPage + HowTo JSON-LD and correct canonicals.
+- **Link check: PASS** — every internal link across all 40 posts resolves to a post, one of 27 language pages or the hub.
+- Frontmatter complete; categories `Comparisons` and `AI Tools`; dates 2026-10-05; descriptions 158 and 152 chars; 5 keywords, 5 howToSteps, 5 faqItems each. Word counts ~1,640 and ~1,540.
+- Product-fact scan: PASS. TransClipper post states TranscribeTok has no bulk and no API; neither post claims DOCX/SRT export for TranscribeTok (pricing page still names TXT only).
+- Desktop-VM `npm install` timed out at the 180 s cap; build done in the cloud sandbox instead, push from the desktop VM.
+
+### Interlinking added this run
+
+- `best-tiktok-transcript-tools-2026` → `transclipper-alternative` (batch section, glance table, no-signup table, verdict, FAQ)
+- `free-vs-paid-tiktok-transcript-tools` → `transclipper-alternative` (both tables + Related guides)
+- `transcribetok-vs-tokscript` → `transclipper-alternative` (Related guides)
+- `tiktok-transcript-with-gemini` → `tiktok-transcript-for-notebooklm`
+- `tiktok-transcript-generator` (pillar) → hub + Portuguese + Japanese + Arabic
+- New posts: TransClipper → pillar, tokscript, best-tools, free-vs-paid, script-extractor, summarize, hub + Portuguese/Japanese/Arabic. NotebookLM → pillar `tiktok-to-text`, gemini, chatgpt, claude, notion, summarize, tokscript, hub + Japanese/Portuguese.
+
+### Candidates spotted 2026-10-05
+
+- **AI-assistant cluster:** `with-deepseek` and `with-perplexity` remain. NotebookLM rename means `gemini notebook tiktok` is a fresh term nobody has written for yet.
+- **NoteGPT** has no dedicated TikTok transcript tool (only a "TikTok summary with ChatGPT" page) — not a comparison target.
+- **Transcript24** is named in `best-tiktok-transcript-tools-2026` and TransClipper has a `vs Transcript24` page — possible next comparison; measure brand volume first.
+- **Thai** produced its first 2 clicks at 5.3 — a candidate for internal links next run.
+- **Keyword Planner access**: Chrome extension was denied on ads.google.com this run. If the volume gate is to keep running, Sahil needs to allow the site for the extension.
+
+**Standing checks (STEP 0):**
+- **0a. Homepage meta — still correct**, all three tags. Closed since 2026-09-21; re-confirmed.
+- **0b. IndexNow** key file 200, contents match filename. `npm run indexnow:all` seed and Bing Webmaster Tools: **still unconfirmed (eighth run).**
+- **0c. Pricing — RESOLVED.** Live client-rendered pricing page shows $9/100, $16/500, $34/1,500, $59/4,000, matching the playbook (updated by Sahil 2026-09-28). The stale "raise the daily limit" phrasing in posts is fixed this run. Still open: pricing page names TXT export only vs playbook TXT/DOCX/SRT.
+- **0d. Language pages** — see Search Console notes.
 
 ---
 
@@ -764,6 +822,8 @@ Standing checks now live in **STEP 0 of the scheduled task itself**, not here �
 - [x] czech-tiktok-transcript + hungarian-tiktok-transcript — 2026-09-28 — **Language page additions**, justified by language pages producing 6 of 8 clicks.
 - [x] tiktok-transcript-with-gemini / -claude / -copilot / -grok — 2026-10-01 — AI-assistant cluster, exempt from the volume gate on YTTranscript evidence. Verified upload limits per assistant from Google, Anthropic and Microsoft help pages; Grok link/upload behaviour from third-party testing (Aug 2026), attributed as such.
 - [x] best-tiktok-transcript-tools-2026 + how-to-get-a-tiktok-transcript updated 2026-10-01 to answer "best free TikTok transcript tool with no signup" and "how do I get the text from a TikTok video" directly (not new posts, to avoid cannibalisation).
+- [x] transclipper-alternative — 2026-10-05 — comparison, sourced from a GSC query (`transclipper vs tokscript…` @ 5.0). Brand volume unmeasured (Keyword Planner unreachable). Verified transclipper.ai directly.
+- [x] tiktok-transcript-for-notebooklm — 2026-10-05 — AI-assistant cluster priority 1 (YTTranscript `for-notebooklm` 126 imp @ 10.0). NotebookLM renamed Gemini Notebook 2026-07-16.
 - [x] instagram-reels-transcript — 2026-09-14 — **`instagram reels transcript` 1k–10k, +900% YoY, Low, bid A$0.36–2.03.** Zero existing coverage and zero cannibalisation. Written in the honest-gap shape established by the API post: TranscribeTok does not do Reels, so the post names the tools that do. First non-TikTok-platform post on the property.
 
 ---

@@ -23,7 +23,7 @@ faqItems:
   - question: "Which tool is most accurate?"
     answer: "Accuracy differences between mainstream tools are smaller than marketing suggests, because most use similar underlying speech recognition. Audio quality — music level, speech speed, accent — affects results far more than tool choice."
   - question: "Which tools can transcribe TikToks in bulk?"
-    answer: "TokScript and GetTranscribe are the main consumer options for batch processing, and Apify or Supadata if you're comfortable with an API. Most tools, including TranscribeTok, handle one video at a time."
+    answer: "TokScript, TransClipper and GetTranscribe are the main consumer options for batch processing, and Apify or Supadata if you're comfortable with an API. Most tools, including TranscribeTok, handle one video at a time."
   - question: "Can I just use TikTok's own captions instead?"
     answer: "Only for reading along while watching. TikTok provides no way to copy, export or download its captions, so they can't be used as text anywhere else."
 ---
@@ -45,7 +45,7 @@ Being clear about which one you are saves a lot of time. TranscribeTok is a sing
 
 Good for: grabbing the script from a video you just watched.
 
-**TranscribeTok** *(ours)* — Two transcripts a day free with no account at all, which is the loosest free tier we're aware of in this category. Exports TXT, DOCX and SRT. Paid plans raise the daily limit and save transcripts to a library so you're not re-transcribing things you've already done. One video at a time.
+**TranscribeTok** *(ours)* — Two transcripts a day free with no account at all, on videos of any standard length. Exports TXT, DOCX and SRT. Paid credit packs are one-time (from $9 for 100 transcripts, credits never expire) and also save transcripts to a library so you're not re-transcribing things you've already done. One video at a time.
 
 **Saveto AI** — No signup, very wide language coverage. Straightforward and fast for one-off use.
 
@@ -65,6 +65,8 @@ Good for: competitor research, content audits, transcribing a back catalogue.
 
 **TokScript** — Bulk import across TikTok, Reels and Shorts. The multi-platform coverage is a genuine advantage if your research spans more than TikTok. We've written a full [TranscribeTok vs TokScript comparison](/transcribetok-vs-tokscript) covering where each one wins.
 
+**TransClipper** — Bulk import of 50 videos on paid plans across TikTok, Reels and Shorts, plus AI agents that break down hooks and virality, weekly creator tracking and an API. Its no-account free tier is 3 a day but only for videos up to 60 seconds. See our [TransClipper alternative comparison](/transclipper-alternative) for verified pricing.
+
 **GetTranscribe** — Organises videos by competitor into folders and lets you query across a whole collection. Strong on the research-workflow side.
 
 **Apify / Supadata** — API and scraping platforms rather than consumer tools. The right answer if you're a developer building transcription into a pipeline, and the wrong answer if you want a web page to paste a link into.
@@ -80,6 +82,7 @@ If you're transcribing fifty videos, use one of these. A single-video tool makes
 | VexaScribe | Yes (50 files) | 30 min once | Yes | Multi-source transcription, speaker labels |
 | WayinVideo | No | 200 credits once | Mixed (see below) | Summaries and mind maps |
 | TokScript | Yes | Limited | Yes | Multi-platform research |
+| TransClipper | Yes (50, paid) | 3/day, videos ≤60s | No | Viral-hook research |
 | GetTranscribe | Yes | Limited | Yes | Organised competitor tracking |
 | Apify / Supadata | Via API | Usage-based | Yes | Developers |
 
@@ -87,18 +90,19 @@ Free tiers and features change frequently in this category — check current lim
 
 ## Best free TikTok transcript tool with no signup
 
-**If you want a TikTok transcript without creating an account, the realistic options are TranscribeTok, Saveto AI and TokTranscript.** They differ in the shape of the free allowance, not in whether you need an email address.
+**If you want a TikTok transcript without creating an account, the realistic options are TranscribeTok, TransClipper, Saveto AI and TokTranscript.** They differ in the shape of the free allowance, not in whether you need an email address.
 
 | Tool | Signup for free use | Free allowance | Transcribes audio (works without captions) |
 |---|---|---|---|
 | **TranscribeTok** | No | 2 per day, resets daily | Yes |
+| **TransClipper** | No | 3 per day, videos up to 60 seconds only | Yes (stated) |
 | **Saveto AI** | No | Advertised as unlimited; no pricing page | Not stated |
 | **TokTranscript** | No, to try | 10 per month; free transcripts are public | Not stated for TikTok |
 | **WayinVideo** | Pricing page: signup credits; TikTok page: "no login" | 200 credits once | Yes |
 | **VexaScribe** | Yes | 30 minutes, once | Yes |
 | **GetTranscribe** | Yes | 2 in total | Yes |
 
-**Our verdict, with the obvious bias declared:** for a few TikToks a week with no account, TranscribeTok is the simplest, and it is the only one here with a published price if you ever need more. If you need more than two today and do not want to pay, Saveto AI's advertised unlimited free tier is the more generous offer. Detailed comparisons: [Saveto AI](/transcribetok-vs-saveto-ai), [TokTranscript](/toktranscript-alternative), [WayinVideo](/wayinvideo-alternative), [VexaScribe](/vexascribe-alternative) and [GetTranscribe](/transcribetok-vs-gettranscribe).
+**Our verdict, with the obvious bias declared:** for a few TikToks a week with no account, TranscribeTok is the simplest, and its free tier works on videos longer than a minute. If your videos are under 60 seconds, TransClipper's three a day is the larger no-account allowance. If you need more than that today and do not want to pay, Saveto AI's advertised unlimited free tier is the more generous offer. Detailed comparisons: [TransClipper](/transclipper-alternative), [Saveto AI](/transcribetok-vs-saveto-ai), [TokTranscript](/toktranscript-alternative), [WayinVideo](/wayinvideo-alternative), [VexaScribe](/vexascribe-alternative) and [GetTranscribe](/transcribetok-vs-gettranscribe).
 
 ## What "free" usually means
 

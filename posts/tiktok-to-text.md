@@ -26,7 +26,7 @@ faqItems:
   - question: "How do I convert a TikTok video to text?"
     answer: "Copy the video's share link, paste it into TranscribeTok, and click Get Transcript. The spoken audio comes back as text you can copy or download in a few seconds."
   - question: "Is converting TikTok to text free?"
-    answer: "Two conversions a day are free with no account. Paid plans raise that limit and save every transcript to your library."
+    answer: "Two conversions a day are free with no account. One-time paid credit packs add more transcripts, never expire, and save every transcript to your library."
   - question: "Does it capture text written on the screen?"
     answer: "No. Conversion works from the audio, so it captures what is spoken. On-screen text overlays are graphics rather than data and are not included."
   - question: "What file formats can I export?"
@@ -85,7 +85,7 @@ Text does things video cannot:
 
 ## Converting a lot of TikToks
 
-TranscribeTok converts one video at a time. Two a day are free with no account; paid plans raise the limit and save every transcript to your library, so a script you converted last month is still there.
+TranscribeTok converts one video at a time. Two a day are free with no account; one-time paid credit packs add more and save every transcript to your library, so a script you converted last month is still there.
 
 If you genuinely need to paste fifty links and walk away — auditing a competitor's whole catalogue in one go — that is a different category of tool. [Our comparison post](/best-tiktok-transcript-tools-2026) names the ones built for it.
 
@@ -105,7 +105,7 @@ None of this makes the output unusable — it is more than good enough to search
 Copy the share link, paste it into TranscribeTok, click Get Transcript. Text comes back in seconds.
 
 **Is it free?**
-Two conversions a day, no account. Paid plans raise the limit and save your transcripts.
+Two conversions a day, no account. One-time credit packs add more and save your transcripts.
 
 **Does it capture text written on the screen?**
 No — it converts the spoken audio. On-screen overlays are graphics, not text.
