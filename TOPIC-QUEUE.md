@@ -67,6 +67,18 @@ Sahil asked for YTTranscript's winning patterns to be applied here. In priority 
 
 ---
 
+## Status update 2026-10-05 (Sahil, in session) — read before STEP 0
+
+- **0b. Bing Webmaster Tools: DONE.** Sahil has set it up and submitted the sitemap and pages there. **Stop flagging it.** The `npm run indexnow:all` one-time seed is now largely redundant (Bing has the full sitemap); do not keep flagging it either. IndexNow `postbuild` still runs on every deploy; keep checking only that the key file returns 200 and matches its filename.
+- **New posts' indexing requested in Search Console** for `transclipper-alternative` and `tiktok-transcript-for-notebooklm`.
+- **0c. Pricing: closed.** Playbook, pricing page and all posts agree ($9/100, $16/500, $34/1,500, $59/4,000). Export formats are TXT, DOC, PDF, also closed.
+- **transcribetok.com (Base44) fixes done 2026-10-05:** homepage/pricing/download/generator/ChatGPT page titles and descriptions, export copy (TXT, DOC, PDF), noindex on login/register/password pages, sitemap now lists all 6 public pages, hand-written JSON-LD naming the Organization "TranscribeTok".
+- **Parked by Sahil (cannot be fixed in Base44), do NOT re-flag:** (1) the duplicate auto-generated Organization/WebSite JSON-LD carrying the long SEO title as its name; (2) the `/tiktok-to-text` page title truncated at 60 chars.
+- **PeerPush listing** (peerpush.com/p/transcribe-tok) updated 2026-10-05: name TranscribeTok, "from $9", About text matches the site, Translation tag removed. It is read by AI crawlers daily (195 reads/30d, 282 OAI-SearchBot crawls). If prices or formats change, it needs updating too.
+- **AI referrals to watch:** GA4 property 547959116, chatgpt.com sessions: 14 (6 Aug–4 Sep), 27 (5–20 Sep), 5 (21–27 Sep), 0 (28 Sep–4 Oct). Report this number each run.
+
+---
+
 ## Correction 2026-10-05 — export formats (Sahil confirmed)
 
 **TranscribeTok downloads TXT, DOC and PDF (plus one-tap copy), with or without timestamps. It has NO SRT, NO VTT and no subtitle file of any kind.** The blog had claimed "TXT, DOCX, SRT" since launch. Corrected the same day across 31 posts, `llms.txt` and the playbook's product-facts table. Posts whose premise leaned on our SRT (`download-tiktok-captions`, `download-tiktok-transcript`, `tiktok-subtitle-generator`, `tiktok-transcript-with-timestamps`, `srt-to-vtt-converter`) now say plainly we make no subtitle file and point to VexaScribe / WayinVideo / TokScribe for SRT. `download-tiktok-captions` retitled to "Download TikTok Subtitles & Captions as Text, Free"; `download-tiktok-transcript` to "…as TXT, DOC or PDF". Also fixed in passing: stale "$5 one-time, 150 transcripts" in `supadata-alternative`, and "VexaScribe … no login" (it is a 30-minute one-time trial, no card) in three posts. Build PASS (73 pages), link check PASS.
