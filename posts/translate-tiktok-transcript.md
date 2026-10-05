@@ -18,7 +18,7 @@ howToSteps:
   - name: "Transcribe the video in its original language"
     text: "Paste the link into transcribetok.com and click Get Transcript. The transcript comes back in whatever language was spoken."
   - name: "Copy the transcript as plain text"
-    text: "Use the TXT output rather than SRT — timecodes get mangled by most translation tools."
+    text: "Copy the text, or download it as TXT, with timestamps turned off — timecodes get mangled by most translation tools."
   - name: "Paste it into a translator or an AI tool"
     text: "DeepL and Google Translate handle straight translation. ChatGPT, Claude or Gemini handle slang and idiom better if you tell them the context."
   - name: "Check the names, numbers and slang"
@@ -33,7 +33,7 @@ faqItems:
   - question: "Is an AI tool better than Google Translate for TikTok transcripts?"
     answer: "Usually yes, for TikTok specifically. Short-form video is dense with slang, irony and platform-native phrasing that literal translators render wrongly. An AI tool you can give context to will handle those better, though it is also more likely to smooth over something it didn't understand."
   - question: "Can I get translated subtitles burned onto the video?"
-    answer: "Not with a transcript tool. TranscribeTok produces text and subtitle files, not video. For translated subtitles rendered onto the clip, or dubbed audio, you need a dedicated video translation tool such as VEED or VMEG."
+    answer: "Not with a transcript tool. TranscribeTok produces text, not video or subtitle files. For translated subtitles rendered onto the clip, or dubbed audio, you need a dedicated video translation tool such as VEED or VMEG."
 ---
 
 You found a TikTok that's clearly useful — a recipe, a tutorial, a product breakdown — and it's in a language you don't read. You tap around looking for a translate option, find one, tap it, and it translates the caption underneath the video. Not a word of what the creator is actually saying.
@@ -60,7 +60,7 @@ This works whether or not the creator enabled captions, because it reads the aud
 
 **Step 2: Translate the text.**
 
-Copy the **TXT** output, not the SRT. Timecodes confuse most translation tools and you'll spend longer repairing the file than translating it. Then paste into whichever of these fits:
+Copy the **plain text** (or download it as TXT) with timestamps turned off. Timecodes confuse most translation tools and you'll spend longer repairing the file than translating it. Then paste into whichever of these fits:
 
 - **DeepL** — the strongest for European languages, and noticeably more natural than the alternatives on long paragraphs.
 - **Google Translate** — the widest language coverage, and fine for gist.

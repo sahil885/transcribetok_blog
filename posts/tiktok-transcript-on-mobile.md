@@ -49,7 +49,7 @@ You don't need to be. The whole thing works in a mobile browser, takes about fif
 
 **Step 4: Paste and tap Get Transcript.** Long-press the input box and tap **Paste**, then tap the button. The transcript appears in a few seconds.
 
-**Step 5: Copy or download.** Tap Copy to put the whole text on your clipboard, or download it as TXT, DOCX or SRT. Downloads land in the **Files** app under Downloads.
+**Step 5: Copy or download.** Tap Copy to put the whole text on your clipboard, or download it as TXT, DOC or PDF, with or without timestamps. Downloads land in the **Files** app under Downloads.
 
 <div class="cta-box">
 <strong>Try it on your phone:</strong> Copy any TikTok link, paste it in, and get the full text in seconds — two free every day, no account. <a href="https://transcribetok.com">→ Open TranscribeTok.com</a>
@@ -98,7 +98,7 @@ If you're pulling transcripts more often — repurposing your own videos, or kee
 ## Related guides
 
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three methods compared
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT vs DOCX vs SRT
+- [Download a TikTok transcript](/download-tiktok-transcript) — TXT vs DOC vs PDF
 - [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt) — what to do with the text
 - [TikTok to text](/tiktok-to-text) — what the conversion does and doesn't capture
 - [YouTube Shorts transcript](/youtube-shorts-transcript) — the same job on Shorts, where the mobile app blocks it entirely

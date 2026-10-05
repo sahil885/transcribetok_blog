@@ -1,6 +1,6 @@
 ---
 title: "How to Transcribe a TikTok Video Free (Fast, No Software)"
-description: "Transcribe any TikTok video free in seconds — no software, no signup. Get accurate text from the audio and export it as TXT, DOCX or SRT. Full 2026 guide."
+description: "Transcribe any TikTok video free in seconds — no software, no signup. Get accurate text from the audio and export it as TXT, DOC or PDF. Full 2026 guide."
 date: "2026-07-24"
 author: "TranscribeTok Team"
 category: "Guide"
@@ -21,7 +21,7 @@ howToSteps:
   - name: "Paste the link and start"
     text: "Paste the link and click Get Transcript. The audio is transcribed in a few seconds."
   - name: "Review and export"
-    text: "Read the transcript, fix any names or slang the model missed, then copy it or download as TXT, DOCX or SRT."
+    text: "Read the transcript, fix any names or slang the model missed, then copy it or download as TXT, DOC or PDF."
 faqItems:
   - question: "Can you transcribe a TikTok video for free?"
     answer: "Yes. TranscribeTok transcribes two videos a day free with no account. One-time paid credit packs add more transcripts and keep every one saved in your library."
@@ -47,7 +47,7 @@ It now takes about as long as copying the link. Here is the fast method, plus th
 
 **Step 3: Paste and click Get Transcript.** The audio is processed and the text comes back in seconds.
 
-**Step 4: Review, then export.** Skim the transcript for names, brands and slang — those are where automatic transcription slips. Then copy it, or download as TXT, DOCX or SRT.
+**Step 4: Review, then export.** Skim the transcript for names, brands and slang — those are where automatic transcription slips. Then copy it, or download as TXT, DOC or PDF, with or without timestamps.
 
 <div class="cta-box">
 <strong>Transcribe one free:</strong> Paste a TikTok link and get the full text in seconds — two free every day, no signup. <a href="https://transcribetok.com">→ Transcribe a TikTok at TranscribeTok.com</a>
@@ -95,7 +95,7 @@ A few things measurably improve results:
 Transcribing is rarely the goal — it is step one. The common next moves:
 
 - **Summarize or rewrite it** by pasting into an AI tool. See [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt).
-- **Save it properly** as TXT, DOCX or SRT — [downloading a TikTok transcript](/download-tiktok-transcript) covers which format to pick.
+- **Save it properly** as TXT, DOC or PDF — [downloading a TikTok transcript](/download-tiktok-transcript) covers which format to pick.
 - **Translate it** if the video wasn't in your language — [translating a TikTok transcript](/translate-tiktok-transcript) explains why TikTok's own translation never touches the audio.
 - **Repurpose it** into other content formats. [Creators do this daily](/tiktok-transcript-for-content-creators).
 - **Do it on your phone.** Most people find the video on mobile in the first place — [the mobile guide](/tiktok-transcript-on-mobile) covers iPhone and Android.

@@ -32,7 +32,7 @@ The short version: **TokScript is a platform. TranscribeTok is a utility.** Whic
 
 **TokScript** is a full research suite for short-form video. It transcribes TikTok, Instagram Reels and YouTube Shorts; imports up to 50 video links at once; pulls an entire TikTok collection or creator playlist from a single link; stores everything in a cloud library with bookmark folders; ships a Chrome extension, an API, and an MCP integration that runs inside Claude and ChatGPT. On top of that sit three AI agents — a viral hook generator, a script rewriter, and a "virality explainer" that breaks down why a video performed. It claims 71,900+ users.
 
-**TranscribeTok** takes one TikTok link and returns the spoken text. That is the whole product. No batch, no multi-platform, no extension, no API. Two transcripts a day, free, with no account and no card. Exports TXT, DOCX and SRT.
+**TranscribeTok** takes one TikTok link and returns the spoken text. That is the whole product. No batch, no multi-platform, no extension, no API. Two transcripts a day, free, with no account and no card. Copy in one tap or download as TXT, DOC or PDF, with or without timestamps. No SRT or other subtitle files.
 
 Those are genuinely different products that happen to share a first step.
 
@@ -45,7 +45,7 @@ Those are genuinely different products that happen to share a first step.
 | Free tier | 2/day, **no account** | 5/day, account for most features |
 | Paid | One-time packs from $9 / 100 transcripts | $10/mo, $39/yr, or $199 lifetime |
 | Subscription | None — credits never expire | Yes (or a lifetime option) |
-| Exports | TXT, DOCX, SRT | TXT, XML, JSON, CSV |
+| Exports | TXT, DOC, PDF | TXT, XML, JSON, CSV |
 | Saved library | Included with any paid pack | Cloud library on paid plans |
 | Chrome extension | No | Yes |
 | API / MCP | No | Yes, both |
@@ -60,7 +60,7 @@ Read that table honestly and TokScript wins most rows. That is what a platform l
 
 **More than one platform.** If your research covers Reels and Shorts as well as TikTok, running three tools is a bad workflow. TokScript covers all three.
 
-**Structured export.** TokScript exports JSON and CSV. We export TXT, DOCX and SRT. If you are piping transcripts into a spreadsheet, a database or code, JSON and CSV are the formats you want and we simply do not offer them.
+**Structured export.** TokScript exports JSON and CSV. We export TXT, DOC and PDF. If you are piping transcripts into a spreadsheet, a database or code, JSON and CSV are the formats you want and we simply do not offer them.
 
 **A bigger free tier.** 5 a day beats 2 a day. We are not going to pretend otherwise.
 
@@ -102,7 +102,7 @@ Accuracy on clear speech sits in the mid-to-high 90s for both. Loud music, sped-
 - [Best free TikTok transcript tools in 2026](/best-tiktok-transcript-tools-2026) — the full landscape, batch and single-video
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — three free methods compared
 - [TikTok transcript generator](/tiktok-transcript-generator) — how transcription works and where it fails
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT, and which to pick
+- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOC or PDF, and which to pick
 - [TikTok transcript to Notion](/tiktok-transcript-to-notion) — building a searchable research library
 - [TranscribeTok vs GetTranscribe](/transcribetok-vs-gettranscribe) — the other head-to-head, against a video-intelligence platform
 - [Saveto AI alternative, compared](/transcribetok-vs-saveto-ai) — against a free all-in-one AI suite with no published pricing

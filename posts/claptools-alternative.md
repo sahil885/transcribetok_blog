@@ -18,7 +18,7 @@ howToSteps:
   - name: "Test both free tools"
     text: "Claptools: completely free, browser-based, no login. TranscribeTok: 2 free transcripts/day, no account needed. Try both with a test TikTok link."
   - name: "Check export options"
-    text: "TranscribeTok exports TXT, DOCX, or SRT files. Claptools returns text on-page for copypaste. SRT files matter if you're editing video."
+    text: "TranscribeTok copies in one tap or downloads TXT, DOC or PDF, with or without timestamps. Claptools returns text on-page for copypaste. Neither makes SRT subtitle files."
   - name: "Evaluate speed"
     text: "Both work instantly in-browser. TranscribeTok adds a searchable library and one-time credits if you upgrade. Claptools stays free forever."
   - name: "Pick your platform"
@@ -27,13 +27,13 @@ faqItems:
   - question: "Is Claptools free or does it charge eventually?"
     answer: "Claptools is completely free—all 100+ tools, including TikTok transcripts, have no paid tier, no upsells, and no account requirement."
   - question: "Why would I use TranscribeTok instead of Claptools?"
-    answer: "TranscribeTok's paid tiers save transcripts to a searchable library and offer export formats (SRT for video editing). Claptools doesn't store history."
+    answer: "TranscribeTok's paid tiers save transcripts to a searchable library, and every transcript downloads as TXT, DOC or PDF, with or without timestamps. Claptools doesn't store history."
   - question: "Can Claptools do video editing like it claims?"
     answer: "Claptools includes basic video tools: AI captions, background cleanup, resizing. They're web-based and free but simpler than dedicated editors."
   - question: "Does Claptools export transcripts as SRT files?"
-    answer: "No. Claptools returns text on-page only—you copypaste it. TranscribeTok exports TXT, DOCX, or SRT with one click."
+    answer: "No. Claptools returns text on-page only—you copypaste it. TranscribeTok doesn't make SRT files either; it downloads TXT, DOC or PDF, with or without timestamps."
   - question: "Which tool is better for content creators?"
-    answer: "Claptools if you need scripts, captions, and graphics all in one. TranscribeTok if you're focused on transcription, library storage, and SRT export."
+    answer: "Claptools if you need scripts, captions, and graphics all in one. TranscribeTok if you're focused on transcription, library storage, and timestamped TXT, DOC or PDF downloads."
 ---
 
 Claptools and TranscribeTok both transcribe TikTok videos instantly in your browser with no account required. But Claptools is an all-in-one creator platform with 100+ free AI tools, while TranscribeTok specializes purely in transcription with a searchable library. Here's how to decide which fits your workflow.
@@ -50,7 +50,7 @@ Claptools is particularly useful if you need script material **plus** production
 
 TranscribeTok is laser-focused on one job: extracting TikTok transcripts accurately. The free tier gives you two transcripts per day with no account needed. Paid tiers ($9–$59, one-time) unlock more transcripts and add a personal library—every transcript you generate is saved, searchable, and kept forever.
 
-When you upgrade to a paid tier, you get structured export options: plain text, Word (.docx), or SRT subtitle format. The SRT export matters if you're editing video and need frame-accurate timestamps for subtitles. Claptools doesn't offer SRT export, which is a significant limitation if video editing is in your pipeline.
+Every transcript can be copied in one tap or downloaded as plain text (TXT), a Word document (DOC) or PDF, with or without timestamps. Claptools returns text without timestamps. Neither tool produces SRT or any other subtitle file, so if you need one for a video editor, use a tool that exports SRT, such as VexaScribe or WayinVideo.
 
 TranscribeTok also charges intelligently: if a video has no spoken audio (pure music, slideshows, soundless clips), no credit is consumed. Claptools has no concept of credits—it's free regardless.
 
@@ -62,13 +62,13 @@ TranscribeTok also charges intelligently: if a video has no spoken audio (pure m
 | **Account required** | No | No (free), optional (paid) |
 | **TikTok transcript** | Yes, one tool among 100+ | Yes, focused tool |
 | **Transcript library** | No history kept | Yes, paid users only |
-| **Export formats** | Copypaste on-page only | TXT, DOCX, SRT files |
+| **Export formats** | Copypaste on-page only | TXT, DOC, PDF |
 | **AI script rewriting** | Yes, built-in | No |
 | **Video editing** | Basic (captions, resizing, BG removal) | No |
 | **Script writing** | Yes, dedicated tool | No |
 | **Image generation** | Yes, built-in | No |
-| **SRT subtitle export** | No | Yes |
-| **Timestamp accuracy** | Text only, no timestamps | Timestamps in SRT export |
+| **SRT subtitle export** | No | No |
+| **Timestamp accuracy** | Text only, no timestamps | Optional timestamps in TXT, DOC, PDF |
 | **Speed** | Instant, in-browser | Instant, in-browser |
 
 ## When to Use Claptools
@@ -86,12 +86,12 @@ Claptools shines if your workflow is: find a viral TikTok → extract script →
 
 Pick TranscribeTok if you need:
 - A **focused, specialized tool** for TikTok transcription only
-- **SRT subtitle files** for video editing (Claptools doesn't offer this)
+- **Timestamped transcripts** you can download (Claptools returns text only)
 - A **searchable personal library** of all transcripts you've ever generated
-- Clean export to Word or plain text without copypasting
+- Clean download as TXT, DOC or PDF without copypasting
 - Per-video cost efficiency (no charge for silent videos)
 
-TranscribeTok is the right choice if you're a researcher archiving TikTok content, a video editor who needs SRT files, or someone building a transcript library you'll reference repeatedly. The searchable library is the killer feature—once you've transcribed 50 TikToks, you can search across all of them for a phrase or idea, which Claptools can't do.
+TranscribeTok is the right choice if you're a researcher archiving TikTok content, a creator who wants timestamped transcripts, or someone building a transcript library you'll reference repeatedly. The searchable library is the killer feature—once you've transcribed 50 TikToks, you can search across all of them for a phrase or idea, which Claptools can't do.
 
 ## The Trade-Off: Breadth vs. Depth
 
@@ -107,7 +107,7 @@ Both are practically free for light use:
 
 If you transcribe more than 60 TikToks per month, TranscribeTok's $9 pack adds 100 more that never expire. Claptools stays free at any volume.
 
-The cost question only matters if you value the features paid TranscribeTok adds—specifically, the searchable library and SRT export. If you just need raw transcripts and don't care about history, Claptools is the financial winner.
+The cost question only matters if you value the features paid TranscribeTok adds—specifically, the searchable library and timestamped downloads. If you just need raw transcripts and don't care about history, Claptools is the financial winner.
 
 ## Video Editing and Workflow
 
@@ -115,9 +115,9 @@ Here's where the tools diverge sharply:
 
 **Claptools pathway:** Extract transcript → (optional) use AI rewrite tool → copy text to your script doc → separately handle captions in your video editor.
 
-**TranscribeTok pathway:** Extract transcript → (optional) upgrade and export SRT file → drop SRT into your video editor → captions appear instantly with timestamps.
+**TranscribeTok pathway:** Extract transcript → download TXT, DOC or PDF with timestamps → use the timestamps to find lines in your editor → handle captions in your video editor.
 
-If you're editing video and want subtitle timing to match the transcript exactly, TranscribeTok's SRT export is invaluable. If you're just mining scripts and don't do video editing, Claptools's suite is more useful.
+Neither tool produces an SRT subtitle file. If you need one that drops straight into an editor, use a tool that exports SRT, such as VexaScribe or WayinVideo. If you're just mining scripts and don't do video editing, Claptools's suite is more useful.
 
 ## When Speed Matters
 
@@ -127,7 +127,7 @@ Both tools are instant—transcripts appear in seconds in your browser. Neither 
 
 - [Best TikTok Transcript Tools 2026](/best-tiktok-transcript-tools-2026) — comprehensive comparison of eight alternatives
 - [Free vs Paid TikTok Transcript Tools](/free-vs-paid-tiktok-transcript-tools) — understand free-tier strategy and upgrade paths
-- [TikTok Transcript with Timestamps](/tiktok-transcript-with-timestamps) — why SRT files matter and how to use them
+- [TikTok Transcript with Timestamps](/tiktok-transcript-with-timestamps) — which exports carry timing and how SRT timecodes work
 - [ScrapeCreators Alternative](/scrapecreators-alternative) — if you need API access instead of a web tool
 - [TokScribe Alternative](/tokscribe-alternative) — the other all-features-free tool, and what it does with your transcripts
 - [TokTranscript Alternative](/toktranscript-alternative) — free tier shapes compared, monthly cap versus daily reset
@@ -135,7 +135,7 @@ Both tools are instant—transcripts appear in seconds in your browser. Neither 
 ## FAQ
 
 **Can I export a Claptools transcript as an SRT file?**  
-No. Claptools returns text only. If you need SRT with timestamps for video editing, TranscribeTok is your tool.
+No. Claptools returns text only. TranscribeTok doesn't make SRT files either; for an SRT, use a tool that exports one, such as VexaScribe or WayinVideo.
 
 **Does Claptools keep a history of my transcripts?**  
 No. Each time you use Claptools, the transcript appears on-page and then disappears when you leave. There's no account or library. TranscribeTok's paid tiers save everything.
@@ -154,9 +154,9 @@ No. Claptools is web-only; you must visit claptools.com each time. TranscribeTok
 
 ## The Bottom Line
 
-**Choose Claptools** if you want a free all-in-one creator platform and don't need transcript history or SRT export.
+**Choose Claptools** if you want a free all-in-one creator platform and don't need transcript history or timestamps.
 
-**Choose TranscribeTok** if you need a searchable library, SRT subtitle export, or a specialized tool focused purely on transcription quality.
+**Choose TranscribeTok** if you need a searchable library, timestamped TXT, DOC or PDF downloads, or a specialized tool focused purely on transcription quality.
 
 Both transcribe accurately and work instantly in your browser. The choice is about what happens after—do you want 100 free tools or a deep transcript library?
 

@@ -13,7 +13,7 @@ These are verified. Do not extend, embellish, or infer beyond them. If a claim i
 | Volume | **One video at a time.** No bulk, no batch, no multi-link paste, no "100+ videos in one pass." |
 | Free tier | **Two transcripts per day, no account required.** This is the main differentiator. |
 | Paid plans | **One-time credit packs, no subscription:** $9 / 100 transcripts, $16 / 500, $34 / 1,500, $59 / 4,000 (confirmed by Sahil 2026-09-28). Credits never expire. Any pack also **saves transcripts to a library** (paid feature). 30-day money-back guarantee if fewer than 20 transcripts used. No credit charged when a video has no spoken audio. |
-| Exports | TXT, DOCX, SRT. |
+| Exports | **TXT, DOC and PDF downloads, plus one-tap copy, with or without timestamps. NO SRT, NO VTT, no subtitle file of any kind** (confirmed by Sahil 2026-10-05). Earlier posts wrongly claimed SRT and DOCX; corrected 2026-10-05 across 30+ files. Do not reintroduce. |
 | Source | Transcribes the **audio track**, not TikTok's caption data. Works whether or not the creator enabled captions. |
 | Scope | **Public videos only.** Private, friends-only and deleted videos are inaccessible. |
 | On-screen text | **Not captured.** Text overlays are rendered graphics, not data. |

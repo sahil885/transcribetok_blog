@@ -32,7 +32,7 @@ The short version: **GetTranscribe is video intelligence. TranscribeTok is a tra
 
 **GetTranscribe** takes a link from TikTok, Instagram, YouTube, Facebook, Pinterest, X or Google Drive and returns a full analysis: a searchable transcript with timestamps, key frames and scene breaks, and a read on the video's hook, topic and narrative structure. You can then ask AI questions answered from the video itself, file runs into collections by client or competitor, search and compare across those collections, import in bulk, and generate creative briefs. It ships a Chrome extension, an iOS app, an API with webhooks, and connectors for n8n, Make and Zapier. Exports are TXT, SRT and PDF. It advertises 50+ languages and a result in about a minute.
 
-**TranscribeTok** takes one TikTok link and returns the spoken text. That is the entire product. No other platforms, no batch, no extension, no API, no integrations. Two transcripts a day, free, with no account and no card. Exports TXT, DOCX and SRT.
+**TranscribeTok** takes one TikTok link and returns the spoken text. That is the entire product. No other platforms, no batch, no extension, no API, no integrations. Two transcripts a day, free, with no account and no card. Copy in one tap or download as TXT, DOC or PDF, with or without timestamps. No SRT or other subtitle files.
 
 Those are different products that happen to share a first step. Most of the disagreement people have about which is "better" is really a disagreement about which step they are stuck on.
 
@@ -46,8 +46,9 @@ Those are different products that happen to share a first step. Most of the disa
 | Paid | One-time packs from $9 / 100 transcripts | Pro $9.99/mo (~33% off annual) |
 | Subscription | None — credits never expire | Yes, monthly or annual |
 | Usage pricing | No | Pay-as-you-go from $0.06/min |
-| Exports | TXT, DOCX, SRT | TXT, SRT, PDF |
-| Timestamps | SRT export only | Included in the transcript view |
+| Exports | TXT, DOC, PDF | TXT, SRT, PDF |
+| SRT subtitle file | No | Yes |
+| Timestamps | Optional, in any download | Included in the transcript view |
 | Saved library | Included with any paid pack | Unlimited collections on Pro |
 | Cross-video search | No | Yes |
 | AI analysis | None built in | Hooks, scenes, structure, grounded Q&A |
@@ -105,7 +106,7 @@ One genuine advantage on our side of that last point: we transcribe the audio tr
 - [Best free TikTok transcript tools in 2026](/best-tiktok-transcript-tools-2026) — the full landscape, batch and single-video
 - [TranscribeTok vs TokScript](/transcribetok-vs-tokscript) — the other head-to-head, against a bulk research suite
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — three free methods compared
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT, and which to pick
+- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOC or PDF, and which to pick
 - [Saveto AI alternative, compared](/transcribetok-vs-saveto-ai) — against a free all-in-one AI suite that covers files and documents too
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — three ways to get the gist without watching
 - [TikTok transcript API options, priced](/tiktok-transcript-api) — GetTranscribe's API compared against Supadata and Apify

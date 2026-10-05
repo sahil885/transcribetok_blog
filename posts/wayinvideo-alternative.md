@@ -25,7 +25,7 @@ howToSteps:
     text: "Both accept a public TikTok link and both transcribe from the audio track. Compare the actual output on a video with music or fast speech before committing to either."
 faqItems:
   - question: "What is the main difference between TranscribeTok and WayinVideo?"
-    answer: "Scope. WayinVideo is a full AI video platform that clips, reframes, subtitles, summarises and publishes video from eleven source platforms including TikTok. TranscribeTok takes a single public TikTok link and returns the spoken text as TXT, DOCX or SRT. One is an editing suite, the other is a single-purpose utility."
+    answer: "Scope. WayinVideo is a full AI video platform that clips, reframes, subtitles, summarises and publishes video from eleven source platforms including TikTok. TranscribeTok takes a single public TikTok link and returns the spoken text, copied in one tap or downloaded as TXT, DOC or PDF. One is an editing suite, the other is a single-purpose utility."
   - question: "Is WayinVideo free?"
     answer: "WayinVideo has a free plan, but the size of it depends on which page you read. Its pricing page states 200 credits granted once at signup, roughly 400 minutes of transcription, with no recurring free allowance. Its TikTok transcript landing page advertises 200 signup credits plus a 60-credit daily bonus and says no login is needed. Those two claims are not the same offer, so verify what you actually receive before planning around it."
   - question: "How much does WayinVideo cost?"
@@ -33,7 +33,7 @@ faqItems:
   - question: "Does WayinVideo work on TikTok videos?"
     answer: "Yes. WayinVideo accepts public TikTok links alongside YouTube, Vimeo, Instagram, Facebook, Twitch, Dailymotion, Rumble, Kick, Zoom and Google Drive, plus direct uploads. Like every tool in this category it cannot reach private, friends-only or deleted videos."
   - question: "Which tool should I use for TikTok subtitles?"
-    answer: "Either will give you a subtitle file, so pick on volume and terms. WayinVideo's pricing table lists TXT and SRT as its subtitle export formats on every tier, and its TikTok page additionally claims DOC, PDF and VTT. TranscribeTok exports TXT, DOCX and SRT, and does not export VTT, JSON or CSV."
+    answer: "WayinVideo. Its pricing table lists TXT and SRT as its subtitle export formats on every tier, and its TikTok page additionally claims DOC, PDF and VTT. TranscribeTok does not make subtitle files at all: it downloads TXT, DOC or PDF, with or without timestamps, and has no SRT, VTT, JSON or CSV export."
 ---
 
 We make TranscribeTok, so treat this with the scepticism a vendor comparison deserves. WayinVideo is the strongest dedicated video-AI product we compete against on TikTok queries, and on most feature rows it beats us outright. This is the comparison we would want to read if we were choosing.
@@ -62,9 +62,10 @@ Verified against wayin.ai's own pages on 31 August 2026.
 | Paid prices | $9 / 100, $16 / 500, $34 / 1,500, $59 / 4,000 | $13.99, $26.99, $139.99 per month list |
 | Credit expiry | Never expire | Reset monthly, no rollover |
 | Refunds | 30-day money-back under 20 transcripts used | "Payments are nonrefundable" |
-| Transcript exports | TXT, DOCX, SRT | TXT, SRT per pricing table |
+| Transcript exports | TXT, DOC, PDF | TXT, SRT per pricing table |
 | Speaker labels | No | Yes |
-| Timestamps | SRT export only | In-app, searchable, click to jump |
+| SRT / subtitle files | No | Yes, SRT per pricing table |
+| Timestamps | Optional, in TXT, DOC, PDF | In-app, searchable, click to jump |
 | Summaries | No | Yes, with timestamped outline |
 | Mind maps | No | Yes |
 | Video editing | No | Clipping, reframing, filler removal, montage |
@@ -81,7 +82,7 @@ Read that table honestly and WayinVideo wins most rows. That is what a platform 
 
 ## Where WayinVideo is clearly better
 
-**It edits video; we do not.** If you need the clip itself — reframed, subtitled, filler removed, scheduled to post — WayinVideo does the whole job and we do none of it. Our SRT export is an input to your editor, not a finished video.
+**It edits video; we do not.** If you need the clip itself — reframed, subtitled, filler removed, scheduled to post — WayinVideo does the whole job and we do none of it. We do not even produce a subtitle file: no SRT, no VTT. Our output is the words as a text transcript, not a finished video or a caption file.
 
 **Speaker labels and in-app search.** WayinVideo separates speakers and lets you search the transcript by keyword and jump to the timestamp. On a multi-speaker TikTok or a long-form upload, that is genuinely better than a flat block of text.
 
@@ -99,7 +100,7 @@ Read that table honestly and WayinVideo wins most rows. That is what a platform 
 
 **Purchase terms.** WayinVideo sells auto-renewing subscriptions whose credits reset monthly with no rollover, and its FAQ states plainly that payments are nonrefundable. We sell one-time packs, credits never expire, and there is a 30-day money-back guarantee for accounts under 20 transcripts used. If a video turns out to have no spoken audio, no credit is charged. For occasional use, a pack you can walk away from is worth more than a discounted subscription.
 
-**DOCX.** WayinVideo's pricing table lists TXT and SRT as its subtitle export formats. We export DOCX as well, which matters if the transcript is going into a document rather than an editor. Note the caveat in the next section.
+**Document formats.** WayinVideo's pricing table lists TXT and SRT as its subtitle export formats. We download TXT, DOC or PDF, with or without timestamps, which matters if the transcript is going into a document rather than an editor. Its TikTok page also claims DOC and PDF, so this may be a tie; note the caveat in the next section.
 
 ## The thing you should check before signing up
 
@@ -115,9 +116,9 @@ Marketing pages and billing pages drift apart on fast-moving products, ours incl
 
 ## The verdict
 
-**Choose WayinVideo if** you are producing video. Clipping, reframing, burned-in animated subtitles, scheduling, multi-platform sources, speaker labels, an API — it does all of it and we do none of it. Accept the subscription, the monthly credit reset and the no-refund policy as the price of that.
+**Choose WayinVideo if** you are producing video or need a subtitle file. Clipping, reframing, burned-in animated subtitles, scheduling, multi-platform sources, speaker labels, an API — it does all of it and we do none of it. Accept the subscription, the monthly credit reset and the no-refund policy as the price of that.
 
-**Choose TranscribeTok if** the thing you want is the words. Two a day forever, no account, no subscription, TXT, DOCX or SRT, done in about ten seconds. If you need more than two on a given day, $9 buys 100 transcripts that never expire.
+**Choose TranscribeTok if** the thing you want is the words. Two a day forever, no account, no subscription, TXT, DOC or PDF, done in about ten seconds. If you need more than two on a given day, $9 buys 100 transcripts that never expire.
 
 **Choose neither if** you need volume through code. Neither of us is the cheapest route for a few thousand videos — that is an API question, and we covered the real options and prices in the [TikTok transcript API guide](/tiktok-transcript-api), including the part where we admit we do not have one.
 
@@ -134,7 +135,7 @@ Working in another language? WayinVideo advertises 100+ and we auto-detect from 
 ## Frequently asked questions
 
 **What is the main difference between TranscribeTok and WayinVideo?**
-Scope. WayinVideo is a full AI video platform that clips, reframes, subtitles, summarises and publishes video from eleven source platforms including TikTok. TranscribeTok takes a single public TikTok link and returns the spoken text as TXT, DOCX or SRT. One is an editing suite, the other is a single-purpose utility.
+Scope. WayinVideo is a full AI video platform that clips, reframes, subtitles, summarises and publishes video from eleven source platforms including TikTok. TranscribeTok takes a single public TikTok link and returns the spoken text, copied in one tap or downloaded as TXT, DOC or PDF. One is an editing suite, the other is a single-purpose utility.
 
 **Is WayinVideo free?**
 WayinVideo has a free plan, but the size of it depends on which page you read. Its pricing page states 200 credits granted once at signup, roughly 400 minutes of transcription, with no recurring free allowance. Its TikTok transcript landing page advertises 200 signup credits plus a 60-credit daily bonus and says no login is needed. Those two claims are not the same offer, so verify what you actually receive before planning around it.
@@ -146,7 +147,7 @@ WayinVideo's list prices as of August 2026 are Starter $13.99 per month, Pro $26
 Yes. WayinVideo accepts public TikTok links alongside YouTube, Vimeo, Instagram, Facebook, Twitch, Dailymotion, Rumble, Kick, Zoom and Google Drive, plus direct uploads. Like every tool in this category it cannot reach private, friends-only or deleted videos.
 
 **Which tool should I use for TikTok subtitles?**
-Either will give you a subtitle file, so pick on volume and terms. WayinVideo's pricing table lists TXT and SRT as its subtitle export formats on every tier, and its TikTok page additionally claims DOC, PDF and VTT. TranscribeTok exports TXT, DOCX and SRT, and does not export VTT, JSON or CSV.
+WayinVideo. Its pricing table lists TXT and SRT as its subtitle export formats on every tier, and its TikTok page additionally claims DOC, PDF and VTT. TranscribeTok does not make subtitle files at all: it downloads TXT, DOC or PDF, with or without timestamps, and has no SRT, VTT, JSON or CSV export.
 
 ---
 

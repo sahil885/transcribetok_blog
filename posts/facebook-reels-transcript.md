@@ -112,7 +112,7 @@ For scripted volume, **Supadata's API** accepts Facebook URLs on the same endpoi
 
 ## If you post the same video everywhere
 
-Most people asking for a Facebook Reels transcript are cross-posting the same vertical video to TikTok, Instagram and YouTube Shorts. The transcript is the same asset on all four, so you only need it once — from whichever platform is easiest to pull it from. For TikTok that is a free, no-login job; for YouTube Shorts there is a URL trick in [our YouTube Shorts transcript guide](/youtube-shorts-transcript). From there, [TikTok transcripts for content creators](/tiktok-transcript-for-content-creators) walks through turning one transcript into captions, posts and scripts, and [our TikTok subtitle generator guide](/tiktok-subtitle-generator) covers the SRT side.
+Most people asking for a Facebook Reels transcript are cross-posting the same vertical video to TikTok, Instagram and YouTube Shorts. The transcript is the same asset on all four, so you only need it once — from whichever platform is easiest to pull it from. For TikTok that is a free, no-login job; for YouTube Shorts there is a URL trick in [our YouTube Shorts transcript guide](/youtube-shorts-transcript). From there, [TikTok transcripts for content creators](/tiktok-transcript-for-content-creators) walks through turning one transcript into captions, posts and scripts, and [our TikTok subtitle generator guide](/tiktok-subtitle-generator) covers subtitles. TranscribeTok itself returns text as TXT, DOC or PDF, not an SRT or other subtitle file.
 
 ## Related guides
 

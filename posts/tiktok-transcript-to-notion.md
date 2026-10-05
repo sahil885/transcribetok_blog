@@ -27,7 +27,7 @@ faqItems:
   - question: "Can Notion transcribe a TikTok video directly?"
     answer: "No. Notion has no video transcription feature and cannot read a TikTok URL. Pasting a TikTok link into Notion produces a bookmark or an embed showing the video, not its spoken words. You have to transcribe the audio elsewhere and bring the text in."
   - question: "What file formats can I import into Notion?"
-    answer: "Notion directly imports .txt, .md, .docx, .csv, .html, .pdf and .zip files. A TranscribeTok transcript downloaded as TXT or DOCX imports as a Notion page with no conversion step. Imports work on desktop and web only, not in the Notion mobile app."
+    answer: "Notion directly imports .txt, .md, .docx, .csv, .html, .pdf and .zip files. A TranscribeTok transcript downloaded as TXT or PDF is on that list; its Word download is a DOC file rather than DOCX, so use TXT if the Word import does not accept it. Imports work on desktop and web only, not in the Notion mobile app."
   - question: "Should I paste the transcript or import it as a file?"
     answer: "Paste it for a single video — it is faster and puts the text exactly where you want it. Import files when you are adding several transcripts at once, since Notion lets you select multiple TXT, Markdown or Word files in one import session."
   - question: "Can I automate TikTok transcripts into Notion?"
@@ -67,16 +67,16 @@ That is it. The text is indexed by Notion search the moment it lands. If the vid
 
 Pasting is fine for one video. When you are adding several in a sitting, Notion's importer is faster because it takes multiple files at once.
 
-Notion directly imports these file types: **.txt, .md, .docx, .csv, .html, .pdf and .zip**. TranscribeTok exports TXT and DOCX, both of which are on that list, so a downloaded transcript imports with no conversion step.
+Notion directly imports these file types: **.txt, .md, .docx, .csv, .html, .pdf and .zip**. TranscribeTok downloads TXT, DOC or PDF, with or without timestamps. TXT is the cleanest: it is on that list and imports with no conversion step. The Word download is a DOC file, not DOCX, so if Notion's Word importer will not take it, use the TXT instead.
 
-To import: go to `Settings → Import` in the Notion sidebar, or type `/` on any page and search for the importer. Choose **Text & Markdown** for TXT files or **Word** for DOCX, then select every file you want in one go. Each file becomes its own Notion page, titled from the filename — so rename your downloads to something meaningful before importing, or you will end up with a sidebar full of `transcript(3)`.
+To import: go to `Settings → Import` in the Notion sidebar, or type `/` on any page and search for the importer. Choose **Text & Markdown** for TXT files, then select every file you want in one go. Each file becomes its own Notion page, titled from the filename — so rename your downloads to something meaningful before importing, or you will end up with a sidebar full of `transcript(3)`.
 
 A few real constraints worth knowing before you build a habit on this:
 
 - **Imports are desktop and web only.** The Notion mobile app cannot import files. On a phone, paste.
 - **File size caps at 5 MB on Notion's free plan**, 50 MB on paid. A transcript is a few kilobytes, so this will never bite you — but it will if you start importing PDFs.
 - **There is a rate limit of roughly 120 file imports per 12 hours** for text and Markdown. Generous for this use case, worth knowing if you are migrating an archive.
-- **SRT is not on Notion's supported list.** If you exported the subtitle file rather than the plain text, rename `.srt` to `.txt` and it will import as text — timecodes and all. Usually you want the TXT export instead. The difference between the two is covered in [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps).
+- **SRT is not on Notion's supported list.** TranscribeTok does not make SRT files, so this only matters for a subtitle file from another tool: rename `.srt` to `.txt` and it will import as text — timecodes and all. If you want timecodes from TranscribeTok, download the TXT with timestamps. Which exports carry timing is covered in [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps).
 
 ## The database that makes it worth doing
 
@@ -127,7 +127,7 @@ If the goal is turning saved videos into your own content rather than research, 
 ## Related guides
 
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three free methods compared
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT, and which to pick for import
+- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOC or PDF, and which to pick for import
 - [TikTok transcript generator](/tiktok-transcript-generator) — the complete guide to how transcription works
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — turning saved videos into your own posts
 - [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt) — summarising and mining transcripts with prompts
@@ -139,7 +139,7 @@ If the goal is turning saved videos into your own content rather than research, 
 No. Notion has no transcription feature. A pasted TikTok link becomes a bookmark or embed, never text.
 
 **What can I import into Notion?**
-TXT, MD, DOCX, CSV, HTML, PDF and ZIP. TranscribeTok's TXT and DOCX exports import as pages with no conversion. Desktop and web only.
+TXT, MD, DOCX, CSV, HTML, PDF and ZIP. A TranscribeTok transcript downloaded as TXT or PDF is on that list; its Word download is a DOC file rather than DOCX, so use TXT if the Word import does not accept it. Desktop and web only.
 
 **Paste or import?**
 Paste for one video. Import when adding several — Notion accepts multiple text or Word files in one session.

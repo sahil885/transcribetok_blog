@@ -17,7 +17,7 @@ howToSteps:
   - name: "Get the TikTok transcript"
     text: "Copy the video's share link, paste it into transcribetok.com, and click Get Transcript."
   - name: "Copy the transcript text"
-    text: "Copy the full text to your clipboard. Use the plain text version rather than SRT — timestamps waste context."
+    text: "Copy the full text to your clipboard. Copy it without timestamps — they waste context."
   - name: "Paste it into ChatGPT with a clear instruction"
     text: "Open ChatGPT, paste the transcript, and tell it exactly what to do with it — summarize, extract hooks, rewrite for another platform."
   - name: "Iterate on the output"
@@ -27,8 +27,8 @@ faqItems:
     answer: "No. ChatGPT cannot open or play a TikTok link. Pasting the URL alone gives it nothing to work with, which is why you need the transcript as text."
   - question: "Why not just paste the TikTok URL into ChatGPT?"
     answer: "The URL is just a string. Even with browsing enabled, TikTok pages are heavily client-rendered and the spoken content isn't in the page source, so the model has no access to what was actually said."
-  - question: "Should I paste the TXT or the SRT version?"
-    answer: "TXT. SRT timestamps consume context and add nothing for summarizing or rewriting. Only use SRT if you specifically need the model to reference timings."
+  - question: "Should I paste the transcript with or without timestamps?"
+    answer: "Without. Timestamps consume context and add nothing for summarizing or rewriting. Only keep them if you specifically need the model to reference timings."
   - question: "Can I analyse several TikToks in one conversation?"
     answer: "Yes, and this is where it gets genuinely useful. Paste several transcripts with clear labels and ask for patterns across them rather than a summary of each."
   - question: "Does this work with Claude, Gemini and Perplexity too?"
@@ -51,7 +51,7 @@ Transcripts remove the guesswork entirely. The model works from exactly what was
 
 **Step 1: Get the transcript.** Copy the TikTok share link, paste it into [TranscribeTok](https://transcribetok.com), click **Get Transcript**. Two free every day, no account.
 
-**Step 2: Copy the text.** Use the plain text version. SRT timestamps eat context and add nothing unless you specifically want the model to reference timings.
+**Step 2: Copy the text.** Copy it without timestamps. Timestamps eat context and add nothing unless you specifically want the model to reference timings.
 
 **Step 3: Paste into ChatGPT with a specific instruction.** This is where most people undersell it. "Summarize this" gets you a summary. A precise instruction gets you something useful.
 
@@ -128,8 +128,8 @@ No. It cannot open or play the video.
 **Why not just paste the URL?**
 The spoken content isn't in the page source, so there's nothing for the model to read.
 
-**TXT or SRT?**
-TXT. Timestamps waste context.
+**With or without timestamps?**
+Without. Timestamps waste context.
 
 **Can I analyse several TikToks at once?**
 Yes — label them clearly and ask for patterns across the set.

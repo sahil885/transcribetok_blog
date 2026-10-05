@@ -16,14 +16,14 @@ howToSteps:
   - name: "Decide whether the job is TikTok-only"
     text: "If every video you need is a TikTok, a TikTok-only tool has fewer steps. If your sources include YouTube, Instagram, uploaded files or PDFs, Saveto AI covers all of them in one place."
   - name: "Decide whether you need a file export"
-    text: "TranscribeTok exports TXT, DOCX and SRT. Saveto AI does not publish its export formats on its TikTok page, so check it against your subtitle or document workflow before committing."
+    text: "TranscribeTok copies in one tap or downloads TXT, DOC or PDF, with or without timestamps, and makes no subtitle files. Saveto AI does not publish its export formats on its TikTok page, so check it against your subtitle or document workflow before committing."
   - name: "Decide whether you need guaranteed capacity"
     text: "Saveto AI advertises unlimited free use with no published paid plan. TranscribeTok gives two free transcripts a day and sells one-time credit packs from $9 for 100 transcripts if you need more."
   - name: "Try the free path on both"
     text: "Neither tool requires an account to produce a first transcript, so run the same video through both and compare the output before you build a workflow around either."
 faqItems:
   - question: "What is the main difference between TranscribeTok and Saveto AI?"
-    answer: "Scope. Saveto AI is a broad free AI suite covering TikTok, YouTube, Instagram, Google Drive, Dropbox and local file uploads, plus summarizers for PDF, Word and PowerPoint and a set of study tools. TranscribeTok does one thing: it takes a single TikTok link and returns the spoken text as TXT, DOCX or SRT."
+    answer: "Scope. Saveto AI is a broad free AI suite covering TikTok, YouTube, Instagram, Google Drive, Dropbox and local file uploads, plus summarizers for PDF, Word and PowerPoint and a set of study tools. TranscribeTok does one thing: it takes a single TikTok link and returns the spoken text, copied in one tap or downloaded as TXT, DOC or PDF."
   - question: "Is Saveto AI really free?"
     answer: "Saveto AI advertises its TikTok transcript generator as 100% free with no sign-up and no usage limits, and it has no public pricing page as of August 2026. That is a more generous free offer on paper than TranscribeTok's two transcripts a day. The trade-off is that a tool with no published price also has no published commitment, refund policy or purchased capacity."
   - question: "Which tool is more accurate on TikTok audio?"
@@ -31,7 +31,7 @@ faqItems:
   - question: "Does Saveto AI transcribe videos other than TikTok?"
     answer: "Yes. Saveto AI accepts YouTube and Instagram links, Google Drive and Dropbox files, and direct uploads of local video and audio files. TranscribeTok is TikTok only and does not accept uploads, other platforms or audio files."
   - question: "Which one should I pick for subtitles?"
-    answer: "TranscribeTok, because it publishes an SRT export with per-line timecodes. Saveto AI states that it can generate subtitles and key points with timestamps but does not list the file formats it produces, so verify the output format matches your editor before relying on it."
+    answer: "Not TranscribeTok: it makes no SRT, VTT or other subtitle file. Saveto AI states that it can generate subtitles and key points with timestamps but does not list the file formats it produces, so verify the output format matches your editor before relying on it. If you need a documented SRT, tools such as VexaScribe and WayinVideo list it as an export."
 ---
 
 We make TranscribeTok, so read this with the scepticism it deserves. We have tried to write the comparison we would want to find, including the part most vendor comparisons leave out: on the single measure people care most about — how much you get for free — Saveto AI's offer is better than ours on paper.
@@ -42,7 +42,7 @@ The short version: **Saveto AI is a free AI suite that happens to include TikTok
 
 **Saveto AI** (operated by SAVETO LTD) is an all-in-one transcription and summarisation platform. It takes links from TikTok, YouTube and Instagram, files from Google Drive and Dropbox, and direct uploads of local video and audio. Around that sits a large second layer: summarizers for video, audio, images, plain text, PDF, Word and PowerPoint; study tools including a flashcard maker, quiz generator, homework helper, infographic generator, mind map generator, APA citation generator and study guide maker; an AI presentation builder; a podcast generator; a voice cleaner; and video and subtitle downloaders. Its TikTok page advertises 200+ languages, accuracy "up to 99.9%", no sign-up, and no usage limit. It has no public pricing page.
 
-**TranscribeTok** takes one TikTok link and returns the spoken text. That is the whole product. No other platforms, no file uploads, no batch, no API, no browser extension. Two transcripts a day, free, with no account and no card. Exports are TXT, DOCX and SRT.
+**TranscribeTok** takes one TikTok link and returns the spoken text. That is the whole product. No other platforms, no file uploads, no batch, no API, no browser extension. Two transcripts a day, free, with no account and no card. Copy in one tap or download TXT, DOC or PDF, with or without timestamps. No subtitle files.
 
 These are not competing versions of the same product. One is a suite; one is a utility. Most arguments about which is "better" are really arguments about how wide the job is.
 
@@ -57,8 +57,9 @@ These are not competing versions of the same product. One is a suite; one is a u
 | Published paid plan | One-time packs, $9 / 100 up to $59 / 4,000 | None as of August 2026 |
 | Subscription | None — credits never expire | None published |
 | Refund policy | 30-day money-back under 20 transcripts used | Not published |
-| Exports | TXT, DOCX, SRT | Not published on the TikTok page |
-| Timestamps | SRT export | States "key points with timestamps" |
+| Exports | TXT, DOC, PDF | Not published on the TikTok page |
+| SRT / subtitle files | No | States it can generate subtitles; format not published |
+| Timestamps | Optional, in TXT, DOC, PDF | States "key points with timestamps" |
 | Languages | Auto-detected from audio | Advertises 200+ |
 | Built-in summaries | No | Yes |
 | Saved library | Included with any paid pack | Notes area in the web app |
@@ -79,7 +80,7 @@ Read that table honestly and Saveto AI wins most rows. That is what a suite look
 
 ## Where we're better
 
-**Published exports.** TranscribeTok exports TXT, DOCX and SRT, and the SRT carries per-line timecodes in the standard `HH:MM:SS,mmm` format. Saveto AI's TikTok page says it can produce subtitles and timestamped key points but does not name the file formats, which matters if you are dropping a file straight into a video editor. [What each export format is good for](/download-tiktok-transcript) covers the differences, and [TikTok transcripts with timestamps](/tiktok-transcript-with-timestamps) covers the timecode formats specifically.
+**Published exports.** TranscribeTok copies in one tap or downloads TXT, DOC or PDF, with or without timestamps. Saveto AI's TikTok page says it can produce subtitles and timestamped key points but does not name the file formats. One caveat against ourselves: we make no SRT or other subtitle file, so if you are dropping a file straight into a video editor, neither of us is a documented answer — VexaScribe and WayinVideo both list SRT exports. [What each export format is good for](/download-tiktok-transcript) covers the differences, and [TikTok transcripts with timestamps](/tiktok-transcript-with-timestamps) covers the timecode formats specifically.
 
 **Published pricing when you outgrow free.** Our packs are one-time: $9 for 100 transcripts, $16 for 500, $34 for 1,500, $59 for 4,000. Credits never expire, there is no subscription, there is a 30-day money-back guarantee if you have used fewer than 20 transcripts, and we do not charge a credit when a video turns out to have no spoken audio. Saveto AI publishes no price at all. Free is excellent while it lasts; the honest caveat is that an unpriced tool has not told you what happens when it stops being free.
 
@@ -95,7 +96,7 @@ Read that table honestly and Saveto AI wins most rows. That is what a suite look
 
 **Use Saveto AI if:** your sources span platforms and file types, you need more than a couple of transcripts a day at no cost, you want summaries and study material generated for you, or you are a student turning lectures and PDFs into notes. That is a real product with a real advantage and no amount of our marketing changes it.
 
-**Use TranscribeTok if:** the video is a TikTok, you want a named export format — particularly a standards-compliant SRT — you want the option to buy guaranteed capacity with a refund policy attached, or you simply want a single-purpose page rather than a suite. Two a day, resetting daily, with no account, covers most people who are not doing this for a living.
+**Use TranscribeTok if:** the video is a TikTok, you want a named document format — TXT, DOC or PDF — you want the option to buy guaranteed capacity with a refund policy attached, or you simply want a single-purpose page rather than a suite. Two a day, resetting daily, with no account, covers most people who are not doing this for a living.
 
 **Use both.** They cost nothing to combine and neither locks you in.
 
@@ -134,7 +135,7 @@ Neither meaningfully. Both quote high-90s figures that describe clean audio; mus
 Yes — YouTube, Instagram, Google Drive, Dropbox and local video and audio uploads. TranscribeTok accepts public TikTok URLs only.
 
 **Which should I use for subtitles?**
-TranscribeTok, because its SRT export and timecode format are documented. Saveto AI mentions subtitles but does not publish the formats.
+Not TranscribeTok: it makes no SRT, VTT or other subtitle file. Saveto AI states that it can generate subtitles and key points with timestamps but does not list the file formats it produces, so verify the output format matches your editor before relying on it. If you need a documented SRT, tools such as VexaScribe and WayinVideo list it as an export.
 
 ---
 

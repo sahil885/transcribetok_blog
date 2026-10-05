@@ -18,7 +18,7 @@ howToSteps:
   - name: "Turn the video into text"
     text: "Paste the link into transcribetok.com and click Get Transcript. Two a day are free with no account."
   - name: "Copy the plain text transcript"
-    text: "Use the TXT output rather than SRT — timecodes waste space and confuse the summary."
+    text: "Copy the plain text with timestamps turned off — timecodes waste space and confuse the summary."
   - name: "Paste it into any AI tool with a summary prompt"
     text: "Open ChatGPT, Claude, Gemini or Perplexity, paste the transcript, and ask for the specific shape of summary you want."
   - name: "Check the summary against the transcript"
@@ -62,7 +62,7 @@ The reliable route, and the one that stays free.
 
 1. **Copy the video's link.** Tap Share, then Copy link.
 2. **Paste it into [TranscribeTok](https://transcribetok.com).** You get the full spoken transcript in a few seconds. Two a day are free and no account is required.
-3. **Copy the plain text.** Use the TXT output, not SRT. Timecodes eat context and make summaries worse, not better.
+3. **Copy the plain text.** Copy it with timestamps turned off. Timecodes eat context and make summaries worse, not better.
 4. **Paste it into ChatGPT, Claude, Gemini or Perplexity** with a prompt that names the shape you want.
 5. **Spot-check it.** Scan the transcript for numbers, product names and hedges. Those are the first things a summary flattens.
 

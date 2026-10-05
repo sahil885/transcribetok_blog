@@ -1,6 +1,6 @@
 ---
 title: "TikTok to Text: Convert Any TikTok Video to Text Free"
-description: "Convert TikTok to text in seconds. Paste any video link, get the full spoken script, and copy or download it as TXT, DOCX or SRT — two free every day, no signup."
+description: "Convert TikTok to text in seconds. Paste any video link, get the full spoken script, and copy or download it as TXT, DOC or PDF — two free every day, no signup."
 date: "2026-07-26"
 author: "TranscribeTok Team"
 category: "Guide"
@@ -21,7 +21,7 @@ howToSteps:
   - name: "Paste the link and convert"
     text: "Paste the link and click Get Transcript. The spoken words come back as plain text in a few seconds."
   - name: "Copy or export the text"
-    text: "Copy the text, or download it as TXT, DOCX or SRT depending on what you need it for."
+    text: "Copy the text, or download it as TXT, DOC or PDF, with or without timestamps."
 faqItems:
   - question: "How do I convert a TikTok video to text?"
     answer: "Copy the video's share link, paste it into TranscribeTok, and click Get Transcript. The spoken audio comes back as text you can copy or download in a few seconds."
@@ -30,7 +30,7 @@ faqItems:
   - question: "Does it capture text written on the screen?"
     answer: "No. Conversion works from the audio, so it captures what is spoken. On-screen text overlays are graphics rather than data and are not included."
   - question: "What file formats can I export?"
-    answer: "TXT for plain text, DOCX for editing in Word or Google Docs, and SRT if you need a subtitle file."
+    answer: "TXT for plain text, DOC for editing in Word or Google Docs, and PDF for a fixed copy to share or print. Each comes with or without timestamps. There is no SRT or other subtitle file."
   - question: "Does it work on iPhone and Android?"
     answer: "Yes. It runs in a mobile browser, so you can share the link straight from the TikTok app and paste it in. Nothing to install."
 ---
@@ -50,8 +50,10 @@ The workaround is straightforward: run the video's audio through a transcription
 **Step 4: Take the text.** Copy it to your clipboard, or export it:
 
 - **TXT** — plain text, for pasting anywhere
-- **DOCX** — for editing in Word or Google Docs
-- **SRT** — timed subtitles, for reposting the video elsewhere
+- **DOC** — for editing in Word or Google Docs
+- **PDF** — a fixed copy to share or print
+
+Each format comes with or without timestamps. TranscribeTok does not make SRT or other subtitle files.
 
 <div class="cta-box">
 <strong>Convert one now:</strong> Paste any TikTok link and get the full text back in seconds. Two free every day, no login. <a href="https://transcribetok.com">→ Convert TikTok to text at TranscribeTok.com</a>
@@ -111,7 +113,7 @@ Two conversions a day, no account. One-time credit packs add more and save your 
 No — it converts the spoken audio. On-screen overlays are graphics, not text.
 
 **What formats can I export?**
-TXT, DOCX and SRT.
+TXT, DOC or PDF, with or without timestamps. No SRT or subtitle files.
 
 **Does it work on mobile?**
 Yes. Share the link from the TikTok app, paste it into your browser. Nothing to install.

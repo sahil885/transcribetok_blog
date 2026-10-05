@@ -107,7 +107,7 @@ Two inconsistencies on TransClipper's own pages are worth knowing before you pay
 | **API** | Yes, 500–1,500 requests / month | No |
 | **AI analysis** | Hooks, scripts, virality score | None |
 | **Creator tracking** | Yes, weekly email | No |
-| **Exports** | TXT, XML, PDF | Copy or TXT, with or without timestamps |
+| **Exports** | TXT, XML, PDF | Copy, or TXT, DOC or PDF, with or without timestamps |
 | **Translation** | 50+ languages built in | No (paste into a translator) |
 | **Refund policy** | Not stated on pricing page | 30 days, under 20 transcripts used |
 

@@ -60,7 +60,7 @@ TikTok documents these separately in its help centre, and the difference matters
 Practical rule: **use creator captions when the look matters, auto-generated captions when accessibility matters.** Both are transcription, so both need the same manual pass over names, numbers and brand terms.
 
 <div class="cta-box">
-<strong>Need the actual text, not just captions on screen?</strong> Paste any public TikTok link and get the full spoken transcript in seconds — as TXT, DOCX or SRT. Two free every day, no signup and no card. <a href="https://transcribetok.com">→ Get a free TikTok transcript at TranscribeTok.com</a>
+<strong>Need the actual text, not just captions on screen?</strong> Paste any public TikTok link and get the full spoken transcript in seconds — copy it in one tap or download it as TXT, DOC or PDF. Two free every day, no signup and no card. <a href="https://transcribetok.com">→ Get a free TikTok transcript at TranscribeTok.com</a>
 </div>
 
 ## What TikTok will not do
@@ -92,7 +92,7 @@ The route that works for any public TikTok, including videos you did not post:
 4. Correct names, numbers and brand terms. Do this once, in the file, before it reaches an editor.
 5. Load the SRT into your editor and burn it in, or upload it to a platform that accepts subtitle files.
 
-TranscribeTok does steps 1–3 in about ten seconds: paste a public TikTok link, get the spoken transcript, export as TXT, DOCX or SRT. Two a day are free with no account. It transcribes one video at a time, works from the audio so captions are not required, and cannot read typed on-screen text overlays, which are rendered graphics rather than data.
+TranscribeTok does not make subtitle files. It covers steps 1 and 2: paste a public TikTok link and get the spoken transcript in about ten seconds, then copy it in one tap or download it as TXT, DOC or PDF, with or without timestamps. That is the right output for correcting, translating or reusing the words, but a timestamped TXT is not an SRT and an editor will not read it as one. For step 3, use a tool that exports subtitle files: VexaScribe exports SRT, VTT and JSON, with a one-time 30-minute free trial and no card; WayinVideo exports SRT and VTT on credits, with signup; TokScribe exports TXT, SRT, VTT and JSON and is free at the time of writing. TranscribeTok gives you two transcripts a day free with no account. It transcribes one video at a time, works from the audio so captions are not required, and cannot read typed on-screen text overlays, which are rendered graphics rather than data.
 
 ## Format notes that save an hour
 
@@ -109,7 +109,7 @@ Renaming an `.srt` file to `.vtt` does not convert it — the header is missing 
 
 ## Related guides
 
-- [Download TikTok captions and subtitles](/download-tiktok-captions) — getting a standards-compliant SRT out of any public TikTok
+- [Download TikTok captions and subtitles](/download-tiktok-captions) — why TikTok has no caption export, and the workaround
 - [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) — which export carries timing, and how to read SRT timecodes
 - [SRT to VTT converter](/srt-to-vtt-converter) — the comma-versus-period problem, in both directions
 - [Transcribe a TikTok video](/transcribe-tiktok-video) — the pillar, including the manual and local-Whisper routes
@@ -136,4 +136,4 @@ Usually not. A caption generator normally writes the post text and hashtags that
 
 ---
 
-Need the transcript itself — to correct, translate, or turn into an SRT? [TranscribeTok](https://transcribetok.com) takes a public TikTok link and returns the spoken text in about ten seconds. Two free every day, no signup, no card.
+Need the transcript itself — to correct, translate or reuse? [TranscribeTok](https://transcribetok.com) takes a public TikTok link and returns the spoken text in about ten seconds, as TXT, DOC or PDF. It does not make subtitle files. Two free every day, no signup, no card.

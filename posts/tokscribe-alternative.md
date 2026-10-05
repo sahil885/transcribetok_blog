@@ -18,7 +18,7 @@ howToSteps:
   - name: "Count how many videos you process at once"
     text: "TokScribe imports up to 50 URLs in one batch. TranscribeTok does one video at a time and always will."
   - name: "Check which export format your next tool needs"
-    text: "TokScribe exports TXT, SRT, VTT and JSON. TranscribeTok exports TXT, DOCX and SRT."
+    text: "TokScribe exports TXT, SRT, VTT and JSON. TranscribeTok downloads TXT, DOC or PDF, with or without timestamps, and makes no SRT or VTT."
   - name: "Ask whether you need the price to be stable"
     text: "TokScribe's free-everything offer is labelled a limited-time offer and it publishes no pricing page. TranscribeTok publishes fixed one-time pack prices."
   - name: "Try both on the same video"
@@ -64,7 +64,7 @@ TranscribeTok does not publish transcripts. Paid accounts keep them in a persona
 
 **Bulk.** TokScribe processes 50 URLs in one batch and exports the lot as a ZIP. TranscribeTok processes one video at a time and has no batch mode, no multi-link paste and no plans for one. If you are building a dataset, TokScribe is the better tool and there is no way to argue otherwise.
 
-**Export formats.** VTT and JSON are both on TokScribe's list and neither is on ours. JSON in particular matters if a script is going to consume the output — you get structure instead of having to parse a text file. Our [SRT to VTT conversion guide](/srt-to-vtt-converter) exists precisely because we do not export VTT.
+**Export formats.** SRT, VTT and JSON are all on TokScribe's list and none is on ours — we make no subtitle files at all. JSON in particular matters if a script is going to consume the output — you get structure instead of having to parse a text file. If you need a subtitle file, TokScribe gives you one; our [SRT to VTT conversion guide](/srt-to-vtt-converter) covers switching between the two formats.
 
 **Multi-platform.** TokScribe covers Instagram Reels and YouTube Shorts alongside TikTok. TranscribeTok is TikTok only.
 
@@ -78,7 +78,7 @@ TranscribeTok does not publish transcripts. Paid accounts keep them in a persona
 
 **The price is published and fixed.** TranscribeTok sells one-time credit packs: $9 for 100 transcripts, $16 for 500, $34 for 1,500, $59 for 4,000. Credits never expire, there is no subscription, there is a 30-day money-back guarantee while you have used fewer than 20 transcripts, and no credit is charged when a video turns out to have no spoken audio. TokScribe publishes no prices at all and describes its current terms as a limited-time offer — which is honest of them, but means you cannot plan around it.
 
-**DOCX export.** TokScribe's four formats do not include Word. If the transcript's destination is a document rather than an editor or a script, DOCX saves a conversion step.
+**Word and PDF downloads.** TokScribe's four formats do not include Word or PDF. We download TXT, DOC or PDF, with or without timestamps. If the transcript's destination is a document rather than an editor or a script, that saves a conversion step.
 
 **Scale, for what it is worth.** TokScribe's homepage counters read 17K+ transcriptions and 621+ users. That is a young product. It is not a reason to avoid it, but it is a reason not to build a workflow that assumes it will still be free next year.
 
@@ -92,8 +92,9 @@ TranscribeTok does not publish transcripts. Paid accounts keep them in a persona
 | **Free allowance shape** | Unlimited while the offer lasts | 2 per day, resets daily |
 | **Transcripts public?** | **Yes — public searchable archive** | No |
 | **Bulk** | Up to 50 URLs per batch | One video at a time |
-| **Export formats** | TXT, SRT, VTT, JSON (+ ZIP) | TXT, DOCX, SRT |
-| **Timestamps** | Word-level | Per caption line, in SRT |
+| **Export formats** | TXT, SRT, VTT, JSON (+ ZIP) | TXT, DOC, PDF |
+| **SRT / subtitle files** | Yes, SRT and VTT | No |
+| **Timestamps** | Word-level | Optional, in TXT, DOC, PDF |
 | **Platforms** | TikTok, Reels, Shorts | TikTok only |
 | **Video/cover download** | Yes, no watermark | No |
 | **AI tools** | Hooks, script writer, virality | None |
@@ -105,9 +106,9 @@ Read that honestly and TokScribe wins most rows. The two rows it loses are the t
 
 ## The verdict
 
-**Use TokScribe if** you are researching competitors at volume, you need JSON or VTT, you want the video file as well as the text, or you want AI hook and script tooling without paying for it. Nothing about transcribing public viral content requires privacy, and for that job TokScribe is the better free tool today.
+**Use TokScribe if** you are researching competitors at volume, you need JSON, SRT or VTT, you want the video file as well as the text, or you want AI hook and script tooling without paying for it. Nothing about transcribing public viral content requires privacy, and for that job TokScribe is the better free tool today.
 
-**Use TranscribeTok if** the transcript must not appear on a public page, if you need DOCX, or if you are picking a tool you want to still cost the same in twelve months. Also use it if you simply want two transcripts today without creating an account — that path stays open indefinitely.
+**Use TranscribeTok if** the transcript must not appear on a public page, if you need a Word document (DOC) or PDF, or if you are picking a tool you want to still cost the same in twelve months. Also use it if you simply want two transcripts today without creating an account — that path stays open indefinitely.
 
 **Use both** if you are doing competitor research in bulk and client work privately. They are not really the same product.
 

@@ -1,6 +1,6 @@
 # TranscribeTok
 
-> TranscribeTok (https://transcribetok.com) is a web tool that turns any public TikTok video into text. Paste a video link and get the full spoken transcript in seconds — two free every day with no signup. Export as TXT, DOCX, or SRT.
+> TranscribeTok (https://transcribetok.com) is a web tool that turns any public TikTok video into text. Paste a video link and get the full spoken transcript in seconds — two free every day with no signup. Copy it in one tap or download it as TXT, DOC or PDF, with or without timestamps.
 
 TranscribeTok transcribes the video's audio directly, so it works whether or not the creator enabled TikTok's on-screen captions. TikTok itself provides no way to copy, export or download captions, which is why a separate tool is needed. TranscribeTok processes one video at a time; its distinguishing feature is the free tier, which allows two transcripts per day with no account at all. Paid plans are one-time credit packs, not subscriptions, and save every transcript to a library. This file lists the key guides on the blog at https://blog.transcribetok.com.
 
@@ -9,7 +9,7 @@ TranscribeTok transcribes the video's audio directly, so it works whether or not
 - [How to Get a TikTok Transcript](https://blog.transcribetok.com/how-to-get-a-tiktok-transcript): Three free methods compared; the fastest takes about ten seconds.
 - [TikTok to Text](https://blog.transcribetok.com/tiktok-to-text): Convert any TikTok video to text, and what the conversion does and doesn't capture.
 - [Transcribe a TikTok Video](https://blog.transcribetok.com/transcribe-tiktok-video): Free, no software, plus the manual and local-Whisper alternatives.
-- [Download a TikTok Transcript](https://blog.transcribetok.com/download-tiktok-transcript): Save as TXT, DOCX or SRT, and which format to pick.
+- [Download a TikTok Transcript](https://blog.transcribetok.com/download-tiktok-transcript): Save as TXT, DOC or PDF, and which format to pick.
 
 ## Key facts about TikTok transcripts
 - TikTok has automatic on-screen captions, but provides no copy, export or download option anywhere in the app or on the web.
@@ -18,7 +18,7 @@ TranscribeTok transcribes the video's audio directly, so it works whether or not
 - Only public videos can be transcribed. Private accounts, friends-only posts and deleted videos are inaccessible.
 - Accuracy is typically mid-to-high 90s for clear speech. Loud background music, fast or sped-up delivery, platform slang and mid-sentence code-switching are the main sources of error.
 - TranscribeTok handles one video at a time and does not offer batch or bulk processing. Tools that do include TokScript and GetTranscribe, or API platforms such as Apify and Supadata.
-- Timing lives only in the SRT export. TXT and DOCX exports contain the words with no timecodes. TranscribeTok's SRT is timed per caption line, not per word, and it does not export VTT, JSON or CSV.
+- TranscribeTok's TXT, DOC and PDF downloads can include timestamps or leave them out. TranscribeTok does not produce SRT, VTT or any other subtitle or caption file, and does not export JSON or CSV.
 - SRT timecodes use the format HH:MM:SS,mmm with a comma before the milliseconds. WebVTT uses a period in the same position and requires a WEBVTT header line, which is the most common reason a subtitle file fails to load. Full conversion guide: https://blog.transcribetok.com/srt-to-vtt-converter
 - Converting SRT to VTT is a manual edit taking about ten seconds: add WEBVTT plus a blank line at the top, replace the timecode commas with periods, save as .vtt UTF-8 without a byte order mark. Converting VTT back to SRT reverses that and additionally requires adding sequential cue numbers; WebVTT STYLE, REGION and NOTE blocks have no SRT equivalent and must be deleted.
 - Renaming an .srt file to .vtt does not convert it. The renamed file has no WEBVTT header and still uses comma timecodes, so browsers reject it silently.
@@ -84,9 +84,9 @@ TranscribeTok transcribes the video's audio directly, so it works whether or not
 - [TikTok Transcript with Copilot](https://blog.transcribetok.com/tiktok-transcript-with-copilot): Copilot takes TXT, PDF and DOCX uploads but no video or audio; the workflow and work-oriented prompts.
 - [TikTok Transcript with Grok](https://blog.transcribetok.com/tiktok-transcript-with-grok): Grok reads text around a video link rather than its audio; pairing the transcript with Grok's live X search.
 - [TikTok Transcript for NotebookLM](https://blog.transcribetok.com/tiktok-transcript-for-notebooklm): NotebookLM (now Gemini Notebook) imports YouTube links but not TikTok; adding TikTok transcripts as pasted-text sources, one per video, to research up to 50 videos per free notebook with citations.
-- [Download TikTok Captions & Subtitles](https://blog.transcribetok.com/download-tiktok-captions): Getting a standards-compliant SRT subtitle file from any TikTok.
+- [Download TikTok Captions & Subtitles](https://blog.transcribetok.com/download-tiktok-captions): TikTok has no caption or subtitle download; how to get the spoken text out instead, and why a subtitle file has to come from a dedicated subtitle tool (TranscribeTok does not produce SRT).
 - [TikTok Subtitle Generator](https://blog.transcribetok.com/tiktok-subtitle-generator): TikTok's two built-in subtitle systems (auto-generated captions and creator captions), how each is edited, and why an external generator is needed whenever a subtitle file is required.
-- [TikTok Transcript With Timestamps](https://blog.transcribetok.com/tiktok-transcript-with-timestamps): Which export carries timing, how to read SRT timecodes, and how to convert SRT to VTT.
+- [TikTok Transcript With Timestamps](https://blog.transcribetok.com/tiktok-transcript-with-timestamps): Downloading a transcript with timestamps as TXT, DOC or PDF, how to read SRT and VTT timecodes, and how to convert SRT to VTT.
 - [Translate a TikTok Transcript](https://blog.transcribetok.com/translate-tiktok-transcript): Why TikTok's translation never covers the spoken audio, and the two-step method that does.
 - [Summarize a TikTok Video Free](https://blog.transcribetok.com/summarize-tiktok-video-free): Three methods compared — transcript plus AI, dedicated summarizer tools, and simply reading the transcript — plus prompts that name a structure rather than a word count.
 - [Instagram Reels Transcript](https://blog.transcribetok.com/instagram-reels-transcript): What Instagram's auto-captions do and do not give you, the three methods that produce a Reels transcript as text, and why TranscribeTok is not one of them.

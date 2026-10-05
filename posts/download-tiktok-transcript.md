@@ -1,6 +1,6 @@
 ---
-title: "Download TikTok Transcript: Save Any Video as TXT, DOCX or SRT"
-description: "Download a TikTok transcript free — save any video's spoken text as TXT, DOCX or SRT. No extension, works on desktop and mobile. Full 2026 guide."
+title: "Download TikTok Transcript: Save Any Video as TXT, DOC or PDF"
+description: "Download a TikTok transcript free — save any video's spoken text as TXT, DOC or PDF. No extension needed, works on desktop and mobile. Full 2026 guide."
 date: "2026-07-22"
 author: "TranscribeTok Team"
 category: "Guide"
@@ -10,7 +10,7 @@ keywords:
   - save tiktok transcript
   - tiktok transcript download
   - tiktok transcript txt
-  - tiktok transcript srt
+  - tiktok transcript pdf
   - export tiktok transcript
 howToName: "How to Download a TikTok Transcript"
 howToSteps:
@@ -21,12 +21,12 @@ howToSteps:
   - name: "Generate the transcript"
     text: "Click Get Transcript and wait a few seconds for the full text."
   - name: "Choose your download format"
-    text: "Click Download and pick TXT for plain text, DOCX for editing, or SRT for subtitles."
+    text: "Click Download and pick TXT for plain text, DOC for editing in Word, or PDF for a fixed copy, with or without timestamps."
 faqItems:
   - question: "Can I download a TikTok transcript as a file?"
-    answer: "Yes. Once the transcript is generated you can download it as TXT, DOCX or SRT. TikTok itself offers no export, which is why a separate tool is needed."
+    answer: "Yes. Once the transcript is generated you can copy it in one tap or download it as TXT, DOC or PDF, with or without timestamps. TikTok itself offers no export, which is why a separate tool is needed."
   - question: "Which format should I choose?"
-    answer: "TXT for pasting into AI tools or notes, DOCX if you plan to edit and format it, and SRT if you need timed subtitles for reposting the video."
+    answer: "TXT for pasting into AI tools or notes, DOC if you plan to edit and format it, and PDF for a fixed copy to share. TranscribeTok does not make SRT subtitle files; if you need timed subtitles for reposting the video, use a subtitle tool such as VexaScribe or WayinVideo."
   - question: "Can I download transcripts on my phone?"
     answer: "Yes. The download works in mobile browsers on both iPhone and Android. Files land in your usual Downloads folder or Files app."
   - question: "Can I download transcripts for a whole account at once?"
@@ -47,10 +47,10 @@ So "downloading a TikTok transcript" means generating the text first, then expor
 
 **Step 3: Click Get Transcript.** The full spoken text appears in a few seconds.
 
-**Step 4: Click Download and choose a format.** TXT, DOCX or SRT — see below for which.
+**Step 4: Click Download and choose a format.** TXT, DOC or PDF, with or without timestamps — see below for which. Or copy the whole transcript in one tap.
 
 <div class="cta-box">
-<strong>Download one free:</strong> Paste a TikTok link, generate the transcript, and save it as TXT, DOCX or SRT. Two free every day. <a href="https://transcribetok.com">→ Download a TikTok transcript at TranscribeTok.com</a>
+<strong>Download one free:</strong> Paste a TikTok link, generate the transcript, and save it as TXT, DOC or PDF. Two free every day. <a href="https://transcribetok.com">→ Download a TikTok transcript at TranscribeTok.com</a>
 </div>
 
 ## Which format should you download?
@@ -68,29 +68,31 @@ The default, and the right answer most of the time. No formatting, no metadata, 
 
 If you are unsure, choose TXT.
 
-### DOCX — Word document
+### DOC — Word document
 
-Use this when a human is going to edit the text. DOCX opens in Word, Google Docs and Pages, and supports highlighting, comments and tracked changes. Right for:
+Use this when a human is going to edit the text. DOC opens in Word, Google Docs and Pages, and supports highlighting, comments and tracked changes. Right for:
 
 - Turning a script into a draft blog post
 - Sharing with a client or teammate for markup
 - Anything that ends up in a document rather than a prompt
 
-### SRT — subtitle file
+### PDF — fixed copy
 
-A timed subtitle file, with timestamps mapping each line to a moment in the video. Only useful if something is going to *play* the video alongside it. Right for:
+Use this when the transcript is going to be read, not edited. A PDF looks the same on every device. Right for:
 
-- Reposting a clip to YouTube, Instagram or LinkedIn with proper captions
-- Loading into a video editor
-- Accessibility compliance where a real caption track is required
+- Sending a transcript to a client or stakeholder as-is
+- Attaching to a report or a brief
+- Printing
 
-SRT is the wrong choice for pasting into an AI tool — the timestamps are noise that eats into the context and adds nothing. If timing is the whole reason you're here, [getting a TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) covers how to read the timecodes and convert SRT to VTT.
+### What about SRT subtitles?
+
+TranscribeTok does not make SRT, VTT or any other subtitle file. Every download is a text document; turning timestamps on puts times in the text, but that is not a caption track a video editor or player can load. If you need a subtitle file — for reposting a clip to YouTube, Instagram or LinkedIn with proper captions, loading into a video editor, or accessibility compliance where a real caption track is required — use a tool that exports one: VexaScribe exports SRT, VTT and JSON, and WayinVideo exports SRT and VTT. [Getting a TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) covers how to read SRT timecodes and convert SRT to VTT.
 
 | Format | Best for | Opens in |
 |---|---|---|
 | TXT | AI tools, notes, archives | Anything |
-| DOCX | Editing, sharing, drafting | Word, Google Docs, Pages |
-| SRT | Subtitles, video editors | Editors, YouTube, players |
+| DOC | Editing, sharing, drafting | Word, Google Docs, Pages |
+| PDF | Reading, sending, printing | Any PDF viewer, browsers |
 
 ## Downloading on mobile
 
@@ -129,10 +131,10 @@ Downloading a transcript in another language works identically, but the text you
 ## Frequently asked questions
 
 **Can I download a TikTok transcript as a file?**
-Yes — TXT, DOCX or SRT, once the transcript is generated.
+Yes. Once the transcript is generated you can copy it in one tap or download it as TXT, DOC or PDF, with or without timestamps. TikTok itself offers no export, which is why a separate tool is needed.
 
 **Which format should I choose?**
-TXT for AI tools and notes, DOCX for editing, SRT for subtitles.
+TXT for pasting into AI tools or notes, DOC if you plan to edit and format it, and PDF for a fixed copy to share. TranscribeTok does not make SRT subtitle files; if you need timed subtitles for reposting the video, use a subtitle tool such as VexaScribe or WayinVideo.
 
 **Can I download on my phone?**
 Yes, both iPhone and Android, straight from the browser.

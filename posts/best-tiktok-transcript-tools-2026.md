@@ -45,7 +45,7 @@ Being clear about which one you are saves a lot of time. TranscribeTok is a sing
 
 Good for: grabbing the script from a video you just watched.
 
-**TranscribeTok** *(ours)* — Two transcripts a day free with no account at all, on videos of any standard length. Exports TXT, DOCX and SRT. Paid credit packs are one-time (from $9 for 100 transcripts, credits never expire) and also save transcripts to a library so you're not re-transcribing things you've already done. One video at a time.
+**TranscribeTok** *(ours)* — Two transcripts a day free with no account at all, on videos of any standard length. Copy in one tap or download as TXT, DOC or PDF, with or without timestamps — no SRT or other subtitle file. Paid credit packs are one-time (from $9 for 100 transcripts, credits never expire) and also save transcripts to a library so you're not re-transcribing things you've already done. One video at a time.
 
 **Saveto AI** — No signup, very wide language coverage. Straightforward and fast for one-off use.
 
@@ -127,7 +127,7 @@ Differences between mainstream tools on the same clean audio are small. Differen
 
 ## How to choose
 
-**One video, occasionally.** Any single-video tool. Pick on export format — check SRT support if you need subtitles — and on whether it makes you sign up.
+**One video, occasionally.** Any single-video tool. Pick on export format — check SRT support if you need subtitles (TranscribeTok does not export SRT) — and on whether it makes you sign up.
 
 **A few videos a week, for repurposing.** A tool that saves your history, so you're not re-transcribing things you already did.
 

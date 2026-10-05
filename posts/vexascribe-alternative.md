@@ -94,8 +94,9 @@ This is the pattern across the whole category, and it is worth internalising bef
 | **Platforms** | YouTube, TikTok, Instagram, direct files | TikTok |
 | **Languages** | 99 | Transcribes whatever is spoken; no translation |
 | **Speaker labels** | Yes, automatic | No |
-| **Timestamps** | Yes | Yes, in the SRT export |
-| **Export formats** | TXT, SRT, VTT, JSON, DOCX | TXT, DOCX, SRT |
+| **Timestamps** | Yes | Optional, in any download |
+| **Export formats** | TXT, SRT, VTT, JSON, DOCX | TXT, DOC, PDF |
+| **SRT / VTT subtitle files** | Yes | No |
 | **Bulk** | Up to 50 files in parallel, ZIP download | No — one video at a time |
 | **AI summaries** | Yes, six types | No |
 | **Translation** | 133 languages, built in | No |

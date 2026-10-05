@@ -17,8 +17,8 @@ howToSteps:
     text: "TokTranscript's free plan is 10 transcripts a month. TranscribeTok's is 2 a day, which is roughly 60 a month."
   - name: "Check whether free transcripts stay private"
     text: "On TokTranscript's free plan, content is public to its Plaza feed. Privacy starts on the Pro plan."
-  - name: "Decide if you need SRT or DOCX"
-    text: "TokTranscript gates SRT and DOCX export behind Pro. TranscribeTok includes TXT, DOCX and SRT."
+  - name: "Decide if you need a subtitle file"
+    text: "TokTranscript gates SRT and DOCX export behind Pro. TranscribeTok downloads TXT, DOC or PDF, with or without timestamps, and makes no SRT or other subtitle file."
   - name: "Decide if you want AI analysis built in"
     text: "TokTranscript's Viral Breakdown, Script Remix and Hook Analyzer have no equivalent in TranscribeTok."
   - name: "Compare cost per transcript, not per month"
@@ -88,7 +88,7 @@ Neither shape is universally better. Ten in a burst beats two a day if you are d
 
 **Cost per transcript.** TokTranscript's Quick Pack works out at about 10c per video and its Pro plan at roughly 9c per transcript at the plan's cap. TranscribeTok's entry pack is about 9c — roughly level — but its $16 pack is about 3.2c and its largest pack about 1.5c. If all you want is text and you buy beyond the entry pack, we are between three and six times cheaper per unit.
 
-**SRT and DOCX are not paywalled.** TokTranscript gates both behind Pro. If you need a subtitle file for CapCut or Premiere, that is a paid feature there and an included one here. The formats and their quirks are covered in [TikTok transcripts with timestamps](/tiktok-transcript-with-timestamps).
+**Word download without a subscription.** Every TranscribeTok transcript copies in one tap or downloads as TXT, DOC or PDF, with or without timestamps. TokTranscript gates its DOCX export behind Pro. What we do not make is a subtitle file: no SRT, no VTT. If you need one for CapCut or Premiere, TokTranscript's Pro plan exports SRT and we do not. The formats and their quirks are covered in [TikTok transcripts with timestamps](/tiktok-transcript-with-timestamps).
 
 ## Feature comparison
 
@@ -102,9 +102,10 @@ Neither shape is universally better. Ten in a burst beats two a day if you are d
 | **Cost per transcript (entry)** | ~10c ($0.99 Quick Pack) | ~9c ($9 / 100) |
 | **Refund policy** | Cancel anytime, no refund stated | 30-day guarantee under 20 transcripts |
 | **TXT export** | Free | Included |
-| **SRT export** | Pro only | Included |
-| **DOCX export** | Pro only | Included |
-| **Timestamps** | Free | In SRT export |
+| **SRT export** | Pro only | No |
+| **Word export** | DOCX, Pro only | DOC, included |
+| **PDF export** | — | Included |
+| **Timestamps** | Free | Optional, in TXT, DOC, PDF |
 | **Bulk** | Up to 20 per batch | One video at a time |
 | **AI hook/script analysis** | Yes, core feature | No |
 | **Mind map / AI summary** | Pro only | No |
@@ -113,9 +114,9 @@ Neither shape is universally better. Ten in a burst beats two a day if you are d
 
 ## The verdict
 
-**Use TokTranscript if** you want the analysis and not just the words — hook scoring, viral breakdowns, script remixing — or if you need 20 videos in one batch. Its AI layer is the real product and it has no equivalent here.
+**Use TokTranscript if** you need an SRT subtitle file, if you want the analysis and not just the words — hook scoring, viral breakdowns, script remixing — or if you need 20 videos in one batch. Its AI layer is the real product and it has no equivalent here.
 
-**Use TranscribeTok if** you transcribe regularly rather than in bursts, if you want your transcripts to stay off a public feed without paying for the privilege, if you need SRT or DOCX without a subscription, or if you just want the lowest cost per transcript.
+**Use TranscribeTok if** you transcribe regularly rather than in bursts, if you want your transcripts to stay off a public feed without paying for the privilege, if you want TXT, DOC or PDF downloads without a subscription, or if you just want the lowest cost per transcript.
 
 **A reasonable split:** free TranscribeTok for the everyday two, TokTranscript's $0.99 pack when you actually want a hook teardown. Neither requires you to commit to the other.
 

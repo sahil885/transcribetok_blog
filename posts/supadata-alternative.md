@@ -87,7 +87,7 @@ If the answer is yes, the next question is volume. Under roughly fifty transcrip
 
 **Five platforms, one endpoint.** TikTok, Instagram Reels, YouTube, X and Facebook all go through the same call. TranscribeTok is TikTok only — if you also need [Instagram Reels transcripts](/instagram-reels-transcript), we do not do them and Supadata does.
 
-**Structured output.** Timestamped chunks with millisecond offsets are the right shape for anything programmatic — building a search index, aligning subtitles, feeding a RAG pipeline. Our [timestamped transcript guide](/tiktok-transcript-with-timestamps) explains what you get instead, which is SRT.
+**Structured output.** Timestamped chunks with millisecond offsets are the right shape for anything programmatic — building a search index, aligning subtitles, feeding a RAG pipeline. Our [timestamped transcript guide](/tiktok-transcript-with-timestamps) explains what you get instead: readable text with optional timestamps, downloadable as TXT, DOC or PDF. TranscribeTok does not produce SRT or any other subtitle file.
 
 **Translation built in.** Thirty credits a minute is steep, but it is one parameter rather than a second tool.
 
@@ -103,7 +103,7 @@ If the answer is yes, the next question is volume. Under roughly fifty transcrip
 
 **You pay once, or not at all.** TranscribeTok's paid packs are one-time: $9 for 100 transcripts, $16 for 500, $34 for 1,500, $59 for 4,000. Credits never expire. There is a 30-day money-back guarantee while you have used fewer than 20 transcripts, and no credit is charged when a video turns out to have no spoken audio — the opposite of Supadata's policy on empty results.
 
-**DOCX out of the box.** TranscribeTok exports TXT, DOCX and SRT. Supadata returns JSON or plain text; anything else is your code's problem.
+**Documents out of the box.** TranscribeTok lets you copy the transcript in one tap or download it as TXT, DOC or PDF, with or without timestamps. Supadata returns JSON or plain text; anything else is your code's problem.
 
 ## Side by side
 
@@ -112,13 +112,13 @@ If the answer is yes, the next question is volume. Under roughly fifty transcrip
 | **Shape** | Developer API, no web app | Web tool, no API |
 | **Free tier** | 100 credits/month, account required | 2/day, no account |
 | **Free tier resets** | Monthly, no rollover | Daily |
-| **Cheapest paid** | $5/mo, annual billing only | $5 one-time, 150 transcripts |
+| **Cheapest paid** | $5/mo, annual billing only | $9 one-time, 100 transcripts |
 | **Recurring?** | Yes, subscription | No, credits never expire |
 | **Refund** | Last period if no requests made | 30 days, under 20 transcripts used |
 | **Charged for empty results?** | Yes | No |
 | **Platforms** | TikTok, IG, YouTube, X, Facebook, files | TikTok only |
-| **Output** | JSON chunks or plain text | TXT, DOCX, SRT |
-| **Timestamps** | Millisecond offsets | SRT caption lines |
+| **Output** | JSON chunks or plain text | Copy, or TXT, DOC, PDF |
+| **Timestamps** | Millisecond offsets | Optional in the download; no SRT |
 | **Translation** | Yes, 30 credits/minute | No |
 | **Batch** | YouTube only | No |
 | **Private videos** | No | No |

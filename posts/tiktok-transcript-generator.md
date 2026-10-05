@@ -1,6 +1,6 @@
 ---
 title: "TikTok Transcript Generator: Get Any Video's Text Free (2026)"
-description: "Free TikTok transcript generator — paste any video link and get the full spoken text in seconds. No signup for your first two a day. Copy or download as TXT, DOCX or SRT."
+description: "Free TikTok transcript generator — paste any video link and get the full spoken text in seconds. Two free a day, no signup. Copy or download as TXT, DOC or PDF."
 date: "2026-07-28"
 author: "TranscribeTok Team"
 category: "Guide"
@@ -21,7 +21,7 @@ howToSteps:
   - name: "Paste the link and click Get Transcript"
     text: "Paste the TikTok link into the input box and click Get Transcript. The full text appears in a few seconds."
   - name: "Copy or download the transcript"
-    text: "Copy the text to your clipboard, or download it as TXT, DOCX or SRT for subtitles."
+    text: "Copy the text to your clipboard, or download it as TXT, DOC or PDF, with or without timestamps."
 faqItems:
   - question: "What is a TikTok transcript generator?"
     answer: "A TikTok transcript generator is a tool that converts the spoken audio in a TikTok video into written text. You paste the video link, and the tool returns the full script — which you can then copy, download, search, or feed into an AI tool."
@@ -60,7 +60,7 @@ A transcript generator bypasses both by working from the audio itself. That is w
 
 **Step 3: Paste and click Get Transcript.** The transcript appears within a few seconds for a typical short clip.
 
-**Step 4: Copy or download.** Take the text to your clipboard, or download it as **TXT** for plain text, **DOCX** for editing, or **SRT** if you want subtitles for a repost.
+**Step 4: Copy or download.** Take the text to your clipboard, or download it as **TXT** for plain text, **DOC** for editing in Word, or **PDF** for a fixed copy — each with or without timestamps. TranscribeTok does not make SRT or other subtitle files.
 
 <div class="cta-box">
 <strong>Try it now:</strong> Paste any TikTok link and get the full transcript in seconds — two free every day, no login. <a href="https://transcribetok.com">→ Generate a transcript at TranscribeTok.com</a>
@@ -89,7 +89,7 @@ The gap widens fast once you move past a single video. Watching 50 TikToks to fi
 
 **Feeding AI tools.** Language models cannot watch a TikTok, but they handle a pasted transcript perfectly. [Using a TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt) walks through summarizing, rewriting, and extracting hooks.
 
-**Accessibility and subtitles.** An SRT export gives you a proper subtitle file for reposting the video elsewhere.
+**Accessibility and subtitles.** A transcript makes a video's words readable for anyone who cannot listen. If you need an actual subtitle file for a repost, TranscribeTok does not make one — tools such as [VexaScribe](/vexascribe-alternative) export SRT and VTT, and [WayinVideo](/wayinvideo-alternative) exports SRT and VTT alongside TXT, DOC and PDF.
 
 **Language learning and translation.** Text translates far more reliably than audio, which is why extracting the transcript first is worth the extra step.
 

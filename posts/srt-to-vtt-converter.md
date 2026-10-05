@@ -93,7 +93,7 @@ Right, so the thing nobody tells you
 That is the entire conversion.
 
 <div class="cta-box">
-<strong>Need the subtitle file in the first place?</strong> Paste any public TikTok link into TranscribeTok and export the transcript as SRT, with timecodes on every caption line. Two free every day, no signup, no card. <a href="https://transcribetok.com">→ Get a TikTok SRT at TranscribeTok.com</a>
+<strong>Need the words from a TikTok, not a subtitle file?</strong> Paste any public TikTok link into TranscribeTok, then copy the transcript in one tap or download it as TXT, DOC or PDF, with or without timestamps. It does not make SRT or VTT files. Two free every day, no signup, no card. <a href="https://transcribetok.com">→ Get a TikTok transcript at TranscribeTok.com</a>
 </div>
 
 ## Converting VTT back to SRT
@@ -104,11 +104,11 @@ One thing that does not survive the trip back: WebVTT styling. `STYLE` blocks, `
 
 ## Where TranscribeTok fits
 
-TranscribeTok exports TXT, DOCX and SRT. **It does not export VTT.** If your workflow needs VTT, you will do the ten-second edit above yourself, and we would rather say that plainly than let you find out after exporting.
+Before this step, not in it. TranscribeTok lets you copy the transcript in one tap or download it as TXT, DOC or PDF, with or without timestamps. **It does not make SRT, VTT or any other subtitle file.** A timestamped TXT is a transcript with times in it, not a subtitle file, and renaming it to `.srt` or `.vtt` will not make a player accept it. We would rather say that plainly than let you find out after downloading.
 
-The SRT we produce is timed per caption line, not per word. That is the right granularity for subtitles and for citing a moment in a video; it is not fine enough for karaoke-style word highlighting. [TikTok transcripts with timestamps](/tiktok-transcript-with-timestamps) goes into what the timing actually looks like and which export carries it, and [downloading TikTok captions and subtitles](/download-tiktok-captions) covers getting a standards-compliant SRT out of a TikTok in the first place.
+What the timestamped transcript is good for is reading: citing a moment in a video, finding the line you want to clip. [TikTok transcripts with timestamps](/tiktok-transcript-with-timestamps) goes into what that looks like, and [downloading TikTok captions and subtitles](/download-tiktok-captions) covers the subtitle-file side.
 
-If VTT specifically is a hard requirement and you would rather not touch a text editor, some competitors export it directly — VexaScribe and WayinVideo both do. [The best TikTok transcript tools compared](/best-tiktok-transcript-tools-2026) lays out who exports what.
+If you need an actual subtitle file from a TikTok, use a tool that makes one. VexaScribe exports SRT, VTT, JSON, TXT and DOCX, and WayinVideo exports TXT, DOC, PDF, SRT and VTT, so both give you VTT directly without the edit above. [The best TikTok transcript tools compared](/best-tiktok-transcript-tools-2026) lays out who exports what.
 
 ## Common failures and what causes them
 
@@ -130,9 +130,9 @@ The exception is if you are publishing HTML5 video yourself. The `<track>` eleme
 
 ## Related guides
 
-- [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) — which export carries timing, and how to read SRT timecodes
-- [Download TikTok captions and subtitles](/download-tiktok-captions) — getting a standards-compliant SRT from any TikTok
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT, and which to pick
+- [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) — getting timing into a transcript, and how to read SRT timecodes
+- [Download TikTok captions and subtitles](/download-tiktok-captions) — the subtitle-file workflow, and which tools make one
+- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOC or PDF, and which to pick
 - [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — the pillar, including where accuracy breaks down
 - [Best free TikTok transcript tools in 2026](/best-tiktok-transcript-tools-2026) — who exports VTT, JSON and CSV directly
 
@@ -153,10 +153,10 @@ Usually a missing `WEBVTT` header or timecodes still using commas — both happe
 Yes. Remove the header, swap periods for commas, add sequential cue numbers, save as `.srt`. Any `STYLE`, `REGION` or `NOTE` blocks must be deleted — SRT has no equivalent.
 
 **Does TranscribeTok export VTT?**
-No. TranscribeTok exports TXT, DOCX and SRT. Converting the SRT to VTT is the manual ten-second edit described above.
+No, and it does not export SRT either. TranscribeTok gives you the transcript as copied text or a TXT, DOC or PDF download, with or without timestamps — no subtitle files. For a VTT from a TikTok, VexaScribe and WayinVideo both export one directly.
 
 ---
 
 Nearly every "subtitle file won't load" problem in this category comes down to a comma that should be a period. Once you have seen it once, you will spot it in a second, and you will never need a converter tool for it again.
 
-**[→ Get a timed TikTok SRT free at TranscribeTok.com](https://transcribetok.com)**
+**[→ Get a timestamped TikTok transcript free at TranscribeTok.com](https://transcribetok.com)**

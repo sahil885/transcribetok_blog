@@ -22,7 +22,7 @@ howToSteps:
   - name: "Paste the link and click Get Transcript"
     text: "The full spoken text appears within a few seconds."
   - name: "Copy or download it"
-    text: "Copy to clipboard, or download as TXT, DOCX or SRT."
+    text: "Copy to clipboard in one tap, or download as TXT, DOC or PDF, with or without timestamps."
 faqItems:
   - question: "How do I get the text from a TikTok video?"
     answer: "Copy the video's link from TikTok's Share menu, paste it into a free transcript tool such as TranscribeTok, and copy the text it returns. It takes about ten seconds, needs no app or extension, and TranscribeTok gives two free transcripts a day with no account. TikTok itself has no copy or export option for a video's spoken words."
@@ -52,7 +52,7 @@ The fastest option by a wide margin.
 
 **Step 3:** Paste the link and click **Get Transcript**. The spoken text comes back in a few seconds.
 
-**Step 4:** Copy it, or download as TXT, DOCX or SRT.
+**Step 4:** Copy it in one tap, or download as TXT, DOC or PDF, with or without timestamps.
 
 That is the whole process. It works on any public video, in most languages, whether or not the creator ever enabled captions — because the transcription runs on the audio rather than TikTok's caption track.
 
@@ -97,7 +97,7 @@ The transcript is usually the beginning of something, not the end:
 
 **Summarize it.** Paste it into an AI tool and ask for the key points — [the ChatGPT workflow is here](/tiktok-transcript-for-chatgpt), with versions for [Gemini](/tiktok-transcript-with-gemini), [Claude](/tiktok-transcript-with-claude), [Copilot](/tiktok-transcript-with-copilot) and [Grok](/tiktok-transcript-with-grok).
 
-**Save it properly.** TXT, DOCX or SRT depending on the job — see [downloading a TikTok transcript](/download-tiktok-transcript).
+**Save it properly.** TXT, DOC or PDF depending on the job — see [downloading a TikTok transcript](/download-tiktok-transcript).
 
 **Repurpose it.** A TikTok script converts cleanly into a LinkedIn post, newsletter section or short-form script for another platform. [Full creator workflow here](/tiktok-transcript-for-content-creators).
 

@@ -1,6 +1,6 @@
 ---
-title: "Download TikTok Subtitles & Captions Free (SRT or TXT)"
-description: "TikTok has no subtitles download button. Here is the free workaround to download TikTok subtitles and captions from any public video as an SRT or TXT file."
+title: "Download TikTok Subtitles & Captions as Text, Free"
+description: "TikTok has no subtitles download button. Get any public video's captions as text (TXT, DOC or PDF) for free, plus which tools make an SRT subtitle file."
 date: "2026-07-18"
 author: "TranscribeTok Team"
 category: "How-To"
@@ -21,17 +21,17 @@ howToSteps:
     text: "Go to transcribetok.com — no extension or account needed for two a day."
   - name: "Generate the transcript"
     text: "Paste the link and click Get Transcript. The spoken audio is transcribed in seconds."
-  - name: "Download as SRT or TXT"
-    text: "Choose SRT for a timed subtitle file, or TXT for plain caption text."
+  - name: "Copy or download the text"
+    text: "Copy the transcript in one tap, or download it as TXT, DOC or PDF, with or without timestamps. TranscribeTok does not make SRT files; for a timed subtitle file, use a tool that exports SRT, such as VexaScribe or WayinVideo."
 faqItems:
   - question: "Can you download captions directly from TikTok?"
     answer: "No. TikTok displays auto-captions during playback but provides no copy, export or download option anywhere in the app or on the web."
   - question: "How do I get a TikTok video's captions as an SRT file?"
-    answer: "Generate a transcript from the video's audio using a transcript tool, then export it as SRT. The result is a standard timed subtitle file that works in any video editor or platform."
+    answer: "Use a transcript tool that exports subtitle files, such as VexaScribe (SRT, VTT and JSON) or WayinVideo (SRT and VTT). TranscribeTok does not make SRT files; it gives you the text as TXT, DOC or PDF, with or without timestamps. An SRT is a standard timed subtitle file that works in most video editors and platforms."
   - question: "Will the downloaded captions match TikTok's exactly?"
     answer: "Not word for word. The file is generated from the audio rather than copied from TikTok's caption track, so wording can differ slightly — usually in punctuation and how slang is spelled."
   - question: "Can I download captions from my own TikToks in bulk?"
-    answer: "Not in a single pass — TranscribeTok handles one video at a time. For generating subtitle files across a whole catalogue at once, a dedicated batch tool is the better fit."
+    answer: "Not in a single pass — TranscribeTok handles one video at a time. For transcribing a whole catalogue at once, a dedicated batch tool is the better fit."
   - question: "Do downloaded captions include on-screen text?"
     answer: "No. Only spoken audio is captured. Text overlays typed onto the video are graphics and cannot be extracted."
 ---
@@ -40,7 +40,7 @@ If you have gone looking for a way to download the captions from a TikTok video,
 
 TikTok generates auto-captions, displays them during playback, and offers no way at all to get them out. No copy button, no export, no download, no select-all — not in the app, not on the web, not in the creator tools. The captions are rendered onto the video surface, which means they are pixels, not text.
 
-Here is the workaround that actually produces a caption file.
+Here is the workaround that actually gets the caption text out, and where to go when you need a subtitle file.
 
 ## Why TikTok's captions can't be exported
 
@@ -56,7 +56,7 @@ Practical consequences:
 
 So the only route to a caption file is to regenerate the text from the audio.
 
-## The workaround: transcribe, then export as SRT
+## The workaround: transcribe the audio
 
 **Step 1: Copy the TikTok link.** Share arrow → **Copy link**.
 
@@ -64,13 +64,16 @@ So the only route to a caption file is to regenerate the text from the audio.
 
 **Step 3: Paste and click Get Transcript.** The audio is transcribed in seconds.
 
-**Step 4: Download as SRT or TXT.**
+**Step 4: Copy or download the text.** Copy it in one tap, or download it as TXT, DOC or PDF, with or without timestamps.
 
-- **SRT** — a standard timed subtitle file. Each line carries a start and end timestamp. This is what you want if the captions will be displayed over video.
-- **TXT** — plain caption text with no timing. Right for reading, editing or pasting.
+- **TXT** — plain caption text. Right for reading, editing or pasting.
+- **DOC or PDF** — a Word document to edit, or a fixed copy to share.
+- **With timestamps** — each line marked with its time in the video, useful for finding a moment. It is still a text file, not a subtitle file.
+
+**If you need an SRT, TranscribeTok is not the tool.** It does not make SRT, VTT or any other subtitle file. VexaScribe exports SRT, VTT and JSON, with a one-time 30-minute free trial and no card; WayinVideo exports SRT and VTT on credits, with signup; TokScribe exports TXT, SRT, VTT and JSON and is free at the time of writing.
 
 <div class="cta-box">
-<strong>Get a caption file free:</strong> Paste any TikTok link and export it as an SRT subtitle file in seconds. Two free every day. <a href="https://transcribetok.com">→ Download TikTok captions at TranscribeTok.com</a>
+<strong>Get the caption text free:</strong> Paste any TikTok link, then copy the transcript or download it as TXT, DOC or PDF in seconds. Two free every day. <a href="https://transcribetok.com">→ Download TikTok captions at TranscribeTok.com</a>
 </div>
 
 ## What an SRT file is, and where to use it
@@ -103,14 +106,14 @@ For most uses this is irrelevant. If the captions are going onto a video you are
 
 ## Doing this for several videos
 
-TranscribeTok generates caption files one video at a time. For a handful of posts that is fine — it is about fifteen seconds each.
+TranscribeTok transcribes one video at a time. For a handful of posts that is fine — it is about fifteen seconds each.
 
-For a whole back catalogue in one sitting, you want a tool built for batch processing; [the comparison post](/best-tiktok-transcript-tools-2026) covers which ones actually do it. If you are working through your own videos gradually, paid plans save every transcript to your library so you are not regenerating the same file twice.
+For a whole back catalogue in one sitting, you want a tool built for batch processing; [the comparison post](/best-tiktok-transcript-tools-2026) covers which ones actually do it. If you are working through your own videos gradually, paid plans save every transcript to your library so you are not regenerating the same transcript twice.
 
 ## Related guides
 
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three methods compared
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT vs DOCX vs SRT in detail
+- [Download a TikTok transcript](/download-tiktok-transcript) — TXT vs DOC vs PDF in detail, and why there is no SRT
 - [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) — reading SRT timecodes, and converting SRT to VTT
 - [SRT to VTT: convert subtitle files in 10 seconds](/srt-to-vtt-converter) — the header line and comma swap that fixes a file the browser won't load
 - [TikTok script extractor](/tiktok-script-extractor) — pulling the spoken script out when you don't need a subtitle file
@@ -122,20 +125,20 @@ For a whole back catalogue in one sitting, you want a tool built for batch proce
 **Can you download captions directly from TikTok?**
 No. There is no export option anywhere in the app or on the web.
 
-**How do I get captions as an SRT file?**
-Transcribe the audio with a transcript tool and export as SRT.
+**How do I get a TikTok video's captions as an SRT file?**
+Use a transcript tool that exports subtitle files, such as VexaScribe (SRT, VTT and JSON) or WayinVideo (SRT and VTT). TranscribeTok does not make SRT files; it gives you the text as TXT, DOC or PDF, with or without timestamps. An SRT is a standard timed subtitle file that works in most video editors and platforms.
 
 **Will they match TikTok's captions exactly?**
 Not word for word — they are separately generated from the same audio. Differences are mostly punctuation and slang spelling.
 
-**Can I do this in bulk?**
-Not here — one video at a time. See the comparison post for batch tools.
+**Can I download captions from my own TikToks in bulk?**
+Not in a single pass — TranscribeTok handles one video at a time. For transcribing a whole catalogue at once, a dedicated batch tool is the better fit.
 
 **Do captions include on-screen text?**
 No. Spoken audio only.
 
 ---
 
-TikTok's missing export button is an odd gap on a platform where the script *is* the product. Regenerating the captions from the audio closes it, and gives you a standards-compliant SRT that works everywhere TikTok's own captions don't.
+TikTok's missing export button is an odd gap on a platform where the script *is* the product. Regenerating the captions from the audio closes it: TranscribeTok gives you the text, and a subtitle tool such as VexaScribe or WayinVideo gives you the SRT when you need one.
 
-**[→ Export your first TikTok caption file free at TranscribeTok.com](https://transcribetok.com)**
+**[→ Get your first TikTok caption text free at TranscribeTok.com](https://transcribetok.com)**

@@ -33,7 +33,7 @@ faqItems:
   - question: "How much does Descript cost?"
     answer: "Descript's free plan includes limited audio and video transcription each month. Paid plans run roughly $12–$24 monthly depending on features and collaboration seats. It's a professional tool with pro pricing. TranscribeTok's free tier is two transcripts a day, forever, with paid packs starting at $9."
   - question: "Can I export a Descript transcript as SRT or DOCX?"
-    answer: "Yes. Descript exports subtitles as SRT and can save a formatted transcript as a document. So can TranscribeTok — we export TXT, DOCX and SRT directly. The difference is Descript also handles the video editing; we only return the words."
+    answer: "Yes. Descript exports subtitles as SRT and can save a formatted transcript as a document. TranscribeTok does not make SRT or any other subtitle file: you can copy the transcript or download it as TXT, DOC or PDF, with or without timestamps. If you need an SRT, Descript is the one of the two that makes it; we only return the words."
 ---
 
 We make TranscribeTok, so read this with the scepticism a vendor comparison deserves. Descript is genuinely impressive — it's won over a lot of creators — but it solves a different problem than we do.
@@ -50,7 +50,7 @@ You can upload files from your computer, use YouTube links (which Descript can d
 
 It costs money and requires a desktop app download.
 
-TranscribeTok is a web link: paste a public TikTok URL and get the spoken text in TXT, DOCX or SRT. Two transcripts free every day. No file upload, no desktop app, no editing. Text in seconds. That is the entire product.
+TranscribeTok is a web link: paste a public TikTok URL and get the spoken text, copied in one tap or downloaded as TXT, DOC or PDF. Two transcripts free every day. No file upload, no desktop app, no editing. Text in seconds. That is the entire product.
 
 ## Side by side
 
@@ -69,7 +69,7 @@ TranscribeTok is a web link: paste a public TikTok URL and get the spoken text i
 | Account for free tier | Not required | Required |
 | Paid pricing | $9–$59 one-time packs | ~$12–$24 per month |
 | Free-tier shape | Recurring (resets daily) | Time-limited monthly allowance |
-| Exports | TXT, DOCX, SRT | MP4 video, TXT transcript, SRT, shareable web link |
+| Exports | TXT, DOC, PDF | MP4 video, TXT transcript, SRT, shareable web link |
 | Speed (TikTok transcript) | 5–10 seconds | Several minutes (download + import + transcribe) |
 
 Look at that table honestly: Descript is a production suite and we are a single-purpose utility. They do not compete on the same dimensions.
@@ -80,7 +80,7 @@ Look at that table honestly: Descript is a production suite and we are a single-
 
 ## Where Descript is clearly better
 
-**It edits. We do not.** If the deliverable is a finished, cut, captioned video, Descript does the whole job. Our SRT export is an input to your editor, not a finished product.
+**It edits. We do not.** If the deliverable is a finished, cut, captioned video, Descript does the whole job, including the SRT. We make no subtitle file at all; our output is the words, not a finished product.
 
 **Real collaboration.** Descript's multi-user editing with comments is built in. Multiple people can edit the transcript simultaneously and see each other's changes in real time. That is genuinely professional and we do not offer it at all.
 
@@ -134,4 +134,4 @@ Descript accepts files on your computer, YouTube links, and recordings you make 
 Descript's free plan includes limited audio and video transcription each month. Paid plans run roughly $12–$24 monthly depending on features and collaboration seats. It's a professional tool with pro pricing. TranscribeTok's free tier is two transcripts a day, forever, with paid packs starting at $9.
 
 **Can I export a Descript transcript as SRT or DOCX?**
-Yes. Descript exports subtitles as SRT and can save a formatted transcript as a document. So can TranscribeTok — we export TXT, DOCX and SRT directly. The difference is Descript also handles the video editing; we only return the words.
+Yes. Descript exports subtitles as SRT and can save a formatted transcript as a document. TranscribeTok does not make SRT or any other subtitle file: you can copy the transcript or download it as TXT, DOC or PDF, with or without timestamps. If you need an SRT, Descript is the one of the two that makes it; we only return the words.

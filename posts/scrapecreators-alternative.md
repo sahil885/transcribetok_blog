@@ -62,7 +62,7 @@ TranscribeTok does one thing: extract speech-to-text from TikTok's audio track. 
 | **Free tier** | 100 API calls one-time | 2 transcripts/day, resets daily |
 | **Paid pricing** | $10–$497/tier, credits never expire | $9–$59 one-time, credits never expire |
 | **Platforms** | TikTok, Instagram, YouTube, Twitter, FB, Reddit | TikTok only |
-| **Output format** | JSON (structured data) | Copy/paste plain text, also TXT/DOCX/SRT |
+| **Output format** | JSON (structured data) | Copy/paste plain text, also TXT/DOC/PDF downloads (no SRT) |
 | **Bulk operations** | Yes, via API loops | No, one video at a time |
 | **Automation** | Full API with no rate limits | Browser-only, not automatable |
 | **Transcript library** | You manage your own database | Paid users get built-in searchable library |
@@ -84,7 +84,7 @@ ScrapeCreators is also a good fit if you need **production reliability**. The AP
 Pick TranscribeTok if you're a **content creator, student, or researcher** who needs:
 - A simple, no-code way to grab one or two transcripts
 - No account signup required (free tier is anonymous)
-- Export options (TXT, DOCX, SRT files) without extra steps
+- Download options (TXT, DOC or PDF, with or without timestamps) without extra steps
 - A searchable library to revisit past transcripts (paid only)
 - The security of knowing you're not giving an API key to a third party
 

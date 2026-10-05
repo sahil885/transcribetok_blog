@@ -67,6 +67,14 @@ Sahil asked for YTTranscript's winning patterns to be applied here. In priority 
 
 ---
 
+## Correction 2026-10-05 — export formats (Sahil confirmed)
+
+**TranscribeTok downloads TXT, DOC and PDF (plus one-tap copy), with or without timestamps. It has NO SRT, NO VTT and no subtitle file of any kind.** The blog had claimed "TXT, DOCX, SRT" since launch. Corrected the same day across 31 posts, `llms.txt` and the playbook's product-facts table. Posts whose premise leaned on our SRT (`download-tiktok-captions`, `download-tiktok-transcript`, `tiktok-subtitle-generator`, `tiktok-transcript-with-timestamps`, `srt-to-vtt-converter`) now say plainly we make no subtitle file and point to VexaScribe / WayinVideo / TokScribe for SRT. `download-tiktok-captions` retitled to "Download TikTok Subtitles & Captions as Text, Free"; `download-tiktok-transcript` to "…as TXT, DOC or PDF". Also fixed in passing: stale "$5 one-time, 150 transcripts" in `supadata-alternative`, and "VexaScribe … no login" (it is a 30-minute one-time trial, no card) in three posts. Build PASS (73 pages), link check PASS.
+
+Base44 app copy aligned the same day (pricing page, FAQ, JSON-LD featureList). **Still open on the app:** `/download-tiktok-transcript` page title says "PDF, DOCX or TXT"; `/tiktok-transcript-generator` has an auto-generated meta description; sitemap omits `/download-tiktok-transcript` and `/tiktok-transcript-for-chatgpt`; JSON-LD Organization/WebSite name is the long SEO title rather than "TranscribeTok".
+
+---
+
 ## Run 2026-10-05
 
 **Two posts written, verified and pushed.**

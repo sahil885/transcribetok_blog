@@ -149,7 +149,7 @@ Test whatever you pick on your actual language mix first, because English accura
 
 - [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — the pillar, including where accuracy breaks down
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — every free tier's real limit, stated plainly
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOCX or SRT, and which to pick
+- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOC or PDF, and which to pick
 - [TranscribeTok vs GetTranscribe](/transcribetok-vs-gettranscribe) — the product-side comparison of the one API vendor that is also a tool
 - [Apify TikTok transcript alternative](/apify-alternative) — the Clockworks extractor priced on every Apify plan, and the caption-coverage gap in its cheapest mode
 - [Supadata alternative, with the credit maths](/supadata-alternative) — when Supadata is the right call and when an API is the wrong shape entirely
