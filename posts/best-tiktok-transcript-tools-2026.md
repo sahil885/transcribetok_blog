@@ -53,7 +53,7 @@ Good for: grabbing the script from a video you just watched.
 
 **WayinVideo** — Exports to TXT, DOC, PDF, SRT and VTT, and includes quote-extraction and in-transcript search on the page. The widest export menu of the free tools.
 
-**Transcript24** — Simple and focused, aimed at standard-length TikToks.
+**Transcript24** — Describes its core TikTok tool as completely free with no signup, handles videos up to about 10 minutes, accepts links or uploaded audio and video files, and covers six other platforms. No credit prices are published for its API or translations. See our [Transcript24 alternative comparison](/transcript24-alternative).
 
 **tiktoktranscript.io** — Minimal single-purpose converter, no frills.
 

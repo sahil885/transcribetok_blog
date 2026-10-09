@@ -67,6 +67,16 @@ Sahil asked for YTTranscript's winning patterns to be applied here. In priority 
 
 ---
 
+## Run 2026-10-09 (in session, Sahil's request: "posts for AI assistants to pick up")
+
+- `posts/tiktok-transcript-with-perplexity.md` (new — AI-assistant cluster. Angle: Perplexity as a TikTok **fact-checker** with citations. Verified Perplexity help centre: video/audio uploads transcribed, 40 MB/file, rolling weekly allowance, visuals not indexed, no documented link transcription.) Remaining in cluster: `with-deepseek`.
+- `posts/transcript24-alternative.md` (new — comparison. Transcript24 is named in best-tools and has competitor "vs Transcript24" pages from TransClipper and TokCaption. Verified transcript24.com, /start and /transcript-api directly. Key facts: describes core tool as completely free, no signup; link + video/audio file input; 7 platforms; extension exports SRT; API credits; no pricing page (404), credit price unpublished. Brand volume unmeasured.)
+- Backlinks: best-tools (Transcript24 entry rewritten + link), free-vs-paid (Transcript24 row), for-chatgpt, with-gemini and for-notebooklm → Perplexity post.
+- ChatGPT test (Sahil, 2026-10-09, logged-in, memory on): "which saas tool can i use to get transcripts of tiktok videos" → **TranscribeTok listed #1**, described correctly (2 free/day, credit packs), cited "TranscribeTok Blog". Thumbnail shown was TokScribe's. GA4 1–9 Oct: chatgpt.com 2 sessions, 8m02s avg, 2.5 views/session. Personalised result — needs a Temporary Chat re-test.
+- New competitor names spotted: **TokCaption** (tokcaption.com, has a vs-Transcript24 page), **transcript.you**, **TubeText** (Apify actor), Choppity.
+
+---
+
 ## Status update 2026-10-05 (Sahil, in session) — read before STEP 0
 
 - **0b. Bing Webmaster Tools: DONE.** Sahil has set it up and submitted the sitemap and pages there. **Stop flagging it.** The `npm run indexnow:all` one-time seed is now largely redundant (Bing has the full sitemap); do not keep flagging it either. IndexNow `postbuild` still runs on every deploy; keep checking only that the key file returns 200 and matches its filename.

@@ -115,6 +115,7 @@ Generate an Audio Overview across a set of TikToks on one topic and you get a po
 ## Related guides
 
 - [TikTok transcript with Gemini](/tiktok-transcript-with-gemini) — Gemini's limits on TikTok links and video uploads
+- [TikTok transcript with Perplexity](/tiktok-transcript-with-perplexity) — fact-checking a single TikTok's claims with cited sources
 - [How to use a TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt) — the full prompt library
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — three routes to a summary, compared
 - [TikTok transcript to Notion](/tiktok-transcript-to-notion) — building a searchable transcript database

@@ -55,6 +55,7 @@ Limits taken from each vendor's own pricing page, verified August 2026.
 | **TokScript** | 5 transcripts/day | Daily | Yes | The most generous free tier here. Includes Chrome extension and MCP access. |
 | **TranscribeTok** | 2 transcripts/day | Daily | **No** | Smaller daily cap than TokScript. One video at a time, no bulk. |
 | **TransClipper** | 3 transcripts/day | Daily | No | Free videos capped at 60 seconds. Bulk, AI agents and longer videos are paid. |
+| **Transcript24** | Described as completely free | — | No | No cap stated; API and translation use credits whose price is not published. |
 | **Saveto AI** | Advertised as unlimited | — | No | No published pricing page at all, so the terms could change without notice. |
 | **GetTranscribe** | 2 video analyses + 10 AI questions | **Never** | Yes | A lifetime total, not monthly. Rich analysis, then it stops. |
 | **WayinVideo** | 200 credits at signup | **Never** | Yes | One-time. At 0.5 credit per minute of transcript, about 400 minutes total. |

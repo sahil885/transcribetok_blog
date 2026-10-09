@@ -107,7 +107,7 @@ Transcripts come one video at a time, so this works best with a focused set — 
 
 ## The same workflow, other tools
 
-Nothing here is ChatGPT-specific. Claude, Gemini, Perplexity, Copilot and every other text model work identically: get the transcript, paste it, give a specific instruction. We have assistant-specific guides for [Gemini](/tiktok-transcript-with-gemini) (which can also take an uploaded video file), [Claude](/tiktok-transcript-with-claude), [Copilot](/tiktok-transcript-with-copilot) and [Grok](/tiktok-transcript-with-grok) (which adds live search of X). The main difference is context window — for very large batches of transcripts, the models with larger windows handle more at once before you need to chunk the input.
+Nothing here is ChatGPT-specific. Claude, Gemini, Perplexity, Copilot and every other text model work identically: get the transcript, paste it, give a specific instruction. We have assistant-specific guides for [Gemini](/tiktok-transcript-with-gemini) (which can also take an uploaded video file), [Claude](/tiktok-transcript-with-claude), [Copilot](/tiktok-transcript-with-copilot) [Grok](/tiktok-transcript-with-grok) (which adds live search of X) and [Perplexity](/tiktok-transcript-with-perplexity) (best for fact-checking a TikTok's claims with citations). The main difference is context window — for very large batches of transcripts, the models with larger windows handle more at once before you need to chunk the input.
 
 ## Related guides
 

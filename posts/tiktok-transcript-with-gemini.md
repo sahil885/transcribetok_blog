@@ -126,6 +126,7 @@ The transcript-first workflow is identical in every assistant. The differences a
 - **Claude** does not accept video or audio files at all, so the transcript is the only route; see [TikTok transcript with Claude](/tiktok-transcript-with-claude).
 - **Copilot** accepts TXT uploads but not video; see [TikTok transcript with Copilot](/tiktok-transcript-with-copilot).
 - **Grok** can search X for reaction to a video alongside the transcript; see [TikTok transcript with Grok](/tiktok-transcript-with-grok).
+- **Perplexity** searches the web and cites sources, which makes it the best assistant for fact-checking what a TikTok claims; see [TikTok transcript with Perplexity](/tiktok-transcript-with-perplexity).
 - **NotebookLM** (now Gemini Notebook) imports YouTube links but not TikTok; add TikTok transcripts as pasted-text sources to research many videos with citations. See [TikTok transcript for NotebookLM](/tiktok-transcript-for-notebooklm).
 
 ## Related guides
