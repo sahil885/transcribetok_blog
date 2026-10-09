@@ -2,6 +2,7 @@
 title: "How to Transcribe a TikTok Video Free (Fast, No Software)"
 description: "Transcribe any TikTok video free in seconds — no software, no signup. Get accurate text from the audio and export it as TXT, DOC or PDF. Full 2026 guide."
 date: "2026-07-24"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Guide"
 readingTime: "7 min read"

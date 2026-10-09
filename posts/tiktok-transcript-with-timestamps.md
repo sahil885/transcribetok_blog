@@ -2,6 +2,7 @@
 title: "TikTok Transcript With Timestamps: How to Get One Free"
 description: "Need a TikTok transcript with timestamps? Download it as TXT, DOC or PDF with timestamps included, free with no signup. Plus how to read SRT and VTT timecodes."
 date: "2026-08-03"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"

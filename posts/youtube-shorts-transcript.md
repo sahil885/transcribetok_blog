@@ -2,6 +2,7 @@
 title: "YouTube Shorts Transcript: How to Get One in 2026"
 description: "YouTube captions nearly every Short but hides the transcript panel in the Shorts player. Here are four ways to get the text out, and which one to use."
 date: "2026-09-21"
+updated: "2026-09-28"
 author: "TranscribeTok Team"
 category: "Guide"
 readingTime: "8 min read"

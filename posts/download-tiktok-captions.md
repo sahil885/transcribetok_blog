@@ -2,6 +2,7 @@
 title: "Download TikTok Subtitles & Captions as Text, Free"
 description: "TikTok has no subtitles download button. Get any public video's captions as text (TXT, DOC or PDF) for free, plus which tools make an SRT subtitle file."
 date: "2026-07-18"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "6 min read"

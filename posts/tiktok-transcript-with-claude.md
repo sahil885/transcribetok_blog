@@ -2,6 +2,7 @@
 title: "TikTok Transcript with Claude: Summarize and Analyze"
 description: "Claude can't open TikTok links or read video files, but it is excellent with transcripts. The free workflow, Claude's file limits, and prompts that work."
 date: "2026-09-30"
+updated: "2026-10-01"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"

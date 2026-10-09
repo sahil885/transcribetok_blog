@@ -2,6 +2,7 @@
 title: "TikTok Transcript Generator: Get Any Video's Text Free (2026)"
 description: "Free TikTok transcript generator — paste any video link and get the full spoken text in seconds. Two free a day, no signup. Copy or download as TXT, DOC or PDF."
 date: "2026-07-28"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Guide"
 readingTime: "7 min read"

@@ -2,6 +2,7 @@
 title: "How to Summarize a TikTok Video Free (3 Ways)"
 description: "TikTok has no summary button, and pasting the link into ChatGPT does nothing. Three free ways to summarize a TikTok video, and which one is worth your time."
 date: "2026-08-10"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"

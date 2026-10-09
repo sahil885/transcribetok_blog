@@ -43,8 +43,35 @@ export default function Home() {
     posts.find((p) => p.slug === s)
   ).filter((p): p is PostMeta => Boolean(p));
 
+  const siteSchema = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://transcribetok.com/#organization",
+        name: "TranscribeTok",
+        url: "https://transcribetok.com",
+        sameAs: ["https://peerpush.com/p/transcribe-tok"],
+      },
+      {
+        "@type": "Blog",
+        "@id": "https://blog.transcribetok.com/#blog",
+        name: "TranscribeTok Blog",
+        url: "https://blog.transcribetok.com",
+        description:
+          "Guides to getting TikTok transcripts, using them with AI assistants, and honest comparisons of TikTok transcript tools.",
+        publisher: { "@id": "https://transcribetok.com/#organization" },
+        inLanguage: "en",
+      },
+    ],
+  };
+
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(siteSchema) }}
+      />
       {/* Hero */}
       <div className="mb-14 text-center">
         <h1 className="text-4xl font-bold text-gray-900 mb-4 tracking-tight">

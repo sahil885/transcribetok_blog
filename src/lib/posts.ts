@@ -22,6 +22,7 @@ export interface PostMeta {
   title: string;
   description: string;
   date: string;
+  updated?: string;
   author: string;
   category: string;
   readingTime: string;

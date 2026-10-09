@@ -35,6 +35,7 @@ Every post. No exceptions.
 title: "Primary keyword near the front, under ~60 chars where possible"
 description: "150-160 characters. Include the primary keyword. Written to earn the click, not to stuff."
 date: "YYYY-MM-DD"
+updated: "YYYY-MM-DD"    # optional — set to today whenever an existing post is materially edited (facts, prices, sections). Drives sitemap <lastmod>, Article dateModified and the IndexNow ping. Never change `date`.
 author: "TranscribeTok Team"
 category: "How-To"        # must match a category in src/lib/clusters.ts
 readingTime: "7 min read"

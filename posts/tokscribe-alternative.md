@@ -2,6 +2,7 @@
 title: "TokScribe Alternative: An Honest Comparison (2026)"
 description: "TokScribe gives away bulk import, JSON export and AI tools for free. Here is what that really costs you in privacy, and when TranscribeTok wins instead."
 date: "2026-09-07"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"

@@ -2,6 +2,7 @@
 title: "SRT to VTT: Convert Subtitle Files in 10 Seconds"
 description: "Convert SRT to VTT in about ten seconds: add a WEBVTT header and swap the timecode commas for periods. Both directions explained, plus why files fail to load."
 date: "2026-08-17"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"

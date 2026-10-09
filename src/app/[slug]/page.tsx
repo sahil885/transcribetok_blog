@@ -172,6 +172,7 @@ export default async function PostPage({ params }: Props) {
     headline: post.title,
     description: post.description,
     datePublished: post.date,
+    dateModified: post.updated || post.date,
     author: { "@type": "Organization", name: "TranscribeTok" },
     publisher: {
       "@type": "Organization",

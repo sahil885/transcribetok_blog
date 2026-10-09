@@ -2,6 +2,7 @@
 title: "VexaScribe Alternative: An Honest 2026 Comparison"
 description: "VexaScribe does 99 languages, speaker labels and 50-file bulk upload on a monthly minute plan. Here is where it beats TranscribeTok, and where it does not."
 date: "2026-09-21"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"

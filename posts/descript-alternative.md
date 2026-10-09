@@ -2,6 +2,7 @@
 title: "Descript Alternative: When You Just Want the Transcript"
 description: "Looking for an alternative to Descript for TikTok transcripts? Compare the desktop editor workflow vs getting text instantly — an honest breakdown."
 date: "2026-09-04"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"

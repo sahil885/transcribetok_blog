@@ -2,6 +2,7 @@
 title: "How to Get a TikTok Transcript (3 Free Ways)"
 description: "Three ways to get the transcript of any TikTok video — free. The fastest takes about ten seconds and needs no account, no app and no extension."
 date: "2026-07-20"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "6 min read"

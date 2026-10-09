@@ -48,7 +48,7 @@ function postUrls() {
     .map((f) => {
       const slug = f.replace(/\.md$/, "");
       const { data } = matter(fs.readFileSync(path.join(dir, f), "utf8"));
-      return { url: `${SITE}/${slug}`, date: data.date };
+      return { url: `${SITE}/${slug}`, date: data.updated || data.date };
     });
 }
 

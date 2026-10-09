@@ -2,6 +2,7 @@
 title: "How to Use a TikTok Transcript with ChatGPT (Free Method)"
 description: "ChatGPT can't watch a TikTok — but paste in the transcript and it becomes genuinely useful. The exact workflow for summaries, hook analysis and repurposing, with prompts."
 date: "2026-07-14"
+updated: "2026-10-09"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"

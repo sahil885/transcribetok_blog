@@ -2,6 +2,7 @@
 title: "TikTok Transcripts for Creators: Repurpose Videos Fast"
 description: "Turn TikTok scripts into LinkedIn posts, newsletters, threads and blog drafts. The repurposing workflow creators use to get five pieces of content from one video."
 date: "2026-07-12"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Use Cases"
 readingTime: "7 min read"

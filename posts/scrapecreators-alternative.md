@@ -2,6 +2,7 @@
 title: "ScrapeCreators Alternative: Which TikTok Transcript Tool Fits Your Workflow"
 description: "ScrapeCreators offers a developer API for TikTok scraping, but TranscribeTok excels at simplicity. Compare pricing, features, and use cases."
 date: "2026-09-04"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"

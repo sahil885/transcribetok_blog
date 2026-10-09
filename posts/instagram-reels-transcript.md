@@ -2,6 +2,7 @@
 title: "Instagram Reels Transcript: How to Get One in 2026"
 description: "Instagram generates captions for reels but gives you no way to export them. Here is how to get an Instagram Reels transcript as text, and what each one costs."
 date: "2026-09-14"
+updated: "2026-09-28"
 author: "TranscribeTok Team"
 category: "Guide"
 readingTime: "7 min read"

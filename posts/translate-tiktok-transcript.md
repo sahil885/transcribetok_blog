@@ -2,6 +2,7 @@
 title: "How to Translate a TikTok Transcript (Free, Any Language)"
 description: "TikTok translates captions but never the spoken audio. Here's how to get any TikTok's transcript and translate it into any language, free — in two steps."
 date: "2026-08-03"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"

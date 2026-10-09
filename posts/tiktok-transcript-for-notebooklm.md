@@ -2,6 +2,7 @@
 title: "TikTok Transcript for NotebookLM (Gemini Notebook)"
 description: "NotebookLM, now Gemini Notebook, imports YouTube links but not TikTok. How to add TikToks as text sources, build a research notebook, and what it costs."
 date: "2026-10-05"
+updated: "2026-10-09"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"

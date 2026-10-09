@@ -2,6 +2,7 @@
 title: "Best Free TikTok Transcript Tools in 2026 (Compared)"
 description: "An honest comparison of the free TikTok transcript tools worth using in 2026 — what each is actually good at, where they fall down, and which to pick for your use case."
 date: "2026-07-10"
+updated: "2026-10-09"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"

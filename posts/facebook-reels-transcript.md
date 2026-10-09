@@ -2,6 +2,7 @@
 title: "Facebook Reels Transcript: How to Get One in 2026"
 description: "Facebook captions reels automatically but gives viewers no way to copy the text. Here is how to get a Facebook Reels transcript, and what each option costs."
 date: "2026-09-28"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Guide"
 readingTime: "7 min read"

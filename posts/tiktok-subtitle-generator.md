@@ -2,6 +2,7 @@
 title: "TikTok Subtitle Generator: Add Subtitles to Your Video"
 description: "TikTok has two built-in subtitle systems and neither exports a file. Here's how each one works, when to use an external generator, and how to get a usable SRT."
 date: "2026-08-31"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"

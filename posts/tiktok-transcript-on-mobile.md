@@ -2,6 +2,7 @@
 title: "TikTok Transcript on iPhone & Android (Free, No App)"
 description: "Get the transcript of any TikTok on your phone — free, no app to install. Share the link, paste it in your browser, and copy or download the text in seconds."
 date: "2026-07-16"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "6 min read"

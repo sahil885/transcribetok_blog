@@ -2,6 +2,7 @@
 title: "Free TikTok Transcript Tools: Every Real Limit, 2026"
 description: "Every free TikTok transcript tool has a cap. Here is each one's real limit — daily resets vs lifetime totals — and the point where paying makes sense."
 date: "2026-08-24"
+updated: "2026-10-09"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"

@@ -2,6 +2,7 @@
 title: "Supadata Alternative for TikTok Transcripts (2026)"
 description: "Supadata is an excellent transcript API and the wrong tool for most people who find it. Verified pricing, credit maths, and when a free web tool wins instead."
 date: "2026-09-14"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"

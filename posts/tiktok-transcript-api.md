@@ -2,6 +2,7 @@
 title: "TikTok Transcript API: The 2026 Options, Priced"
 description: "TikTok has no official transcript endpoint and TranscribeTok has no API. Here is what Supadata, Apify and GetTranscribe actually cost, and which one to pick."
 date: "2026-08-24"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Developer Guides"
 readingTime: "8 min read"

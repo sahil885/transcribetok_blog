@@ -2,6 +2,7 @@
 title: "Download TikTok Transcript: Save Any Video as TXT, DOC or PDF"
 description: "Download a TikTok transcript free — save any video's spoken text as TXT, DOC or PDF. No extension needed, works on desktop and mobile. Full 2026 guide."
 date: "2026-07-22"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Guide"
 readingTime: "6 min read"

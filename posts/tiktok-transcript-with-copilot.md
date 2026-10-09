@@ -2,6 +2,7 @@
 title: "TikTok Transcript with Copilot: The Free Workflow"
 description: "Microsoft Copilot can't open TikTok links or take video uploads. Here is how to get any TikTok into Copilot as text, and the prompts that make it useful."
 date: "2026-09-30"
+updated: "2026-10-01"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"

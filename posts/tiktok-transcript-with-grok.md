@@ -2,6 +2,7 @@
 title: "TikTok Transcript with Grok: Summarize Any TikTok"
 description: "Grok can search X for reactions to a TikTok but can't hear it from a link. Here's the free way to give Grok the transcript, plus prompts that use its X search."
 date: "2026-09-30"
+updated: "2026-10-01"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"

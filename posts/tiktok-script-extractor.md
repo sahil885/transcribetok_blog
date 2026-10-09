@@ -2,6 +2,7 @@
 title: "TikTok Script Extractor: Get Any Video's Script Free"
 description: "A TikTok script extractor pulls the spoken words out of a video as text. How to extract any public TikTok script free in seconds, and what it cannot capture."
 date: "2026-08-17"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"

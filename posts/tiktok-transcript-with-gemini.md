@@ -2,6 +2,7 @@
 title: "TikTok Transcript with Gemini: Summarize Any TikTok"
 description: "Gemini can watch YouTube links but not TikTok links. Here is the free way to get a TikTok into Gemini as text, plus prompts that make the summary useful."
 date: "2026-09-30"
+updated: "2026-10-09"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"

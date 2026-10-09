@@ -2,6 +2,7 @@
 title: "TikTok to Text: Convert Any TikTok Video to Text Free"
 description: "Convert TikTok to text in seconds. Paste any video link, get the full spoken script, and copy or download it as TXT, DOC or PDF — two free every day, no signup."
 date: "2026-07-26"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Guide"
 readingTime: "6 min read"

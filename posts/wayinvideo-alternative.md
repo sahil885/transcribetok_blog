@@ -2,6 +2,7 @@
 title: "WayinVideo Alternative: An Honest TikTok Comparison"
 description: "Looking for a WayinVideo alternative for TikTok transcripts? An honest comparison from the TranscribeTok team, including where their free tier beats ours."
 date: "2026-08-31"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"

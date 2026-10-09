@@ -2,6 +2,7 @@
 title: "TikTok Transcript to Notion: Build a Searchable Library"
 description: "Get any TikTok's transcript into Notion in under a minute — copy-paste, file import, or a database that makes every video you've saved actually searchable."
 date: "2026-08-08"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Productivity"
 readingTime: "8 min read"

@@ -2,6 +2,7 @@
 title: "TokTranscript Alternative: Free Tiers Compared (2026)"
 description: "TokTranscript gives 10 free transcripts a month and publishes them publicly. TranscribeTok gives 2 every day, privately. The honest side-by-side, 2026."
 date: "2026-09-07"
+updated: "2026-10-05"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
