@@ -40,8 +40,8 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
         </h1>
         <p className="text-xl text-gray-500 leading-relaxed">
           Extract {art(lang.name)} {lang.name} ({lang.native}) TikTok transcript in seconds —
-          free, no account needed. Copy or download the full text, then translate
-          or summarize it.
+          free, no account needed to read it. Create a free account to copy or
+          download the full text, then translate or summarize it.
         </p>
       </header>
 
@@ -51,8 +51,8 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
             Get any {lang.name} TikTok transcript instantly
           </p>
           <p className="text-xs text-gray-500 mt-0.5">
-            2 free transcripts a day · No signup · Copy or download as TXT, DOC or
-            PDF
+            2 free transcripts a day · No signup to read · Free account to copy or
+            download TXT, DOC or PDF
           </p>
         </div>
         <a

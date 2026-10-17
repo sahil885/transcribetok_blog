@@ -2,7 +2,7 @@
 title: "How to Get a TikTok Transcript (3 Free Ways)"
 description: "Three ways to get the transcript of any TikTok video — free. The fastest takes about ten seconds and needs no account, no app and no extension."
 date: "2026-07-20"
-updated: "2026-10-05"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "6 min read"
@@ -26,7 +26,7 @@ howToSteps:
     text: "Copy to clipboard in one tap, or download as TXT, DOC or PDF, with or without timestamps."
 faqItems:
   - question: "How do I get the text from a TikTok video?"
-    answer: "Copy the video's link from TikTok's Share menu, paste it into a free transcript tool such as TranscribeTok, and copy the text it returns. It takes about ten seconds, needs no app or extension, and TranscribeTok gives two free transcripts a day with no account. TikTok itself has no copy or export option for a video's spoken words."
+    answer: "Copy the video's link from TikTok's Share menu, paste it into a free transcript tool such as TranscribeTok, and copy the text it returns. It takes about ten seconds, needs no app or extension, and TranscribeTok shows two free transcripts a day with no account (copying or downloading needs a free account). TikTok itself has no copy or export option for a video's spoken words."
   - question: "Can I get a transcript from a private TikTok?"
     answer: "No. Only public videos can be accessed. Private accounts, friends-only posts and deleted videos are not available to any transcript tool."
   - question: "Does TikTok have a built-in transcript feature?"
@@ -39,7 +39,7 @@ faqItems:
     answer: "A few seconds for a typical short video. Longer videos scale roughly with length."
 ---
 
-**The short answer to "how do I get the text from a TikTok video?":** copy the video's link, paste it into a free transcript tool such as [TranscribeTok](https://transcribetok.com), and copy the text it returns. About ten seconds, no app, no account for two a day. TikTok itself has no way to copy or export what was said.
+**The short answer to "how do I get the text from a TikTok video?":** copy the video's link, paste it into a free transcript tool such as [TranscribeTok](https://transcribetok.com), and copy the text it returns. About ten seconds, no app, and no account to read two a day; copying the text needs a free account. TikTok itself has no way to copy or export what was said.
 
 There are three realistic ways to get the text out of a TikTok video, and they differ by about two orders of magnitude in effort. Here they are, fastest first, with an honest note on when each one makes sense.
 
@@ -107,7 +107,7 @@ The transcript is usually the beginning of something, not the end:
 ## Frequently asked questions
 
 **How do I get the text from a TikTok video?**
-Copy the video's link from TikTok's Share menu, paste it into a free transcript tool such as TranscribeTok, and copy the text it returns. It takes about ten seconds, needs no app or extension, and TranscribeTok gives two free transcripts a day with no account. TikTok itself has no copy or export option for a video's spoken words.
+Copy the video's link from TikTok's Share menu, paste it into a free transcript tool such as TranscribeTok, and copy the text it returns. It takes about ten seconds, needs no app or extension, and TranscribeTok shows two free transcripts a day with no account (copying or downloading needs a free account). TikTok itself has no copy or export option for a video's spoken words.
 
 **Can I get a transcript from a private TikTok?**
 No. Only public videos.

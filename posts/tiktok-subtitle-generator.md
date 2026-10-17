@@ -2,7 +2,7 @@
 title: "TikTok Subtitle Generator: Add Subtitles to Your Video"
 description: "TikTok has two built-in subtitle systems and neither exports a file. Here's how each one works, when to use an external generator, and how to get a usable SRT."
 date: "2026-08-31"
-updated: "2026-10-05"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"
@@ -61,7 +61,7 @@ TikTok documents these separately in its help centre, and the difference matters
 Practical rule: **use creator captions when the look matters, auto-generated captions when accessibility matters.** Both are transcription, so both need the same manual pass over names, numbers and brand terms.
 
 <div class="cta-box">
-<strong>Need the actual text, not just captions on screen?</strong> Paste any public TikTok link and get the full spoken transcript in seconds — copy it in one tap or download it as TXT, DOC or PDF. Two free every day, no signup and no card. <a href="https://transcribetok.com">→ Get a free TikTok transcript at TranscribeTok.com</a>
+<strong>Need the actual text, not just captions on screen?</strong> Paste any public TikTok link and get the full spoken transcript in seconds — copy it in one tap or download it as TXT, DOC or PDF. Read two free every day with no signup; a free account lets you copy or download. <a href="https://transcribetok.com">→ Get a free TikTok transcript at TranscribeTok.com</a>
 </div>
 
 ## What TikTok will not do

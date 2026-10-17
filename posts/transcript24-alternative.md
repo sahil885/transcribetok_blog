@@ -2,6 +2,7 @@
 title: "Transcript24 Alternative: An Honest 2026 Comparison"
 description: "Transcript24 says it is 100% free with no signup, takes links and files, and covers seven platforms. Where it beats TranscribeTok, and where it is unclear."
 date: "2026-10-09"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -88,7 +89,7 @@ Neither point is a reason to avoid it. They are reasons to expect that "free" ha
 **Where we lose:** platforms, file uploads, SRT export, an API and, on Transcript24's own description, price. If your work touches YouTube, Reels or files on your computer, Transcript24 covers it and we do not.
 
 <div class="cta-box">
-<strong>Only need TikTok text, with prices you can see?</strong> Paste any public TikTok link and get the full spoken transcript in seconds. Copy it, or download TXT, DOC or PDF. Two free every day, no signup. <a href="https://transcribetok.com">→ Get a free TikTok transcript at TranscribeTok.com</a>
+<strong>Only need TikTok text, with prices you can see?</strong> Paste any public TikTok link and get the full spoken transcript in seconds. Copy it, or download TXT, DOC or PDF. Read two free every day with no signup; a free account lets you copy or download. <a href="https://transcribetok.com">→ Get a free TikTok transcript at TranscribeTok.com</a>
 </div>
 
 ## Side by side

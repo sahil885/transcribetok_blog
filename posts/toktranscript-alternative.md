@@ -2,7 +2,7 @@
 title: "TokTranscript Alternative: Free Tiers Compared (2026)"
 description: "TokTranscript gives 10 free transcripts a month and publishes them publicly. TranscribeTok gives 2 every day, privately. The honest side-by-side, 2026."
 date: "2026-09-07"
-updated: "2026-10-05"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -97,7 +97,7 @@ Neither shape is universally better. Ten in a burst beats two a day if you are d
 |---|---|---|
 | **Free allowance** | 10 per month | 2 per day (~60/month) |
 | **Free tier resets** | Monthly | Daily |
-| **Account needed** | No to try; yes to save | No, ever |
+| **Account needed** | No to try; yes to save | No to read; free account to copy or download |
 | **Free transcripts private?** | **No — public to Plaza** | Yes |
 | **Paid model** | Subscription, $55–$168/year | One-time packs, $9–$59 |
 | **Cost per transcript (entry)** | ~10c ($0.99 Quick Pack) | ~9c ($9 / 100) |

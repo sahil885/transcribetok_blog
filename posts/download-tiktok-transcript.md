@@ -2,7 +2,7 @@
 title: "Download TikTok Transcript: Save Any Video as TXT, DOC or PDF"
 description: "Download a TikTok transcript free — save any video's spoken text as TXT, DOC or PDF. No extension needed, works on desktop and mobile. Full 2026 guide."
 date: "2026-07-22"
-updated: "2026-10-05"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "Guide"
 readingTime: "6 min read"
@@ -44,7 +44,7 @@ So "downloading a TikTok transcript" means generating the text first, then expor
 
 **Step 1: Copy the link.** Tap the arrow on the right of the video → **Copy link**. On desktop, copy the URL.
 
-**Step 2: Paste it into [TranscribeTok](https://transcribetok.com).** Two transcripts a day are free with no account.
+**Step 2: Paste it into [TranscribeTok](https://transcribetok.com).** Two transcripts a day are free. Reading needs no account; downloading needs a free one, which does not change the limit.
 
 **Step 3: Click Get Transcript.** The full spoken text appears in a few seconds.
 

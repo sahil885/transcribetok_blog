@@ -2,6 +2,7 @@
 title: "TikTok Transcript with Perplexity: Fact-Check Any TikTok"
 description: "Perplexity can't hear a TikTok from its link. Get the transcript, paste it in, and Perplexity checks every claim against cited sources. Free, step by step."
 date: "2026-10-09"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"
@@ -61,7 +62,7 @@ The fix is to hand Perplexity the transcript.
 **Step 5: Open the citations.** Perplexity's value is that every answer links to its sources. Read them. A citation is a lead, not a verdict.
 
 <div class="cta-box">
-<strong>Get the words Perplexity needs:</strong> paste any public TikTok link and get the full spoken transcript in seconds. Copy it, or download it as TXT, DOC or PDF. Two free every day, no signup, no card. <a href="https://transcribetok.com">→ Get a free TikTok transcript at TranscribeTok.com</a>
+<strong>Get the words Perplexity needs:</strong> paste any public TikTok link and get the full spoken transcript in seconds. Copy it, or download it as TXT, DOC or PDF. Read two free every day with no signup; a free account lets you copy or download. <a href="https://transcribetok.com">→ Get a free TikTok transcript at TranscribeTok.com</a>
 </div>
 
 ## When uploading the video to Perplexity works instead

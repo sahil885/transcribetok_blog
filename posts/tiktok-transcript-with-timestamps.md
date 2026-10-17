@@ -1,8 +1,8 @@
 ---
 title: "TikTok Transcript With Timestamps: How to Get One Free"
-description: "Need a TikTok transcript with timestamps? Download it as TXT, DOC or PDF with timestamps included, free with no signup. Plus how to read SRT and VTT timecodes."
+description: "Need a TikTok transcript with timestamps? Download it as TXT, DOC or PDF with timestamps included, using a free account. Plus how to read SRT and VTT timecodes."
 date: "2026-08-03"
-updated: "2026-10-05"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"
@@ -64,7 +64,7 @@ TikTok itself is no help here. Its auto-captions are timed internally — that's
 One thing this is not: a subtitle file. TranscribeTok does not make SRT, VTT or any other caption file, and a timestamped TXT renamed to `.srt` will not load as subtitles. If you need a real subtitle track, the tool comparison further down shows who makes one.
 
 <div class="cta-box">
-<strong>Get a timestamped transcript free:</strong> Paste any public TikTok link and download the transcript with timestamps as TXT, DOC or PDF. Two free every day, no signup. <a href="https://transcribetok.com">→ Get a TikTok transcript at TranscribeTok.com</a>
+<strong>Get a timestamped transcript free:</strong> Paste any public TikTok link and download the transcript with timestamps as TXT, DOC or PDF. Read two free every day with no signup; a free account lets you copy or download. <a href="https://transcribetok.com">→ Get a TikTok transcript at TranscribeTok.com</a>
 </div>
 
 ## Reading SRT timecodes

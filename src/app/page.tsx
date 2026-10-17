@@ -174,7 +174,8 @@ export default function Home() {
             Transcribing more than a couple a day?
           </h2>
           <p className="text-sm text-cyan-800/90 max-w-xl">
-            Two free transcripts a day need no account at all. Paid plans keep
+            Reading two free transcripts a day needs no account; a free account
+            lets you copy or download them. Paid plans keep
             every transcript saved in your library, so you can come back to a
             script weeks later instead of transcribing the same video twice.
           </p>

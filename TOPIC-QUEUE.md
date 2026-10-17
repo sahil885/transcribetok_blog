@@ -67,6 +67,43 @@ Sahil asked for YTTranscript's winning patterns to be applied here. In priority 
 
 ---
 
+## Run 2026-10-17 (scheduled)
+
+**Two posts written, verified and pushed, plus the 0c account-requirement correction across the site.**
+
+- `posts/tiktok-hooks-swipe-file.md` (new — **heavy-user slot**, built from `drafts/tiktok-transcripts-for-marketers.md`, re-verified: DOCX → DOC, CTA now states the free-account rule, `$9 / 100` and one-link-at-a-time stated, bulk tools named). **Keyword Planner 2026-10-17 (All locations): `tiktok hooks` 1k–10k (YoY −90%), `tiktok marketing research` / `tiktok content research` 10–100, `tiktok competitor research`, `tiktok hook analysis`, `tiktok transcripts for marketers` no data** — so retargeted from "for marketers" to the hooks term. Category `Use Cases`. The draft in `drafts/` is now superseded (not deleted — no delete permission).
+- `posts/submagic-alternative.md` (new — **comparison**. `submagic` measured **10k–100k**, Low, the second-largest brand term ever measured here; `choppity` 1k–10k; `tokcaption` and `tubetext` 10–100.) Verified submagic.co/pricing and /use-cases/srt-generator directly; loaded /tools/tiktok-transcript-generator in a browser: **no input field at all, both CTAs go to app.submagic.co/signup.** Trial size (3 short videos, watermarked) is from hooked.so, attributed as third-party.
+- **0c done:** playbook free-tier row rewritten; account wording fixed in 24 posts, `llms.txt` (4 places), `LanguageArticle.tsx` (header + CTA strip on all 27 language pages), `languageDescription()` meta in `languages.ts`, and the homepage plans box. "No signup" kept only where it describes reading. **This check can now be dropped from STEP 0.**
+- **Title/description rewrites (position ≤10, 50+ imp, 0–2 clicks):** `tokscribe-alternative`, `descript-alternative`, `tiktok-transcript-with-gemini` (now "Can Gemini Watch TikTok Videos? …" to match the `can gemini watch tiktok videos` query @ 3.4), `transcribetok-vs-saveto-ai` (41 imp @ 8.0, also qualified).
+- **0e links:** `transcribe-tiktok-video` ← vexascribe + tokscribe; `download-tiktok-captions` ← tokscribe. **0d links:** Bengali/Nepali/Chinese/Arabic ← vexascribe (622 imp); Arabic/Bengali/Nepali ← gemini (133 imp).
+- Backlinks to new posts: submagic ← descript, vexascribe; hooks ← tokscribe, gemini, content-creators, submagic.
+
+### Standing checks — 2026-10-17
+
+- **0a.** WebFetch /pricing meta/og/twitter description **still "from $5 for 150 transcripts"** (visible copy correct: $9/100 … $59/4,000, TXT/DOC/PDF). Pricing H1 reads "Pay once, only when you need bulk" — "bulk" here means volume, but it sits awkwardly next to "no bulk feature"; worth rewording. `/tiktok-transcript-generator` and `/tiktok-to-text` are correct (state the free-account rule). **New: `/download-tiktok-transcript` and `/tiktok-transcript-for-chatgpt` serve bots only a generic prerender** ("Download Tik Tok Transcript | Transcribe Tok", "Tik Tok Transcript For Chat GPT on Transcribe Tok…") with no prices, formats or copy — thin pages to crawlers.
+- **0b.** Key file 200, contents match filename.
+- **0c.** Done this run (above).
+- **0d.** See GSC notes. No language page in the top 5 except Thai (5.1); striking distance Nepali 7.1, Chinese 7.6, Bengali 9.1, Arabic 9.6.
+- **0e.** Still 11 "Discovered – currently not indexed" (unchanged list: dutch, hungarian, malay, romanian, ukrainian, urdu, transcribe-tiktok-video, download-tiktok-captions, free-vs-paid, summarize-tiktok-video-free, tiktok-transcript-for-notebooklm) + 1 "Crawled – currently not indexed". Six language pages unindexed, so **no new language pages**.
+- **0f.** GA4 last 7 days (10–16 Oct): **chatgpt.com 12 sessions**, gemini.google.com 3; **AI Assistant channel 15 of 78 sessions (19%)**, 73% engaged. One checkout.stripe.com session.
+
+### Search Console notes — 2026-10-17 (URL-prefix property; the sc-domain property is not accessible)
+
+- Last 28 days (17 Sep – 14 Oct): **24 clicks, 1.98k impressions, CTR 1.2%, avg position 18.2**, 165 queries. Against 2026-10-05 (13 / 1.3k / 1.0% / 24.8): clicks nearly doubled, position −6.6.
+- Clicks by page: vexascribe 6 (622 @ 4.8), bengali 3 (16 @ 9.1), german 3 (6 @ 21.5), gemini 2 (133 @ 3.7), copilot 2 (27 @ 13.0), nepali 2 (12 @ 7.1), thai 2 (10 @ 5.1), arabic/russian/japanese/turkish 1 each. **Language pages: 13 of 24 clicks.**
+- Brand queries: `vexascribe` 590 @ 4.7, `wayinvideo alternative` 93 @ 11.3, `tokscribe` 88 @ 7.2, `tokscript` 28 @ 9.2, `toktranscript` 18 @ 4.9, `transclipper` 9 @ 10.6, `scrapecreators alternative` 10 @ 7.2.
+- 11–30 band, all already served: `transcribe tiktok video` 29.2, `tiktok transcript generator (free)` 12–13, `wayinvideo alternative` 11.3, `facebook reels transcript` 12.8, `claptools` 19.6. New: `tiktok public to copilot` 9 @ 22.9 (+ `how to connect tiktok public to copilot`) — served by the Copilot post; worth checking what "TikTok public to Copilot" refers to.
+- `wayinvideo-alternative` page sits at 22.2 while the query `wayinvideo alternative` is 11.3 with 93 impressions — next title/description candidate.
+
+### Candidates spotted 2026-10-17
+
+- **`choppity-alternative`** — `choppity` 1k–10k (−90% three-month). Unresearched.
+- **TokCaption** — verified (caption-track only, returns "no-captions result"; 5/day free; $9/mo or $69/yr unlimited; bulk 50; 15 comparison pages of its own). Brand 10–100: fold into the best-tools roundup rather than a standalone. Its plan template (30 agent runs, bulk import 50, API) mirrors TransClipper's.
+- **`tiktok hooks`** 1k–10k — the new swipe-file post targets it; a "TikTok hook examples by category" follow-up could if it ranks.
+- Base44: rewrite `/download-tiktok-transcript` and `/tiktok-transcript-for-chatgpt` prerender meta/copy.
+
+---
+
 ## Run 2026-10-09 (in session, Sahil's request: "posts for AI assistants to pick up")
 
 - `posts/tiktok-transcript-with-perplexity.md` (new — AI-assistant cluster. Angle: Perplexity as a TikTok **fact-checker** with citations. Verified Perplexity help centre: video/audio uploads transcribed, 40 MB/file, rolling weekly allowance, visuals not indexed, no documented link transcription.) Remaining in cluster: `with-deepseek`.
@@ -837,6 +874,8 @@ Standing checks now live in **STEP 0 of the scheduled task itself**, not here �
 - [x] transcribetok-vs-saveto-ai — 2026-08-17 — competitor gap. Verified saveto.ai directly. **Retargeted mid-run** from "TranscribeTok vs Saveto AI" to "Saveto AI Alternative" after Keyword Planner showed the brand term at 100–1k/+900% and the `vs` phrasing at zero. Slug kept for link stability.
 - [x] tiktok-script-extractor — 2026-08-17 — **Keyword Planner: `tiktok script extractor` 1k–10k, Low competition, bid A$0.41–2.39.** No existing post targeted it and GSC had us at position 97 for the term. Replaced the shelved marketers post.
 - [x] srt-to-vtt-converter — 2026-08-17 — **Keyword Planner: `srt to vtt` 1k–10k, plus `convert srt to vtt` 1k–10k, `srt to webvtt` 1k–10k, `vtt to srt` 1k–10k, `convert vtt to srt` 1k–10k, `vtt converter` 100–1k.** Strongest measured cluster on the property. Previously only a section inside the timestamps post.
+- [x] tiktok-hooks-swipe-file — 2026-10-17 — heavy-user slot; published from the shelved marketers draft, retargeted to `tiktok hooks` (1k–10k). Supersedes the line below.
+- [x] submagic-alternative — 2026-10-17 — comparison; `submagic` 10k–100k. Submagic's "free TikTok transcript generator" page has no input, only sign-up links.
 - [ ] ~~tiktok-transcripts-for-marketers~~ — 2026-08-17 — **WRITTEN THEN SHELVED to `drafts/`, unpublished.** Keyword Planner returned no data for the primary keyword or any sibling in the `for [audience]` cluster. Draft is complete and reusable if demand is ever evidenced.
 - [x] tiktok-transcript-api — 2026-08-24 — **TIER 1 volume gate: `tiktok transcript api` 100–1k, +900% YoY, top-of-page bid A$0.62–7.27, the highest commercial value measured on the property.** Written as an honest "we have no API" guide. Verified TikTok has no official transcript endpoint, and priced Supadata, Apify and GetTranscribe from their own pricing pages.
 - [x] free-vs-paid-tiktok-transcript-tools — 2026-08-24 — **TIER 1 volume gate: `free tiktok transcript` 100–1k / +900%, `tiktok transcript free` 100–1k.** Filled the comparison slot. Notable: research disproved our own standing "theirs are lifetime totals" line for TokScript.

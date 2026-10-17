@@ -2,7 +2,7 @@
 title: "How to Use a TikTok Transcript with ChatGPT (Free Method)"
 description: "ChatGPT can't watch a TikTok — but paste in the transcript and it becomes genuinely useful. The exact workflow for summaries, hook analysis and repurposing, with prompts."
 date: "2026-07-14"
-updated: "2026-10-09"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"
@@ -50,7 +50,7 @@ Transcripts remove the guesswork entirely. The model works from exactly what was
 
 ## The workflow
 
-**Step 1: Get the transcript.** Copy the TikTok share link, paste it into [TranscribeTok](https://transcribetok.com), click **Get Transcript**. Two free every day, no account.
+**Step 1: Get the transcript.** Copy the TikTok share link, paste it into [TranscribeTok](https://transcribetok.com), click **Get Transcript**. Two free every day; reading needs no account, copying needs a free one.
 
 **Step 2: Copy the text.** Copy it without timestamps. Timestamps eat context and add nothing unless you specifically want the model to reference timings.
 

@@ -284,7 +284,7 @@ export function languageTitle(l: Language): string {
 }
 
 export function languageDescription(l: Language): string {
-  return `Get a free ${l.name} (${l.native}) TikTok transcript in seconds — no signup needed. Copy or download the full ${l.name} text, then translate or summarize it.`;
+  return `Get a free ${l.name} (${l.native}) TikTok transcript in seconds, no signup needed to read it. Copy or download the full ${l.name} text with a free account.`;
 }
 
 export function languageSteps(l: Language): HowToStep[] {

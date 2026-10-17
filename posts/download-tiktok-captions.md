@@ -2,7 +2,7 @@
 title: "Download TikTok Subtitles & Captions as Text, Free"
 description: "TikTok has no subtitles download button. Get any public video's captions as text (TXT, DOC or PDF) for free, plus which tools make an SRT subtitle file."
 date: "2026-07-18"
-updated: "2026-10-05"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "6 min read"
@@ -61,7 +61,7 @@ So the only route to a caption file is to regenerate the text from the audio.
 
 **Step 1: Copy the TikTok link.** Share arrow → **Copy link**.
 
-**Step 2: Open [TranscribeTok](https://transcribetok.com).** No extension, no account for two a day.
+**Step 2: Open [TranscribeTok](https://transcribetok.com).** No extension, and no account to read two a day; downloading the text needs a free account.
 
 **Step 3: Paste and click Get Transcript.** The audio is transcribed in seconds.
 

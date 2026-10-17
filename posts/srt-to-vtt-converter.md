@@ -2,7 +2,7 @@
 title: "SRT to VTT: Convert Subtitle Files in 10 Seconds"
 description: "Convert SRT to VTT in about ten seconds: add a WEBVTT header and swap the timecode commas for periods. Both directions explained, plus why files fail to load."
 date: "2026-08-17"
-updated: "2026-10-05"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"
@@ -94,7 +94,7 @@ Right, so the thing nobody tells you
 That is the entire conversion.
 
 <div class="cta-box">
-<strong>Need the words from a TikTok, not a subtitle file?</strong> Paste any public TikTok link into TranscribeTok, then copy the transcript in one tap or download it as TXT, DOC or PDF, with or without timestamps. It does not make SRT or VTT files. Two free every day, no signup, no card. <a href="https://transcribetok.com">→ Get a TikTok transcript at TranscribeTok.com</a>
+<strong>Need the words from a TikTok, not a subtitle file?</strong> Paste any public TikTok link into TranscribeTok, then copy the transcript in one tap or download it as TXT, DOC or PDF, with or without timestamps. It does not make SRT or VTT files. Read two free every day with no signup; a free account lets you copy or download. <a href="https://transcribetok.com">→ Get a TikTok transcript at TranscribeTok.com</a>
 </div>
 
 ## Converting VTT back to SRT

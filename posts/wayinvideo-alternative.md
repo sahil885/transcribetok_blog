@@ -2,7 +2,7 @@
 title: "WayinVideo Alternative: An Honest TikTok Comparison"
 description: "Looking for a WayinVideo alternative for TikTok transcripts? An honest comparison from the TranscribeTok team, including where their free tier beats ours."
 date: "2026-08-31"
-updated: "2026-10-05"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"
@@ -119,7 +119,7 @@ Marketing pages and billing pages drift apart on fast-moving products, ours incl
 
 **Choose WayinVideo if** you are producing video or need a subtitle file. Clipping, reframing, burned-in animated subtitles, scheduling, multi-platform sources, speaker labels, an API — it does all of it and we do none of it. Accept the subscription, the monthly credit reset and the no-refund policy as the price of that.
 
-**Choose TranscribeTok if** the thing you want is the words. Two a day forever, no account, no subscription, TXT, DOC or PDF, done in about ten seconds. If you need more than two on a given day, $9 buys 100 transcripts that never expire.
+**Choose TranscribeTok if** the thing you want is the words. Two a day forever, readable with no account (a free account to copy or download TXT, DOC or PDF), no subscription, done in about ten seconds. If you need more than two on a given day, $9 buys 100 transcripts that never expire.
 
 **Choose neither if** you need volume through code. Neither of us is the cheapest route for a few thousand videos — that is an API question, and we covered the real options and prices in the [TikTok transcript API guide](/tiktok-transcript-api), including the part where we admit we do not have one.
 

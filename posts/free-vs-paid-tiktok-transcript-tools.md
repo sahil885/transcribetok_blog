@@ -2,7 +2,7 @@
 title: "Free TikTok Transcript Tools: Every Real Limit, 2026"
 description: "Every free TikTok transcript tool has a cap. Here is each one's real limit — daily resets vs lifetime totals — and the point where paying makes sense."
 date: "2026-08-24"
-updated: "2026-10-09"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"
@@ -26,7 +26,7 @@ howToSteps:
     text: "If you are still inside the free allowance at the end of the month, the paid plan buys you nothing except a saved library."
 faqItems:
   - question: "What is the best free TikTok transcript tool?"
-    answer: "It depends on whether you want volume or zero friction. TokScript's free tier is the most generous at 5 transcripts a day, but it requires an account. TranscribeTok gives 2 a day with no signup at all, which is the fastest route for a one-off transcript. Both reset daily, which makes them worth far more over a year than tools offering a larger one-time grant."
+    answer: "It depends on whether you want volume or zero friction. TokScript's free tier is the most generous at 5 transcripts a day, but it requires an account. TranscribeTok gives 2 a day you can read with no signup at all, which is the fastest route for a one-off transcript. Both reset daily, which makes them worth far more over a year than tools offering a larger one-time grant."
   - question: "Is there a truly unlimited free TikTok transcript tool?"
     answer: "No hosted tool is genuinely unlimited, because speech-to-text costs real compute money on every video. Every free tier in this category is capped by transcripts per day, credits, minutes or files. The only unlimited free option is running OpenAI's open-source Whisper on your own computer, which is free because you supply the hardware."
   - question: "What is the difference between a daily and a lifetime free tier?"
@@ -54,7 +54,7 @@ Limits taken from each vendor's own pricing page, verified August 2026.
 | Tool | Free amount | Resets? | Account needed | The catch |
 |---|---|---|---|---|
 | **TokScript** | 5 transcripts/day | Daily | Yes | The most generous free tier here. Includes Chrome extension and MCP access. |
-| **TranscribeTok** | 2 transcripts/day | Daily | **No** | Smaller daily cap than TokScript. One video at a time, no bulk. |
+| **TranscribeTok** | 2 transcripts/day | Daily | **No** to read; free account to copy or download | Smaller daily cap than TokScript. One video at a time, no bulk. |
 | **TransClipper** | 3 transcripts/day | Daily | No | Free videos capped at 60 seconds. Bulk, AI agents and longer videos are paid. |
 | **Transcript24** | Described as completely free | — | No | No cap stated; API and translation use credits whose price is not published. |
 | **Saveto AI** | Advertised as unlimited | — | No | No published pricing page at all, so the terms could change without notice. |
@@ -69,7 +69,7 @@ Two things fall out of that table that we would rather were not true.
 
 **TokScript's free tier is better than ours on volume.** Five a day against our two, plus a Chrome extension and MCP access on the free plan. If raw free volume is your criterion, they win, and we say so at more length in [TranscribeTok vs TokScript](/transcribetok-vs-tokscript).
 
-**Our actual edge is narrower than "we're more generous".** It is that TranscribeTok needs no account at all. Paste a link, read the text, close the tab. TokScript, WayinVideo, VexaScribe and GetTranscribe all want a signup before they hand you anything.
+**Our actual edge is narrower than "we're more generous".** It is that TranscribeTok needs no account to read a transcript. Paste a link, read the text, close the tab. Copying or downloading does need a free account, and that account does not raise the two-a-day limit. TokScript, WayinVideo, VexaScribe and GetTranscribe all want a signup before they hand you anything.
 
 ## TikTok's own captions are the tempting trap
 
@@ -141,7 +141,7 @@ One more thing worth testing before you settle: accuracy varies enormously by la
 ## Frequently asked questions
 
 **What is the best free TikTok transcript tool?**
-It depends on whether you want volume or zero friction. TokScript's free tier is the most generous at 5 transcripts a day, but it requires an account. TranscribeTok gives 2 a day with no signup at all, which is the fastest route for a one-off transcript. Both reset daily, which makes them worth far more over a year than tools offering a larger one-time grant.
+It depends on whether you want volume or zero friction. TokScript's free tier is the most generous at 5 transcripts a day, but it requires an account. TranscribeTok gives 2 a day you can read with no signup at all, which is the fastest route for a one-off transcript. Both reset daily, which makes them worth far more over a year than tools offering a larger one-time grant.
 
 **Is there a truly unlimited free TikTok transcript tool?**
 No hosted tool is genuinely unlimited, because speech-to-text costs real compute money on every video. Every free tier in this category is capped by transcripts per day, credits, minutes or files. The only unlimited free option is running OpenAI's open-source Whisper on your own computer, which is free because you supply the hardware.

@@ -2,7 +2,7 @@
 title: "How to Translate a TikTok Transcript (Free, Any Language)"
 description: "TikTok translates captions but never the spoken audio. Here's how to get any TikTok's transcript and translate it into any language, free — in two steps."
 date: "2026-08-03"
-updated: "2026-10-05"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"
@@ -55,7 +55,7 @@ So translating what's *said* in a TikTok is always two steps: get the words into
 
 **Step 1: Get the transcript in the original language.**
 
-Copy the video's share link, paste it into [TranscribeTok](https://transcribetok.com), click **Get Transcript**. Two free every day, no account. The transcript comes back in whatever language was spoken — it transcribes the audio, it doesn't translate it.
+Copy the video's share link, paste it into [TranscribeTok](https://transcribetok.com), click **Get Transcript**. Two free every day; reading needs no account, copying the text out needs a free one. The transcript comes back in whatever language was spoken — it transcribes the audio, it doesn't translate it.
 
 This works whether or not the creator enabled captions, because it reads the audio track rather than TikTok's caption data.
 

@@ -2,7 +2,7 @@
 title: "VexaScribe Alternative: An Honest 2026 Comparison"
 description: "VexaScribe does 99 languages, speaker labels and 50-file bulk upload on a monthly minute plan. Here is where it beats TranscribeTok, and where it does not."
 date: "2026-09-21"
-updated: "2026-10-05"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"
@@ -130,6 +130,10 @@ If bulk is what brought you here, we do not do it and will not pretend otherwise
 - [TokScribe alternative](/tokscribe-alternative) — free across three platforms, with one significant catch
 - [YouTube Shorts transcript](/youtube-shorts-transcript) — VexaScribe takes YouTube links; here are the free methods that need no subscription
 - [TikTok transcript generator](/tiktok-transcript-generator) — the pillar guide to how any of these tools actually work
+- [Transcribe a TikTok video](/transcribe-tiktok-video) — the step-by-step walkthrough, from link to finished text
+- [Submagic alternative](/submagic-alternative) — another tool that exports SRT, and why it is a caption editor rather than a TikTok transcript tool
+
+Transcribing outside English? The busiest language guides are [Bengali](/bengali-tiktok-transcript), [Nepali](/nepali-tiktok-transcript), [Chinese](/chinese-tiktok-transcript) and [Arabic](/arabic-tiktok-transcript).
 
 VexaScribe's 99-language support is its strongest single feature, and language is where most transcript tools quietly fall over. If you are working in a language other than English, the [TikTok transcript by language hub](/tiktok-transcript-by-language) covers what changes per language — [Russian](/russian-tiktok-transcript) and [German](/german-tiktok-transcript) are two worked examples of where auto-captions and audio transcription give different answers.
 

@@ -2,7 +2,7 @@
 title: "Best Free TikTok Transcript Tools in 2026 (Compared)"
 description: "An honest comparison of the free TikTok transcript tools worth using in 2026 — what each is actually good at, where they fall down, and which to pick for your use case."
 date: "2026-07-10"
-updated: "2026-10-09"
+updated: "2026-10-17"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -46,7 +46,7 @@ Being clear about which one you are saves a lot of time. TranscribeTok is a sing
 
 Good for: grabbing the script from a video you just watched.
 
-**TranscribeTok** *(ours)* — Two transcripts a day free with no account at all, on videos of any standard length. Copy in one tap or download as TXT, DOC or PDF, with or without timestamps — no SRT or other subtitle file. Paid credit packs are one-time (from $9 for 100 transcripts, credits never expire) and also save transcripts to a library so you're not re-transcribing things you've already done. One video at a time.
+**TranscribeTok** *(ours)* — Two transcripts a day free, readable with no account, on videos of any standard length. A free account unlocks one-tap copy and downloads as TXT, DOC or PDF, with or without timestamps — no SRT or other subtitle file. Paid credit packs are one-time (from $9 for 100 transcripts, credits never expire) and also save transcripts to a library so you're not re-transcribing things you've already done. One video at a time.
 
 **Saveto AI** — No signup, very wide language coverage. Straightforward and fast for one-off use.
 
