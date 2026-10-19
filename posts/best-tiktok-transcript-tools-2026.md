@@ -2,7 +2,7 @@
 title: "Best Free TikTok Transcript Tools in 2026 (Compared)"
 description: "An honest comparison of the free TikTok transcript tools worth using in 2026 — what each is actually good at, where they fall down, and which to pick for your use case."
 date: "2026-07-10"
-updated: "2026-10-17"
+updated: "2026-10-19"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -162,6 +162,8 @@ Differences between mainstream tools on the same clean audio are small. Differen
 - [TikTok subtitle generator](/tiktok-subtitle-generator) — TikTok's two built-in caption systems, and why neither exports a file
 - [TikTok transcript API options, priced](/tiktok-transcript-api) — the developer route, and why we do not offer one
 - [SRT to VTT conversion](/srt-to-vtt-converter) — which tools export VTT directly, and the ten-second manual fix
+- [Choppity alternative, compared](/choppity-alternative) — an AI clip editor whose "no signup" transcript page asked us to sign up
+- [TikTok content analysis for research](/tiktok-content-analysis-research) — transcribing a sample for a study, from pilot to thousands of videos
 
 ## Frequently asked questions
 

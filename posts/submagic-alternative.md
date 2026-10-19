@@ -2,6 +2,7 @@
 title: "Submagic Alternative for TikTok Transcripts (2026)"
 description: "Submagic adds captions to your own videos; it doesn't pull text from someone else's TikTok. An honest Submagic alternative for TikTok transcripts, with prices."
 date: "2026-10-17"
+updated: "2026-10-19"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -105,6 +106,7 @@ If your research runs to whole profiles or hundreds of videos at once, neither t
 
 - **You need an SRT file from a video you have:** [VexaScribe](/vexascribe-alternative) and [WayinVideo](/wayinvideo-alternative) both export SRT; our [SRT to VTT guide](/srt-to-vtt-converter) covers converting between subtitle formats.
 - **You edit long recordings by editing text:** [Descript](/descript-alternative) is the closer match to Submagic's editor-first model.
+- **You cut long videos into captioned clips:** [Choppity](/choppity-alternative) is built around AI clipping and exports transcripts as SRT, VTT or TXT.
 - **You want the TikTok's text in another language:** get the transcript first, then translate it; the [TikTok transcript by language hub](/tiktok-transcript-by-language) has guides for 27 languages, including [Nepali](/nepali-tiktok-transcript) and [Thai](/thai-tiktok-transcript).
 
 ## Verdict

@@ -67,6 +67,33 @@ Sahil asked for YTTranscript's winning patterns to be applied here. In priority 
 
 ---
 
+## Run 2026-10-19 (scheduled)
+
+**Two posts written, built and pushed.**
+
+- `posts/tiktok-content-analysis-research.md` (new — **heavy-user slot: researchers**). Keyed on `tiktok content analysis` / `tiktok research` / `tiktok research api` (heavy-user exemption; Keyword Planner not run this session). Verified TikTok's Research API docs and codebook: eligibility is non-profit academic researchers (+ EU DSA vetted researchers); `voice_to_text` returns **only captions/subtitles TikTok has already generated**, so uncaptioned videos return nothing. KInIT (Kempelen Institute) case: 21 months from Dec 2023 application to working access, ended on VCE not API. Zeeschuimer/4CAT named as the metadata-capture route (captures posts, not transcripts). Cost table by sample size; Apify/GetTranscribe/Research API named for 4,000+.
+- `posts/choppity-alternative.md` (new — **comparison**; `choppity` 1k–10k measured 2026-10-17). Verified choppity.com/pricing (Free 1 h AI analysis, Starter $24/$16.80 yr, Creator $32/$22.40, Team $48/$33.60) and help centre (Free exports watermarked; transcripts export SRT/VTT/TXT). **Tested the "Free TikTok Video to Transcript" page in a browser 2026-10-19 with a public @tiktok video: page says "Completely free with no signup", but Generate Transcript went to app.choppity.com/transcribe → /auth/register.** Not verified: whether a TikTok transcription consumes the free hour.
+- **Correction:** `tiktok-transcript-api` said TikTok has no transcript endpoint at all; added the Research API `voice_to_text` caveat + link to the research post.
+- Backlinks to new posts: research ← apify-alternative, tiktok-transcript-api, best-tools, choppity; choppity ← submagic-alternative, best-tools.
+- **0e links:** `summarize-tiktok-video-free` ← vexascribe (622 imp); `tiktok-transcript-for-notebooklm` ← copilot. New research post also links notebooklm, free-vs-paid and the unindexed **malay, urdu, ukrainian** language pages; choppity links free-vs-paid and download-tiktok-captions.
+- `llms.txt`: Choppity and Research API facts, both new URLs.
+- Build: `npx next build` in the cloud sandbox from a fresh GitHub clone + staged files, 79 static pages, 0 broken internal links. (The device VM can't finish `npm install` within one call — build in the cloud clone instead.)
+
+### Standing checks — 2026-10-19
+
+- **0a.** Unchanged: /pricing meta/og/twitter still "from $5 for 150 transcripts" (visible copy correct). `/tiktok-transcript-generator` and `/tiktok-to-text` correct. `/download-tiktok-transcript` and `/tiktok-transcript-for-chatgpt` still serve bots only a generic prerender ("Download Tik Tok Transcript on Transcribe Tok." / "Tik Tok Transcript For Chat GPT on Transcribe Tok…").
+- **0b.** Key file returns the 32-char key matching its filename.
+- **0c.** Done 2026-10-17; dropped.
+- **0d / 0e / 0f. NOT RUN.** The built-in browser isn't signed in to Google, and Claude in Chrome reports two connected browsers ("Browser 1" macOS, "Browser 2" Windows) with none selected for scheduled sessions — it requires a human pick, so GSC and GA4 couldn't be read. **Sahil: select the Windows browser for Claude in Chrome (or sign the built-in browser into Google) so next run can read GSC/GA4.** 0e list carried forward unchanged from 2026-10-17.
+
+### Candidates spotted 2026-10-19
+
+- Heavy-user queue continues: social media managers → agencies → language learning → journalists/fact-checkers → students.
+- `tiktok-transcript-with-deepseek` still open (AI cluster, gate-exempt).
+- `wayinvideo-alternative` title/description rewrite (page 22.2 vs query 11.3, 93 imp) still pending — needs fresh GSC numbers.
+
+---
+
 ## Run 2026-10-17 (scheduled)
 
 **Two posts written, verified and pushed, plus the 0c account-requirement correction across the site.**
@@ -855,6 +882,8 @@ Standing checks now live in **STEP 0 of the scheduled task itself**, not here �
 
 ## Done
 
+- [x] tiktok-content-analysis-research — 2026-10-19 (heavy-user: researchers)
+- [x] choppity-alternative — 2026-10-19 (comparison)
 - [x] tiktok-transcript-generator — pillar
 - [x] tiktok-to-text — pillar
 - [x] transcribe-tiktok-video — pillar

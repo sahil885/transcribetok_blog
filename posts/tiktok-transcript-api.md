@@ -2,7 +2,7 @@
 title: "TikTok Transcript API: The 2026 Options, Priced"
 description: "TikTok has no official transcript endpoint and TranscribeTok has no API. Here is what Supadata, Apify and GetTranscribe actually cost, and which one to pick."
 date: "2026-08-24"
-updated: "2026-10-05"
+updated: "2026-10-19"
 author: "TranscribeTok Team"
 category: "Developer Guides"
 readingTime: "8 min read"
@@ -44,6 +44,8 @@ Here is the honest answer, including the part where our own tool is not the one 
 ## Does TikTok have an official transcript API?
 
 **No. TikTok's official developer API has no transcript or subtitle endpoint.** It exposes video metadata, user data and Display API content, but nothing that returns the spoken words of a video.
+
+The one exception is the separate TikTok Research API, open only to approved non-profit academic researchers. Its `voice_to_text` field returns captions TikTok has already generated, so videos without captions return no text. [TikTok content analysis for research](/tiktok-content-analysis-research) covers that route and its limits.
 
 This is the fact that shapes the whole category. Every provider below takes a public TikTok URL and either pulls the caption track TikTok's own apps use or runs speech-to-text on the audio. None require a TikTok developer account, app review or OAuth — a genuine convenience, and also why this is a third-party market rather than an official one.
 
