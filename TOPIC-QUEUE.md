@@ -57,13 +57,39 @@ Shipped 2026-08-11 in response: IndexNow (`scripts/indexnow.mjs`, key file in `p
 
 Sahil asked for YTTranscript's winning patterns to be applied here. In priority order for the next runs:
 
-1. **AI-assistant cluster (use as the non-comparison slot until exhausted).** YTTranscript's `with-gemini` (668 imp @ 7.5), `with-grok` (565 @ 6.3), `with-copilot` (465 @ 8.5), `for-notebooklm` (126 @ 10.0), `with-deepseek` (120 @ 8.2), `with-claude` (75 @ 7.0) all rank page one. **Exempt from the Keyword Planner gate** — the TIER 3 "no data" verdicts on these are proven false negatives by the sister site. **Done 2026-10-01 (Sahil's request): `with-gemini`, `with-claude`, `with-copilot`, `with-grok`.** **`tiktok-transcript-for-notebooklm` done 2026-10-05.** Remaining: `tiktok-transcript-with-deepseek`, `tiktok-transcript-with-perplexity`. Verify what each assistant can and cannot do with a TikTok link before writing — do not assume parity with YouTube.
+1. **AI-assistant cluster (use as the non-comparison slot until exhausted).** YTTranscript's `with-gemini` (668 imp @ 7.5), `with-grok` (565 @ 6.3), `with-copilot` (465 @ 8.5), `for-notebooklm` (126 @ 10.0), `with-deepseek` (120 @ 8.2), `with-claude` (75 @ 7.0) all rank page one. **Exempt from the Keyword Planner gate** — the TIER 3 "no data" verdicts on these are proven false negatives by the sister site. **Done 2026-10-01 (Sahil's request): `with-gemini`, `with-claude`, `with-copilot`, `with-grok`.** **`tiktok-transcript-for-notebooklm` done 2026-10-05.** Remaining: none — `with-perplexity` done 2026-10-09, `with-deepseek` done 2026-10-26. Verify what each assistant can and cannot do with a TikTok link before writing — do not assume parity with YouTube.
 2. **Language pages** — 81% of YTTranscript blog clicks and 75% of ours. Bengali added 2026-09-28. Tamil and Nepali are awaiting Sahil's decision. Greek, Hebrew, Hausa remain defensible.
 3. **Comparison posts** — keep one per run, but they earn AI citations rather than Google clicks.
 
 **Prices changed 2026-09-28 (confirmed by Sahil):** $9 / 100, $16 / 500, $34 / 1,500, $59 / 4,000, one-time. All posts, `llms.txt` and the playbook were updated. Check the pricing page each run; if prices move again, update every post that quotes them.
 
 **Publishing:** the cloud sandbox git proxy returns 403 for this repo. Push from the desktop VM (`device_bash`: clone to `$HOME`, copy changed files from the mounted repo, commit, push with the token from `.secrets/gh-token`).
+
+---
+
+## Run 2026-10-26 (scheduled)
+
+**Two posts written, built and pushed.**
+
+- `posts/tiktok-content-audit.md` (new — **heavy-user slot: social media managers**). Keyed on `tiktok audit` / `tiktok content audit` (heavy-user exemption; Keyword Planner not run — browser not signed in to Google). `tiktok competitor research` was already taken by the hooks post, so this one targets auditing your *own* brand account. Hook: Sprout Social's audit method compares top 50 vs bottom 50 videos = 100 = one $9 pack. Verified: Sprout's audit steps (no transcript step), TikTok Studio metrics via Buffer (views, avg watch time, watched full video, traffic source, desktop CSV; no spoken-word data), FTC "Disclosures 101" (disclosure in the video, not just description; audio + video more noticeable). Competitor prices reused from the 2026-10-17 verified table (TokScript, Apify).
+- `posts/tiktok-transcript-with-deepseek.md` (new — **AI-assistant cluster, gate-exempt; cluster now complete**). Verified: V4 released 24 Apr 2026 with 1M context (NYU Shanghai RITS); api-docs news261017 = DeepSeek-V4.1-Flash-1017 (17 Oct 2026), legacy `deepseek-v4-flash-vision-exp` retired, no documented audio/video input; privacy policy (updated 10 Feb 2026) stores data in PRC and trains on inputs incl. uploaded files; government-device bans per Wikipedia. **Not stated (unverified):** current chat context length for V4.1, whether chat app has image understanding beyond OCR, any training opt-out toggle.
+- Backlinks to new posts: audit ← hooks-swipe-file, content-creators (+ deepseek related guides); deepseek ← with-claude, with-copilot.
+- **0e links:** `dutch-tiktok-transcript` + `romanian-tiktok-transcript` ← vexascribe (622 imp); `hungarian` + `dutch` ← gemini (133 imp). Dutch/Romanian/Hungarian had zero inbound post links before this run. New posts also link dutch, romanian, hungarian, malay.
+- `llms.txt`: DeepSeek facts, TikTok Studio/audit fact, both new URLs.
+- Build: `npx next build` in cloud clone, 81 static pages, 0 broken internal links.
+
+### Standing checks — 2026-10-26
+
+- **0a. RESOLVED.** WebFetch /pricing meta/og/twitter now "One-time credit packs from $9 for 100 transcripts…". `/download-tiktok-transcript` and `/tiktok-transcript-for-chatgpt` now serve full copy to bots (prices, TXT/DOC/PDF, free-account rule). No "$5", "150", bulk, SRT, DOCX on any of the five pages. Only nit: pricing H2 "Pay once, only when you need bulk" (means volume).
+- **0b.** Key file returns `b86aab1f741ddb317cccfa448f5c2210`, matches filename.
+- **0c.** Done 2026-10-17; dropped.
+- **0d / 0e / 0f. NOT RUN (second run in a row).** Built-in browser not signed in to Google; Claude in Chrome still has two connected browsers ("Browser 1" macOS, "Browser 2" Windows) with none selected. 0e list carried forward from 2026-10-17.
+
+### Candidates spotted 2026-10-26
+
+- Heavy-user queue: agencies → language learning → journalists/fact-checkers → students.
+- AI-assistant cluster done (deepseek was the last). Possible extension: `tiktok-transcript-with-meta-ai` / `with-mistral-le-chat` — unverified demand.
+- `wayinvideo-alternative` title/description rewrite still pending fresh GSC numbers.
 
 ---
 

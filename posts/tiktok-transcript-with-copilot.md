@@ -2,7 +2,7 @@
 title: "TikTok Transcript with Copilot: The Free Workflow"
 description: "Microsoft Copilot can't open TikTok links or take video uploads. Here is how to get any TikTok into Copilot as text, and the prompts that make it useful."
 date: "2026-09-30"
-updated: "2026-10-19"
+updated: "2026-10-26"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"
@@ -114,6 +114,7 @@ The transcript-first method is the same in every assistant. What differs:
 - **Claude** is strongest for careful analysis of what was said — see [TikTok transcript with Claude](/tiktok-transcript-with-claude).
 - **ChatGPT** has our longest prompt library — see [TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt).
 - **Grok** adds live reaction from X — see [TikTok transcript with Grok](/tiktok-transcript-with-grok).
+- **DeepSeek** is free and handles Chinese-language transcripts well, with a data-storage trade-off — see [TikTok transcript with DeepSeek](/tiktok-transcript-with-deepseek).
 
 ## Related guides
 

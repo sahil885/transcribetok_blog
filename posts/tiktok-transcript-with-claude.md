@@ -2,7 +2,7 @@
 title: "TikTok Transcript with Claude: Summarize and Analyze"
 description: "Claude can't open TikTok links or read video files, but it is excellent with transcripts. The free workflow, Claude's file limits, and prompts that work."
 date: "2026-09-30"
-updated: "2026-10-01"
+updated: "2026-10-26"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"
@@ -121,6 +121,7 @@ The transcript-first workflow is the same everywhere; the differences are around
 - **ChatGPT** has the longest prompt library on this site — see [TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt).
 - **Copilot** takes TXT uploads — see [TikTok transcript with Copilot](/tiktok-transcript-with-copilot).
 - **Grok** adds live reaction from X — see [TikTok transcript with Grok](/tiktok-transcript-with-grok).
+- **DeepSeek** is free and handles Chinese-language transcripts well, with a data-storage trade-off — see [TikTok transcript with DeepSeek](/tiktok-transcript-with-deepseek).
 
 ## Related guides
 

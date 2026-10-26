@@ -2,6 +2,7 @@
 title: "TikTok Hooks Swipe File: Competitor Research From Transcripts"
 description: "Build a TikTok hooks swipe file from competitor transcripts: the research workflow marketers use, what it costs per video, and where transcripts fall short."
 date: "2026-10-17"
+updated: "2026-10-26"
 author: "TranscribeTok Team"
 category: "Use Cases"
 readingTime: "8 min read"
@@ -118,6 +119,7 @@ The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists ev
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — the same workflow from the other side of the desk
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — when a summary is enough and when it loses the hook
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — free-tier shapes compared
+- [TikTok content audit](/tiktok-content-audit) — the same transcript method turned on your own brand account's top and bottom videos
 
 ## Frequently asked questions
 
