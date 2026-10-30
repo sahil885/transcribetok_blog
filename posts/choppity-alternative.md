@@ -2,6 +2,7 @@
 title: "Choppity Alternative for TikTok Transcripts (2026)"
 description: "Choppity is an AI clipping editor; its free TikTok transcript page asked us to sign up. An honest Choppity alternative for TikTok transcripts, with prices."
 date: "2026-10-19"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -80,7 +81,7 @@ TranscribeTok does one job. Paste a public TikTok link, it transcribes the audio
 2. Paste it at [transcribetok.com](https://transcribetok.com) and click Get Transcript.
 3. Read the transcript. To copy it or download TXT, DOC or PDF, create a free account.
 
-It transcribes the audio track, so it works whether or not the creator turned captions on. It does not capture text typed onto the screen, and private or deleted videos are out of reach. [The TikTok transcript generator guide](/tiktok-transcript-generator) explains where accuracy drops and why.
+It transcribes the audio track, so it works whether or not the creator turned captions on. It does not capture text typed onto the screen, and private or deleted videos are out of reach. [The complete guide to getting a TikTok transcript](/how-to-get-a-tiktok-transcript) explains where accuracy drops and why.
 
 <div class="cta-box">
 <strong>Want the words from a TikTok, not a clip project?</strong> Read up to two TikTok transcripts a day free, no signup. Create a free account to copy or download as TXT, DOC or PDF. <a href="https://transcribetok.com">→ Get a TikTok transcript at TranscribeTok.com</a>
@@ -117,7 +118,7 @@ Heavy users who need thousands of transcripts at once should not use either tool
 
 ## Related guides
 
-- [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — how link-to-text tools work and where accuracy drops
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [Submagic alternative](/submagic-alternative) — the other captioning editor with a "free TikTok transcript" page
 - [Best TikTok transcript tools in 2026](/best-tiktok-transcript-tools-2026) — the full field, single-video and bulk
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — which free tiers reset and which run out

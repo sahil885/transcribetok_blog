@@ -2,7 +2,7 @@
 title: "WayinVideo Alternative: An Honest TikTok Comparison"
 description: "Looking for a WayinVideo alternative for TikTok transcripts? An honest comparison from the TranscribeTok team, including where their free tier beats ours."
 date: "2026-08-31"
-updated: "2026-10-17"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"
@@ -128,7 +128,7 @@ Marketing pages and billing pages drift apart on fast-moving products, ours incl
 - [Best free TikTok transcript tools in 2026](/best-tiktok-transcript-tools-2026) — the wider field, including who exports VTT, JSON and CSV
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — what paying actually buys, and why free-tier shape matters more than size
 - [Summarise a TikTok video free](/summarize-tiktok-video-free) — the transcript-plus-model route to summaries and mind maps
-- [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — the pillar, including where accuracy breaks down
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TikTok transcript API guide](/tiktok-transcript-api) — Supadata, Apify and GetTranscribe priced side by side
 
 Working in another language? WayinVideo advertises 100+ and we auto-detect from the audio. The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists every per-language guide, and dialect and script issues show up fastest on [Arabic](/arabic-tiktok-transcript) and [Spanish](/spanish-tiktok-transcript).

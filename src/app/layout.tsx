@@ -129,6 +129,43 @@ export default function RootLayout({
             </div>
           </div>
         </footer>
+        {/* Attribution: tag every link to transcribetok.com with UTM params
+            (so the product's GA4 property can attribute sign-ups and
+            purchases to the blog post that sent them) and log a cta_click
+            event here. Mark cta_click as a key event in GA4 Admin. Tagging
+            happens at click time so it also covers client-side navigations. */}
+        <Script id="cta-attribution" strategy="afterInteractive">
+          {`
+            (function () {
+              function handle(e) {
+                var a = e.target && e.target.closest ? e.target.closest('a[href]') : null;
+                if (!a) return;
+                var url;
+                try { url = new URL(a.href); } catch (err) { return; }
+                if (url.hostname !== 'transcribetok.com' && url.hostname !== 'www.transcribetok.com') return;
+                var page = location.pathname.split('/').filter(Boolean).join('-') || 'home';
+                if (!url.searchParams.has('utm_source')) {
+                  url.searchParams.set('utm_source', 'blog');
+                  url.searchParams.set('utm_medium', 'referral');
+                  url.searchParams.set('utm_campaign', page);
+                  url.searchParams.set('utm_content', a.closest('.cta-box') ? 'cta-box' : 'inline');
+                  a.href = url.toString();
+                }
+                if (e.type === 'click' && typeof window.gtag === 'function') {
+                  window.gtag('event', 'cta_click', {
+                    link_url: url.origin + url.pathname,
+                    page_slug: page,
+                    cta_type: a.closest('.cta-box') ? 'cta-box' : 'inline',
+                    transport_type: 'beacon'
+                  });
+                }
+              }
+              document.addEventListener('click', handle, true);
+              document.addEventListener('auxclick', handle, true);
+              document.addEventListener('contextmenu', handle, true);
+            })();
+          `}
+        </Script>
       </body>
     </html>
   );

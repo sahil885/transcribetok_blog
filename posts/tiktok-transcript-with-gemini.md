@@ -2,7 +2,7 @@
 title: "Can Gemini Watch TikTok Videos? How to Summarize One"
 description: "Gemini can't open a TikTok link the way it opens YouTube. The free workaround: get the TikTok transcript, paste it into Gemini, and use prompts that work."
 date: "2026-09-30"
-updated: "2026-10-26"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"
@@ -134,9 +134,8 @@ The transcript-first workflow is identical in every assistant. The differences a
 
 - [How to use a TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt) — the original workflow, with the full prompt library
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — three routes to a summary, compared
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — every method, step by step
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [Translate a TikTok transcript](/translate-tiktok-transcript) — when the video isn't in your language
-- [TikTok to text](/tiktok-to-text) — the pillar guide to converting a TikTok into text
 - [TikTok hooks swipe file](/tiktok-hooks-swipe-file) — using Gemini to find the structure across 10–30 competitor transcripts
 
 Working in another language? Gemini handles non-English transcripts well; see the [Arabic](/arabic-tiktok-transcript), [Bengali](/bengali-tiktok-transcript), [Nepali](/nepali-tiktok-transcript), [Hungarian](/hungarian-tiktok-transcript) and [Dutch](/dutch-tiktok-transcript) guides.

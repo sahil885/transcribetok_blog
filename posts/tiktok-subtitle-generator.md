@@ -2,7 +2,7 @@
 title: "TikTok Subtitle Generator: Add Subtitles to Your Video"
 description: "TikTok has two built-in subtitle systems and neither exports a file. Here's how each one works, when to use an external generator, and how to get a usable SRT."
 date: "2026-08-31"
-updated: "2026-10-17"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"
@@ -113,7 +113,7 @@ Renaming an `.srt` file to `.vtt` does not convert it — the header is missing 
 - [Download TikTok captions and subtitles](/download-tiktok-captions) — why TikTok has no caption export, and the workaround
 - [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) — which export carries timing, and how to read SRT timecodes
 - [SRT to VTT converter](/srt-to-vtt-converter) — the comma-versus-period problem, in both directions
-- [Transcribe a TikTok video](/transcribe-tiktok-video) — the pillar, including the manual and local-Whisper routes
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [Translate a TikTok transcript](/translate-tiktok-transcript) — subtitling a video into a second language
 
 Subtitling non-English audio? Coverage and accuracy vary a lot by language. The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists every per-language guide, and the trickiest cases are right-to-left scripts like [Arabic](/arabic-tiktok-transcript) and dense syllabaries like [Japanese](/japanese-tiktok-transcript).

@@ -2,7 +2,7 @@
 title: "Descript Alternative for Quick Transcripts (No Editor)"
 description: "Descript is a full video editor needing an account even on its free plan. If you only need the words from a TikTok, here is the faster route, and when not to."
 date: "2026-09-04"
-updated: "2026-10-17"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -113,7 +113,7 @@ Look at that table honestly: Descript is a production suite and we are a single-
 
 ## Related guides
 
-- [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — how transcription works, where accuracy breaks down, and how to use it
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [Best free TikTok transcript tools in 2026](/best-tiktok-transcript-tools-2026) — the wider field, including who exports JSON, CSV and has API access
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — why free-tier shape matters more than raw volume
 - [Summarise a TikTok video free](/summarize-tiktok-video-free) — using a transcript with an AI model to skip the manual work

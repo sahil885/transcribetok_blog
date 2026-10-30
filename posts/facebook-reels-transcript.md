@@ -2,7 +2,7 @@
 title: "Facebook Reels Transcript: How to Get One in 2026"
 description: "Facebook captions reels automatically but gives viewers no way to copy the text. Here is how to get a Facebook Reels transcript, and what each option costs."
 date: "2026-09-28"
-updated: "2026-10-05"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Guide"
 readingTime: "7 min read"
@@ -121,7 +121,7 @@ Most people asking for a Facebook Reels transcript are cross-posting the same ve
 - [YouTube Shorts transcript](/youtube-shorts-transcript) — the free URL swap that recovers YouTube's hidden transcript
 - [Supadata alternative](/supadata-alternative) — the API behind the free Facebook page, with verified credit costs
 - [Apify TikTok transcript alternative](/apify-alternative) — the scraping-platform route, priced per started minute
-- [Transcribe a TikTok video](/transcribe-tiktok-video) — the pillar guide to audio-based transcription
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 
 Reels are not English-only, and every language brings its own accuracy quirks. The [TikTok transcript by language hub](/tiktok-transcript-by-language) covers what changes per language, with [Spanish](/spanish-tiktok-transcript), [Portuguese](/portuguese-tiktok-transcript) and [Filipino](/filipino-tiktok-transcript) as the closest matches.
 

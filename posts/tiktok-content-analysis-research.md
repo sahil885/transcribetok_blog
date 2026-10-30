@@ -2,6 +2,7 @@
 title: "TikTok Content Analysis for Research: Transcribing a Sample"
 description: "How researchers transcribe a TikTok sample for content analysis: Research API vs transcript tools, what each costs, coding the text, and what transcripts miss."
 date: "2026-10-19"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Use Cases"
 readingTime: "8 min read"
@@ -48,7 +49,7 @@ There are two routes to that text: TikTok's own Research API, and transcribing e
 
 Access is slow and not guaranteed. The Kempelen Institute, a European non-profit research institute, documented a 21-month path from first application in December 2023 to working access in September 2025, ending with access to TikTok's Virtual Compute Environment rather than the API it applied for. Graduate students, journalists, market researchers and anyone outside an eligible institution cannot apply at all.
 
-**A transcript tool** takes a public TikTok link and transcribes the audio track. [TranscribeTok](/tiktok-transcript-generator) does this whether or not the creator turned captions on, so coverage does not depend on TikTok having captioned the video. It returns no engagement metadata, so those numbers have to be collected separately.
+**A transcript tool** takes a public TikTok link and transcribes the audio track. [TranscribeTok](https://transcribetok.com) does this whether or not the creator turned captions on, so coverage does not depend on TikTok having captioned the video. It returns no engagement metadata, so those numbers have to be collected separately.
 
 | | TikTok Research API | Audio transcript tool (TranscribeTok) |
 |---|---|---|
@@ -124,7 +125,7 @@ NotebookLM is the most useful of the three for this job because its answers cite
 
 ## Related guides
 
-- [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — how audio transcription works and where accuracy drops
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TikTok transcript API options, priced](/tiktok-transcript-api) — the programmatic route for samples in the thousands
 - [Apify TikTok transcript alternative](/apify-alternative) — the bulk extractor, priced per thousand videos
 - [TikTok hooks swipe file](/tiktok-hooks-swipe-file) — the same transcript workflow applied to marketing research

@@ -67,6 +67,17 @@ Sahil asked for YTTranscript's winning patterns to be applied here. In priority 
 
 ---
 
+## ⚠️ Consolidation 2026-10-30 (Sahil, in session) — read before STEP 0
+
+- **Problem (Sahil's GSC/GA report):** 21 blog pages competed for "tiktok transcript": avg position 63.5, 1 click in 3 months. Offenders: on-mobile (591 imp @ 79), download (77), content-creators (79), generator (56), how-to-get (80), homepage (67). Blog GA4, last 28 days: 98 sessions (Google 39, direct 45, AI assistants 13; last 7 days 19 / 10 / 8 / 0). Avg visit ~6 s (10 s from Google). **0 key events** — blog → sign-up was unmeasurable.
+- **Done (Sahil chose "split by intent"):** `tiktok-transcript-generator`, `tiktok-to-text`, `download-tiktok-transcript` 301 → the matching transcribetok.com landing page (they duplicated the product site's own URLs); `transcribe-tiktok-video` 301 → `how-to-get-a-tiktok-transcript`, which was rewritten as the single pillar with the best content of all five. Originals moved to `retired/`. ~60 internal links in 40 posts repointed; `clusters.ts` pillar now how-to-get; breadcrumbs follow.
+- **Retitled off the head term:** `tiktok-transcript-on-mobile` → "Get TikTok Video Text on iPhone & Android", `tiktok-transcript-for-content-creators` → "Repurpose TikTok Videos Into Posts, Newsletters and Blogs", homepage → "TranscribeTok Blog — Guides, AI Workflows and Tool Comparisons". `vexascribe-alternative` retitled "VexaScribe Review 2026: Pricing, Limits and a Cheaper Option" (590 imp @ 4.7 on the brand query, low CTR).
+- **Attribution:** every link to transcribetok.com now gets `utm_source=blog&utm_medium=referral&utm_campaign=<slug>&utm_content=cta-box|inline` at click time, and fires a GA4 `cta_click` event. **Sahil: mark `cta_click` as a key event in the blog GA4 property, and `sign_up`/`purchase` (or equivalents) in property 547959116.**
+- **0e list:** `transcribe-tiktok-video` is now a redirect — drop it from the unindexed list.
+- **Next (phase 2, not started):** make language pages distinct — real example lines in each language and language-specific tips, starting with the earners (Bengali, Thai, Russian, German, Nepali) and the unindexed six. Needs real example videos; do not invent transcripts.
+
+---
+
 ## Run 2026-10-26 (scheduled)
 
 **Two posts written, built and pushed.**

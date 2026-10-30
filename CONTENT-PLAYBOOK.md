@@ -97,7 +97,11 @@ Do not hand-roll any of this — the template handles it:
 - Non-pillar posts should link up to a relevant pillar
 - If the new post is a natural "related guide" for an existing post, **add a link from that post too**. Interlinking must go both directions or the graph stays flat.
 
-Pillars: `/tiktok-transcript-generator` · `/tiktok-to-text` · `/transcribe-tiktok-video` · `/download-tiktok-transcript`
+Pillar: **`/how-to-get-a-tiktok-transcript`** — the one main blog page for the head term "tiktok transcript" (consolidated 2026-10-30).
+
+**Retired slugs — never recreate, never link to:** `/tiktok-transcript-generator`, `/tiktok-to-text`, `/download-tiktok-transcript` (all 301 to the matching transcribetok.com landing page) and `/transcribe-tiktok-video` (301 to the pillar). Their content was merged into the pillar; the originals are in `retired/`.
+
+**Head-term rule:** no new post may target "tiktok transcript", "tiktok transcript generator", "tiktok to text", "transcribe tiktok video" or "download tiktok transcript" as its primary keyword, and no post title should lead with the bare phrase "TikTok Transcript". 21 blog pages were splitting impressions for "tiktok transcript" (avg position 63.5, 1 click in 3 months). Generator/tool intent belongs to transcribetok.com, not the blog. Every post still links to the pillar.
 
 ---
 

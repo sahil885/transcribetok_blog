@@ -327,9 +327,9 @@ export default function ByLanguagePage() {
               when checking foreign-language clips.
             </li>
             <li>
-              <Link href="/download-tiktok-transcript">
+              <a href="https://transcribetok.com/download-tiktok-transcript">
                 Download it as TXT, DOC or PDF
-              </Link>{" "}
+              </a>{" "}
               — and which format to pick for non-Latin scripts.
             </li>
           </ul>

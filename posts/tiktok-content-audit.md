@@ -2,6 +2,7 @@
 title: "TikTok Content Audit: Transcribe Your Top and Bottom Videos"
 description: "Run a TikTok content audit on what your videos actually said: transcribe your top and bottom performers, compare hooks, claims and CTAs. Cost: $9 per 100."
 date: "2026-10-26"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Use Cases"
 readingTime: "8 min read"
@@ -118,7 +119,7 @@ If you want an AI assistant to help find patterns, paste the hook column into it
 - [TikTok content analysis for research](/tiktok-content-analysis-research) — coding a larger sample the way academics do
 - [TikTok transcripts for content creators](/tiktok-transcript-for-content-creators) — repurposing audited scripts into other formats
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — how each tool's free allowance is shaped
-- [TikTok to text](/tiktok-to-text) — the pillar guide to converting any TikTok into text
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 
 ## Frequently asked questions
 

@@ -2,7 +2,7 @@
 title: "TikTok Script Extractor: Get Any Video's Script Free"
 description: "A TikTok script extractor pulls the spoken words out of a video as text. How to extract any public TikTok script free in seconds, and what it cannot capture."
 date: "2026-08-17"
-updated: "2026-10-17"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"
@@ -45,7 +45,7 @@ Copy the video link — tap **Share**, then **Copy link**, or grab the URL from 
 
 Two scripts a day are free, with no account, no email and no card. Beyond that, one-time credit packs start at $9 for 100 scripts; credits never expire, there is no subscription, and no credit is charged when a video turns out to have no spoken audio.
 
-You can copy the script in one tap or download it as TXT, DOC or PDF, with or without timestamps. Pick TXT if you are pasting the script somewhere, DOC or PDF if it needs to look like a document, and turn timestamps on if you want to see when each line is said. TranscribeTok does not produce subtitle files (no SRT or VTT). [Which export format to choose](/download-tiktok-transcript) covers the trade-offs, and [scripts with timestamps](/tiktok-transcript-with-timestamps) covers what the timing actually looks like.
+You can copy the script in one tap or download it as TXT, DOC or PDF, with or without timestamps. Pick TXT if you are pasting the script somewhere, DOC or PDF if it needs to look like a document, and turn timestamps on if you want to see when each line is said. TranscribeTok does not produce subtitle files (no SRT or VTT). [Which export format to choose](/how-to-get-a-tiktok-transcript) covers the trade-offs, and [scripts with timestamps](/tiktok-transcript-with-timestamps) covers what the timing actually looks like.
 
 <div class="cta-box">
 <strong>Extract a TikTok script right now.</strong> Paste any public TikTok link and get the full spoken script in seconds. Two free every day, no signup, no card. <a href="https://transcribetok.com">→ Extract a TikTok script at TranscribeTok.com</a>
@@ -103,9 +103,7 @@ TikTok's largest markets are not English-speaking, so this matters more than it 
 
 ## Related guides
 
-- [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — the pillar, including where accuracy breaks down
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — three free methods compared
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOC or PDF, and which to pick
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TikTok transcript on iPhone and Android](/tiktok-transcript-on-mobile) — the mobile workflow, no app required
 - [SRT to VTT conversion](/srt-to-vtt-converter) — if you already have an SRT from a subtitle tool and need VTT for web video
 

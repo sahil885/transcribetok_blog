@@ -2,7 +2,7 @@
 title: "TokScribe Review & Alternative: Free, But Is It Private?"
 description: "TokScribe.com is free and even does bulk import, but free transcripts land in a public, searchable archive. What it does well, and when a private tool wins."
 date: "2026-09-07"
-updated: "2026-10-17"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -122,9 +122,8 @@ Read that honestly and TokScribe wins most rows. The two rows it loses are the t
 - [Instagram Reels transcript](/instagram-reels-transcript) — TokScribe is one of the tools that crosses over; here is the rest of that field
 - [YouTube Shorts transcript](/youtube-shorts-transcript) — the third platform TokScribe covers, plus the free methods that need no tool at all
 - [Download TikTok subtitles and captions as text](/download-tiktok-captions) — what TikTok lets you export (nothing) and the routes that work
-- [Transcribe a TikTok video](/transcribe-tiktok-video) — the private, one-link-at-a-time walkthrough
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TikTok hooks swipe file](/tiktok-hooks-swipe-file) — turning competitor transcripts into a research document
-- [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — the pillar, including where accuracy actually breaks down
 
 Working in another language? TokScribe advertises 50+; TranscribeTok detects the language from the audio. The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists every per-language guide, and the hardest cases show up first in [Arabic](/arabic-tiktok-transcript) and [Japanese](/japanese-tiktok-transcript).
 

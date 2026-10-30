@@ -2,7 +2,7 @@
 title: "TikTok Transcript to Notion: Build a Searchable Library"
 description: "Get any TikTok's transcript into Notion in under a minute — copy-paste, file import, or a database that makes every video you've saved actually searchable."
 date: "2026-08-08"
-updated: "2026-10-05"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Productivity"
 readingTime: "8 min read"
@@ -127,9 +127,7 @@ If the goal is turning saved videos into your own content rather than research, 
 
 ## Related guides
 
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three free methods compared
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOC or PDF, and which to pick for import
-- [TikTok transcript generator](/tiktok-transcript-generator) — the complete guide to how transcription works
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — turning saved videos into your own posts
 - [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt) — summarising and mining transcripts with prompts
 - [TikTok transcript API options, priced](/tiktok-transcript-api) — automating the import step instead of pasting each transcript

@@ -101,11 +101,8 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
         <p>
           Worth knowing: TikTok&apos;s own auto-captions can&apos;t be exported —
           there&apos;s no copy-all button anywhere in the app. That&apos;s why
-          getting the text means{" "}
-          <Link href="/transcribe-tiktok-video">
-            transcribing the video&apos;s audio directly
-          </Link>
-          . If you&apos;re new to this, start with{" "}
+          getting the text means transcribing the video&apos;s audio
+          directly. If you&apos;re new to this, start with{" "}
           <Link href="/how-to-get-a-tiktok-transcript">
             how to get a TikTok transcript
           </Link>
@@ -153,9 +150,9 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
           </Link>{" "}
           covers summarizing and translating in one prompt, and if you need to
           save the text permanently, see{" "}
-          <Link href="/download-tiktok-transcript">
+          <a href="https://transcribetok.com/download-tiktok-transcript">
             how to download a TikTok transcript
-          </Link>
+          </a>
           . On your phone?{" "}
           <Link href="/tiktok-transcript-on-mobile">
             The mobile guide

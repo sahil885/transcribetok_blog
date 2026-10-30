@@ -2,7 +2,7 @@
 title: "SRT to VTT: Convert Subtitle Files in 10 Seconds"
 description: "Convert SRT to VTT in about ten seconds: add a WEBVTT header and swap the timecode commas for periods. Both directions explained, plus why files fail to load."
 date: "2026-08-17"
-updated: "2026-10-17"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"
@@ -133,8 +133,7 @@ The exception is if you are publishing HTML5 video yourself. The `<track>` eleme
 
 - [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) — getting timing into a transcript, and how to read SRT timecodes
 - [Download TikTok captions and subtitles](/download-tiktok-captions) — the subtitle-file workflow, and which tools make one
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOC or PDF, and which to pick
-- [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — the pillar, including where accuracy breaks down
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [Best free TikTok transcript tools in 2026](/best-tiktok-transcript-tools-2026) — who exports VTT, JSON and CSV directly
 
 Working with non-English subtitles? The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists every per-language guide, and encoding problems show up fastest on [Arabic](/arabic-tiktok-transcript) and [Japanese](/japanese-tiktok-transcript) text.

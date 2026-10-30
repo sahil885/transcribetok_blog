@@ -2,7 +2,7 @@
 title: "YouTube Shorts Transcript: How to Get One in 2026"
 description: "YouTube captions nearly every Short but hides the transcript panel in the Shorts player. Here are four ways to get the text out, and which one to use."
 date: "2026-09-21"
-updated: "2026-09-28"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Guide"
 readingTime: "8 min read"
@@ -131,11 +131,10 @@ If you cross-post, the practical answer is one tool per platform rather than one
 
 - [Instagram Reels transcript](/instagram-reels-transcript) — the same problem on Instagram, with the tools that solve it
 - [Facebook Reels transcript](/facebook-reels-transcript) — Facebook captions every reel and exports none of it; the tools that do
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the TikTok equivalent, three methods compared
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TokScribe alternative](/tokscribe-alternative) — covers Shorts, Reels and TikTok, with one significant catch
 - [SRT to VTT converter](/srt-to-vtt-converter) — what to do with the subtitle file yt-dlp gives you
 - [VexaScribe alternative](/vexascribe-alternative) — a general transcription subscription that takes YouTube links, priced and compared
-- [Transcribe a TikTok video](/transcribe-tiktok-video) — the pillar guide on audio-based transcription
 
 Short-form video is overwhelmingly not in English, and caption quality varies more by language than by platform. The [TikTok transcript by language hub](/tiktok-transcript-by-language) covers what changes per language — [Russian](/russian-tiktok-transcript) and [German](/german-tiktok-transcript) are two worked examples where auto-captions and audio transcription diverge noticeably.
 

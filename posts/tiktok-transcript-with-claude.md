@@ -2,7 +2,7 @@
 title: "TikTok Transcript with Claude: Summarize and Analyze"
 description: "Claude can't open TikTok links or read video files, but it is excellent with transcripts. The free workflow, Claude's file limits, and prompts that work."
 date: "2026-09-30"
-updated: "2026-10-26"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"
@@ -129,7 +129,7 @@ The transcript-first workflow is the same everywhere; the differences are around
 - [TikTok script extractor](/tiktok-script-extractor) — what extracting a script gives you, and what it never captures
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — three routes to a summary, compared
 - [TikTok transcripts for content creators](/tiktok-transcript-for-content-creators) — turning one video into several pieces of content
-- [TikTok to text](/tiktok-to-text) — the pillar guide to converting a TikTok into text
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 
 ## Frequently asked questions
 

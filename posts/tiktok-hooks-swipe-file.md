@@ -2,7 +2,7 @@
 title: "TikTok Hooks Swipe File: Competitor Research From Transcripts"
 description: "Build a TikTok hooks swipe file from competitor transcripts: the research workflow marketers use, what it costs per video, and where transcripts fall short."
 date: "2026-10-17"
-updated: "2026-10-26"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Use Cases"
 readingTime: "8 min read"
@@ -67,7 +67,7 @@ Transcribe ten to thirty videos per competitor, not a hundred. Ten read closely 
 
 1. **Pick the videos by performance.** Sort by views and engagement over the last ninety days. A swipe file of videos that were merely visible to you teaches the wrong lessons.
 2. **Transcribe them one at a time.** Paste each public link into [TranscribeTok](https://transcribetok.com). It processes one video per paste, so thirty videos is thirty pastes, roughly ten seconds each. There is no batch mode and we are not going to pretend otherwise.
-3. **Copy or download each transcript.** Plain TXT is the right format here because you will concatenate everything into one document. [Choosing between TXT, DOC and PDF](/download-tiktok-transcript) covers the differences.
+3. **Copy or download each transcript.** Plain TXT is the right format here because you will concatenate everything into one document. [Choosing between TXT, DOC and PDF](/how-to-get-a-tiktok-transcript) covers the differences.
 4. **Split the document twice.** One file for hooks (the first two sentences of each), one for claims and objections.
 5. **Ask a structural question.** Paste the full set into an AI tool. "Summarise these ten videos" wastes the exercise; "What structure do these ten scripts share, and which two break it?" does not. [Using a TikTok transcript in ChatGPT](/tiktok-transcript-for-chatgpt) and [the Claude version](/tiktok-transcript-with-claude) explain why pasting the link itself doesn't work and what to paste instead.
 
@@ -114,7 +114,7 @@ The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists ev
 
 ## Related guides
 
-- [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — the pillar, including where accuracy breaks down
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TikTok script extractor](/tiktok-script-extractor) — pulling a creator's exact script, and what happens with no spoken audio
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — the same workflow from the other side of the desk
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — when a summary is enough and when it loses the hook

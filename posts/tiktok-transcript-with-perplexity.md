@@ -2,7 +2,7 @@
 title: "TikTok Transcript with Perplexity: Fact-Check Any TikTok"
 description: "Perplexity can't hear a TikTok from its link. Get the transcript, paste it in, and Perplexity checks every claim against cited sources. Free, step by step."
 date: "2026-10-09"
-updated: "2026-10-17"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"
@@ -128,9 +128,8 @@ The transcript-first workflow is identical everywhere. The difference is what ea
 
 ## Related guides
 
-- [TikTok to text](/tiktok-to-text) — the pillar guide to converting a TikTok into text
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — three routes to a summary, compared
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — every method, step by step
 - [Translate a TikTok transcript](/translate-tiktok-transcript) — when the video isn't in your language
 
 ## Frequently asked questions

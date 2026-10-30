@@ -112,7 +112,7 @@ Nothing here is ChatGPT-specific. Claude, Gemini, Perplexity, Copilot and every 
 
 ## Related guides
 
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three methods
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — iPhone and Android, no app
 - [Translate a TikTok transcript](/translate-tiktok-transcript) — the prompts that handle slang and idiom properly
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — the repurposing workflow end to end

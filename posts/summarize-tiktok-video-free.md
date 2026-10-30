@@ -2,7 +2,7 @@
 title: "How to Summarize a TikTok Video Free (3 Ways)"
 description: "TikTok has no summary button, and pasting the link into ChatGPT does nothing. Three free ways to summarize a TikTok video, and which one is worth your time."
 date: "2026-08-10"
-updated: "2026-10-05"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"
@@ -119,14 +119,13 @@ Three limits apply regardless of which method you pick:
 - **Public videos only.** Private accounts, friends-only posts and deleted videos are inaccessible to every tool in this category.
 - **Summaries drop numbers.** This is the failure mode worth watching for. Models compress by generalising, and the first casualties are figures, product names and the speaker's hedges. If a number matters, check it against the transcript before you use it.
 
-Accuracy of the underlying transcription sits in the mid-to-high 90s for clear speech and degrades with loud music, sped-up delivery and heavy slang — the detail is in [the TikTok transcript generator guide](/tiktok-transcript-generator). A summary can only ever be as good as the text under it.
+Accuracy of the underlying transcription sits in the mid-to-high 90s for clear speech and degrades with loud music, sped-up delivery and heavy slang — the detail is in [the complete guide to getting a TikTok transcript](/how-to-get-a-tiktok-transcript). A summary can only ever be as good as the text under it.
 
 ## Related guides
 
-- [TikTok transcript generator](/tiktok-transcript-generator) — how transcription works and where it fails
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [How to use a TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt) — the full prompt library
 - [Summarize a TikTok with Gemini](/tiktok-transcript-with-gemini), [Claude](/tiktok-transcript-with-claude), [Copilot](/tiktok-transcript-with-copilot) or [Grok](/tiktok-transcript-with-grok) — what each assistant can and can't do with a TikTok
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — three free methods compared
 - [TikTok transcripts for creators](/tiktok-transcript-for-content-creators) — turning one video into five pieces of content
 - [TikTok transcript to Notion](/tiktok-transcript-to-notion) — where to put the summaries once you have them
 - [WayinVideo alternative, compared](/wayinvideo-alternative) — the strongest dedicated summarizer and mind-map tool, priced and verified

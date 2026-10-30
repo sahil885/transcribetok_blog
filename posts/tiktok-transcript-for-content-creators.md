@@ -1,13 +1,13 @@
 ---
-title: "TikTok Transcripts for Creators: Repurpose Videos Fast"
-description: "Turn TikTok scripts into LinkedIn posts, newsletters, threads and blog drafts. The repurposing workflow creators use to get five pieces of content from one video."
+title: "Repurpose TikTok Videos Into Posts, Newsletters and Blogs"
+description: "Turn one TikTok script into a LinkedIn post, newsletter section, thread and blog draft. The repurposing workflow creators use to get five pieces from one video."
 date: "2026-07-12"
-updated: "2026-10-26"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Use Cases"
 readingTime: "7 min read"
 keywords:
-  - tiktok transcript for creators
+  - repurpose tiktok videos
   - repurpose tiktok content
   - tiktok to blog post
   - tiktok content repurposing
@@ -111,7 +111,7 @@ Two videos become six pieces of content, and none of them started from a blank p
 
 - [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — iPhone and Android, no app
 - [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt) — the prompts
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOC or PDF
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TikTok transcript to Notion](/tiktok-transcript-to-notion) — build a searchable swipe file from saved videos
 - [TikTok script extractor](/tiktok-script-extractor) — getting the raw script out, and what extraction never captures
 - [TikTok hooks swipe file](/tiktok-hooks-swipe-file) — the marketer's version: competitor transcripts turned into a hook library

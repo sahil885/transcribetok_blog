@@ -2,7 +2,7 @@
 title: "Free TikTok Transcript Tools: Every Real Limit, 2026"
 description: "Every free TikTok transcript tool has a cap. Here is each one's real limit — daily resets vs lifetime totals — and the point where paying makes sense."
 date: "2026-08-24"
-updated: "2026-10-17"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"
@@ -128,7 +128,7 @@ One more thing worth testing before you settle: accuracy varies enormously by la
 ## Related guides
 
 - [Best free TikTok transcript tools in 2026](/best-tiktok-transcript-tools-2026) — the wider field, ranked
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — three free methods, step by step
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TranscribeTok vs TokScript](/transcribetok-vs-tokscript) — the closest competitor, in detail
 - [Saveto AI alternative: an honest side-by-side](/transcribetok-vs-saveto-ai) — the one rival advertising unlimited free
 - [WayinVideo alternative: an honest comparison](/wayinvideo-alternative) — a one-time free grant versus a daily reset, in detail
@@ -136,7 +136,6 @@ One more thing worth testing before you settle: accuracy varies enormously by la
 - [TokTranscript alternative: free tiers compared](/toktranscript-alternative) — a monthly cap of 10 against a daily reset of 2, and privacy as a paid feature
 - [TransClipper alternative](/transclipper-alternative) — 3 free a day but only on videos up to 60 seconds
 - [VexaScribe alternative](/vexascribe-alternative) — a 30-minute one-time trial against a daily reset, and why minutes that expire monthly change the maths
-- [How to transcribe a TikTok video free](/transcribe-tiktok-video) — the pillar guide
 
 ## Frequently asked questions
 

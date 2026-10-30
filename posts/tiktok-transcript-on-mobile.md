@@ -1,8 +1,8 @@
 ---
-title: "TikTok Transcript on iPhone & Android (Free, No App)"
-description: "Get the transcript of any TikTok on your phone — free, no app to install. Share the link, paste it in your browser, and copy or download the text in seconds."
+title: "Get TikTok Video Text on iPhone & Android (Free, No App)"
+description: "Copy the words from any TikTok on your phone: share the link, paste it into Safari or Chrome, read the text in seconds. Where files save on iPhone and Android."
 date: "2026-07-16"
-updated: "2026-10-05"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "6 min read"
@@ -98,10 +98,8 @@ If you're pulling transcripts more often — repurposing your own videos, or kee
 
 ## Related guides
 
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three methods compared
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT vs DOC vs PDF
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TikTok transcripts with ChatGPT](/tiktok-transcript-for-chatgpt) — what to do with the text
-- [TikTok to text](/tiktok-to-text) — what the conversion does and doesn't capture
 - [YouTube Shorts transcript](/youtube-shorts-transcript) — the same job on Shorts, where the mobile app blocks it entirely
 
 Watching in another language? The mobile flow is identical, but caption quality is not — the [TikTok transcript by language hub](/tiktok-transcript-by-language) covers what changes per language, with [Russian](/russian-tiktok-transcript) and [German](/german-tiktok-transcript) as two worked examples.

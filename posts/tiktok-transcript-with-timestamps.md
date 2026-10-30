@@ -2,7 +2,7 @@
 title: "TikTok Transcript With Timestamps: How to Get One Free"
 description: "Need a TikTok transcript with timestamps? Download it as TXT, DOC or PDF with timestamps included, using a free account. Plus how to read SRT and VTT timecodes."
 date: "2026-08-03"
-updated: "2026-10-17"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"
@@ -125,18 +125,16 @@ Pick by the job, not by loyalty:
 
 ## Two limits worth knowing before you start
 
-**Timestamps are only as good as the transcription.** If the audio is loud-music-over-fast-speech, the words will be wrong and the timings will be approximate around them. Accuracy sits in the mid-to-high 90s for clear speech and degrades from there — [the transcription guide](/transcribe-tiktok-video) covers what actually hurts it.
+**Timestamps are only as good as the transcription.** If the audio is loud-music-over-fast-speech, the words will be wrong and the timings will be approximate around them. Accuracy sits in the mid-to-high 90s for clear speech and degrades from there — [the transcription guide](/how-to-get-a-tiktok-transcript) covers what actually hurts it.
 
 **On-screen text has no timestamps because it has no transcript.** Text overlays typed onto the video are rendered graphics, not data. They're not captured at all, timed or otherwise. Only the spoken audio track becomes text.
 
 ## Related guides
 
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT vs DOC vs PDF, and which to pick
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [Download TikTok captions and subtitles](/download-tiktok-captions) — the subtitle-file workflow in full
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three free methods compared
 - [Translate a TikTok transcript](/translate-tiktok-transcript) — what to do once the text is in the wrong language
 - [TikTok subtitle generator](/tiktok-subtitle-generator) — TikTok's auto-generated and creator captions, and their limits
-- [Transcribe a TikTok video](/transcribe-tiktok-video) — accuracy, alternatives and limits
 
 ## Frequently asked questions
 

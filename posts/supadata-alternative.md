@@ -2,7 +2,7 @@
 title: "Supadata Alternative for TikTok Transcripts (2026)"
 description: "Supadata is an excellent transcript API and the wrong tool for most people who find it. Verified pricing, credit maths, and when a free web tool wins instead."
 date: "2026-09-14"
-updated: "2026-10-05"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"
@@ -142,7 +142,7 @@ Comparing developer options specifically? [Our TikTok transcript API guide](/tik
 - [Facebook Reels transcript](/facebook-reels-transcript) — where Supadata's free Facebook page fits among the Facebook options
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — why a free tier's shape matters more than its size
 - [Best free TikTok transcript tools in 2026](/best-tiktok-transcript-tools-2026) — the wider consumer field
-- [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — the pillar, including where accuracy breaks down
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 
 Working in another language? Supadata takes an ISO 639-1 `lang` parameter and falls back to the first available language; TranscribeTok detects the language from the audio. The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists every per-language guide, and the two hardest cases are [Arabic](/arabic-tiktok-transcript) and [Vietnamese](/vietnamese-tiktok-transcript).
 

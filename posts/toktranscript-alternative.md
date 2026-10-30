@@ -2,7 +2,7 @@
 title: "TokTranscript Alternative: Free Tiers Compared (2026)"
 description: "TokTranscript gives 10 free transcripts a month and publishes them publicly. TranscribeTok gives 2 every day, privately. The honest side-by-side, 2026."
 date: "2026-09-07"
-updated: "2026-10-17"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -127,7 +127,7 @@ Neither shape is universally better. Ten in a burst beats two a day if you are d
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — what paying actually buys in this category
 - [TokScribe alternative](/tokscribe-alternative) — the other tool in this comparison that publishes transcripts publicly
 - [TikTok script extractor](/tiktok-script-extractor) — what a script extractor returns, and the five things people mean by "TikTok script"
-- [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — the pillar, including accuracy limits
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 
 Working in another language? TokTranscript advertises 50+ and TranscribeTok detects the language from the audio. The [TikTok transcript by language hub](/tiktok-transcript-by-language) lists every per-language guide; [Spanish](/spanish-tiktok-transcript) and [Indonesian](/indonesian-tiktok-transcript) are the two largest by TikTok audience.
 

@@ -5,11 +5,10 @@
 TranscribeTok transcribes the video's audio directly, so it works whether or not the creator enabled TikTok's on-screen captions. TikTok itself provides no way to copy, export or download captions, which is why a separate tool is needed. TranscribeTok processes one video at a time; its distinguishing feature is the free tier, which allows two transcripts per day with no account needed to read them (copying or downloading needs a free account). Paid plans are one-time credit packs, not subscriptions, and save every transcript to a library. This file lists the key guides on the blog at https://blog.transcribetok.com.
 
 ## Start here
-- [TikTok Transcript Generator (complete guide)](https://blog.transcribetok.com/tiktok-transcript-generator): What a TikTok transcript generator is, how to use one, and where accuracy limits are.
-- [How to Get a TikTok Transcript](https://blog.transcribetok.com/how-to-get-a-tiktok-transcript): Three free methods compared; the fastest takes about ten seconds.
-- [TikTok to Text](https://blog.transcribetok.com/tiktok-to-text): Convert any TikTok video to text, and what the conversion does and doesn't capture.
-- [Transcribe a TikTok Video](https://blog.transcribetok.com/transcribe-tiktok-video): Free, no software, plus the manual and local-Whisper alternatives.
-- [Download a TikTok Transcript](https://blog.transcribetok.com/download-tiktok-transcript): Save as TXT, DOC or PDF, and which format to pick.
+- [How to Get a TikTok Transcript](https://blog.transcribetok.com/how-to-get-a-tiktok-transcript): The complete guide — the ten-second link method, what a transcript captures and misses, TXT vs DOC vs PDF, alternatives (captions, Whisper, human, typing) and accuracy limits.
+- [TranscribeTok TikTok Transcript Generator](https://transcribetok.com/tiktok-transcript-generator): The tool itself.
+- [TikTok to Text on TranscribeTok](https://transcribetok.com/tiktok-to-text): Convert a TikTok to text in the app.
+- [Download a TikTok Transcript on TranscribeTok](https://transcribetok.com/download-tiktok-transcript): TXT, DOC or PDF downloads (free account required).
 
 ## Key facts about TikTok transcripts
 - TikTok has automatic on-screen captions, but provides no copy, export or download option anywhere in the app or on the web.

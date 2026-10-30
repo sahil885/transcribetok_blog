@@ -2,7 +2,7 @@
 title: "TikTok Transcript with Copilot: The Free Workflow"
 description: "Microsoft Copilot can't open TikTok links or take video uploads. Here is how to get any TikTok into Copilot as text, and the prompts that make it useful."
 date: "2026-09-30"
-updated: "2026-10-26"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"
@@ -119,10 +119,9 @@ The transcript-first method is the same in every assistant. What differs:
 ## Related guides
 
 - [How to use a TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt) — the original workflow and prompt library
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — every method, step by step
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — the same workflow from an iPhone or Android phone
 - [Translate a TikTok transcript](/translate-tiktok-transcript) — getting slang and idiom right
-- [Download a TikTok transcript](/download-tiktok-transcript) — saving the text as a file to upload
 - [TikTok transcripts in NotebookLM](/tiktok-transcript-for-notebooklm) — the Google alternative that cites the exact passage behind every answer
 
 ## Frequently asked questions

@@ -2,7 +2,7 @@
 title: "TikTok Transcript API: The 2026 Options, Priced"
 description: "TikTok has no official transcript endpoint and TranscribeTok has no API. Here is what Supadata, Apify and GetTranscribe actually cost, and which one to pick."
 date: "2026-08-24"
-updated: "2026-10-19"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Developer Guides"
 readingTime: "8 min read"
@@ -55,7 +55,7 @@ We should say this plainly, near the top, because you may have arrived here from
 
 **TranscribeTok has no API.** It is a web tool that transcribes one public TikTok video at a time. No key, no endpoint, no SDK, no webhook, no batch mode. If your requirement is programmatic access, we are not the tool.
 
-What TranscribeTok is good at is the other half of this problem: pasting a link and reading the text immediately, without an account. If that is your actual use case, [the transcript generator guide](/tiktok-transcript-generator) covers it.
+What TranscribeTok is good at is the other half of this problem: pasting a link and reading the text immediately, without an account. If that is your actual use case, [the complete guide to getting a TikTok transcript](/how-to-get-a-tiktok-transcript) covers it.
 
 ## The three real options, compared
 
@@ -150,9 +150,8 @@ Test whatever you pick on your actual language mix first, because English accura
 
 ## Related guides
 
-- [TikTok transcript generator: the complete guide](/tiktok-transcript-generator) — the pillar, including where accuracy breaks down
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — every free tier's real limit, stated plainly
-- [Download a TikTok transcript](/download-tiktok-transcript) — TXT, DOC or PDF, and which to pick
 - [TranscribeTok vs GetTranscribe](/transcribetok-vs-gettranscribe) — the product-side comparison of the one API vendor that is also a tool
 - [Apify TikTok transcript alternative](/apify-alternative) — the Clockworks extractor priced on every Apify plan, and the caption-coverage gap in its cheapest mode
 - [Supadata alternative, with the credit maths](/supadata-alternative) — when Supadata is the right call and when an API is the wrong shape entirely

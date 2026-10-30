@@ -2,7 +2,7 @@
 title: "TikTok Transcript for NotebookLM (Gemini Notebook)"
 description: "NotebookLM, now Gemini Notebook, imports YouTube links but not TikTok. How to add TikToks as text sources, build a research notebook, and what it costs."
 date: "2026-10-05"
-updated: "2026-10-09"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"
@@ -120,7 +120,7 @@ Generate an Audio Overview across a set of TikToks on one topic and you get a po
 - [How to use a TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt) — the full prompt library
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — three routes to a summary, compared
 - [TikTok transcript to Notion](/tiktok-transcript-to-notion) — building a searchable transcript database
-- [TikTok to text](/tiktok-to-text) — the pillar guide to converting a TikTok into text
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 
 ## Frequently asked questions
 

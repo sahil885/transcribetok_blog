@@ -5,7 +5,7 @@ import { CLUSTERS, chipColorForCategory, PILLAR_SLUGS } from "@/lib/clusters";
 import { LANGUAGES, languagePageSlug } from "@/lib/languages";
 
 export const metadata: Metadata = {
-  title: "TranscribeTok Blog — TikTok Transcript Guides & Tips",
+  title: "TranscribeTok Blog — Guides, AI Workflows and Tool Comparisons",
   description:
     "Free step-by-step guides on getting TikTok transcripts, using them with ChatGPT and other AI tools, and downloading them as TXT, DOC or PDF.",
   alternates: { canonical: "https://blog.transcribetok.com" },

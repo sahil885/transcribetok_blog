@@ -2,6 +2,7 @@
 title: "TikTok Transcript with DeepSeek: Summarize Any Video"
 description: "DeepSeek can't watch TikTok videos or hear audio, but it reads transcripts well. The free workflow, what a pasted link gets you, privacy caveats and prompts."
 date: "2026-10-26"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"
@@ -134,7 +135,7 @@ Several governments, including Australia, South Korea, Canada, Texas and the US 
 - [TikTok script extractor](/tiktok-script-extractor) — what extracting a script gives you, and what it never captures
 - [TikTok transcript for NotebookLM](/tiktok-transcript-for-notebooklm) — building a research notebook from many transcripts
 - [TikTok content audit](/tiktok-content-audit) — feeding a brand account's transcripts into an AI-assisted audit
-- [TikTok to text](/tiktok-to-text) — the pillar guide to converting a TikTok into text
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 
 ## Frequently asked questions
 

@@ -2,7 +2,7 @@
 title: "TikTok Transcript with Grok: Summarize Any TikTok"
 description: "Grok can search X for reactions to a TikTok but can't hear it from a link. Here's the free way to give Grok the transcript, plus prompts that use its X search."
 date: "2026-09-30"
-updated: "2026-10-01"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"
@@ -119,8 +119,7 @@ The transcript-first method is the same everywhere. What each adds:
 - [How to use a TikTok transcript with ChatGPT](/tiktok-transcript-for-chatgpt) — the original workflow and prompt library
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — three routes to a summary, compared
 - [TikTok script extractor](/tiktok-script-extractor) — getting the raw script and what it never captures
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — every method, step by step
-- [TikTok transcript generator](/tiktok-transcript-generator) — the pillar guide to how transcription works
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 
 ## Frequently asked questions
 

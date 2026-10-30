@@ -76,14 +76,15 @@ export function isLibraryIntent(post: {
 }
 
 // --- Pillar / hub pages ------------------------------------------------------
-export const MASTER_PILLAR_SLUG = "tiktok-transcript-generator";
-export const MASTER_PILLAR_TITLE = "TikTok Transcript Generator";
+// Consolidated 2026-10-30: the four old pillars (generator, to-text,
+// transcribe, download) were merged into how-to-get-a-tiktok-transcript and
+// 301-redirected (see next.config.ts). Do not recreate those slugs: three of
+// them duplicate landing pages on transcribetok.com.
+export const MASTER_PILLAR_SLUG = "how-to-get-a-tiktok-transcript";
+export const MASTER_PILLAR_TITLE = "How to Get a TikTok Transcript";
 
 export const PILLAR_SLUGS: string[] = [
-  "tiktok-transcript-generator",
-  "tiktok-to-text",
-  "transcribe-tiktok-video",
-  "download-tiktok-transcript",
+  "how-to-get-a-tiktok-transcript",
 ];
 
 export function isPillar(slug: string): boolean {

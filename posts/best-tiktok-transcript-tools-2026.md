@@ -2,7 +2,7 @@
 title: "Best Free TikTok Transcript Tools in 2026 (Compared)"
 description: "An honest comparison of the free TikTok transcript tools worth using in 2026 — what each is actually good at, where they fall down, and which to pick for your use case."
 date: "2026-07-10"
-updated: "2026-10-19"
+updated: "2026-10-30"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -140,8 +140,7 @@ Differences between mainstream tools on the same clean audio are small. Differen
 
 ## Related guides
 
-- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the three methods
-- [TikTok transcript generator](/tiktok-transcript-generator) — the complete guide
+- [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — iPhone and Android
 - [TranscribeTok vs TokScript](/transcribetok-vs-tokscript) — the head-to-head, written by us
 - [TranscribeTok vs GetTranscribe](/transcribetok-vs-gettranscribe) — utility versus multi-platform video intelligence
