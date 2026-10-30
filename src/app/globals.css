@@ -38,6 +38,11 @@ body {
 .prose th { background: #f9fafb; border: 1px solid #e5e7eb; padding: 0.75rem 1rem; text-align: left; font-weight: 600; color: #374151; }
 .prose td { border: 1px solid #e5e7eb; padding: 0.75rem 1rem; }
 .prose tr:nth-child(even) td { background: #fafafa; }
+@media (max-width: 640px) {
+  /* Wide tables scrolled the whole page sideways on phones. */
+  .prose table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .prose th, .prose td { padding: 0.5rem 0.625rem; }
+}
 
 /* ── CTA Box (used inside markdown content) ── */
 .cta-box {

@@ -7,6 +7,7 @@ import {
   languageFaq,
   art,
 } from "@/lib/languages";
+import { LANGUAGE_DEEP } from "@/lib/languageDeep";
 
 // Programmatic per-language transcript page. Shared scaffolding, unique
 // substance (intro + note) supplied per language so pages are not thin.
@@ -15,6 +16,7 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
   const steps = languageSteps(lang);
   const faq = languageFaq(lang);
   const others = LANGUAGES.filter((l) => l.slug !== lang.slug);
+  const deep = LANGUAGE_DEEP[lang.slug];
 
   return (
     <article className="max-w-3xl mx-auto px-4 sm:px-6 py-12">
@@ -33,7 +35,7 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
           <span>·</span>
           <span>Free guide</span>
           <span>·</span>
-          <span>3 min read</span>
+          <span>{deep ? "5 min read" : "3 min read"}</span>
         </div>
         <h1 className="text-3xl sm:text-4xl font-bold text-gray-900 leading-tight mb-4">
           {lang.name} TikTok Transcript: Free, No Signup
@@ -69,6 +71,15 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
       <div className="prose">
         <p>{lang.intro}</p>
 
+        {deep && (
+          <>
+            <h2>{deep.contextHeading}</h2>
+            {deep.context.map((para) => (
+              <p key={para.slice(0, 40)}>{para}</p>
+            ))}
+          </>
+        )}
+
         <h2>Why get {art(lang.name)} {lang.name} TikTok transcript?</h2>
         <p>
           Watching is slow; reading is fast.{" "}
@@ -92,12 +103,51 @@ export default function LanguageArticle({ lang }: { lang: Language }) {
 
         <div className="cta-box">
           <strong>Try it free:</strong> Paste any {lang.name} TikTok link and get
-          the full transcript in seconds — two free every day, no account needed.{" "}
+          the full transcript in seconds. Read up to two a day free, no signup;
+          create a free account to copy or download as TXT, DOC or PDF.{" "}
           <a href="https://transcribetok.com">→ Try TranscribeTok.com</a>
         </div>
 
         <h2>{lang.name} TikTok captions: what to expect</h2>
         <p>{lang.note}</p>
+
+        {deep && (
+          <>
+            <h2>What {lang.name} TikTok speech looks like as text</h2>
+            <p>
+              These are illustrative lines of the kind common in {lang.name}{" "}
+              TikToks, not quotes from a specific video. Each shows one thing
+              worth checking in a real transcript.
+            </p>
+            <table>
+              <thead>
+                <tr>
+                  <th>{lang.name} line</th>
+                  <th>English</th>
+                  <th>What to check</th>
+                </tr>
+              </thead>
+              <tbody>
+                {deep.examples.map((ex) => (
+                  <tr key={ex.line}>
+                    <td lang={deep.htmlLang}>
+                      {ex.line}
+                    </td>
+                    <td>{ex.english}</td>
+                    <td>{ex.watch}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+
+            <h2>Tips for {lang.name} TikTok transcripts</h2>
+            <ul>
+              {deep.tips.map((t) => (
+                <li key={t.slice(0, 40)}>{t}</li>
+              ))}
+            </ul>
+          </>
+        )}
         <p>
           Worth knowing: TikTok&apos;s own auto-captions can&apos;t be exported —
           there&apos;s no copy-all button anywhere in the app. That&apos;s why

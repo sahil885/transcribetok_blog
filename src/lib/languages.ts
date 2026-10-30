@@ -1,4 +1,5 @@
 import type { FaqItem, HowToStep } from "@/lib/posts";
+import { LANGUAGE_DEEP } from "@/lib/languageDeep";
 
 // Programmatic SEO: one template -> a page per language.
 // Each entry carries UNIQUE substance (intro + note) so pages are genuinely
@@ -280,10 +281,12 @@ export function languagePageSlug(l: Language): string {
 }
 
 export function languageTitle(l: Language): string {
+  if (LANGUAGE_DEEP[l.slug]) return LANGUAGE_DEEP[l.slug].title;
   return `${l.name} TikTok Transcript — Free, No Signup (${l.native})`;
 }
 
 export function languageDescription(l: Language): string {
+  if (LANGUAGE_DEEP[l.slug]) return LANGUAGE_DEEP[l.slug].description;
   return `Get a free ${l.name} (${l.native}) TikTok transcript in seconds, no signup needed to read it. Copy or download the full ${l.name} text with a free account.`;
 }
 
@@ -309,14 +312,16 @@ export function languageSteps(l: Language): HowToStep[] {
 }
 
 export function languageFaq(l: Language): FaqItem[] {
+  const extra = LANGUAGE_DEEP[l.slug]?.faq ?? [];
   return [
+    ...extra,
     {
       question: `Can I get ${art(l.name)} ${l.name} transcript from any TikTok video?`,
       answer: `Yes. TranscribeTok transcribes the spoken audio directly, so it works whether or not the creator enabled ${l.name} captions — as long as the video is public.`,
     },
     {
       question: `Is the ${l.name} TikTok transcript free?`,
-      answer: `You get two free transcripts every day with no signup required. Paid plans cover higher daily volumes and keep every transcript saved in your library.`,
+      answer: `Yes, for up to two transcripts a day: reading them needs no signup, and copying or downloading needs a free account. One-time credit packs from $9 for 100 add more transcripts and save every one to a library.`,
     },
     {
       question: `Can I translate the ${l.name} transcript to English?`,
