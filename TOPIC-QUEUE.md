@@ -79,6 +79,45 @@ Sahil asked for YTTranscript's winning patterns to be applied here. In priority 
 
 ---
 
+## Run 2026-11-02 (scheduled)
+
+**Two posts written, built and pushed.**
+
+- `posts/tiktok-influencer-vetting.md` (new — **heavy-user slot: agencies**). Keyword Planner 2026-11-02 (All locations): `influencer vetting` 100–1k, `tiktok agency` 1k–10k, `creator vetting` / `tiktok brand safety` 10–100. Angle: agencies vetting creators before brand deals — transcribe last 20 videos per shortlisted creator, search for spoken disclosures, competitor mentions, risky claims, values conflicts; 5 creators × 20 = 100 = one $9 pack. Verified: TikTok Ads help "About the content disclosure setting for creators" (must turn on for brand promotion; "Paid partnership"/"Commercial content" labels; undisclosed may be ineligible for For You; applied automatically via TikTok One); FTC influencer guide PDF (disclosure in the video not just description; audio + video more noticeable; free products = material connection); inBeat vetting checklist (last 5–10 sponsored posts, 3 undisclosed = pattern, competitor partnership = conditional flag); Shortimize (last 15–30 videos, last 10 sponsored). TokScript and Transcript.you prices from today's checks.
+- `posts/transcript-you-alternative.md` (new — **comparison**). `transcript you` 100–1k, **+900% YoY**. Verified transcript.you /tiktok, /bulk-tiktok, /premium directly: Whisper-based TikTok tool; free 1 TikTok/day (read/copy no signup; free account downloads + first SRT/VTT free); paid Creator $9.99/mo (200 credits), Pro $79.99/yr (250/mo), Pro+ $29.99/mo (1,250); 7-day trial needs a card; 1 transcription = 1 credit; bulk 50 links; exports TXT/DOCX/PDF/SRT/VTT; 130+/134+ translation; 51,100+ users. **Its own pages disagree** (TikTok page: paid "unlimited", free account downloads TXT/DOCX/PDF; pricing page: 1 credit per transcription, free = TXT only, 5 credits/mo, 5-min cap) — post says so. Not tested with a real link.
+- **Title/description rewrite:** `transcript24-alternative` → "Transcript24 Review 2026: Is It Really Free? Limits Checked" (270 imp @ 7.2, 1 click; query `transcript24` 158 @ 8.0 plus `transcripts 24`, `transcript 24`, `transcription 24`, `24transcript` variants).
+- Backlinks to new posts: vetting ← tiktok-content-audit, tiktok-hooks-swipe-file (+ transcript-you); transcript-you ← best-tiktok-transcript-tools-2026 (new Transcript.you entry + table row), transcript24-alternative (+ vetting).
+- **0e links:** `choppity-alternative` ← transcript24 (270 imp); `urdu-tiktok-transcript` ← gemini (212 imp). **0d links:** Nepali + Thai ← transcript24; vetting post links Arabic, Thai, Bengali, Nepali.
+- `transcribetok-vs-tokscript` table: TokScript lifetime $199 now shown at $69 as a promotion ("End of Summer Deal", still live 2 Nov). **`script.tokaudit.io` redirects to tokscript.com** — TokAudit is TokScript's (`tokaudit` 100–1k; GSC query `script.tokaudit` 8 imp @ 72).
+- `llms.txt`: Transcript.you, TikTok disclosure setting + FTC, TokScript/TokAudit facts; both new URLs.
+- Build: `npx next build` in a cloud clone of GitHub `main` (identical to the mounted repo, md5-checked), 79 static pages, 0 broken internal links.
+
+### Standing checks — 2026-11-02
+
+- **0a. Still resolved.** WebFetch /pricing meta/og/twitter "One-time credit packs from $9 for 100 transcripts…"; all four landing pages serve full, correct copy (prices, TXT/DOC/PDF, free-account rule). No "$5", "150", bulk feature, SRT, DOCX. Nits: pricing H2 "Pay once, only when you need bulk"; bots also see second figures $18 / $32 / $68 / $118 beside each pack (strike-through "was" prices?).
+- **0b.** Key file returns `b86aab1f741ddb317cccfa448f5c2210`, matches filename.
+- **0c.** Done 2026-10-17; dropped.
+- **0d.** Claude in Chrome worked this run. Blog GSC last 28 days (3–30 Oct): **35 clicks, 2.67k imp, CTR 1.3%, avg pos 23.9.** Language pages: Bengali 8 clicks (36 imp @ 7.7), Nepali 3 (21 @ 6.0), Russian 2 (19 @ 9.7), Arabic 1 (39 @ 7.3), Spanish 1 (22 @ 11.2), Urdu 1 (5 @ 4.4), Japanese/Vietnamese/Turkish/German 1 each; Thai 11 @ 5.1, Chinese 10 @ 8.0, Indonesian 17 @ 10.3. Language pages 21 of 35 clicks. `tiktok transcript arabic` 6 imp @ 5.3. Top-5: Thai, Urdu, Romanian (5.0), Malay (5.0).
+- **0e.** 10 "Discovered – currently not indexed": choppity-alternative (new), download-tiktok-captions, dutch, free-vs-paid-tiktok-transcript-tools, hungarian, malay, romanian, summarize-tiktok-video-free, transcribe-tiktok-video (now a 301 — ignore), urdu. **Off the list since 10-17: ukrainian, tiktok-transcript-for-notebooklm.** 5 language pages still listed → no new language pages. (Dutch/Malay/Romanian/Urdu show impressions in Performance, so the report may lag.)
+- **0f.** GA4 547959116, last 7 days (26 Oct – 1 Nov): **26 sessions total — chatgpt.com 6 (AI Assistant channel 6, 23%)**, direct 13, accounts.google.com 7; **0 organic search**. Last 28 days: 247 sessions (AI Assistant 70). Weekly sessions fell from 78 (10–16 Oct) to 26 — worth a look.
+
+### Search Console notes — 2026-11-02
+
+- Position ≤10, 50+ imp, 0–2 clicks: vexascribe (582 @ 5.5, 1 click — retitled 10-30, left alone), transcript24 (270 @ 7.2, rewritten this run), tokscribe (87 @ 8.8, 0 — rewritten 10-17, still 0 clicks).
+- Brand queries: `vexascribe` 543 @ 5.1, `transcript24` 158 @ 8.0, `tokscribe` 63 @ 7.1, `wayinvideo alternative` 47 @ 11.8, `tokscript` 44 @ 12.1, `transclipper` 16 @ 12.0, `scrabscribe` 15 @ 77.7 (unknown tool — candidate).
+- 11–30 band: nothing unserved with real volume. `tiktok public to copilot` 11 @ 28.7, `tiktok subtitles api` 10 @ 23.1.
+- `wayinvideo-alternative` page now 46.2 (131 imp) — dropped from 22.
+
+### Candidates spotted 2026-11-02
+
+- Heavy-user queue: language learning → journalists/fact-checkers → students.
+- `socialplug` 10k–100k (−90%) — mostly a growth-service brand; only worth it if SocialPlug's free TikTok transcript tool is real. Unresearched.
+- `tokaudit` 100–1k — TokScript's old/sister brand; could fold into the TokScript comparison as a secondary keyword.
+- `scrabscribe` (GSC 15 imp) — unresearched.
+- Google Ads shows a red "Complete payments account activity – refund/outstanding charges" banner (Sahil).
+
+---
+
 ## Run 2026-10-26 (scheduled)
 
 **Two posts written, built and pushed.**
@@ -960,6 +999,8 @@ Standing checks now live in **STEP 0 of the scheduled task itself**, not here �
 - [x] best-tiktok-transcript-tools-2026 + how-to-get-a-tiktok-transcript updated 2026-10-01 to answer "best free TikTok transcript tool with no signup" and "how do I get the text from a TikTok video" directly (not new posts, to avoid cannibalisation).
 - [x] transclipper-alternative — 2026-10-05 — comparison, sourced from a GSC query (`transclipper vs tokscript…` @ 5.0). Brand volume unmeasured (Keyword Planner unreachable). Verified transclipper.ai directly.
 - [x] tiktok-transcript-for-notebooklm — 2026-10-05 — AI-assistant cluster priority 1 (YTTranscript `for-notebooklm` 126 imp @ 10.0). NotebookLM renamed Gemini Notebook 2026-07-16.
+- [x] tiktok-influencer-vetting — 2026-11-02 — heavy-user (agencies). `influencer vetting` 100–1k.
+- [x] transcript-you-alternative — 2026-11-02 — comparison. `transcript you` 100–1k, +900% YoY.
 - [x] instagram-reels-transcript — 2026-09-14 — **`instagram reels transcript` 1k–10k, +900% YoY, Low, bid A$0.36–2.03.** Zero existing coverage and zero cannibalisation. Written in the honest-gap shape established by the API post: TranscribeTok does not do Reels, so the post names the tools that do. First non-TikTok-platform post on the property.
 
 ---

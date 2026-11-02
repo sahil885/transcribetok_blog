@@ -2,7 +2,7 @@
 title: "TranscribeTok vs TokScript: Which Should You Use?"
 description: "An honest comparison from the TranscribeTok team. TokScript does batch, multi-platform and AI agents. We do one video, free, no signup. Here's which one fits you."
 date: "2026-08-08"
-updated: "2026-10-30"
+updated: "2026-11-02"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"
@@ -44,7 +44,7 @@ Those are genuinely different products that happen to share a first step.
 | Platforms | TikTok only | TikTok, Reels, YouTube Shorts |
 | Videos per run | One at a time | Up to 50 links; whole collections and playlists |
 | Free tier | 2/day, **no account** | 5/day, account for most features |
-| Paid | One-time packs from $9 / 100 transcripts | $10/mo, $39/yr, or $199 lifetime |
+| Paid | One-time packs from $9 / 100 transcripts | $10/mo, $39/yr, or $199 lifetime (shown at $69 as a promotion on 2 Nov 2026) |
 | Subscription | None — credits never expire | Yes (or a lifetime option) |
 | Exports | TXT, DOC, PDF | TXT, XML, JSON, CSV |
 | Saved library | Included with any paid pack | Cloud library on paid plans |

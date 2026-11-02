@@ -1,8 +1,8 @@
 ---
-title: "Transcript24 Alternative: An Honest 2026 Comparison"
-description: "Transcript24 says it is 100% free with no signup, takes links and files, and covers seven platforms. Where it beats TranscribeTok, and where it is unclear."
+title: "Transcript24 Review 2026: Is It Really Free? Limits Checked"
+description: "Is Transcript24 really free? We checked its TikTok tool, file uploads, SRT extension and unpublished API credit prices, and where a TikTok-only tool fits best."
 date: "2026-10-09"
-updated: "2026-10-30"
+updated: "2026-11-02"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -118,13 +118,15 @@ If you are weighing other free TikTok tools, our [list of the best TikTok transc
 
 ## Limits every tool shares
 
-Whichever you pick, three limits apply across the category. A transcript covers only what is spoken; on-screen text overlays are rendered graphics, not data. Private and friends-only videos are inaccessible to every tool. And accuracy drops with loud music, fast delivery and mixed languages. If the TikToks you study are not in English, the [TikTok transcript by language hub](/tiktok-transcript-by-language) covers 27 languages, including [Arabic](/arabic-tiktok-transcript) and [Japanese](/japanese-tiktok-transcript).
+Whichever you pick, three limits apply across the category. A transcript covers only what is spoken; on-screen text overlays are rendered graphics, not data. Private and friends-only videos are inaccessible to every tool. And accuracy drops with loud music, fast delivery and mixed languages. If the TikToks you study are not in English, the [TikTok transcript by language hub](/tiktok-transcript-by-language) covers 27 languages, including [Arabic](/arabic-tiktok-transcript), [Japanese](/japanese-tiktok-transcript), [Nepali](/nepali-tiktok-transcript) and [Thai](/thai-tiktok-transcript).
 
 ## Related guides
 
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [Download TikTok captions and subtitles](/download-tiktok-captions) — when you need an SRT and which tools make one
 - [TransClipper alternative](/transclipper-alternative) — another multi-platform tool, with AI hook analysis
+- [Transcript.you alternative](/transcript-you-alternative) — a YouTube-first site that also batches 50 TikToks and exports SRT on a subscription
+- [Choppity alternative](/choppity-alternative) — an AI clip editor whose "free, no signup" TikTok transcript page led to a registration form when we tested it
 - [TikTok transcript API](/tiktok-transcript-api) — the developer options, priced
 
 ## Frequently asked questions

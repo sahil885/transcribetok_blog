@@ -2,7 +2,7 @@
 title: "Best Free TikTok Transcript Tools in 2026 (Compared)"
 description: "An honest comparison of the free TikTok transcript tools worth using in 2026 — what each is actually good at, where they fall down, and which to pick for your use case."
 date: "2026-07-10"
-updated: "2026-10-30"
+updated: "2026-11-02"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -68,6 +68,8 @@ Good for: competitor research, content audits, transcribing a back catalogue.
 
 **TransClipper** — Bulk import of 50 videos on paid plans across TikTok, Reels and Shorts, plus AI agents that break down hooks and virality, weekly creator tracking and an API. Its no-account free tier is 3 a day but only for videos up to 60 seconds. See our [TransClipper alternative comparison](/transclipper-alternative) for verified pricing.
 
+**Transcript.you** — A YouTube-first transcription site whose TikTok tool transcribes the audio with Whisper. Paid plans ($9.99 a month, $79.99 a year or $29.99 a month) take up to 50 TikTok links per batch and export TXT, DOCX, PDF, SRT and VTT; the free TikTok allowance is one video a day. See our [Transcript.you alternative comparison](/transcript-you-alternative).
+
 **GetTranscribe** — Organises videos by competitor into folders and lets you query across a whole collection. Strong on the research-workflow side.
 
 **Apify / Supadata** — API and scraping platforms rather than consumer tools. The right answer if you're a developer building transcription into a pipeline, and the wrong answer if you want a web page to paste a link into.
@@ -84,6 +86,7 @@ If you're transcribing fifty videos, use one of these. A single-video tool makes
 | WayinVideo | No | 200 credits once | Mixed (see below) | Summaries and mind maps |
 | TokScript | Yes | Limited | Yes | Multi-platform research |
 | TransClipper | Yes (50, paid) | 3/day, videos ≤60s | No | Viral-hook research |
+| Transcript.you | Yes (50, paid) | 1 TikTok/day | No, to read | Subtitles, translation, YouTube too |
 | GetTranscribe | Yes | Limited | Yes | Organised competitor tracking |
 | Apify / Supadata | Via API | Usage-based | Yes | Developers |
 
