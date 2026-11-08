@@ -2,8 +2,15 @@
 title: "YouTube Shorts Transcript: How to Get One in 2026"
 description: "YouTube captions nearly every Short but hides the transcript panel in the Shorts player. Here are four ways to get the text out, and which one to use."
 date: "2026-09-21"
-updated: "2026-10-30"
+updated: "2026-11-08"
 author: "TranscribeTok Team"
+altCta:
+  title: "Get a YouTube Shorts transcript in one paste"
+  text: "YTTranscript, our sister tool for YouTube · Takes /shorts/ links as they are · Free to read"
+  label: "Open YTTranscript →"
+  href: "https://yttranscript.app/?utm_source=transcribetok-blog&utm_medium=referral&utm_campaign=youtube-shorts-transcript"
+  bottomTitle: "Need the transcript of a Short?"
+  bottomText: "Paste the Short's link into YTTranscript, the YouTube tool from the team behind TranscribeTok. For TikToks, TranscribeTok gives two free transcripts a day."
 category: "Guide"
 readingTime: "8 min read"
 keywords:
@@ -34,12 +41,12 @@ faqItems:
   - question: "Can you get a YouTube Shorts transcript on mobile?"
     answer: "Not through the YouTube app, which never shows a transcript panel on Shorts. The workaround is to copy the Short's link and paste it into a web-based transcript tool in your mobile browser, which works the same on a phone as on a desktop."
   - question: "Does TranscribeTok transcribe YouTube Shorts?"
-    answer: "No. TranscribeTok accepts TikTok URLs only and will reject a youtube.com link. For Shorts, use a YouTube transcript tool, the /watch?v= URL trick, yt-dlp, or a multi-platform service such as TokScribe or the Supadata API."
+    answer: "No. TranscribeTok accepts TikTok URLs only and will reject a youtube.com link. Its sister tool YTTranscript, from the same team, takes Shorts links directly; the /watch?v= URL trick, yt-dlp, TokScribe and the Supadata API also work."
 ---
 
 YouTube generates captions for nearly every Short. It then puts them somewhere you cannot reach. The vertical Shorts player has no "Show transcript" option, so the text is sitting in YouTube's systems and the interface gives you no way to open it.
 
-This guide covers the four methods that actually work, what each one costs, and where they fail. One thing up front: **TranscribeTok is a TikTok tool and does not transcribe YouTube Shorts.** Everything recommended below is somebody else's product or YouTube's own.
+This guide covers the four methods that actually work, what each one costs, and where they fail. One thing up front: **TranscribeTok is a TikTok tool and does not transcribe YouTube Shorts.** Our sister tool for YouTube, YTTranscript, does, and we say so wherever it appears below; everything else is somebody else's product or YouTube's own.
 
 ## Why the transcript is missing
 
@@ -66,7 +73,11 @@ This works because a Short is a regular YouTube video with vertical framing. The
 
 If the URL trick bounces, or you want the text as a file rather than a scrolling panel, paste the link into a tool built for it.
 
-**[YTTranscript](https://yttranscript.app)** is the YouTube-side tool from the same team that builds TranscribeTok — worth stating plainly rather than slipping it in as a neutral recommendation. It takes a YouTube link and returns the full transcript, free.
+**[YTTranscript](https://yttranscript.app/?utm_source=transcribetok-blog&utm_medium=referral&utm_campaign=youtube-shorts-transcript&utm_content=inline)** is the YouTube-side tool from the same team that builds TranscribeTok — worth stating plainly rather than slipping it in as a neutral recommendation. It takes `youtube.com/shorts/` links as they are, so there is no URL swap, and returns the full transcript, free to read.
+
+<div class="cta-box">
+<strong>Got the Short's link?</strong> Paste it into YTTranscript as it is, /shorts/ and all, and get the full transcript in seconds. <a href="https://yttranscript.app/?utm_source=transcribetok-blog&utm_medium=referral&utm_campaign=youtube-shorts-transcript&utm_content=cta-box">→ Get the Shorts transcript on YTTranscript</a>
+</div>
 
 **NoteLM.ai** accepts both URL formats without conversion and downloads as TXT or SRT.
 
@@ -153,7 +164,7 @@ The Shorts player is a separate, swipe-based vertical interface built for fast s
 Not through the YouTube app, which never shows a transcript panel on Shorts. The workaround is to copy the Short's link and paste it into a web-based transcript tool in your mobile browser, which works the same on a phone as on a desktop.
 
 **Does TranscribeTok transcribe YouTube Shorts?**
-No. TranscribeTok accepts TikTok URLs only and will reject a youtube.com link. For Shorts, use a YouTube transcript tool, the /watch?v= URL trick, yt-dlp, or a multi-platform service such as TokScribe or the Supadata API.
+No. TranscribeTok accepts TikTok URLs only and will reject a youtube.com link. Its sister tool YTTranscript, from the same team, takes Shorts links directly; the /watch?v= URL trick, yt-dlp, TokScribe and the Supadata API also work.
 
 ## For the TikTok half of your workflow
 

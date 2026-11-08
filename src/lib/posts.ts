@@ -17,6 +17,18 @@ export interface HowToStep {
   text: string;
 }
 
+// Optional front matter for posts whose readers need a different tool than
+// TranscribeTok (e.g. YouTube Shorts readers → YTTranscript). Replaces the top
+// banner and the closing call to action on that post only.
+export interface AltCta {
+  title: string;
+  text: string;
+  label: string;
+  href: string;
+  bottomTitle?: string;
+  bottomText?: string;
+}
+
 export interface PostMeta {
   slug: string;
   title: string;
@@ -31,6 +43,7 @@ export interface PostMeta {
   faqItems?: FaqItem[];
   howToSteps?: HowToStep[];
   howToName?: string;
+  altCta?: AltCta;
 }
 
 export interface Post extends PostMeta {

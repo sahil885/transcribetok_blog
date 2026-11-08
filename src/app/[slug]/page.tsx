@@ -305,21 +305,21 @@ export default async function PostPage({ params }: Props) {
         <div className="bg-rose-50 border border-rose-100 rounded-xl p-5 mb-10 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
           <div>
             <p className="font-semibold text-gray-900 text-sm">
-              Get any TikTok transcript instantly
+              {post.altCta?.title ?? "Get any TikTok transcript instantly"}
             </p>
             <p className="text-xs text-gray-500 mt-0.5">
-              2 free transcripts a day · No signup · Copy or download as TXT,
-              DOC or PDF
+              {post.altCta?.text ??
+                "2 free transcripts a day · No signup to read · Free account to copy or download as TXT, DOC or PDF"}
             </p>
           </div>
           <a
-            href="https://transcribetok.com"
+            href={post.altCta?.href ?? "https://transcribetok.com"}
             target="_blank"
             rel="noopener noreferrer"
             className="shrink-0 text-white font-semibold px-5 py-2.5 rounded-full text-sm transition-opacity hover:opacity-90"
             style={{ backgroundColor: "var(--brand)" }}
           >
-            Try Free →
+            {post.altCta?.label ?? "Try Free →"}
           </a>
         </div>
 
@@ -334,20 +334,20 @@ export default async function PostPage({ params }: Props) {
 
         <div className="mt-16 border-t border-gray-100 pt-10 text-center">
           <p className="text-lg font-bold text-gray-900 mb-2">
-            Ready to get your TikTok transcript?
+            {post.altCta?.bottomTitle ?? "Ready to get your TikTok transcript?"}
           </p>
           <p className="text-sm text-gray-500 mb-5">
-            Paste any TikTok link and get the full text in seconds — two free
-            transcripts every day, no account required.
+            {post.altCta?.bottomText ??
+              "Paste any TikTok link and get the full text in seconds — two free transcripts every day, no account required."}
           </p>
           <a
-            href="https://transcribetok.com"
+            href={post.altCta?.href ?? "https://transcribetok.com"}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-white font-semibold px-8 py-3 rounded-full transition-opacity hover:opacity-90"
             style={{ backgroundColor: "var(--brand)" }}
           >
-            Get TikTok Transcript Free →
+            {post.altCta?.label ?? "Get TikTok Transcript Free →"}
           </a>
         </div>
 

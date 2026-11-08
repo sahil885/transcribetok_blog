@@ -79,6 +79,17 @@ Sahil asked for YTTranscript's winning patterns to be applied here. In priority 
 
 ---
 
+## ⚠️ ChatGPT-citation update 2026-11-08 (Sahil, in session) — read before STEP 0
+
+- **Why:** blog GA4, 1 Oct – 8 Nov: 14 sessions from chatgpt.com. Cited pages: `youtube-shorts-transcript` 4, `best-tiktok-transcript-tools-2026` 3, `japanese-` 2, `german-`, `how-to-get-a-tiktok-transcript`, `instagram-reels-transcript`, `tiktok-to-text`, `tiktok-transcript-api` 1 each. App: 71 chatgpt.com sessions (weekly 6 / 18 / 30 / 9 / 8 from 4 Oct), 68 of them to the homepage.
+- **What ChatGPT and Perplexity name for "best free TikTok transcript tool" (logged out, 6 Nov):** TokScript, tokscript.org, Ziztu, TokConnect, TokCaption, Kapwing, Vook.ai, Choppity, DownSub, Tactiq. They pick from the tools' own pages and justify picks on free allowance, signup, SRT/VTT and timestamps.
+- **`best-tiktok-transcript-tools-2026` rewritten:** added TokCaption, tokscript.org (a different site from tokscript.com), TokConnect, Ziztu, Vook.ai, Kapwing; filled TokScript's facts; new "Caption readers vs audio transcribers" section (TokConnect, TokCaption, Ziztu's free tier and VexaScribe's free link tool only copy captions); 16-row table with a "Works without captions" column; 6 new FAQs. Facts checked on each tool's own page 8 Nov. **Keep it current: re-check these tools' free tiers monthly and update `updated:`.** It is the page ChatGPT reads for the head comparison query.
+- **`youtube-shorts-transcript`:** new `altCta` front matter (template support in `src/lib/posts.ts` + `src/app/[slug]/page.tsx`) points the top banner and closing button at YTTranscript (UTM `utm_source=transcribetok-blog`), plus an in-post YTTranscript cta-box. YTTranscript's URL parser accepts `/shorts/` links (checked in its JS, 8 Nov). Do not revert to the TranscribeTok CTA on this post.
+- **Template:** default top banner now says "No signup to read · Free account to copy or download", matching the free-tier rule in the playbook.
+- **When transcribetok.com ships SRT/VTT downloads** (Base44 prompt pending with Sahil): update the playbook export fact, `llms.txt`, the best-tools table/FAQ, `tiktok-transcript-with-timestamps`, `tiktok-subtitle-generator`, `srt-to-vtt-converter` and every comparison post that says "no SRT". Confirm on the live site first.
+
+---
+
 ## Run 2026-11-02 (scheduled)
 
 **Two posts written, built and pushed.**
