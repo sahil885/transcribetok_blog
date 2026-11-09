@@ -2,7 +2,7 @@
 title: "VexaScribe Review 2026: Pricing, Limits and a Cheaper Option"
 description: "VexaScribe costs $2 to $20 a month for 200 to 6,000 minutes, rounds files up to whole minutes, and its trial is 30 minutes once. When TranscribeTok costs less."
 date: "2026-09-21"
-updated: "2026-10-30"
+updated: "2026-11-09"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"
@@ -132,6 +132,8 @@ If bulk is what brought you here, we do not do it and will not pretend otherwise
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — when a summary is enough and a full transcript is overkill
 - [Submagic alternative](/submagic-alternative) — another tool that exports SRT, and why it is a caption editor rather than a TikTok transcript tool
+- [Download TikTok subtitles and captions as text](/download-tiktok-captions) — what TikTok lets you export (nothing) and which tools make an SRT
+- [Kapwing alternative](/kapwing-alternative) — a video editor whose Pro plan exports SRT and VTT, compared on TikTok transcripts
 
 Transcribing outside English? The busiest language guides are [Bengali](/bengali-tiktok-transcript), [Nepali](/nepali-tiktok-transcript), [Chinese](/chinese-tiktok-transcript) and [Arabic](/arabic-tiktok-transcript). For European audio, the [Dutch](/dutch-tiktok-transcript) and [Romanian](/romanian-tiktok-transcript) guides cover where Flemish accents, English loanwords and dropped diacritics trip up transcription.
 

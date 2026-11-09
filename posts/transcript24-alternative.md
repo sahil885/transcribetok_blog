@@ -2,7 +2,7 @@
 title: "Transcript24 Review 2026: Is It Really Free? Limits Checked"
 description: "Is Transcript24 really free? We checked its TikTok tool, file uploads, SRT extension and unpublished API credit prices, and where a TikTok-only tool fits best."
 date: "2026-10-09"
-updated: "2026-11-02"
+updated: "2026-11-09"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -118,7 +118,7 @@ If you are weighing other free TikTok tools, our [list of the best TikTok transc
 
 ## Limits every tool shares
 
-Whichever you pick, three limits apply across the category. A transcript covers only what is spoken; on-screen text overlays are rendered graphics, not data. Private and friends-only videos are inaccessible to every tool. And accuracy drops with loud music, fast delivery and mixed languages. If the TikToks you study are not in English, the [TikTok transcript by language hub](/tiktok-transcript-by-language) covers 27 languages, including [Arabic](/arabic-tiktok-transcript), [Japanese](/japanese-tiktok-transcript), [Nepali](/nepali-tiktok-transcript) and [Thai](/thai-tiktok-transcript).
+Whichever you pick, three limits apply across the category. A transcript covers only what is spoken; on-screen text overlays are rendered graphics, not data. Private and friends-only videos are inaccessible to every tool. And accuracy drops with loud music, fast delivery and mixed languages. If the TikToks you study are not in English, the [TikTok transcript by language hub](/tiktok-transcript-by-language) covers 27 languages, including [Arabic](/arabic-tiktok-transcript), [Japanese](/japanese-tiktok-transcript), [Nepali](/nepali-tiktok-transcript), [Thai](/thai-tiktok-transcript) and [Malay](/malay-tiktok-transcript).
 
 ## Related guides
 

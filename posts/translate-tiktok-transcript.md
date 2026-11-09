@@ -2,7 +2,7 @@
 title: "How to Translate a TikTok Transcript (Free, Any Language)"
 description: "TikTok translates captions but never the spoken audio. Here's how to get any TikTok's transcript and translate it into any language, free — in two steps."
 date: "2026-08-03"
-updated: "2026-10-30"
+updated: "2026-11-09"
 author: "TranscribeTok Team"
 category: "How-To"
 readingTime: "7 min read"
@@ -127,6 +127,7 @@ If all you want is to understand and quote what was said, the two-step method is
 - [TikTok transcript with timestamps](/tiktok-transcript-with-timestamps) — when you need timing alongside the text
 - [TikTok transcript on mobile](/tiktok-transcript-on-mobile) — iPhone and Android, no app needed
 - [Summarize a TikTok video free](/summarize-tiktok-video-free) — get the gist in another language without translating the whole thing
+- [Learn a language with TikTok](/learn-language-with-tiktok) — read along with transcripts and mine sentences into flashcards
 
 ## Frequently asked questions
 

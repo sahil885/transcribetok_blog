@@ -2,7 +2,7 @@
 title: "Submagic Alternative for TikTok Transcripts (2026)"
 description: "Submagic adds captions to your own videos; it doesn't pull text from someone else's TikTok. An honest Submagic alternative for TikTok transcripts, with prices."
 date: "2026-10-17"
-updated: "2026-10-30"
+updated: "2026-11-09"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -120,6 +120,7 @@ If your research runs to whole profiles or hundreds of videos at once, neither t
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript) — the complete guide: the fast method, download formats and accuracy limits
 - [Download TikTok subtitles and captions as text](/download-tiktok-captions) — why TikTok gives you no export button
 - [Descript alternative](/descript-alternative) — the other editor people try for transcripts
+- [Kapwing alternative](/kapwing-alternative) — a browser video editor with a 10-minute free transcription allowance
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — which free tiers reset and which run out
 
 ## Frequently asked questions

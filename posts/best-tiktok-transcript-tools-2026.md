@@ -2,7 +2,7 @@
 title: "Best Free TikTok Transcript Tools in 2026 (Compared)"
 description: "Free TikTok transcript tools compared on daily limits, signup, SRT/VTT and whether they work on videos with no captions. All checked on 8 November 2026."
 date: "2026-07-10"
-updated: "2026-11-08"
+updated: "2026-11-09"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "10 min read"
@@ -66,7 +66,7 @@ Good for: grabbing the script from a video you just watched.
 
 **Vook.ai** — One free transcription a day, and the first needs no account. Transcribes the audio track with speaker labels and timestamps, and exports PDF, DOCX, Markdown, SRT or HTML. Pro is $13 a month for 10 hours, or $3 an hour with no subscription.
 
-**Kapwing** — Takes a TikTok link or an uploaded file and transcribes it with AI speech recognition. A free account gets 10 minutes of transcription a month; the page mentions TXT downloads and timestamps in its subtitles view. Worth it if you also want to edit the video.
+**Kapwing** — Takes a TikTok link or an uploaded file and transcribes it with AI speech recognition. A free account gets 10 minutes of transcription a month; the page mentions TXT downloads and timestamps in its subtitles view. Worth it if you also want to edit the video. Its pricing table lists transcript and SRT/VTT downloads as Pro features ($24 a month, $16 billed annually); our [Kapwing alternative comparison](/kapwing-alternative) covers the details.
 
 **Choppity** — An AI clip editor whose free TikTok transcript page takes a link or an upload and transcribes the audio. The page says no signup; when we tested it, it asked us to sign up. See our [Choppity comparison](/choppity-alternative).
 

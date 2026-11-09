@@ -90,6 +90,32 @@ Sahil asked for YTTranscript's winning patterns to be applied here. In priority 
 
 ---
 
+## Run 2026-11-09 (scheduled)
+
+**Two posts written, built and pushed.**
+
+- `posts/learn-language-with-tiktok.md` (new — **heavy-user slot: language learners**). Keyed on `learn a language with tiktok` / `tiktok language learning` / `sentence mining tiktok` (heavy-user exemption; Keyword Planner not run — built-in browser not signed in to Google). Angle: transcribe native-speaker TikToks you can almost follow, read along, mine one-unknown-word sentences into Anki. Honest cost verdict: the free tier (2/day, ~60/month) covers most learners; $9/100 for intensive weeks, teachers, exam prep. Verified: Krashen i+1 + criticism (Wikipedia); Migaku sentence-mining guide (one-target rule, 5–10 cards/day); Anki docs (desktop free, Android free by another team, AnkiMobile paid); Language Reactor FAQ lists Netflix and YouTube only; LingQ blog describes importing a TikTok with its browser importer. **Not stated (unverified):** Language Reactor / LingQ prices, whether LingQ's TikTok lessons include text.
+- `posts/kapwing-alternative.md` (new — **comparison**). Kapwing is named by ChatGPT/Perplexity for "best free TikTok transcript tool" (6 Nov note); brand volume not measured this run. Verified kapwing.com/pricing in a browser 9 Nov: Free 10 credits (auto-subtitling up to 10 min, translating 5 min), watermark, 4-min exports, 720p, 3-day storage; **Pro $24/mo monthly, $16/mo annual (1,000 min); Business $64 / $50 (4,000 min)**; "Download SRT/VTT files" and "Download video transcript" ticked only for Pro+; "Paste a link to import content (TikTok, YouTube, Twitter)" on all plans; no free trial of paid plans. TikTok tool page: link or upload, 10 s–2 h, "up to 99% accuracy", filler removal, free TXT "without any watermark", **Start Editing → /signin**. Post flags the pricing-table vs tool-page contradiction on free TXT download. Not tested with a real link.
+- Backlinks to new posts: kapwing ← best-tiktok-transcript-tools-2026 (Kapwing entry), submagic-alternative, vexascribe-alternative; learn-language ← translate-tiktok-transcript (+ kapwing post).
+- **0e links:** `malay-tiktok-transcript` ← transcript24-alternative (270 imp); `download-tiktok-captions` ← vexascribe-alternative (582 imp). New posts also link dutch, romanian, hungarian, malay, urdu, free-vs-paid, summarize-tiktok-video-free, download-tiktok-captions.
+- `llms.txt`: Kapwing facts, sentence-mining fact, both new URLs.
+- Build: `npx next build` in a cloud clone of GitHub `main` (mounted repo diffed identical apart from this run's files), 81 static pages, 0 broken internal links.
+
+### Standing checks — 2026-11-09
+
+- **0a. Still resolved.** WebFetch /pricing meta/og/twitter "One-time credit packs from $9 for 100 transcripts…"; all four landing pages correct (prices, TXT/DOC/PDF, free-account rule). No "$5", "150", bulk feature, SRT, DOCX. Nits unchanged: H2 "Pay once, only when you need bulk"; bots see $18 / $32 / $68 / $118 "before the discount" figures.
+- **0b.** Key file returns `b86aab1f741ddb317cccfa448f5c2210`, matches filename.
+- **0c.** Done 2026-10-17; dropped.
+- **0d / 0e / 0f. NOT RUN.** Claude in Chrome again reports two connected browsers ("Browser 1" Windows, "Browser 2" macOS) with none selected for this session; the built-in browser is not signed in to Google. GSC/GA4 unread; 0e list carried forward from 2026-11-02.
+
+### Candidates spotted 2026-11-09
+
+- Heavy-user queue: journalists/fact-checkers → students.
+- Kapwing's pricing table and its TikTok tool page disagree on free transcript downloads; re-check when the best-tools page is refreshed.
+- Other names ChatGPT lists (6 Nov): Vook.ai, DownSub, Tactiq, Ziztu, TokConnect — candidates for `<tool> alternative` posts once brand volume is measured.
+
+---
+
 ## Run 2026-11-02 (scheduled)
 
 **Two posts written, built and pushed.**
@@ -991,6 +1017,8 @@ Standing checks now live in **STEP 0 of the scheduled task itself**, not here �
 - [x] transcribetok-vs-saveto-ai — 2026-08-17 — competitor gap. Verified saveto.ai directly. **Retargeted mid-run** from "TranscribeTok vs Saveto AI" to "Saveto AI Alternative" after Keyword Planner showed the brand term at 100–1k/+900% and the `vs` phrasing at zero. Slug kept for link stability.
 - [x] tiktok-script-extractor — 2026-08-17 — **Keyword Planner: `tiktok script extractor` 1k–10k, Low competition, bid A$0.41–2.39.** No existing post targeted it and GSC had us at position 97 for the term. Replaced the shelved marketers post.
 - [x] srt-to-vtt-converter — 2026-08-17 — **Keyword Planner: `srt to vtt` 1k–10k, plus `convert srt to vtt` 1k–10k, `srt to webvtt` 1k–10k, `vtt to srt` 1k–10k, `convert vtt to srt` 1k–10k, `vtt converter` 100–1k.** Strongest measured cluster on the property. Previously only a section inside the timestamps post.
+- [x] learn-language-with-tiktok — 2026-11-09 — heavy-user slot (language learners).
+- [x] kapwing-alternative — 2026-11-09 — comparison; Kapwing pricing verified in browser.
 - [x] tiktok-hooks-swipe-file — 2026-10-17 — heavy-user slot; published from the shelved marketers draft, retargeted to `tiktok hooks` (1k–10k). Supersedes the line below.
 - [x] submagic-alternative — 2026-10-17 — comparison; `submagic` 10k–100k. Submagic's "free TikTok transcript generator" page has no input, only sign-up links.
 - [ ] ~~tiktok-transcripts-for-marketers~~ — 2026-08-17 — **WRITTEN THEN SHELVED to `drafts/`, unpublished.** Keyword Planner returned no data for the primary keyword or any sibling in the `for [audience]` cluster. Draft is complete and reusable if demand is ever evidenced.
