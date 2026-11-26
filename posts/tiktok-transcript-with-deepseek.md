@@ -1,8 +1,8 @@
 ---
-title: "TikTok Transcript with DeepSeek: Summarize Any Video"
-description: "DeepSeek can't watch TikTok videos or hear audio, but it reads transcripts well. The free workflow, what a pasted link gets you, privacy caveats and prompts."
+title: "Can DeepSeek Watch Videos? How to Summarize a TikTok"
+description: "No: DeepSeek can't watch videos or hear audio, but it reads transcripts well. The free TikTok workflow, what a pasted link gets you, privacy caveats, prompts."
 date: "2026-10-26"
-updated: "2026-10-30"
+updated: "2026-11-16"
 author: "TranscribeTok Team"
 category: "AI Tools"
 readingTime: "7 min read"

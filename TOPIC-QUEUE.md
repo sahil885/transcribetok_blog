@@ -90,6 +90,58 @@ Sahil asked for YTTranscript's winning patterns to be applied here. In priority 
 
 ---
 
+## Run 2026-11-23 (scheduled) — STOPPED: push still blocked, no new posts
+
+**No posts written.** `git push --dry-run` from the desktop VM still returns `remote: Cowork blocked this request: only git clone, git fetch and plain downloads from GitHub work here, not git push` (403, not a token problem). Per the 11-16 note, the run stopped after building. **The 2026-11-16 work is still unpublished**: GitHub `main` is at c265d8e; `tiktok-osint` and `downsub-alternative` return errors on the live blog. Sahil: run `publish.ps1` (or push from a terminal) to ship it. Next run: re-test push first; if it works, publish the pending 11-16 files along with the 2 new posts (next heavy-user topic: students; second slot: Greek language page or Tactiq comparison).
+
+- Build re-verified: GitHub `main` + the 14 pending files (2 new posts, 11 edited posts, llms.txt) → `npx next build` passes, 81 HTML pages, 0 broken internal links. Mounted repo differs from `main` only in those files, TOPIC-QUEUE.md, publish.ps1 and .changed.txt.
+
+### Standing checks — 2026-11-23
+
+- **0a. Still resolved.** WebFetch /pricing meta/og/twitter "One-time credit packs from $9 for 100 transcripts…"; four landing pages correct ($9/100, $16/500, $34/1,500, $59/4,000; TXT/DOC/PDF; free account to copy/download). No "$5" (only inside "$59"), "150", "$12", "$29", "100+ videos", SRT, VTT, DOCX. Nit unchanged: pricing H1/H2 "Pay once, only when you need bulk"; struck "was" prices $18/$32/$68/$118.
+- **0b.** Key file 200, body `b86aab1f741ddb317cccfa448f5c2210`, matches filename.
+- **0c.** Done 2026-10-17; dropped.
+- **0d.** Blog GSC last 28 days: **61 clicks, 4.65k imp, CTR 1.3%, avg pos 16.1** (vs 53 / 4.07k / 19.0 on 11-16). Top pages: Bengali 15 clicks (43 @ 5.4), transcript24-alternative 9 (1,993 @ 6.4), Arabic 5 (58 @ 6.1), with-claude 4 (21 @ 4.8), with-gemini 3 (399 @ 4.0), vexascribe 3 (391 @ 5.0), instagram-reels 2 (120 @ 64.9), Vietnamese 2 (20 @ 9.6), Russian 2 (19 @ 7.6), German 2 (15 @ 5.4). Striking distance of top 5: Bengali 5.4, German 5.4, Arabic 6.1 — link from transcript24-alternative / with-gemini / vexascribe next run (those already link Bengali/Russian/Arabic from 11-16, unpublished).
+- **0e.** Still **2** "Discovered – currently not indexed" (78 indexed) — the 11-16 list was download-tiktok-captions and free-vs-paid-tiktok-transcript-tools; their new inbound links are in the unpublished 11-16 batch. No language pages unindexed.
+- **0f. NOT RUN.** Claude in Chrome denied page reading on analytics.google.com (site permission not granted for this session).
+
+## Run 2026-11-16 (scheduled)
+
+**Two posts written and built — NOT PUSHED.** The desktop VM's git push now fails with `remote: Cowork blocked this request: only git clone, git fetch and plain downloads from GitHub work here, not git push` (403; not a token problem). The cloud sandbox proxy still 403s too. All changes are in the mounted repo folder; Sahil runs `publish.ps1` (it copies posts/, llms.txt and TOPIC-QUEUE.md; its commit message is hard-coded and stale, harmless). **Next run: if push is still blocked, stop after building and notify.** Unindexed list down to 2 — new language pages are unblocked.
+
+- `posts/tiktok-osint.md` (new — **heavy-user slot: journalists / fact-checkers**). Keyword Planner 16 Nov (All locations): `tiktok osint` **1k–10k** (Low), `tiktok journalism` 100–1k (+900% 3-month), `tiktok misinformation` 100–1k, `tiktok news` 10k–100k (too broad); `tiktok fact check`, `fact check tiktok`, `verify tiktok video`, `tiktok video verification` returned no data. Angle: transcript-first verification — quote the spoken claim exactly, trace the source account's last 20 videos, check reused sounds, then visual tools; table of what a transcript can/can't prove; cost table (100 = $9). Verified: Bellingcat beginner's guide to social media verification (five questions; TikTok source-account case); Bellingcat toolkit on InVID-WeVerify (free; keyframes, metadata, OCR; XNetwork search incl. TikTok; some features need a professional email); TikTok transparency centre (IFCN partners, "unverified" label → not For You eligible); TechCrunch 30 Jul 2025 (Footnotes US launch, expands not replaces fact-checking). **Left out:** exact partner counts (TikTok page says 18 / 50+ languages, TechCrunch 2025 says 20+ / 60+ — conflicting), time-to-type estimates.
+- `posts/downsub-alternative.md` (new — **comparison**). `downsub` **100k–1m** (−90% YoY) — the largest brand term ever measured here; ChatGPT names DownSub for "best free TikTok transcript tool" (6 Nov note). **Tested in Chrome 16 Nov:** two @tiktok videos → "Eng-US" track, SRT/VTT/TXT/RAW, no sign-in; a 3:38 AI-music TikTok from another account → "Sorry! Subtitles not found." + Pro upsell "can create them from the audio with AI". So the free tool is a caption reader. Pricing (app.downsub.com): Free $0 no account/no card; Pro $5/mo (annual saves 17%), 3-day trial with 500 credits, translation 100+, playlists, audio→subtitles, API 5,000 credits/mo; Lifetime $99 one-time 50,000 credits; extra 10,000 credits / $5. **Not stated:** credits per AI transcription, whether the trial needs a card, Pro accuracy.
+- **Spare title/description rewrites (≤10, 50+ imp, 0–2 clicks):** `vexascribe-alternative` (460 @ 5.3, 2), `tiktok-transcript-with-gemini` (306 @ 4.0, 2), `tiktok-transcript-with-deepseek` (68 @ 5.0, 0 → "Can DeepSeek Watch Videos?…", query `can deepseek watch videos` 5 @ 6.6). Also `wayinvideo-alternative` retitled "Wayin (WayinVideo) Alternative…": page fell to 51.9 while `wayin free alternative` 75 imp, `wayin alternatives` 58, `wayin vs` 38; Keyword Planner `wayin video` 10k–100k, `wayin` 1k–10k (the product now lives at wayin.ai).
+- Backlinks to new posts: osint ← tiktok-content-analysis-research, tiktok-influencer-vetting, translate-tiktok-transcript; downsub ← best-tiktok-transcript-tools-2026 (caption-readers section + related), download-tiktok-captions, kapwing-alternative, transcript24-alternative.
+- **0d links:** Bengali, Russian, Arabic ← transcript24-alternative (1,529 imp). **0e links:** download-tiktok-captions + free-vs-paid ← tiktok-transcript-with-gemini (306 imp); both new posts link download-tiktok-captions, downsub also links free-vs-paid.
+- `llms.txt`: DownSub facts (caption readers line updated), TikTok verification facts, both new URLs.
+- Build: `npx next build` in a cloud clone of GitHub `main` (mounted repo md5-identical apart from this run's files), 83 static pages, 0 broken internal links.
+
+### Standing checks — 2026-11-16
+
+- **0a. Still resolved.** WebFetch /pricing meta/og/twitter "One-time credit packs from $9 for 100 transcripts…"; all four landing pages correct (prices, TXT/DOC/PDF, free-account rule). No "$5", "150", "$12", "$29", "100+ videos", SRT, VTT, DOCX. Nits unchanged: H2 "Pay once, only when you need bulk"; $18/$32/$68/$118 "before the discount" figures.
+- **0b.** Key file returns `b86aab1f741ddb317cccfa448f5c2210`, matches filename.
+- **0c.** Done 2026-10-17; dropped.
+- **0d.** Claude in Chrome worked. Blog GSC last 28 days (17 Oct – 13 Nov): **53 clicks, 4.07k imp, CTR 1.3%, avg pos 19.0** (vs 35 / 2.67k / 23.9 on 11-02). Language pages: Bengali 13 clicks (42 @ 6.0), Arabic 3 (46 @ 5.7), Russian 3 (24 @ 6.4), Nepali 2 (23 @ 4.8), Vietnamese 2 (14 @ 7.1), German 2 (13 @ 5.5), Spanish/Urdu/Swahili/Filipino/Hungarian 1 each — **30 of 53 clicks**. Top-5: Nepali 4.8, Czech 4.5, Hungarian 4.5; striking distance Thai 5.2, Arabic 5.7, Urdu 5.5, Korean 5.5, Dutch 5.8, Bengali 6.0. `tiktok transcript arabic` 9 imp @ 6.9.
+- **0e.** Only **2** "Discovered – currently not indexed": `download-tiktok-captions`, `free-vs-paid-tiktok-transcript-tools`. 78 indexed. **No language pages unindexed → the new-language-page block is lifted.**
+- **0f.** GA4 547959116, last 7 days (9–15 Nov): **75 sessions — chatgpt.com 4 (AI Assistant channel 4, 5.3%)**; source `blog` 31 (UTM tagging working: 41% of sessions now from the blog), direct 21, yttranscript 9, accounts.google.com 7, google 2. 0 key events.
+
+### Search Console notes — 2026-11-16
+
+- `transcript24` query 1,183 imp @ 6.6, 5 clicks (page 1,529 @ 6.6, 6 clicks, 0.4% CTR) — retitled 11-02; still low CTR, but above the 0–2 click rule.
+- `vexascribe` 407 @ 4.9; `tokscribe` 57 @ 7.2; `tokscript` 38 @ 15.8; `scrabscribe` 19 @ 66.5 (still unresearched); `claptools tiktok transcript generator` 21 @ 18.9.
+- 11–30 band: nothing unserved with volume. `tiktok subtitles api` 10 @ 23.0.
+- `instagram-reels-transcript` 154 imp @ 73.3, `tiktok-transcript-for-content-creators` 108 @ 72.4, homepage 147 @ 67 — head-term impressions, deep positions.
+
+### Candidates spotted 2026-11-16
+
+- **Greek language page** — now allowed (0e). DataReportal Digital 2026 Greece: TikTok 4.60M users 18+ in late 2025, 55.3% of adults. Hebrew, Hausa still defensible.
+- **Tactiq** 10k–100k (Medium) — check whether its free tools cover TikTok before a comparison.
+- Heavy-user queue: students next.
+- Google Ads still shows the "Complete payments account activity – refunds/outstanding charges" banner.
+
+---
+
 ## Run 2026-11-09 (scheduled)
 
 **Two posts written, built and pushed.**
@@ -1040,6 +1092,8 @@ Standing checks now live in **STEP 0 of the scheduled task itself**, not here �
 - [x] tiktok-transcript-for-notebooklm — 2026-10-05 — AI-assistant cluster priority 1 (YTTranscript `for-notebooklm` 126 imp @ 10.0). NotebookLM renamed Gemini Notebook 2026-07-16.
 - [x] tiktok-influencer-vetting — 2026-11-02 — heavy-user (agencies). `influencer vetting` 100–1k.
 - [x] transcript-you-alternative — 2026-11-02 — comparison. `transcript you` 100–1k, +900% YoY.
+- [x] tiktok-osint — 2026-11-16 — heavy-user (journalists/fact-checkers). `tiktok osint` 1k–10k, `tiktok journalism` 100–1k.
+- [x] downsub-alternative — 2026-11-16 — comparison. `downsub` 100k–1m; tested on TikTok: caption reader on free tier.
 - [x] instagram-reels-transcript — 2026-09-14 — **`instagram reels transcript` 1k–10k, +900% YoY, Low, bid A$0.36–2.03.** Zero existing coverage and zero cannibalisation. Written in the honest-gap shape established by the API post: TranscribeTok does not do Reels, so the post names the tools that do. First non-TikTok-platform post on the property.
 
 ---

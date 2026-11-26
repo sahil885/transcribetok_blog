@@ -2,7 +2,7 @@
 title: "TikTok Content Analysis for Research: Transcribing a Sample"
 description: "How researchers transcribe a TikTok sample for content analysis: Research API vs transcript tools, what each costs, coding the text, and what transcripts miss."
 date: "2026-10-19"
-updated: "2026-10-30"
+updated: "2026-11-16"
 author: "TranscribeTok Team"
 category: "Use Cases"
 readingTime: "8 min read"
@@ -130,6 +130,7 @@ NotebookLM is the most useful of the three for this job because its answers cite
 - [Apify TikTok transcript alternative](/apify-alternative) — the bulk extractor, priced per thousand videos
 - [TikTok hooks swipe file](/tiktok-hooks-swipe-file) — the same transcript workflow applied to marketing research
 - [Free vs paid TikTok transcript tools](/free-vs-paid-tiktok-transcript-tools) — which free allowances reset and which run out
+- [TikTok OSINT for journalists and fact-checkers](/tiktok-osint) — verifying spoken claims, tracing sources and reused sounds
 
 ## Frequently asked questions
 

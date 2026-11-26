@@ -2,7 +2,7 @@
 title: "Best Free TikTok Transcript Tools in 2026 (Compared)"
 description: "Free TikTok transcript tools compared on daily limits, signup, SRT/VTT and whether they work on videos with no captions. All checked on 8 November 2026."
 date: "2026-07-10"
-updated: "2026-11-09"
+updated: "2026-11-16"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "10 min read"
@@ -47,7 +47,7 @@ If you need a subtitle file, add a fourth: **does it export SRT or VTT?** Transc
 
 **The biggest practical difference between these tools is whether they transcribe the audio or only copy the captions TikTok already has.** A caption reader is fast, but when a video has no caption track it returns nothing. An audio transcriber runs speech recognition on the sound, so it works either way.
 
-- **Caption readers.** TokConnect says plainly that its tool "does not listen to the audio". TokCaption returns a no-captions result when a video has none. Ziztu reads captions for free and charges credits to transcribe the sound. VexaScribe's free link tool also extracts captions; its AI transcription is for signed-in file uploads.
+- **Caption readers.** TokConnect says plainly that its tool "does not listen to the audio". TokCaption returns a no-captions result when a video has none. Ziztu reads captions for free and charges credits to transcribe the sound. VexaScribe's free link tool also extracts captions; its AI transcription is for signed-in file uploads. DownSub, a free subtitle downloader for 50+ sites, does the same for TikTok: in our 16 November 2026 test it returned SRT, VTT and TXT for captioned TikToks and "Subtitles not found" for one without, and its paid Pro plan creates subtitles from audio ([DownSub alternative](/downsub-alternative)).
 - **Audio transcribers.** TranscribeTok, Vook.ai, Kapwing, Choppity, Transcript.you and WayinVideo transcribe the audio track. Supadata falls back to AI transcription when a video has no captions.
 
 If a caption reader comes back empty, the video has no caption track. Run it through an audio transcriber rather than retrying.
@@ -201,6 +201,7 @@ Caption readers inherit the accuracy of TikTok's own captions, which are auto-ge
 - [SRT to VTT conversion](/srt-to-vtt-converter) — which tools export VTT directly, and the ten-second manual fix
 - [Choppity alternative, compared](/choppity-alternative) — an AI clip editor whose "no signup" transcript page asked us to sign up
 - [TikTok content analysis for research](/tiktok-content-analysis-research) — transcribing a sample for a study, from pilot to thousands of videos
+- [DownSub alternative](/downsub-alternative) — the free subtitle downloader tested on TikTok, and what it returns when a video has no captions
 
 ## Frequently asked questions
 

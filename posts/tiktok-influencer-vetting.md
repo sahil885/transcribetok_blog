@@ -2,6 +2,7 @@
 title: "TikTok Influencer Vetting: Check What Creators Actually Say"
 description: "Vet TikTok influencers on what they say, not just stats: transcribe a creator's last 20 videos and search for disclosures, claims and competitors. $9 per 100."
 date: "2026-11-02"
+updated: "2026-11-16"
 author: "TranscribeTok Team"
 category: "Use Cases"
 readingTime: "8 min read"
@@ -121,6 +122,7 @@ AI tools cannot watch a TikTok, so paste transcripts, not links, into an assista
 - [TikTok hooks swipe file](/tiktok-hooks-swipe-file): competitor research from the first two sentences of each video
 - [TikTok content analysis for research](/tiktok-content-analysis-research): coding a larger sample the way academics do
 - [Best TikTok transcript tools in 2026](/best-tiktok-transcript-tools-2026): single-video and bulk tools side by side
+- [TikTok OSINT](/tiktok-osint): the same 20-video review used by journalists to trace where a claim started
 - [How to get a TikTok transcript](/how-to-get-a-tiktok-transcript): the complete guide, including download formats and accuracy limits
 
 ## Frequently asked questions

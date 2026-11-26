@@ -2,7 +2,7 @@
 title: "Transcript24 Review 2026: Is It Really Free? Limits Checked"
 description: "Is Transcript24 really free? We checked its TikTok tool, file uploads, SRT extension and unpublished API credit prices, and where a TikTok-only tool fits best."
 date: "2026-10-09"
-updated: "2026-11-09"
+updated: "2026-11-16"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -128,6 +128,9 @@ Whichever you pick, three limits apply across the category. A transcript covers 
 - [Transcript.you alternative](/transcript-you-alternative) — a YouTube-first site that also batches 50 TikToks and exports SRT on a subscription
 - [Choppity alternative](/choppity-alternative) — an AI clip editor whose "free, no signup" TikTok transcript page led to a registration form when we tested it
 - [TikTok transcript API](/tiktok-transcript-api) — the developer options, priced
+- [DownSub alternative](/downsub-alternative) — a free subtitle downloader that reads TikTok captions, tested on videos with and without them
+
+Transcribing TikToks in another language? The [Bengali](/bengali-tiktok-transcript), [Russian](/russian-tiktok-transcript) and [Arabic](/arabic-tiktok-transcript) guides cover each language's quirks.
 
 ## Frequently asked questions
 

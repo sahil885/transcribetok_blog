@@ -1,8 +1,8 @@
 ---
-title: "VexaScribe Review 2026: Pricing, Limits and a Cheaper Option"
-description: "VexaScribe costs $2 to $20 a month for 200 to 6,000 minutes, rounds files up to whole minutes, and its trial is 30 minutes once. When TranscribeTok costs less."
+title: "VexaScribe Review: Pricing, Free Trial and Limits (2026)"
+description: "VexaScribe plans cost $2 to $20 a month for 200 to 6,000 minutes, the free trial is 30 minutes once, and files round up to whole minutes. Our tested review."
 date: "2026-09-21"
-updated: "2026-11-09"
+updated: "2026-11-16"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "8 min read"

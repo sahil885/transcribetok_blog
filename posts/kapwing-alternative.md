@@ -2,6 +2,7 @@
 title: "Kapwing Alternative for TikTok Transcripts (2026)"
 description: "Kapwing's free plan gives 10 minutes of transcription a month inside a video editor. A Kapwing alternative for TikTok transcripts: 2 free a day, $9 per 100."
 date: "2026-11-09"
+updated: "2026-11-16"
 author: "TranscribeTok Team"
 category: "Comparisons"
 readingTime: "7 min read"
@@ -110,6 +111,7 @@ If you need whole profiles or hundreds of videos in one go, neither tool fits: T
 
 - **You want animated captions on your own clips:** [Submagic](/submagic-alternative) is built for styled short-form captions and exports SRT.
 - **You edit long recordings by editing the transcript:** [Descript](/descript-alternative) is the closest match to Kapwing's text-based editing.
+- **You only want a TikTok's existing captions as a file:** [DownSub](/downsub-alternative) downloads them free as SRT, VTT or TXT, but finds nothing on TikToks without captions.
 - **You cut long videos into short clips:** [Choppity](/choppity-alternative) is an AI clipper that exports transcripts as SRT, VTT or TXT.
 - **You only need a few free transcripts:** [our free TikTok transcript tools comparison](/free-vs-paid-tiktok-transcript-tools) lists every tool's real limit.
 - **The TikTok isn't in English:** TranscribeTok returns the transcript in the language spoken; the [TikTok transcript by language hub](/tiktok-transcript-by-language) has guides for 27 languages, including [Spanish](/spanish-tiktok-transcript) and [Indonesian](/indonesian-tiktok-transcript).
